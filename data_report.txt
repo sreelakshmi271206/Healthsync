@@ -1,0 +1,455 @@
+
+==================================================
+FILE: allergies.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Allergy_ID      0
+Patient_ID      0
+Allergen        2
+Allergy_Type    0
+Severity        0
+Status          0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: appointments.csv
+Rows: 3000
+Columns: 7
+
+Missing values:
+Appointment_ID      0
+Patient_ID          0
+Doctor_ID           0
+Appointment_Date    0
+Appointment_Time    0
+Status              0
+Reason              0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: billing.csv
+Rows: 3000
+Columns: 10
+
+Missing values:
+Bill_ID                0
+Patient_ID             0
+Appointment_ID         0
+Bill_Date              0
+Consultation_Charge    0
+Lab_Charge             0
+Medicine_Charge        0
+Total_Amount           0
+Payment_Status         0
+Payment_Method         0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: departments.csv
+Rows: 100
+Columns: 3
+
+Missing values:
+Department_ID      0
+Hospital_ID        0
+Department_Name    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: doctors.csv
+Rows: 100
+Columns: 8
+
+Missing values:
+Doctor_ID           0
+Doctor_Name         0
+Specialization      0
+Hospital_ID         0
+Experience_Years    0
+Qualification       0
+Email               0
+Phone               0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: emergency_contacts.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Emergency_Contact_ID    0
+Patient_ID              0
+Relationship            0
+Contact_Type            0
+Phone                   0
+Status                  0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: family_medical_history.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Family_History_ID     0
+Patient_ID            0
+Relation              0
+Condition             0
+Has_Family_History    0
+Status                0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: health_monitoring.csv
+Rows: 10000
+Columns: 7
+
+Missing values:
+Monitoring_ID     0
+Patient_ID        0
+Recorded_Date     0
+Blood_Pressure    0
+Blood_Glucose     0
+Temperature_F     0
+Heart_Rate        0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: health_monitoring_extended.csv
+Rows: 5
+Columns: 12
+
+Missing values:
+Health_Record_ID     0
+Patient_ID           0
+Recorded_Date        0
+Systolic_BP          0
+Diastolic_BP         0
+Blood_Glucose        0
+Heart_Rate           0
+Temperature_C        0
+Oxygen_Saturation    0
+BMI                  0
+Weight_Kg            0
+Daily_Steps          0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: hospitals.csv
+Rows: 10
+Columns: 4
+
+Missing values:
+Hospital_ID       0
+Hospital_Name     0
+City              0
+Contact_Number    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: lab_reference_ranges.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Reference_ID    0
+Test_Name       0
+Unit            0
+Lower_Limit     0
+Upper_Limit     0
+Note            0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: lab_results.csv
+Rows: 5000
+Columns: 8
+
+Missing values:
+Lab_Result_ID     0
+Patient_ID        0
+Test_ID           0
+Test_Name         0
+Result            0
+Unit              0
+Test_Date         0
+Interpretation    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: lab_tests.csv
+Rows: 10
+Columns: 4
+
+Missing values:
+Test_ID            0
+Test_Name          0
+Unit               0
+Reference_Range    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: medical_history.csv
+Rows: 1200
+Columns: 6
+
+Missing values:
+History_ID        0
+Patient_ID        0
+Condition         0
+Diagnosed_Year    0
+Status            0
+Family_History    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: medicines.csv
+Rows: 20
+Columns: 5
+
+Missing values:
+Medicine_ID      0
+Medicine_Name    0
+Form             0
+Category         0
+Unit_Price       0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: medicine_adherence.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Adherence_ID            0
+Patient_ID              0
+Prescription_ID         0
+Date                    0
+Dose_Status             0
+Adherence_Percentage    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: medicine_refill.csv
+Rows: 3000
+Columns: 8
+
+Missing values:
+Refill_ID              0
+Prescription_ID        0
+Medicine_ID            0
+Prescribed_Quantity    0
+Estimated_Used         0
+Remaining_Quantity     0
+Estimated_Days_Left    0
+Refill_Status          0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: medicine_stock.csv
+Rows: 1000
+Columns: 6
+
+Missing values:
+Stock_ID            0
+Pharmacy_ID         0
+Medicine_ID         0
+Current_Quantity    0
+Reorder_Level       0
+Expiry_Date         0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: notifications.csv
+Rows: 3000
+Columns: 5
+
+Missing values:
+Notification_ID      0
+Patient_ID           0
+Notification_Type    0
+Notification_Date    0
+Status               0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: patients.csv
+Rows: 1000
+Columns: 11
+
+Missing values:
+Patient_ID           0
+Full_Name            0
+Date_of_Birth        0
+Age                  0
+Gender               0
+Blood_Group          0
+Emergency_Contact    0
+Phone                0
+Email                0
+City                 0
+Allergy_Flag         0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: patient_lifestyle.csv
+Rows: 5
+Columns: 8
+
+Missing values:
+Patient_ID                 0
+Diet_Type                  0
+Physical_Activity_Level    0
+Sleep_Quality              0
+Smoking                    0
+Alcohol_Use                0
+Junk_Food_Frequency        0
+Average_Sleep_Hours        0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: pharmacies.csv
+Rows: 20
+Columns: 5
+
+Missing values:
+Pharmacy_ID       0
+Pharmacy_Name     0
+Hospital_ID       0
+City              0
+Contact_Number    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: prescriptions.csv
+Rows: 2500
+Columns: 7
+
+Missing values:
+Prescription_ID      0
+Patient_ID           0
+Doctor_ID            0
+Prescription_Date    0
+Diagnosis            0
+Status               0
+Instructions         0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: prescription_medicines.csv
+Rows: 5000
+Columns: 7
+
+Missing values:
+Prescription_Medicine_ID    0
+Prescription_ID             0
+Medicine_ID                 0
+Dosage                      0
+Frequency                   0
+Duration_Days               0
+Quantity                    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: recommendations.csv
+Rows: 3000
+Columns: 12
+
+Missing values:
+Recommendation_ID          0
+Age                        0
+Gender                     0
+Systolic_BP                0
+Diastolic_BP               0
+Blood_Glucose              0
+BMI                        0
+Total_Cholesterol          0
+Primary_Symptom            0
+Risk_Level                 0
+Recommendation_Category    0
+Recommendation_Text        0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: recommendation_rules.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Rule_ID                   0
+Category                  0
+Input_Field               0
+Condition                 0
+Recommendation_Type       0
+General_Recommendation    0
+dtype: int64
+
+Duplicate rows: 0
+
+==================================================
+FILE: vaccination_history.csv
+Rows: 5
+Columns: 6
+
+Missing values:
+Vaccination_ID      0
+Patient_ID          0
+Vaccine_Name        0
+Vaccination_Date    0
+Dose_Type           0
+Status              0
+dtype: int64
+
+Duplicate rows: 0

@@ -1,0 +1,6 @@
+Vaccination_ID,Patient_ID,Vaccine_Name,Vaccination_Date,Dose_Type,Status
+VAC001,P001,COVID-19,2025-09-10,Dose 2,Completed
+VAC002,P001,Influenza,2026-01-15,Annual,Completed
+VAC003,P002,COVID-19,2025-08-20,Dose 2,Completed
+VAC004,P003,Influenza,2026-01-20,Annual,Completed
+VAC005,P004,Tetanus,2024-06-12,Booster,Completed

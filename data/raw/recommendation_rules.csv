@@ -1,0 +1,6 @@
+Rule_ID,Category,Input_Field,Condition,Recommendation_Type,General_Recommendation
+RR001,Blood Pressure,Systolic_BP,>120,Lifestyle,Consider general heart-healthy habits and discuss persistent readings with a qualified healthcare professional.
+RR002,Blood Glucose,Blood_Glucose,>140,Lifestyle,Consider balanced meals and regular physical activity; persistent abnormal readings should be discussed with a healthcare professional.
+RR003,Physical Activity,Daily_Steps,<5000,Activity,Consider gradually increasing daily physical activity as appropriate.
+RR004,Sleep,Average_Sleep_Hours,<7,Sleep,Consider maintaining a consistent sleep routine and adequate sleep.
+RR005,Medication Adherence,Adherence_Percentage,<80,Medication Reminder,Consider using reminders and following the prescription instructions provided by the healthcare professional.

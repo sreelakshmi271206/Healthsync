@@ -1,0 +1,11 @@
+Test_ID,Test_Name,Unit,Reference_Range
+T001,Blood Pressure,mmHg,90/60 - 120/80
+T002,Fasting Blood Glucose,mg/dL,70 - 99
+T003,Random Blood Glucose,mg/dL,70 - 140
+T004,HbA1c,%,4.0 - 5.6
+T005,Total Cholesterol,mg/dL,< 200
+T006,Heart Rate,bpm,60 - 100
+T007,Body Temperature,°F,97.0 - 99.5
+T008,BMI,kg/m²,18.5 - 24.9
+T009,Hemoglobin,g/dL,12 - 17
+T010,Oxygen Saturation,%,95 - 100

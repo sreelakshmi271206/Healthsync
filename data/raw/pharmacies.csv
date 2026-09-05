@@ -1,0 +1,21 @@
+Pharmacy_ID,Pharmacy_Name,Hospital_ID,City,Contact_Number
+PH001,HealthSync Pharmacy 1,H005,Kochi,+91-9054259284
+PH002,HealthSync Pharmacy 2,H004,Malappuram,+91-9012143990
+PH003,HealthSync Pharmacy 3,H004,Kozhikode,+91-9092525897
+PH004,HealthSync Pharmacy 4,H006,Thrissur,+91-9023658560
+PH005,HealthSync Pharmacy 5,H010,Kannur,+91-9047344264
+PH006,HealthSync Pharmacy 6,H007,Thiruvananthapuram,+91-9082109186
+PH007,HealthSync Pharmacy 7,H008,Kottayam,+91-9080300246
+PH008,HealthSync Pharmacy 8,H008,Palakkad,+91-9025182709
+PH009,HealthSync Pharmacy 9,H004,Kochi,+91-9092728190
+PH010,HealthSync Pharmacy 10,H006,Malappuram,+91-9013832947
+PH011,HealthSync Pharmacy 11,H004,Kozhikode,+91-9080059678
+PH012,HealthSync Pharmacy 12,H006,Thrissur,+91-9045953465
+PH013,HealthSync Pharmacy 13,H004,Kannur,+91-9036298963
+PH014,HealthSync Pharmacy 14,H007,Thiruvananthapuram,+91-9062778104
+PH015,HealthSync Pharmacy 15,H006,Kottayam,+91-9079374072
+PH016,HealthSync Pharmacy 16,H002,Palakkad,+91-9091866296
+PH017,HealthSync Pharmacy 17,H004,Kochi,+91-9032981674
+PH018,HealthSync Pharmacy 18,H001,Malappuram,+91-9091120251
+PH019,HealthSync Pharmacy 19,H007,Kozhikode,+91-9068051489
+PH020,HealthSync Pharmacy 20,H008,Thrissur,+91-9096886111

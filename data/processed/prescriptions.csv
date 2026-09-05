@@ -1,0 +1,2501 @@
+Prescription_ID,Patient_ID,Doctor_ID,Prescription_Date,Diagnosis,Status,Instructions
+RX00001,P0426,D0068,2026-04-18,GERD,Active,As directed
+RX00002,P0043,D0017,2026-03-22,Migraine,Completed,Take before food
+RX00003,P0325,D0077,2026-04-29,Hypothyroidism,Discontinued,Take before food
+RX00004,P0990,D0055,2026-07-10,Migraine,Discontinued,Take after food
+RX00005,P0726,D0013,2026-01-08,Hypertension,Active,Take before food
+RX00006,P0569,D0087,2026-09-15,Arthritis,Discontinued,Take before food
+RX00007,P0139,D0049,2026-04-06,High Cholesterol,Discontinued,Take before food
+RX00008,P0359,D0005,2026-09-09,Asthma,Discontinued,Take after food
+RX00009,P0621,D0020,2026-06-06,Hypothyroidism,Active,Take after food
+RX00010,P0764,D0001,2026-05-01,Asthma,Discontinued,Take before food
+RX00011,P0834,D0021,2026-09-08,Hypertension,Active,Take before food
+RX00012,P1000,D0054,2026-09-10,Migraine,Active,Take before food
+RX00013,P0665,D0080,2026-01-02,Arthritis,Discontinued,As directed
+RX00014,P0700,D0081,2026-07-27,Type 2 Diabetes,Discontinued,As directed
+RX00015,P0837,D0035,2026-05-03,High Cholesterol,Completed,Take before food
+RX00016,P0147,D0025,2026-01-14,Arthritis,Active,Take after food
+RX00017,P0912,D0010,2026-09-18,Type 2 Diabetes,Completed,Take after food
+RX00018,P0703,D0006,2026-01-21,Hypertension,Discontinued,Take after food
+RX00019,P0184,D0017,2026-07-03,Hypertension,Active,Take after food
+RX00020,P0768,D0022,2026-05-01,Hypertension,Discontinued,As directed
+RX00021,P0368,D0050,2026-09-28,Hypertension,Discontinued,As directed
+RX00022,P0032,D0038,2026-07-16,Hypothyroidism,Active,Take before food
+RX00023,P0120,D0002,2026-05-27,Type 2 Diabetes,Completed,As directed
+RX00024,P0186,D0034,2026-06-30,GERD,Discontinued,As directed
+RX00025,P0739,D0013,2026-09-07,Type 2 Diabetes,Active,As directed
+RX00026,P0046,D0051,2026-06-15,Hypothyroidism,Active,As directed
+RX00027,P0413,D0066,2026-08-25,Arthritis,Discontinued,Take before food
+RX00028,P0798,D0005,2026-08-27,Asthma,Active,Take after food
+RX00029,P0435,D0003,2026-06-28,High Cholesterol,Active,Take after food
+RX00030,P0706,D0040,2026-01-08,Arthritis,Completed,Take after food
+RX00031,P0130,D0095,2026-02-01,GERD,Discontinued,As directed
+RX00032,P0689,D0045,2026-05-21,Asthma,Active,As directed
+RX00033,P0994,D0055,2026-06-10,Migraine,Completed,Take before food
+RX00034,P0391,D0069,2026-07-13,Hypothyroidism,Completed,Take before food
+RX00035,P0792,D0082,2026-07-30,Migraine,Discontinued,Take after food
+RX00036,P0285,D0022,2026-01-05,Migraine,Active,Take after food
+RX00037,P0957,D0002,2026-04-19,Type 2 Diabetes,Completed,Take before food
+RX00038,P0196,D0058,2026-09-08,Migraine,Discontinued,Take after food
+RX00039,P0018,D0098,2026-05-04,GERD,Discontinued,Take after food
+RX00040,P0196,D0024,2026-06-16,Asthma,Discontinued,As directed
+RX00041,P0702,D0070,2026-04-25,High Cholesterol,Completed,Take before food
+RX00042,P0800,D0099,2026-03-14,Asthma,Active,As directed
+RX00043,P0241,D0035,2026-01-23,Arthritis,Active,Take before food
+RX00044,P0283,D0016,2026-09-10,GERD,Completed,Take before food
+RX00045,P0473,D0069,2026-08-12,Hypothyroidism,Active,Take after food
+RX00046,P0716,D0084,2026-01-19,Hypertension,Active,Take before food
+RX00047,P0613,D0012,2026-07-15,Type 2 Diabetes,Active,As directed
+RX00048,P0750,D0035,2026-05-03,GERD,Discontinued,Take after food
+RX00049,P0641,D0027,2026-09-18,Migraine,Discontinued,As directed
+RX00050,P0088,D0037,2026-03-07,Hypertension,Completed,As directed
+RX00051,P0658,D0087,2026-04-26,Hypothyroidism,Active,Take before food
+RX00052,P0994,D0090,2026-06-29,Arthritis,Discontinued,As directed
+RX00053,P0049,D0084,2026-09-15,Hypertension,Completed,Take before food
+RX00054,P0511,D0099,2026-08-24,Arthritis,Completed,Take after food
+RX00055,P0970,D0089,2026-02-26,High Cholesterol,Discontinued,Take after food
+RX00056,P0754,D0093,2026-04-09,Asthma,Completed,Take after food
+RX00057,P0682,D0095,2026-05-21,Migraine,Completed,Take before food
+RX00058,P0549,D0082,2026-01-09,Arthritis,Active,As directed
+RX00059,P0203,D0081,2026-05-06,Type 2 Diabetes,Discontinued,Take before food
+RX00060,P0733,D0087,2026-02-25,Migraine,Discontinued,Take before food
+RX00061,P0182,D0079,2026-03-24,High Cholesterol,Completed,As directed
+RX00062,P0287,D0042,2026-01-24,GERD,Active,Take before food
+RX00063,P0883,D0058,2026-04-28,High Cholesterol,Completed,As directed
+RX00064,P0039,D0009,2026-08-05,Hypertension,Completed,Take after food
+RX00065,P0412,D0006,2026-05-31,Arthritis,Discontinued,As directed
+RX00066,P0499,D0011,2026-08-31,Asthma,Discontinued,Take after food
+RX00067,P0081,D0081,2026-03-21,Hypertension,Completed,Take after food
+RX00068,P0663,D0083,2026-08-28,GERD,Completed,Take before food
+RX00069,P0870,D0100,2026-08-11,Hypertension,Discontinued,Take after food
+RX00070,P0308,D0015,2026-07-18,Hypothyroidism,Active,As directed
+RX00071,P0993,D0047,2026-07-26,Hypothyroidism,Active,Take after food
+RX00072,P0840,D0095,2026-03-08,Asthma,Active,As directed
+RX00073,P0018,D0062,2026-09-15,Arthritis,Completed,Take before food
+RX00074,P0225,D0047,2026-01-12,High Cholesterol,Discontinued,Take before food
+RX00075,P0330,D0029,2026-07-13,High Cholesterol,Active,Take after food
+RX00076,P0981,D0034,2026-09-14,Asthma,Discontinued,As directed
+RX00077,P0418,D0075,2026-09-22,Type 2 Diabetes,Discontinued,Take before food
+RX00078,P0123,D0085,2026-06-13,GERD,Discontinued,Take before food
+RX00079,P0559,D0056,2026-05-09,High Cholesterol,Completed,As directed
+RX00080,P0282,D0076,2026-05-24,Hypothyroidism,Discontinued,As directed
+RX00081,P0174,D0023,2026-08-02,Hypertension,Discontinued,As directed
+RX00082,P0681,D0020,2026-06-25,Arthritis,Discontinued,Take after food
+RX00083,P0056,D0002,2026-06-29,High Cholesterol,Discontinued,Take after food
+RX00084,P0680,D0090,2026-07-08,GERD,Completed,As directed
+RX00085,P0977,D0032,2026-05-29,Migraine,Discontinued,Take after food
+RX00086,P0737,D0006,2026-04-30,Arthritis,Completed,As directed
+RX00087,P0937,D0070,2026-02-13,High Cholesterol,Discontinued,Take after food
+RX00088,P0452,D0093,2026-08-20,Asthma,Completed,As directed
+RX00089,P0803,D0027,2026-01-25,Migraine,Completed,As directed
+RX00090,P0856,D0088,2026-03-12,High Cholesterol,Discontinued,Take after food
+RX00091,P0962,D0072,2026-07-17,Type 2 Diabetes,Discontinued,Take before food
+RX00092,P0089,D0063,2026-02-18,GERD,Active,Take after food
+RX00093,P0232,D0037,2026-03-31,Hypertension,Active,Take before food
+RX00094,P0893,D0029,2026-02-03,Hypothyroidism,Completed,Take before food
+RX00095,P0328,D0059,2026-02-24,Migraine,Completed,As directed
+RX00096,P0629,D0009,2026-09-28,Migraine,Active,Take after food
+RX00097,P0812,D0008,2026-01-08,Hypertension,Active,Take after food
+RX00098,P0245,D0008,2026-03-02,Asthma,Completed,As directed
+RX00099,P0603,D0003,2026-01-05,Migraine,Active,Take after food
+RX00100,P0745,D0032,2026-02-25,Asthma,Completed,As directed
+RX00101,P0652,D0072,2026-03-18,Type 2 Diabetes,Completed,Take before food
+RX00102,P0962,D0019,2026-05-28,Migraine,Active,As directed
+RX00103,P0460,D0091,2026-05-28,Hypothyroidism,Completed,Take before food
+RX00104,P0078,D0067,2026-08-07,Migraine,Discontinued,As directed
+RX00105,P0911,D0013,2026-04-11,Arthritis,Active,Take before food
+RX00106,P0967,D0043,2026-06-08,GERD,Completed,Take after food
+RX00107,P0953,D0081,2026-05-30,Type 2 Diabetes,Discontinued,Take before food
+RX00108,P0760,D0089,2026-04-05,Type 2 Diabetes,Discontinued,As directed
+RX00109,P0624,D0097,2026-09-19,Hypertension,Active,Take after food
+RX00110,P0966,D0067,2026-07-12,Asthma,Completed,Take before food
+RX00111,P0125,D0073,2026-07-13,GERD,Discontinued,Take after food
+RX00112,P0139,D0049,2026-07-30,Hypothyroidism,Discontinued,As directed
+RX00113,P0595,D0016,2026-03-22,Hypothyroidism,Discontinued,As directed
+RX00114,P0469,D0058,2026-09-15,Hypertension,Discontinued,Take before food
+RX00115,P0713,D0049,2026-08-22,Arthritis,Completed,As directed
+RX00116,P0751,D0055,2026-08-19,Arthritis,Completed,As directed
+RX00117,P0977,D0041,2026-09-09,GERD,Completed,Take before food
+RX00118,P0220,D0089,2026-01-21,Hypertension,Completed,Take before food
+RX00119,P0035,D0094,2026-09-26,Hypothyroidism,Active,Take after food
+RX00120,P0672,D0094,2026-09-01,High Cholesterol,Active,Take after food
+RX00121,P0580,D0031,2026-08-28,Migraine,Completed,As directed
+RX00122,P0096,D0086,2026-08-11,Asthma,Completed,As directed
+RX00123,P0513,D0052,2026-08-18,Arthritis,Active,Take before food
+RX00124,P0252,D0083,2026-05-14,Arthritis,Completed,Take after food
+RX00125,P0762,D0096,2026-03-21,Arthritis,Active,Take before food
+RX00126,P0899,D0027,2026-02-04,Asthma,Active,Take after food
+RX00127,P0004,D0082,2026-09-21,Arthritis,Completed,As directed
+RX00128,P0574,D0075,2026-09-18,Asthma,Discontinued,Take after food
+RX00129,P0169,D0092,2026-06-27,Asthma,Completed,Take before food
+RX00130,P0408,D0080,2026-01-29,High Cholesterol,Discontinued,As directed
+RX00131,P0551,D0028,2026-01-17,GERD,Completed,As directed
+RX00132,P0750,D0075,2026-01-06,Type 2 Diabetes,Completed,Take after food
+RX00133,P0193,D0088,2026-06-27,Type 2 Diabetes,Discontinued,Take before food
+RX00134,P0231,D0099,2026-05-31,Migraine,Discontinued,Take after food
+RX00135,P0577,D0063,2026-08-21,Migraine,Active,As directed
+RX00136,P0560,D0037,2026-09-07,Hypothyroidism,Active,Take after food
+RX00137,P0721,D0057,2026-05-31,Asthma,Discontinued,As directed
+RX00138,P0647,D0041,2026-05-03,Hypothyroidism,Completed,Take after food
+RX00139,P0433,D0048,2026-05-09,Hypertension,Active,Take before food
+RX00140,P0956,D0019,2026-08-22,Hypothyroidism,Active,Take before food
+RX00141,P0012,D0065,2026-03-25,Hypothyroidism,Discontinued,As directed
+RX00142,P0505,D0008,2026-05-07,Type 2 Diabetes,Active,Take after food
+RX00143,P0382,D0051,2026-08-18,Hypothyroidism,Active,Take after food
+RX00144,P0694,D0080,2026-09-19,Type 2 Diabetes,Completed,Take after food
+RX00145,P0476,D0015,2026-05-18,Hypertension,Completed,As directed
+RX00146,P0625,D0074,2026-01-24,Asthma,Completed,Take after food
+RX00147,P0932,D0067,2026-03-18,Hypertension,Active,Take after food
+RX00148,P0249,D0014,2026-01-17,Hypothyroidism,Completed,Take after food
+RX00149,P0196,D0040,2026-02-25,Hypothyroidism,Discontinued,Take after food
+RX00150,P0486,D0031,2026-02-16,Migraine,Completed,As directed
+RX00151,P0263,D0012,2026-07-28,Migraine,Completed,Take before food
+RX00152,P0308,D0042,2026-04-04,Type 2 Diabetes,Active,Take after food
+RX00153,P0957,D0044,2026-02-08,Arthritis,Completed,Take before food
+RX00154,P0764,D0080,2026-06-28,Type 2 Diabetes,Discontinued,Take before food
+RX00155,P0416,D0025,2026-04-11,Hypertension,Completed,Take after food
+RX00156,P0239,D0066,2026-06-07,Hypothyroidism,Discontinued,Take before food
+RX00157,P0341,D0003,2026-08-17,Hypertension,Completed,Take before food
+RX00158,P0214,D0042,2026-06-12,Asthma,Discontinued,Take after food
+RX00159,P0066,D0073,2026-07-31,Type 2 Diabetes,Completed,Take after food
+RX00160,P0408,D0034,2026-01-11,GERD,Completed,As directed
+RX00161,P0446,D0079,2026-09-03,Hypothyroidism,Completed,As directed
+RX00162,P0641,D0013,2026-05-16,High Cholesterol,Active,Take before food
+RX00163,P0816,D0044,2026-05-21,Asthma,Completed,As directed
+RX00164,P0959,D0056,2026-02-03,Migraine,Discontinued,Take before food
+RX00165,P0222,D0045,2026-01-09,Hypertension,Discontinued,Take before food
+RX00166,P0202,D0045,2026-09-24,Type 2 Diabetes,Completed,Take after food
+RX00167,P0971,D0049,2026-03-20,High Cholesterol,Discontinued,As directed
+RX00168,P0264,D0082,2026-07-06,Hypothyroidism,Active,Take after food
+RX00169,P0149,D0059,2026-01-26,Type 2 Diabetes,Active,Take before food
+RX00170,P0634,D0084,2026-03-30,Type 2 Diabetes,Completed,Take before food
+RX00171,P0771,D0031,2026-08-30,Migraine,Discontinued,Take after food
+RX00172,P0751,D0079,2026-03-23,Type 2 Diabetes,Discontinued,Take after food
+RX00173,P0372,D0007,2026-07-16,Type 2 Diabetes,Active,Take after food
+RX00174,P0581,D0087,2026-05-05,Asthma,Completed,Take after food
+RX00175,P0326,D0075,2026-03-10,High Cholesterol,Discontinued,Take before food
+RX00176,P0370,D0063,2026-02-26,Type 2 Diabetes,Discontinued,As directed
+RX00177,P0173,D0091,2026-02-25,Migraine,Active,As directed
+RX00178,P0788,D0096,2026-01-02,High Cholesterol,Active,Take before food
+RX00179,P0178,D0031,2026-09-20,Type 2 Diabetes,Active,As directed
+RX00180,P0638,D0022,2026-07-06,Migraine,Active,Take before food
+RX00181,P0506,D0074,2026-09-10,Type 2 Diabetes,Completed,Take before food
+RX00182,P0126,D0088,2026-01-05,Hypothyroidism,Completed,As directed
+RX00183,P0830,D0011,2026-08-30,Type 2 Diabetes,Active,As directed
+RX00184,P0972,D0020,2026-04-27,High Cholesterol,Discontinued,Take before food
+RX00185,P0579,D0016,2026-04-18,High Cholesterol,Completed,Take after food
+RX00186,P0085,D0048,2026-06-30,High Cholesterol,Completed,Take after food
+RX00187,P0729,D0097,2026-03-12,GERD,Discontinued,Take before food
+RX00188,P0363,D0090,2026-05-20,Hypertension,Discontinued,As directed
+RX00189,P0029,D0074,2026-02-23,Migraine,Completed,Take before food
+RX00190,P0682,D0064,2026-08-08,Type 2 Diabetes,Discontinued,Take after food
+RX00191,P0545,D0086,2026-02-09,Asthma,Discontinued,As directed
+RX00192,P0132,D0038,2026-07-17,Migraine,Discontinued,Take after food
+RX00193,P0833,D0013,2026-04-10,Hypothyroidism,Completed,Take after food
+RX00194,P0613,D0063,2026-04-19,Hypertension,Discontinued,Take before food
+RX00195,P0874,D0083,2026-08-13,Migraine,Active,Take after food
+RX00196,P0995,D0092,2026-04-22,Asthma,Active,Take after food
+RX00197,P0259,D0021,2026-04-13,Hypothyroidism,Completed,As directed
+RX00198,P0743,D0028,2026-09-20,Hypothyroidism,Discontinued,Take after food
+RX00199,P0163,D0044,2026-02-23,Migraine,Completed,Take before food
+RX00200,P0140,D0067,2026-05-24,GERD,Completed,Take before food
+RX00201,P0626,D0001,2026-05-13,Migraine,Completed,Take before food
+RX00202,P0714,D0012,2026-08-06,GERD,Completed,Take after food
+RX00203,P0280,D0035,2026-01-02,Type 2 Diabetes,Completed,Take before food
+RX00204,P0601,D0039,2026-07-17,Hypertension,Discontinued,Take before food
+RX00205,P0187,D0097,2026-04-22,Arthritis,Active,As directed
+RX00206,P0253,D0081,2026-05-18,Asthma,Completed,Take before food
+RX00207,P0679,D0069,2026-05-23,High Cholesterol,Discontinued,Take before food
+RX00208,P0122,D0074,2026-06-13,Arthritis,Active,As directed
+RX00209,P0668,D0090,2026-09-05,GERD,Completed,Take before food
+RX00210,P0506,D0018,2026-06-14,Type 2 Diabetes,Discontinued,Take before food
+RX00211,P0029,D0055,2026-04-02,Hypothyroidism,Completed,As directed
+RX00212,P0001,D0014,2026-03-30,Hypothyroidism,Active,Take after food
+RX00213,P0308,D0025,2026-08-16,GERD,Active,Take before food
+RX00214,P0628,D0037,2026-03-26,GERD,Completed,As directed
+RX00215,P0257,D0075,2026-08-08,Asthma,Active,Take before food
+RX00216,P0177,D0067,2026-01-03,High Cholesterol,Completed,Take before food
+RX00217,P0563,D0018,2026-01-25,Hypertension,Discontinued,Take after food
+RX00218,P0022,D0093,2026-09-15,GERD,Active,As directed
+RX00219,P0514,D0066,2026-03-29,Asthma,Active,As directed
+RX00220,P0848,D0017,2026-04-01,Arthritis,Discontinued,Take after food
+RX00221,P0005,D0083,2026-03-15,Migraine,Active,As directed
+RX00222,P0354,D0087,2026-09-09,Migraine,Discontinued,Take after food
+RX00223,P0217,D0007,2026-09-08,Asthma,Discontinued,Take after food
+RX00224,P0602,D0075,2026-03-27,Hypertension,Completed,Take after food
+RX00225,P0024,D0002,2026-03-28,Asthma,Completed,As directed
+RX00226,P0575,D0018,2026-08-26,Arthritis,Discontinued,As directed
+RX00227,P0849,D0066,2026-06-20,High Cholesterol,Discontinued,As directed
+RX00228,P0829,D0095,2026-04-19,Migraine,Active,Take before food
+RX00229,P0809,D0005,2026-04-02,High Cholesterol,Active,Take before food
+RX00230,P0051,D0071,2026-08-28,Hypertension,Completed,As directed
+RX00231,P0033,D0002,2026-09-04,High Cholesterol,Discontinued,Take after food
+RX00232,P0503,D0014,2026-01-26,Arthritis,Completed,As directed
+RX00233,P0336,D0019,2026-07-15,Migraine,Active,As directed
+RX00234,P0523,D0072,2026-03-24,Arthritis,Discontinued,Take after food
+RX00235,P0555,D0042,2026-07-03,Type 2 Diabetes,Active,Take after food
+RX00236,P0144,D0083,2026-07-16,Hypothyroidism,Active,Take after food
+RX00237,P0987,D0074,2026-05-29,GERD,Discontinued,Take before food
+RX00238,P0941,D0015,2026-08-15,Type 2 Diabetes,Active,Take before food
+RX00239,P0597,D0008,2026-07-27,High Cholesterol,Completed,As directed
+RX00240,P0738,D0063,2026-08-30,High Cholesterol,Active,As directed
+RX00241,P0353,D0079,2026-02-24,Hypertension,Active,Take before food
+RX00242,P0617,D0074,2026-09-17,Hypothyroidism,Completed,As directed
+RX00243,P0707,D0027,2026-04-28,Migraine,Discontinued,Take after food
+RX00244,P0578,D0088,2026-08-07,GERD,Discontinued,Take before food
+RX00245,P0077,D0043,2026-04-05,Migraine,Discontinued,As directed
+RX00246,P0707,D0098,2026-06-15,Arthritis,Completed,Take after food
+RX00247,P0807,D0075,2026-08-13,Migraine,Discontinued,As directed
+RX00248,P0509,D0007,2026-08-28,Hypertension,Active,As directed
+RX00249,P0832,D0011,2026-04-29,Hypertension,Completed,Take after food
+RX00250,P0225,D0052,2026-06-28,High Cholesterol,Discontinued,Take after food
+RX00251,P0118,D0081,2026-04-02,GERD,Active,Take before food
+RX00252,P0012,D0044,2026-07-10,Type 2 Diabetes,Completed,As directed
+RX00253,P0986,D0093,2026-08-04,Hypothyroidism,Active,Take after food
+RX00254,P0675,D0084,2026-04-24,Migraine,Discontinued,Take before food
+RX00255,P0058,D0049,2026-02-02,Type 2 Diabetes,Completed,Take before food
+RX00256,P0150,D0015,2026-09-25,Type 2 Diabetes,Discontinued,As directed
+RX00257,P0826,D0044,2026-02-28,Migraine,Discontinued,Take after food
+RX00258,P0743,D0091,2026-06-16,Hypothyroidism,Discontinued,As directed
+RX00259,P0344,D0016,2026-04-16,GERD,Active,Take before food
+RX00260,P0670,D0050,2026-06-06,Hypothyroidism,Discontinued,Take after food
+RX00261,P0286,D0029,2026-04-22,Type 2 Diabetes,Completed,Take before food
+RX00262,P0024,D0098,2026-02-17,Hypertension,Discontinued,As directed
+RX00263,P0060,D0015,2026-01-03,Type 2 Diabetes,Completed,Take after food
+RX00264,P0569,D0022,2026-05-21,Asthma,Completed,Take after food
+RX00265,P0163,D0050,2026-05-16,Arthritis,Discontinued,As directed
+RX00266,P0322,D0011,2026-09-07,Type 2 Diabetes,Discontinued,As directed
+RX00267,P0680,D0043,2026-02-03,Arthritis,Completed,As directed
+RX00268,P0116,D0045,2026-05-03,Migraine,Completed,As directed
+RX00269,P0572,D0006,2026-05-19,High Cholesterol,Completed,As directed
+RX00270,P0731,D0033,2026-01-15,High Cholesterol,Completed,As directed
+RX00271,P0280,D0007,2026-02-05,Hypertension,Active,Take after food
+RX00272,P0427,D0076,2026-07-25,Arthritis,Discontinued,As directed
+RX00273,P0096,D0078,2026-04-07,High Cholesterol,Active,Take after food
+RX00274,P0408,D0061,2026-07-19,Asthma,Completed,Take before food
+RX00275,P0018,D0098,2026-01-25,High Cholesterol,Completed,Take before food
+RX00276,P0003,D0044,2026-08-09,Hypertension,Completed,Take after food
+RX00277,P0529,D0015,2026-07-12,Hypertension,Completed,Take after food
+RX00278,P0059,D0074,2026-08-15,Type 2 Diabetes,Discontinued,Take before food
+RX00279,P0379,D0013,2026-06-16,Hypertension,Discontinued,Take after food
+RX00280,P0850,D0004,2026-06-18,Hypothyroidism,Active,As directed
+RX00281,P0511,D0038,2026-07-01,Migraine,Discontinued,Take before food
+RX00282,P0730,D0069,2026-04-07,High Cholesterol,Active,As directed
+RX00283,P0374,D0094,2026-07-17,Hypothyroidism,Discontinued,As directed
+RX00284,P0341,D0033,2026-05-11,High Cholesterol,Completed,As directed
+RX00285,P0109,D0019,2026-09-22,Hypothyroidism,Discontinued,As directed
+RX00286,P0750,D0016,2026-08-29,Hypertension,Discontinued,As directed
+RX00287,P0760,D0072,2026-05-03,Hypothyroidism,Active,Take after food
+RX00288,P0083,D0077,2026-01-21,GERD,Discontinued,Take after food
+RX00289,P0024,D0063,2026-08-26,Type 2 Diabetes,Discontinued,Take before food
+RX00290,P0132,D0032,2026-06-17,Asthma,Completed,As directed
+RX00291,P0558,D0015,2026-03-01,Type 2 Diabetes,Active,As directed
+RX00292,P0451,D0060,2026-02-20,Hypothyroidism,Completed,Take after food
+RX00293,P0559,D0004,2026-09-15,GERD,Completed,Take before food
+RX00294,P0130,D0034,2026-08-28,Hypothyroidism,Completed,As directed
+RX00295,P0816,D0003,2026-05-11,Hypertension,Discontinued,Take after food
+RX00296,P0824,D0045,2026-07-30,GERD,Completed,Take before food
+RX00297,P0095,D0024,2026-05-12,Arthritis,Completed,Take before food
+RX00298,P0559,D0039,2026-06-30,GERD,Active,As directed
+RX00299,P0401,D0009,2026-01-10,Migraine,Active,As directed
+RX00300,P0721,D0034,2026-01-11,Hypertension,Completed,Take before food
+RX00301,P0954,D0083,2026-06-09,Migraine,Discontinued,Take before food
+RX00302,P0175,D0084,2026-03-16,Arthritis,Active,Take before food
+RX00303,P0358,D0032,2026-04-22,GERD,Discontinued,As directed
+RX00304,P0050,D0059,2026-07-19,Hypothyroidism,Discontinued,Take before food
+RX00305,P0498,D0046,2026-05-12,Asthma,Discontinued,Take before food
+RX00306,P0187,D0002,2026-02-23,High Cholesterol,Completed,Take before food
+RX00307,P0604,D0076,2026-01-05,GERD,Completed,Take before food
+RX00308,P0803,D0072,2026-02-22,Type 2 Diabetes,Active,Take before food
+RX00309,P0378,D0097,2026-08-31,Hypertension,Completed,As directed
+RX00310,P0240,D0056,2026-06-17,High Cholesterol,Active,As directed
+RX00311,P0817,D0080,2026-09-19,Hypothyroidism,Active,Take after food
+RX00312,P0583,D0018,2026-08-24,Asthma,Active,Take before food
+RX00313,P0426,D0022,2026-04-28,High Cholesterol,Completed,Take after food
+RX00314,P0926,D0054,2026-02-13,Hypertension,Completed,As directed
+RX00315,P0982,D0058,2026-08-02,Asthma,Completed,Take before food
+RX00316,P0518,D0009,2026-03-07,High Cholesterol,Completed,Take after food
+RX00317,P0195,D0043,2026-03-11,Migraine,Completed,Take after food
+RX00318,P0085,D0086,2026-04-20,Asthma,Active,As directed
+RX00319,P0794,D0017,2026-01-27,Hypertension,Active,Take before food
+RX00320,P0883,D0088,2026-01-23,High Cholesterol,Completed,As directed
+RX00321,P0409,D0061,2026-01-09,Migraine,Completed,Take after food
+RX00322,P0558,D0099,2026-04-23,Arthritis,Active,Take after food
+RX00323,P0779,D0010,2026-07-26,Arthritis,Completed,As directed
+RX00324,P0520,D0029,2026-08-01,Arthritis,Active,As directed
+RX00325,P0569,D0059,2026-04-09,Arthritis,Discontinued,Take after food
+RX00326,P0796,D0066,2026-05-02,Migraine,Active,Take before food
+RX00327,P0295,D0073,2026-02-26,Asthma,Completed,Take after food
+RX00328,P0841,D0091,2026-05-10,Hypothyroidism,Completed,As directed
+RX00329,P0479,D0097,2026-07-13,Type 2 Diabetes,Completed,Take after food
+RX00330,P0666,D0079,2026-01-25,High Cholesterol,Active,Take after food
+RX00331,P0165,D0013,2026-09-20,Hypothyroidism,Active,Take before food
+RX00332,P0004,D0013,2026-02-12,Asthma,Discontinued,Take before food
+RX00333,P0345,D0063,2026-02-14,Migraine,Active,Take before food
+RX00334,P0103,D0023,2026-04-08,Type 2 Diabetes,Discontinued,Take after food
+RX00335,P0298,D0002,2026-08-29,Type 2 Diabetes,Discontinued,As directed
+RX00336,P0075,D0076,2026-05-17,Migraine,Discontinued,As directed
+RX00337,P0351,D0081,2026-08-31,Arthritis,Completed,As directed
+RX00338,P0398,D0075,2026-03-19,Hypothyroidism,Completed,Take after food
+RX00339,P0421,D0058,2026-02-22,Type 2 Diabetes,Completed,Take after food
+RX00340,P0768,D0018,2026-04-27,Hypertension,Completed,Take before food
+RX00341,P0707,D0062,2026-03-04,Migraine,Discontinued,Take before food
+RX00342,P0349,D0049,2026-03-30,Arthritis,Active,Take after food
+RX00343,P0049,D0017,2026-05-30,Asthma,Active,Take after food
+RX00344,P0237,D0058,2026-07-26,Type 2 Diabetes,Completed,Take before food
+RX00345,P0234,D0028,2026-07-02,High Cholesterol,Active,As directed
+RX00346,P0638,D0080,2026-03-23,GERD,Active,Take after food
+RX00347,P0071,D0041,2026-03-24,Asthma,Completed,Take after food
+RX00348,P0859,D0079,2026-01-29,High Cholesterol,Completed,Take before food
+RX00349,P0440,D0081,2026-03-06,Migraine,Active,As directed
+RX00350,P0975,D0092,2026-02-17,Type 2 Diabetes,Completed,As directed
+RX00351,P0884,D0032,2026-01-21,Type 2 Diabetes,Active,Take after food
+RX00352,P0628,D0015,2026-05-15,Hypertension,Completed,Take after food
+RX00353,P0050,D0043,2026-01-24,Asthma,Completed,As directed
+RX00354,P0349,D0050,2026-07-25,Hypothyroidism,Discontinued,Take before food
+RX00355,P0092,D0003,2026-07-03,High Cholesterol,Active,Take before food
+RX00356,P0703,D0082,2026-03-11,Asthma,Completed,As directed
+RX00357,P0798,D0068,2026-04-04,High Cholesterol,Discontinued,As directed
+RX00358,P0009,D0022,2026-04-20,Arthritis,Active,Take before food
+RX00359,P0275,D0068,2026-09-09,Hypertension,Completed,As directed
+RX00360,P0837,D0093,2026-07-02,Hypothyroidism,Completed,Take before food
+RX00361,P0814,D0052,2026-06-09,Arthritis,Active,As directed
+RX00362,P0361,D0077,2026-02-21,Asthma,Completed,Take before food
+RX00363,P0242,D0098,2026-03-27,Type 2 Diabetes,Discontinued,Take before food
+RX00364,P0351,D0088,2026-05-13,High Cholesterol,Completed,Take before food
+RX00365,P0596,D0091,2026-02-09,Type 2 Diabetes,Completed,Take after food
+RX00366,P0745,D0066,2026-08-27,Migraine,Discontinued,As directed
+RX00367,P0972,D0016,2026-03-16,Asthma,Active,Take after food
+RX00368,P0659,D0092,2026-05-19,Migraine,Discontinued,As directed
+RX00369,P0818,D0038,2026-08-21,Migraine,Discontinued,Take before food
+RX00370,P0549,D0039,2026-07-22,Arthritis,Discontinued,As directed
+RX00371,P0318,D0039,2026-02-11,Arthritis,Discontinued,Take before food
+RX00372,P0182,D0016,2026-08-26,Arthritis,Active,As directed
+RX00373,P0761,D0076,2026-05-12,Type 2 Diabetes,Active,Take before food
+RX00374,P0736,D0008,2026-02-02,GERD,Active,Take after food
+RX00375,P0809,D0075,2026-05-19,Type 2 Diabetes,Active,As directed
+RX00376,P0133,D0057,2026-05-25,Hypothyroidism,Discontinued,Take before food
+RX00377,P0119,D0099,2026-04-19,Asthma,Discontinued,As directed
+RX00378,P0361,D0042,2026-07-07,Migraine,Discontinued,As directed
+RX00379,P0943,D0019,2026-02-27,Arthritis,Active,Take before food
+RX00380,P0177,D0002,2026-08-28,Hypothyroidism,Completed,As directed
+RX00381,P0882,D0086,2026-01-31,High Cholesterol,Discontinued,As directed
+RX00382,P0472,D0072,2026-05-04,Hypertension,Discontinued,As directed
+RX00383,P0743,D0028,2026-07-24,Migraine,Discontinued,Take before food
+RX00384,P0165,D0007,2026-06-25,GERD,Active,As directed
+RX00385,P0119,D0077,2026-04-08,Type 2 Diabetes,Discontinued,Take after food
+RX00386,P0530,D0088,2026-09-19,Type 2 Diabetes,Discontinued,Take after food
+RX00387,P0905,D0093,2026-01-07,Arthritis,Completed,Take after food
+RX00388,P0638,D0065,2026-06-14,Migraine,Completed,Take after food
+RX00389,P0372,D0005,2026-09-18,Hypothyroidism,Active,Take before food
+RX00390,P0097,D0088,2026-05-16,Type 2 Diabetes,Completed,Take after food
+RX00391,P0472,D0065,2026-07-22,Arthritis,Discontinued,Take before food
+RX00392,P0165,D0010,2026-07-21,GERD,Active,As directed
+RX00393,P0474,D0092,2026-06-08,Asthma,Active,As directed
+RX00394,P0849,D0016,2026-05-18,Migraine,Completed,Take before food
+RX00395,P0890,D0045,2026-05-18,Type 2 Diabetes,Discontinued,As directed
+RX00396,P0464,D0044,2026-01-18,High Cholesterol,Active,Take before food
+RX00397,P0266,D0050,2026-05-05,High Cholesterol,Discontinued,Take before food
+RX00398,P0330,D0042,2026-06-20,Migraine,Active,Take after food
+RX00399,P0129,D0084,2026-03-13,Asthma,Active,As directed
+RX00400,P0998,D0088,2026-02-21,Migraine,Active,Take after food
+RX00401,P0132,D0007,2026-05-06,Arthritis,Active,As directed
+RX00402,P0588,D0067,2026-01-13,High Cholesterol,Discontinued,As directed
+RX00403,P0156,D0084,2026-03-19,Asthma,Discontinued,Take after food
+RX00404,P0169,D0092,2026-02-05,Migraine,Completed,Take before food
+RX00405,P0418,D0076,2026-01-24,GERD,Discontinued,Take before food
+RX00406,P0892,D0068,2026-03-23,High Cholesterol,Discontinued,Take after food
+RX00407,P0388,D0091,2026-08-18,Hypothyroidism,Completed,Take after food
+RX00408,P0701,D0003,2026-09-04,Hypertension,Completed,Take after food
+RX00409,P0336,D0089,2026-07-29,Migraine,Active,Take before food
+RX00410,P0682,D0077,2026-01-10,Arthritis,Discontinued,Take after food
+RX00411,P0145,D0012,2026-07-06,High Cholesterol,Completed,Take after food
+RX00412,P0054,D0016,2026-06-23,Asthma,Active,Take before food
+RX00413,P0702,D0026,2026-05-13,Hypothyroidism,Completed,Take before food
+RX00414,P0596,D0029,2026-02-01,GERD,Completed,Take before food
+RX00415,P0650,D0043,2026-06-02,Hypothyroidism,Completed,Take after food
+RX00416,P0216,D0081,2026-05-18,Type 2 Diabetes,Discontinued,Take after food
+RX00417,P0188,D0016,2026-05-14,Type 2 Diabetes,Completed,As directed
+RX00418,P0506,D0024,2026-06-27,Hypertension,Completed,Take before food
+RX00419,P0233,D0021,2026-07-23,Type 2 Diabetes,Discontinued,As directed
+RX00420,P0665,D0100,2026-06-30,Arthritis,Completed,Take after food
+RX00421,P0158,D0050,2026-07-08,Migraine,Active,Take before food
+RX00422,P0991,D0067,2026-07-20,High Cholesterol,Active,Take before food
+RX00423,P0163,D0020,2026-04-13,Migraine,Discontinued,Take after food
+RX00424,P0813,D0094,2026-07-18,Hypothyroidism,Discontinued,As directed
+RX00425,P0542,D0002,2026-01-16,Type 2 Diabetes,Completed,As directed
+RX00426,P0695,D0044,2026-06-26,Asthma,Completed,Take before food
+RX00427,P0752,D0026,2026-06-10,Hypertension,Active,As directed
+RX00428,P0217,D0096,2026-02-22,Hypothyroidism,Completed,Take after food
+RX00429,P0443,D0030,2026-01-10,GERD,Completed,As directed
+RX00430,P0166,D0064,2026-03-13,Migraine,Active,Take after food
+RX00431,P0896,D0085,2026-01-28,Arthritis,Active,As directed
+RX00432,P0636,D0038,2026-08-15,Hypertension,Discontinued,As directed
+RX00433,P0233,D0078,2026-08-31,GERD,Discontinued,As directed
+RX00434,P0525,D0011,2026-05-15,Hypertension,Discontinued,Take before food
+RX00435,P0600,D0013,2026-01-13,Arthritis,Discontinued,Take before food
+RX00436,P0886,D0034,2026-06-01,Asthma,Discontinued,Take before food
+RX00437,P0536,D0037,2026-06-07,Hypertension,Active,Take before food
+RX00438,P0512,D0014,2026-01-04,Migraine,Discontinued,As directed
+RX00439,P0881,D0097,2026-09-07,GERD,Discontinued,Take before food
+RX00440,P0868,D0010,2026-07-25,Arthritis,Discontinued,As directed
+RX00441,P0851,D0021,2026-02-28,Asthma,Discontinued,Take after food
+RX00442,P0468,D0081,2026-02-02,Hypertension,Completed,As directed
+RX00443,P0537,D0037,2026-06-07,Hypertension,Discontinued,Take before food
+RX00444,P0868,D0052,2026-04-28,High Cholesterol,Active,As directed
+RX00445,P0709,D0075,2026-08-30,Migraine,Discontinued,As directed
+RX00446,P0103,D0040,2026-06-10,Type 2 Diabetes,Discontinued,As directed
+RX00447,P0191,D0099,2026-03-12,Migraine,Completed,Take before food
+RX00448,P0503,D0059,2026-02-22,Migraine,Completed,Take before food
+RX00449,P0248,D0100,2026-05-24,GERD,Completed,As directed
+RX00450,P0385,D0098,2026-06-25,GERD,Completed,Take after food
+RX00451,P0701,D0057,2026-07-13,Type 2 Diabetes,Completed,Take after food
+RX00452,P0407,D0009,2026-02-18,Type 2 Diabetes,Completed,As directed
+RX00453,P0378,D0076,2026-03-12,Arthritis,Completed,Take after food
+RX00454,P0928,D0064,2026-08-09,Type 2 Diabetes,Discontinued,Take before food
+RX00455,P0309,D0063,2026-06-11,Asthma,Completed,As directed
+RX00456,P0254,D0035,2026-03-30,High Cholesterol,Completed,Take after food
+RX00457,P0011,D0016,2026-01-14,Type 2 Diabetes,Active,As directed
+RX00458,P0947,D0072,2026-03-02,High Cholesterol,Completed,As directed
+RX00459,P0683,D0099,2026-05-19,Type 2 Diabetes,Active,Take after food
+RX00460,P0087,D0012,2026-01-24,Asthma,Active,As directed
+RX00461,P0465,D0040,2026-05-13,GERD,Discontinued,As directed
+RX00462,P0096,D0041,2026-08-12,GERD,Active,As directed
+RX00463,P0891,D0036,2026-04-07,Asthma,Discontinued,Take after food
+RX00464,P0191,D0095,2026-03-30,Type 2 Diabetes,Completed,Take before food
+RX00465,P0823,D0089,2026-05-15,Asthma,Completed,As directed
+RX00466,P0009,D0066,2026-09-13,Hypertension,Active,As directed
+RX00467,P0185,D0060,2026-08-18,Arthritis,Completed,As directed
+RX00468,P0198,D0053,2026-03-25,Migraine,Completed,Take before food
+RX00469,P0183,D0087,2026-08-25,Migraine,Active,Take after food
+RX00470,P0396,D0080,2026-06-13,Type 2 Diabetes,Discontinued,Take before food
+RX00471,P0409,D0052,2026-03-09,Hypothyroidism,Active,Take before food
+RX00472,P0794,D0090,2026-08-24,Asthma,Active,Take after food
+RX00473,P0803,D0097,2026-03-01,High Cholesterol,Discontinued,As directed
+RX00474,P0664,D0057,2026-09-18,Hypertension,Completed,As directed
+RX00475,P0247,D0027,2026-05-22,Migraine,Completed,Take after food
+RX00476,P0597,D0057,2026-01-24,Arthritis,Discontinued,Take after food
+RX00477,P0584,D0084,2026-04-13,Hypertension,Discontinued,As directed
+RX00478,P0330,D0050,2026-03-12,Hypertension,Discontinued,Take before food
+RX00479,P0286,D0001,2026-08-19,Asthma,Discontinued,Take after food
+RX00480,P0430,D0089,2026-07-13,Asthma,Discontinued,As directed
+RX00481,P0930,D0036,2026-02-25,Migraine,Discontinued,As directed
+RX00482,P0903,D0038,2026-01-29,GERD,Completed,Take before food
+RX00483,P0467,D0042,2026-06-27,Type 2 Diabetes,Active,Take before food
+RX00484,P0649,D0078,2026-07-25,Asthma,Discontinued,Take after food
+RX00485,P0857,D0098,2026-01-11,Hypothyroidism,Discontinued,Take after food
+RX00486,P0256,D0088,2026-01-06,Asthma,Discontinued,Take after food
+RX00487,P0015,D0088,2026-08-30,Asthma,Discontinued,Take after food
+RX00488,P0432,D0082,2026-03-13,GERD,Discontinued,Take before food
+RX00489,P0433,D0041,2026-04-14,Arthritis,Active,As directed
+RX00490,P0151,D0020,2026-03-29,Asthma,Active,Take after food
+RX00491,P0527,D0071,2026-07-24,Type 2 Diabetes,Discontinued,Take after food
+RX00492,P0210,D0041,2026-03-31,High Cholesterol,Discontinued,Take after food
+RX00493,P0234,D0022,2026-03-15,GERD,Active,Take before food
+RX00494,P0266,D0018,2026-02-06,Migraine,Completed,Take after food
+RX00495,P0529,D0028,2026-05-11,Type 2 Diabetes,Discontinued,As directed
+RX00496,P0664,D0077,2026-03-27,Migraine,Discontinued,Take after food
+RX00497,P0220,D0088,2026-03-06,High Cholesterol,Active,As directed
+RX00498,P0962,D0094,2026-08-06,Migraine,Completed,Take after food
+RX00499,P0617,D0075,2026-02-11,GERD,Active,As directed
+RX00500,P0725,D0013,2026-04-11,Hypothyroidism,Active,Take after food
+RX00501,P0246,D0083,2026-08-17,High Cholesterol,Discontinued,Take before food
+RX00502,P0733,D0088,2026-02-11,Asthma,Completed,Take before food
+RX00503,P0678,D0046,2026-05-12,Migraine,Completed,Take after food
+RX00504,P0159,D0062,2026-01-27,Hypertension,Completed,As directed
+RX00505,P0930,D0079,2026-05-15,GERD,Completed,Take after food
+RX00506,P0931,D0023,2026-08-20,Arthritis,Active,Take after food
+RX00507,P0224,D0063,2026-09-21,Migraine,Completed,As directed
+RX00508,P0054,D0068,2026-08-13,High Cholesterol,Completed,Take after food
+RX00509,P0149,D0094,2026-01-27,Hypertension,Completed,As directed
+RX00510,P0005,D0083,2026-01-02,High Cholesterol,Discontinued,Take before food
+RX00511,P0500,D0032,2026-07-15,Hypothyroidism,Completed,Take before food
+RX00512,P0978,D0065,2026-09-23,Arthritis,Completed,Take before food
+RX00513,P0978,D0012,2026-08-28,Arthritis,Active,Take after food
+RX00514,P0239,D0043,2026-09-14,High Cholesterol,Active,Take before food
+RX00515,P0785,D0076,2026-04-05,Hypertension,Active,As directed
+RX00516,P0741,D0096,2026-01-29,Migraine,Completed,Take before food
+RX00517,P0609,D0094,2026-08-23,Migraine,Completed,Take after food
+RX00518,P0975,D0079,2026-08-26,Asthma,Discontinued,As directed
+RX00519,P0123,D0020,2026-08-25,Hypertension,Discontinued,As directed
+RX00520,P0411,D0020,2026-01-19,Migraine,Discontinued,As directed
+RX00521,P0362,D0021,2026-05-15,Asthma,Discontinued,Take after food
+RX00522,P0773,D0059,2026-08-07,Arthritis,Active,Take before food
+RX00523,P0734,D0032,2026-03-19,GERD,Active,Take after food
+RX00524,P0488,D0094,2026-02-02,Hypertension,Active,Take before food
+RX00525,P0329,D0082,2026-06-20,Arthritis,Discontinued,Take before food
+RX00526,P0466,D0059,2026-09-03,Migraine,Active,Take before food
+RX00527,P0115,D0006,2026-08-21,Hypothyroidism,Discontinued,Take before food
+RX00528,P0888,D0039,2026-09-18,Migraine,Discontinued,Take after food
+RX00529,P0805,D0091,2026-03-05,GERD,Discontinued,Take before food
+RX00530,P0500,D0081,2026-09-23,GERD,Discontinued,As directed
+RX00531,P0528,D0007,2026-01-10,High Cholesterol,Active,Take before food
+RX00532,P0770,D0074,2026-04-23,Asthma,Discontinued,As directed
+RX00533,P0748,D0001,2026-04-20,Hypertension,Active,Take before food
+RX00534,P0124,D0069,2026-03-03,GERD,Completed,As directed
+RX00535,P0321,D0088,2026-04-11,Hypertension,Discontinued,As directed
+RX00536,P0199,D0008,2026-09-18,High Cholesterol,Active,Take after food
+RX00537,P0770,D0048,2026-04-16,Migraine,Active,Take after food
+RX00538,P0452,D0095,2026-02-25,High Cholesterol,Active,As directed
+RX00539,P0585,D0048,2026-05-19,Hypertension,Discontinued,As directed
+RX00540,P0642,D0094,2026-09-13,Type 2 Diabetes,Discontinued,Take before food
+RX00541,P0579,D0073,2026-04-27,GERD,Active,As directed
+RX00542,P0182,D0083,2026-09-04,Asthma,Discontinued,Take after food
+RX00543,P0637,D0076,2026-09-25,Asthma,Active,As directed
+RX00544,P0679,D0074,2026-04-18,Hypothyroidism,Discontinued,Take after food
+RX00545,P0645,D0005,2026-04-02,Hypothyroidism,Active,Take before food
+RX00546,P0975,D0055,2026-08-01,GERD,Active,Take after food
+RX00547,P0787,D0029,2026-07-18,Type 2 Diabetes,Discontinued,Take after food
+RX00548,P0936,D0074,2026-07-21,Migraine,Completed,Take after food
+RX00549,P0479,D0084,2026-07-28,Hypothyroidism,Completed,Take before food
+RX00550,P0846,D0036,2026-03-03,Type 2 Diabetes,Discontinued,Take before food
+RX00551,P0084,D0006,2026-06-25,Type 2 Diabetes,Completed,As directed
+RX00552,P0171,D0057,2026-06-15,Asthma,Completed,Take before food
+RX00553,P0235,D0002,2026-09-16,Type 2 Diabetes,Discontinued,Take after food
+RX00554,P0539,D0064,2026-06-22,Asthma,Discontinued,Take before food
+RX00555,P0180,D0029,2026-03-09,Hypertension,Active,As directed
+RX00556,P0750,D0061,2026-09-06,Asthma,Discontinued,Take before food
+RX00557,P0163,D0015,2026-03-28,Arthritis,Completed,As directed
+RX00558,P0995,D0086,2026-05-04,Asthma,Active,Take after food
+RX00559,P0718,D0035,2026-05-28,High Cholesterol,Active,As directed
+RX00560,P0396,D0050,2026-03-23,High Cholesterol,Completed,Take before food
+RX00561,P0450,D0097,2026-08-13,Arthritis,Active,Take before food
+RX00562,P0452,D0060,2026-09-18,Type 2 Diabetes,Discontinued,Take before food
+RX00563,P0418,D0004,2026-04-07,Arthritis,Discontinued,Take before food
+RX00564,P0976,D0051,2026-08-14,Arthritis,Completed,Take after food
+RX00565,P0629,D0049,2026-05-13,High Cholesterol,Discontinued,As directed
+RX00566,P0547,D0056,2026-02-18,GERD,Completed,As directed
+RX00567,P0298,D0097,2026-03-23,Hypothyroidism,Discontinued,Take after food
+RX00568,P0579,D0012,2026-09-03,GERD,Active,Take before food
+RX00569,P0787,D0003,2026-05-04,Arthritis,Discontinued,Take after food
+RX00570,P0937,D0070,2026-02-13,Type 2 Diabetes,Active,Take after food
+RX00571,P0033,D0062,2026-05-02,GERD,Active,As directed
+RX00572,P0852,D0021,2026-04-15,Hypothyroidism,Completed,As directed
+RX00573,P0257,D0010,2026-01-25,GERD,Active,Take after food
+RX00574,P0191,D0041,2026-09-21,Hypertension,Active,As directed
+RX00575,P0204,D0030,2026-03-24,Asthma,Completed,Take before food
+RX00576,P0665,D0038,2026-05-16,Arthritis,Discontinued,As directed
+RX00577,P0359,D0093,2026-05-25,Migraine,Completed,Take after food
+RX00578,P0455,D0067,2026-03-31,GERD,Completed,Take before food
+RX00579,P0817,D0057,2026-02-08,GERD,Completed,Take before food
+RX00580,P0025,D0053,2026-07-18,Hypothyroidism,Completed,As directed
+RX00581,P0790,D0074,2026-03-06,Migraine,Active,As directed
+RX00582,P0791,D0049,2026-04-22,Type 2 Diabetes,Completed,Take before food
+RX00583,P0624,D0069,2026-04-08,Asthma,Completed,Take before food
+RX00584,P0088,D0072,2026-06-12,Asthma,Discontinued,As directed
+RX00585,P0878,D0027,2026-09-10,Hypertension,Discontinued,Take before food
+RX00586,P0578,D0004,2026-04-01,Type 2 Diabetes,Discontinued,Take after food
+RX00587,P0181,D0011,2026-07-27,Asthma,Active,Take before food
+RX00588,P0818,D0092,2026-07-07,Type 2 Diabetes,Completed,Take before food
+RX00589,P0077,D0005,2026-07-19,Asthma,Active,Take after food
+RX00590,P0727,D0042,2026-04-13,Type 2 Diabetes,Active,Take before food
+RX00591,P0430,D0017,2026-05-29,Migraine,Active,Take before food
+RX00592,P0689,D0024,2026-09-14,Asthma,Completed,Take after food
+RX00593,P0742,D0013,2026-07-01,Asthma,Discontinued,Take after food
+RX00594,P0060,D0006,2026-05-06,Migraine,Active,Take after food
+RX00595,P0577,D0009,2026-09-14,Asthma,Discontinued,Take after food
+RX00596,P0158,D0038,2026-07-23,GERD,Discontinued,Take before food
+RX00597,P0442,D0085,2026-09-20,GERD,Active,Take after food
+RX00598,P0198,D0013,2026-03-28,GERD,Discontinued,As directed
+RX00599,P0273,D0007,2026-09-01,High Cholesterol,Completed,Take after food
+RX00600,P0219,D0063,2026-05-13,Hypothyroidism,Discontinued,Take after food
+RX00601,P0311,D0095,2026-07-14,Type 2 Diabetes,Completed,As directed
+RX00602,P0630,D0013,2026-06-17,Migraine,Active,As directed
+RX00603,P0158,D0001,2026-08-07,Migraine,Completed,Take after food
+RX00604,P0809,D0066,2026-02-16,Arthritis,Discontinued,Take before food
+RX00605,P0041,D0048,2026-05-29,Hypothyroidism,Discontinued,Take before food
+RX00606,P0650,D0075,2026-05-10,High Cholesterol,Active,Take after food
+RX00607,P0049,D0060,2026-03-31,Arthritis,Discontinued,Take before food
+RX00608,P0725,D0078,2026-03-26,GERD,Active,Take before food
+RX00609,P0484,D0094,2026-01-25,Arthritis,Active,Take after food
+RX00610,P0345,D0079,2026-03-02,High Cholesterol,Discontinued,Take after food
+RX00611,P0908,D0098,2026-09-01,Asthma,Active,Take before food
+RX00612,P0276,D0037,2026-06-11,Arthritis,Discontinued,Take after food
+RX00613,P0254,D0088,2026-08-20,Hypertension,Discontinued,Take before food
+RX00614,P0559,D0017,2026-05-09,Arthritis,Completed,Take before food
+RX00615,P0990,D0057,2026-05-02,Asthma,Discontinued,Take before food
+RX00616,P0453,D0086,2026-09-24,GERD,Active,As directed
+RX00617,P0012,D0057,2026-02-11,Arthritis,Completed,Take after food
+RX00618,P0557,D0001,2026-08-07,Hypothyroidism,Active,Take before food
+RX00619,P0773,D0062,2026-01-07,Migraine,Discontinued,As directed
+RX00620,P0593,D0005,2026-04-17,GERD,Completed,As directed
+RX00621,P0140,D0022,2026-09-13,Type 2 Diabetes,Completed,Take before food
+RX00622,P0546,D0002,2026-07-24,High Cholesterol,Active,Take before food
+RX00623,P0650,D0086,2026-06-05,Arthritis,Completed,Take after food
+RX00624,P0696,D0092,2026-02-10,Asthma,Discontinued,Take before food
+RX00625,P0392,D0043,2026-06-16,Hypertension,Discontinued,As directed
+RX00626,P0288,D0072,2026-02-06,Migraine,Discontinued,Take before food
+RX00627,P0585,D0023,2026-04-25,Asthma,Completed,As directed
+RX00628,P0412,D0005,2026-03-11,Asthma,Discontinued,Take after food
+RX00629,P0999,D0046,2026-02-11,Type 2 Diabetes,Discontinued,Take before food
+RX00630,P0792,D0039,2026-04-07,Hypothyroidism,Completed,As directed
+RX00631,P0249,D0070,2026-06-29,Hypertension,Discontinued,Take before food
+RX00632,P0402,D0005,2026-01-04,GERD,Discontinued,Take before food
+RX00633,P0235,D0044,2026-09-07,Type 2 Diabetes,Completed,As directed
+RX00634,P0197,D0011,2026-03-24,GERD,Completed,Take after food
+RX00635,P0902,D0005,2026-06-17,Migraine,Completed,Take after food
+RX00636,P0947,D0083,2026-05-09,Type 2 Diabetes,Completed,As directed
+RX00637,P0606,D0051,2026-04-02,Type 2 Diabetes,Completed,Take before food
+RX00638,P0052,D0068,2026-07-04,GERD,Completed,As directed
+RX00639,P0834,D0041,2026-08-31,High Cholesterol,Discontinued,As directed
+RX00640,P0683,D0062,2026-08-07,Type 2 Diabetes,Discontinued,Take before food
+RX00641,P0528,D0082,2026-07-27,Hypertension,Completed,Take after food
+RX00642,P0108,D0074,2026-05-27,GERD,Discontinued,Take before food
+RX00643,P0723,D0061,2026-04-03,High Cholesterol,Active,Take before food
+RX00644,P0656,D0058,2026-05-31,Arthritis,Completed,Take before food
+RX00645,P0293,D0062,2026-01-12,GERD,Completed,Take after food
+RX00646,P0534,D0099,2026-06-23,Arthritis,Discontinued,As directed
+RX00647,P0520,D0086,2026-06-09,High Cholesterol,Discontinued,Take before food
+RX00648,P0883,D0054,2026-04-29,Migraine,Active,Take before food
+RX00649,P0723,D0047,2026-02-12,Migraine,Active,As directed
+RX00650,P0845,D0042,2026-07-06,Hypothyroidism,Active,Take before food
+RX00651,P0465,D0007,2026-06-26,Type 2 Diabetes,Completed,Take after food
+RX00652,P0400,D0052,2026-01-30,Type 2 Diabetes,Completed,Take after food
+RX00653,P0462,D0076,2026-01-14,Asthma,Active,As directed
+RX00654,P0334,D0033,2026-05-02,Hypothyroidism,Active,Take before food
+RX00655,P0737,D0098,2026-07-29,Migraine,Active,Take before food
+RX00656,P0999,D0088,2026-06-08,Hypothyroidism,Discontinued,Take after food
+RX00657,P0883,D0021,2026-09-06,High Cholesterol,Completed,Take before food
+RX00658,P0712,D0069,2026-09-21,High Cholesterol,Discontinued,Take after food
+RX00659,P0744,D0029,2026-02-15,High Cholesterol,Completed,As directed
+RX00660,P0255,D0084,2026-07-03,Asthma,Completed,As directed
+RX00661,P0333,D0074,2026-09-14,Asthma,Discontinued,Take after food
+RX00662,P0764,D0002,2026-08-08,Hypothyroidism,Completed,Take before food
+RX00663,P0213,D0034,2026-08-18,GERD,Discontinued,Take after food
+RX00664,P0036,D0073,2026-01-11,Hypertension,Active,As directed
+RX00665,P0956,D0011,2026-01-21,Hypertension,Active,Take after food
+RX00666,P0918,D0022,2026-07-24,Hypothyroidism,Completed,Take after food
+RX00667,P0478,D0072,2026-09-18,Hypertension,Discontinued,As directed
+RX00668,P0845,D0052,2026-06-07,Migraine,Discontinued,As directed
+RX00669,P0941,D0091,2026-07-20,Type 2 Diabetes,Active,Take before food
+RX00670,P0712,D0063,2026-06-26,Hypothyroidism,Active,Take after food
+RX00671,P0885,D0094,2026-03-24,Migraine,Completed,Take after food
+RX00672,P0777,D0011,2026-03-10,Asthma,Discontinued,Take after food
+RX00673,P0371,D0026,2026-04-14,Arthritis,Completed,Take before food
+RX00674,P0600,D0021,2026-02-07,GERD,Discontinued,Take before food
+RX00675,P0886,D0051,2026-03-01,Hypothyroidism,Completed,Take after food
+RX00676,P0296,D0018,2026-04-19,High Cholesterol,Discontinued,Take after food
+RX00677,P0113,D0086,2026-08-31,Hypertension,Discontinued,Take after food
+RX00678,P0119,D0057,2026-05-31,GERD,Completed,Take before food
+RX00679,P0021,D0070,2026-06-01,High Cholesterol,Discontinued,Take before food
+RX00680,P0272,D0074,2026-09-07,Type 2 Diabetes,Discontinued,Take before food
+RX00681,P0010,D0059,2026-02-18,High Cholesterol,Active,Take after food
+RX00682,P0228,D0015,2026-04-26,Arthritis,Completed,As directed
+RX00683,P0511,D0049,2026-02-22,Asthma,Completed,Take before food
+RX00684,P0074,D0082,2026-04-24,Hypertension,Completed,Take before food
+RX00685,P0108,D0039,2026-07-14,Type 2 Diabetes,Completed,As directed
+RX00686,P0751,D0095,2026-07-16,Hypothyroidism,Discontinued,As directed
+RX00687,P0592,D0072,2026-04-08,Asthma,Discontinued,As directed
+RX00688,P0465,D0087,2026-03-08,High Cholesterol,Completed,As directed
+RX00689,P0403,D0005,2026-09-27,Asthma,Completed,As directed
+RX00690,P0640,D0100,2026-04-21,Hypothyroidism,Completed,Take before food
+RX00691,P0944,D0046,2026-02-04,Hypertension,Active,Take after food
+RX00692,P0674,D0077,2026-05-15,Type 2 Diabetes,Discontinued,As directed
+RX00693,P0733,D0076,2026-03-08,Arthritis,Completed,Take after food
+RX00694,P0907,D0044,2026-05-02,Arthritis,Active,Take after food
+RX00695,P0793,D0074,2026-07-06,Hypothyroidism,Completed,As directed
+RX00696,P0748,D0063,2026-06-22,Hypertension,Discontinued,Take before food
+RX00697,P0994,D0033,2026-02-21,Arthritis,Completed,Take before food
+RX00698,P0152,D0099,2026-01-03,Type 2 Diabetes,Active,Take after food
+RX00699,P0656,D0098,2026-09-16,High Cholesterol,Discontinued,As directed
+RX00700,P0488,D0001,2026-02-07,GERD,Active,As directed
+RX00701,P0651,D0055,2026-05-28,Hypertension,Active,Take after food
+RX00702,P0145,D0013,2026-01-18,Hypertension,Completed,Take before food
+RX00703,P0555,D0063,2026-07-01,GERD,Active,Take after food
+RX00704,P0042,D0008,2026-08-09,Migraine,Completed,Take before food
+RX00705,P0180,D0045,2026-08-10,Arthritis,Discontinued,As directed
+RX00706,P0393,D0019,2026-03-26,Asthma,Discontinued,Take after food
+RX00707,P0976,D0096,2026-05-17,Arthritis,Completed,Take after food
+RX00708,P0472,D0012,2026-06-27,Hypertension,Completed,Take before food
+RX00709,P0220,D0077,2026-04-21,Asthma,Discontinued,As directed
+RX00710,P0422,D0097,2026-08-27,Hypertension,Active,Take before food
+RX00711,P0258,D0087,2026-03-14,GERD,Discontinued,Take after food
+RX00712,P0343,D0098,2026-06-20,High Cholesterol,Active,Take before food
+RX00713,P0898,D0047,2026-01-28,Asthma,Completed,Take before food
+RX00714,P0495,D0003,2026-06-06,Hypertension,Discontinued,Take after food
+RX00715,P0715,D0001,2026-07-20,GERD,Active,Take before food
+RX00716,P0897,D0032,2026-07-05,Asthma,Completed,Take after food
+RX00717,P0560,D0021,2026-06-07,GERD,Active,As directed
+RX00718,P0240,D0020,2026-03-24,Hypothyroidism,Active,Take before food
+RX00719,P0060,D0055,2026-06-05,High Cholesterol,Discontinued,Take after food
+RX00720,P0467,D0031,2026-04-29,Asthma,Active,Take after food
+RX00721,P0267,D0053,2026-08-06,Migraine,Completed,Take before food
+RX00722,P0950,D0100,2026-05-08,Hypertension,Discontinued,Take after food
+RX00723,P0814,D0078,2026-06-01,Arthritis,Active,As directed
+RX00724,P0323,D0089,2026-02-01,Asthma,Active,As directed
+RX00725,P0507,D0014,2026-03-03,Hypertension,Discontinued,Take after food
+RX00726,P0283,D0097,2026-04-21,Migraine,Active,Take after food
+RX00727,P0373,D0098,2026-01-28,Hypertension,Discontinued,As directed
+RX00728,P0917,D0031,2026-01-22,Migraine,Discontinued,As directed
+RX00729,P0859,D0053,2026-01-29,Hypertension,Discontinued,As directed
+RX00730,P0946,D0062,2026-09-15,Hypothyroidism,Completed,As directed
+RX00731,P0540,D0051,2026-06-17,Arthritis,Discontinued,As directed
+RX00732,P0311,D0020,2026-06-29,Asthma,Active,Take before food
+RX00733,P0451,D0050,2026-08-28,Arthritis,Completed,Take before food
+RX00734,P0710,D0056,2026-06-09,Migraine,Active,As directed
+RX00735,P0180,D0064,2026-06-24,GERD,Active,Take after food
+RX00736,P0618,D0027,2026-07-04,Asthma,Active,As directed
+RX00737,P0418,D0057,2026-05-24,Migraine,Active,Take after food
+RX00738,P0782,D0023,2026-08-06,Type 2 Diabetes,Completed,Take after food
+RX00739,P0628,D0046,2026-04-08,Asthma,Discontinued,Take after food
+RX00740,P0999,D0036,2026-02-08,GERD,Discontinued,Take before food
+RX00741,P0186,D0096,2026-04-24,Hypertension,Discontinued,Take before food
+RX00742,P0468,D0064,2026-04-23,GERD,Active,Take after food
+RX00743,P0260,D0007,2026-05-06,Migraine,Discontinued,Take before food
+RX00744,P0729,D0028,2026-03-17,Hypothyroidism,Active,Take after food
+RX00745,P0942,D0063,2026-06-29,Arthritis,Active,Take after food
+RX00746,P0749,D0060,2026-06-02,High Cholesterol,Completed,Take before food
+RX00747,P0666,D0056,2026-02-01,High Cholesterol,Discontinued,Take before food
+RX00748,P0328,D0069,2026-09-18,Arthritis,Active,Take before food
+RX00749,P0904,D0056,2026-06-03,Arthritis,Discontinued,Take before food
+RX00750,P0877,D0080,2026-06-26,Type 2 Diabetes,Discontinued,As directed
+RX00751,P0902,D0071,2026-04-23,GERD,Discontinued,Take after food
+RX00752,P0656,D0032,2026-09-19,GERD,Completed,As directed
+RX00753,P0954,D0014,2026-06-09,Migraine,Discontinued,Take after food
+RX00754,P0968,D0073,2026-07-29,High Cholesterol,Discontinued,Take before food
+RX00755,P0420,D0015,2026-08-24,Hypertension,Completed,Take after food
+RX00756,P0325,D0051,2026-02-20,Type 2 Diabetes,Discontinued,Take before food
+RX00757,P0971,D0099,2026-07-06,Arthritis,Active,Take after food
+RX00758,P0506,D0039,2026-09-24,Type 2 Diabetes,Completed,As directed
+RX00759,P0894,D0049,2026-02-14,Type 2 Diabetes,Completed,As directed
+RX00760,P0541,D0078,2026-02-02,Hypertension,Completed,Take after food
+RX00761,P0752,D0065,2026-03-06,GERD,Discontinued,Take before food
+RX00762,P0926,D0002,2026-04-06,Type 2 Diabetes,Completed,As directed
+RX00763,P0219,D0083,2026-07-02,Type 2 Diabetes,Completed,Take after food
+RX00764,P0664,D0034,2026-01-31,Asthma,Completed,Take after food
+RX00765,P0384,D0082,2026-02-19,Type 2 Diabetes,Completed,As directed
+RX00766,P0787,D0062,2026-01-06,Hypothyroidism,Completed,Take before food
+RX00767,P0253,D0043,2026-07-27,Asthma,Discontinued,Take after food
+RX00768,P0753,D0100,2026-06-02,Type 2 Diabetes,Discontinued,Take before food
+RX00769,P0086,D0075,2026-03-09,Hypertension,Discontinued,Take after food
+RX00770,P0178,D0064,2026-01-17,Type 2 Diabetes,Discontinued,Take before food
+RX00771,P0801,D0032,2026-06-24,Asthma,Completed,Take before food
+RX00772,P0639,D0018,2026-04-03,Type 2 Diabetes,Active,Take after food
+RX00773,P0827,D0026,2026-09-18,Migraine,Discontinued,As directed
+RX00774,P0782,D0082,2026-06-16,Hypertension,Completed,As directed
+RX00775,P0258,D0027,2026-08-15,Type 2 Diabetes,Active,Take after food
+RX00776,P0755,D0008,2026-07-22,Migraine,Active,Take after food
+RX00777,P0810,D0010,2026-08-21,Hypothyroidism,Active,As directed
+RX00778,P0069,D0073,2026-04-18,GERD,Completed,Take after food
+RX00779,P0699,D0041,2026-06-01,Migraine,Completed,As directed
+RX00780,P0195,D0014,2026-04-24,Type 2 Diabetes,Active,Take after food
+RX00781,P0368,D0038,2026-01-02,GERD,Discontinued,As directed
+RX00782,P0512,D0025,2026-02-22,Migraine,Active,Take before food
+RX00783,P0667,D0003,2026-05-23,Arthritis,Discontinued,Take after food
+RX00784,P0461,D0053,2026-09-05,Migraine,Active,As directed
+RX00785,P0570,D0088,2026-03-08,Hypothyroidism,Discontinued,As directed
+RX00786,P0277,D0025,2026-02-26,Hypothyroidism,Active,Take after food
+RX00787,P0303,D0043,2026-05-25,High Cholesterol,Discontinued,As directed
+RX00788,P0009,D0100,2026-03-10,GERD,Active,Take before food
+RX00789,P0783,D0069,2026-06-27,Migraine,Discontinued,As directed
+RX00790,P0284,D0043,2026-01-28,Migraine,Active,Take after food
+RX00791,P0166,D0057,2026-07-13,GERD,Discontinued,Take after food
+RX00792,P0133,D0013,2026-08-05,Hypertension,Completed,Take before food
+RX00793,P0130,D0043,2026-08-18,Asthma,Discontinued,Take after food
+RX00794,P0770,D0094,2026-05-11,Migraine,Completed,Take before food
+RX00795,P0911,D0016,2026-07-27,Hypertension,Completed,Take before food
+RX00796,P0305,D0083,2026-02-03,Asthma,Discontinued,Take after food
+RX00797,P0872,D0098,2026-01-08,High Cholesterol,Completed,Take after food
+RX00798,P0742,D0036,2026-04-13,Migraine,Discontinued,Take before food
+RX00799,P0106,D0003,2026-03-27,Migraine,Completed,Take before food
+RX00800,P0897,D0094,2026-05-19,Arthritis,Active,Take after food
+RX00801,P0472,D0031,2026-04-18,Arthritis,Discontinued,Take before food
+RX00802,P0580,D0059,2026-06-09,Asthma,Discontinued,Take before food
+RX00803,P0533,D0080,2026-03-26,High Cholesterol,Active,Take before food
+RX00804,P0870,D0100,2026-06-22,High Cholesterol,Active,Take after food
+RX00805,P0981,D0024,2026-08-17,GERD,Completed,As directed
+RX00806,P0406,D0082,2026-04-09,Hypertension,Active,As directed
+RX00807,P0261,D0063,2026-04-23,Type 2 Diabetes,Completed,Take after food
+RX00808,P0348,D0068,2026-09-09,GERD,Discontinued,Take before food
+RX00809,P0144,D0021,2026-02-12,Asthma,Discontinued,As directed
+RX00810,P0684,D0021,2026-01-18,Hypertension,Discontinued,Take before food
+RX00811,P0013,D0082,2026-04-20,Asthma,Discontinued,Take before food
+RX00812,P0137,D0007,2026-04-26,High Cholesterol,Discontinued,As directed
+RX00813,P0491,D0082,2026-06-04,High Cholesterol,Completed,Take after food
+RX00814,P0368,D0005,2026-03-06,Hypertension,Active,Take before food
+RX00815,P0680,D0094,2026-05-03,Hypothyroidism,Discontinued,Take after food
+RX00816,P0413,D0049,2026-05-24,Hypothyroidism,Discontinued,Take after food
+RX00817,P0417,D0044,2026-06-05,Hypothyroidism,Discontinued,Take after food
+RX00818,P0621,D0074,2026-06-14,GERD,Discontinued,Take after food
+RX00819,P0860,D0029,2026-05-31,Migraine,Completed,As directed
+RX00820,P0329,D0032,2026-07-19,Asthma,Completed,Take before food
+RX00821,P0195,D0063,2026-06-09,Arthritis,Active,As directed
+RX00822,P0215,D0012,2026-02-25,Hypothyroidism,Completed,Take before food
+RX00823,P0410,D0030,2026-06-03,High Cholesterol,Active,As directed
+RX00824,P0830,D0005,2026-02-19,Type 2 Diabetes,Completed,Take before food
+RX00825,P0750,D0015,2026-09-19,Hypothyroidism,Active,Take before food
+RX00826,P0621,D0060,2026-01-03,GERD,Completed,As directed
+RX00827,P0266,D0086,2026-02-06,Type 2 Diabetes,Discontinued,As directed
+RX00828,P0267,D0005,2026-07-10,Hypothyroidism,Discontinued,Take before food
+RX00829,P0506,D0051,2026-02-18,Arthritis,Active,Take before food
+RX00830,P0495,D0088,2026-01-09,Migraine,Completed,Take before food
+RX00831,P0823,D0029,2026-02-21,Arthritis,Active,As directed
+RX00832,P0255,D0034,2026-07-31,Arthritis,Active,As directed
+RX00833,P0222,D0029,2026-06-16,Migraine,Completed,Take before food
+RX00834,P0112,D0043,2026-03-21,Asthma,Discontinued,Take after food
+RX00835,P0867,D0007,2026-09-07,Migraine,Completed,Take after food
+RX00836,P0351,D0073,2026-08-18,Hypothyroidism,Completed,As directed
+RX00837,P0839,D0047,2026-02-12,Hypothyroidism,Active,Take before food
+RX00838,P0579,D0071,2026-04-28,High Cholesterol,Completed,Take before food
+RX00839,P0100,D0040,2026-09-06,Hypothyroidism,Discontinued,Take before food
+RX00840,P0596,D0094,2026-09-18,High Cholesterol,Discontinued,Take after food
+RX00841,P0381,D0087,2026-02-21,Asthma,Completed,As directed
+RX00842,P0610,D0029,2026-04-20,GERD,Completed,As directed
+RX00843,P0668,D0085,2026-01-25,Asthma,Discontinued,Take after food
+RX00844,P0087,D0098,2026-07-20,Type 2 Diabetes,Discontinued,As directed
+RX00845,P0528,D0054,2026-05-16,GERD,Completed,Take before food
+RX00846,P0537,D0056,2026-04-13,GERD,Active,Take after food
+RX00847,P0469,D0009,2026-02-19,Type 2 Diabetes,Completed,As directed
+RX00848,P0260,D0033,2026-03-15,Type 2 Diabetes,Completed,As directed
+RX00849,P0511,D0086,2026-09-16,Type 2 Diabetes,Discontinued,Take before food
+RX00850,P0703,D0008,2026-06-25,Type 2 Diabetes,Active,As directed
+RX00851,P0586,D0072,2026-05-18,GERD,Active,Take before food
+RX00852,P0770,D0035,2026-02-03,Type 2 Diabetes,Discontinued,As directed
+RX00853,P0598,D0039,2026-03-04,Arthritis,Active,Take before food
+RX00854,P0296,D0022,2026-02-10,Hypothyroidism,Completed,Take after food
+RX00855,P0146,D0057,2026-01-15,Migraine,Completed,Take before food
+RX00856,P0084,D0022,2026-09-26,Asthma,Discontinued,Take before food
+RX00857,P0873,D0065,2026-08-24,High Cholesterol,Active,As directed
+RX00858,P0119,D0007,2026-06-26,High Cholesterol,Completed,As directed
+RX00859,P0283,D0029,2026-03-01,Type 2 Diabetes,Active,Take after food
+RX00860,P0319,D0083,2026-05-11,Asthma,Completed,Take after food
+RX00861,P0855,D0098,2026-03-19,Type 2 Diabetes,Discontinued,As directed
+RX00862,P0368,D0034,2026-04-02,GERD,Completed,Take after food
+RX00863,P0103,D0084,2026-01-27,Arthritis,Discontinued,Take after food
+RX00864,P0009,D0071,2026-08-12,Hypothyroidism,Completed,Take after food
+RX00865,P0275,D0087,2026-07-03,Asthma,Discontinued,Take before food
+RX00866,P0614,D0003,2026-06-14,High Cholesterol,Completed,As directed
+RX00867,P0048,D0050,2026-03-18,Migraine,Discontinued,As directed
+RX00868,P0541,D0021,2026-07-04,High Cholesterol,Discontinued,As directed
+RX00869,P0287,D0069,2026-07-23,GERD,Discontinued,As directed
+RX00870,P0081,D0069,2026-05-25,Hypothyroidism,Discontinued,As directed
+RX00871,P0955,D0037,2026-03-31,Type 2 Diabetes,Active,Take after food
+RX00872,P0244,D0037,2026-01-18,Hypothyroidism,Completed,As directed
+RX00873,P0917,D0083,2026-09-13,High Cholesterol,Active,As directed
+RX00874,P0402,D0019,2026-03-15,GERD,Active,Take before food
+RX00875,P0143,D0051,2026-04-18,Migraine,Completed,Take after food
+RX00876,P0114,D0032,2026-01-30,GERD,Discontinued,Take before food
+RX00877,P0481,D0014,2026-03-24,Hypothyroidism,Discontinued,As directed
+RX00878,P0287,D0064,2026-06-04,Arthritis,Discontinued,Take before food
+RX00879,P0988,D0006,2026-08-09,Hypertension,Completed,Take before food
+RX00880,P0121,D0035,2026-05-24,Hypothyroidism,Discontinued,Take after food
+RX00881,P0825,D0066,2026-07-27,Arthritis,Discontinued,Take after food
+RX00882,P0126,D0056,2026-09-15,Hypothyroidism,Completed,As directed
+RX00883,P0941,D0098,2026-08-21,Hypothyroidism,Completed,As directed
+RX00884,P0618,D0043,2026-03-12,High Cholesterol,Completed,As directed
+RX00885,P0462,D0099,2026-04-21,Arthritis,Discontinued,Take after food
+RX00886,P0043,D0030,2026-02-08,Hypothyroidism,Discontinued,As directed
+RX00887,P0577,D0027,2026-07-13,Asthma,Discontinued,Take after food
+RX00888,P0254,D0070,2026-02-27,Hypothyroidism,Discontinued,Take before food
+RX00889,P0739,D0057,2026-03-09,Migraine,Discontinued,Take after food
+RX00890,P0886,D0051,2026-08-19,High Cholesterol,Discontinued,As directed
+RX00891,P0009,D0087,2026-08-20,High Cholesterol,Active,Take before food
+RX00892,P0075,D0071,2026-06-14,Hypothyroidism,Discontinued,As directed
+RX00893,P0022,D0059,2026-07-26,Migraine,Active,As directed
+RX00894,P0151,D0006,2026-07-31,Migraine,Completed,Take before food
+RX00895,P0335,D0049,2026-08-11,Arthritis,Completed,Take after food
+RX00896,P0707,D0050,2026-07-20,High Cholesterol,Active,As directed
+RX00897,P0566,D0086,2026-04-17,Type 2 Diabetes,Discontinued,Take after food
+RX00898,P0816,D0085,2026-04-01,Asthma,Active,Take after food
+RX00899,P0928,D0037,2026-02-19,Asthma,Active,Take after food
+RX00900,P0504,D0077,2026-01-16,Asthma,Completed,As directed
+RX00901,P0551,D0058,2026-09-13,High Cholesterol,Discontinued,Take after food
+RX00902,P0938,D0097,2026-03-31,Type 2 Diabetes,Active,Take after food
+RX00903,P0344,D0099,2026-04-22,GERD,Discontinued,Take before food
+RX00904,P0645,D0061,2026-01-04,Arthritis,Active,Take after food
+RX00905,P0615,D0017,2026-03-21,Asthma,Active,Take after food
+RX00906,P0240,D0027,2026-01-08,GERD,Discontinued,Take before food
+RX00907,P0329,D0061,2026-01-04,Migraine,Discontinued,As directed
+RX00908,P0911,D0042,2026-08-30,Hypertension,Discontinued,Take before food
+RX00909,P0617,D0082,2026-02-11,Type 2 Diabetes,Active,As directed
+RX00910,P0160,D0069,2026-04-11,Asthma,Completed,As directed
+RX00911,P0433,D0096,2026-05-03,Migraine,Discontinued,Take after food
+RX00912,P0792,D0056,2026-02-14,High Cholesterol,Active,As directed
+RX00913,P0015,D0089,2026-04-22,Hypertension,Active,As directed
+RX00914,P0203,D0031,2026-08-22,Hypothyroidism,Discontinued,Take after food
+RX00915,P0967,D0090,2026-02-05,Hypothyroidism,Completed,As directed
+RX00916,P0965,D0008,2026-09-13,Migraine,Discontinued,Take before food
+RX00917,P0079,D0078,2026-07-06,Migraine,Completed,Take after food
+RX00918,P0928,D0086,2026-02-25,Arthritis,Discontinued,Take after food
+RX00919,P0661,D0010,2026-07-23,Hypertension,Discontinued,As directed
+RX00920,P0617,D0037,2026-04-05,Asthma,Active,Take after food
+RX00921,P0066,D0096,2026-09-16,GERD,Discontinued,As directed
+RX00922,P0934,D0044,2026-03-17,High Cholesterol,Active,Take after food
+RX00923,P0929,D0005,2026-01-04,Type 2 Diabetes,Completed,Take after food
+RX00924,P0236,D0019,2026-09-12,Asthma,Completed,As directed
+RX00925,P0451,D0067,2026-01-18,High Cholesterol,Active,As directed
+RX00926,P0912,D0098,2026-05-17,Migraine,Active,Take after food
+RX00927,P0522,D0069,2026-06-07,High Cholesterol,Completed,Take before food
+RX00928,P0156,D0044,2026-09-06,High Cholesterol,Completed,Take after food
+RX00929,P0274,D0077,2026-02-17,Migraine,Completed,As directed
+RX00930,P0340,D0071,2026-09-01,Migraine,Discontinued,Take before food
+RX00931,P0045,D0020,2026-03-08,High Cholesterol,Discontinued,As directed
+RX00932,P0656,D0025,2026-01-29,Type 2 Diabetes,Discontinued,Take after food
+RX00933,P0384,D0057,2026-02-17,Type 2 Diabetes,Active,Take before food
+RX00934,P0657,D0031,2026-03-31,GERD,Active,Take before food
+RX00935,P0922,D0012,2026-03-20,Hypertension,Completed,Take after food
+RX00936,P0357,D0006,2026-07-19,Arthritis,Active,Take after food
+RX00937,P0058,D0049,2026-08-05,Asthma,Discontinued,Take before food
+RX00938,P0289,D0009,2026-08-28,GERD,Completed,As directed
+RX00939,P0944,D0070,2026-02-14,Hypothyroidism,Discontinued,Take before food
+RX00940,P0949,D0055,2026-04-06,GERD,Discontinued,Take before food
+RX00941,P0129,D0093,2026-06-04,Hypertension,Active,As directed
+RX00942,P0505,D0047,2026-01-30,Type 2 Diabetes,Active,As directed
+RX00943,P0990,D0040,2026-01-25,Type 2 Diabetes,Discontinued,Take after food
+RX00944,P0540,D0094,2026-06-26,Asthma,Discontinued,As directed
+RX00945,P0184,D0028,2026-07-18,Hypertension,Completed,Take after food
+RX00946,P0119,D0062,2026-03-24,Hypothyroidism,Completed,Take after food
+RX00947,P0328,D0020,2026-01-22,Hypertension,Completed,As directed
+RX00948,P0932,D0054,2026-07-06,Hypertension,Completed,Take before food
+RX00949,P0578,D0004,2026-01-23,Arthritis,Discontinued,Take before food
+RX00950,P0659,D0083,2026-02-14,Arthritis,Completed,As directed
+RX00951,P0939,D0002,2026-03-06,Migraine,Active,Take before food
+RX00952,P0491,D0027,2026-09-26,Hypertension,Completed,As directed
+RX00953,P0557,D0057,2026-03-06,Arthritis,Completed,Take after food
+RX00954,P0165,D0022,2026-06-01,Migraine,Active,Take after food
+RX00955,P0237,D0087,2026-06-14,High Cholesterol,Discontinued,As directed
+RX00956,P0056,D0023,2026-01-31,Type 2 Diabetes,Active,Take before food
+RX00957,P0767,D0062,2026-01-15,Hypertension,Active,Take after food
+RX00958,P0846,D0028,2026-03-13,Arthritis,Active,Take before food
+RX00959,P0824,D0004,2026-03-31,Hypothyroidism,Completed,Take before food
+RX00960,P0686,D0011,2026-08-31,Arthritis,Active,As directed
+RX00961,P0962,D0068,2026-03-27,High Cholesterol,Discontinued,Take before food
+RX00962,P0874,D0005,2026-02-19,Migraine,Completed,Take after food
+RX00963,P0320,D0029,2026-05-24,Arthritis,Active,As directed
+RX00964,P0312,D0075,2026-09-15,Type 2 Diabetes,Discontinued,Take after food
+RX00965,P0861,D0040,2026-06-11,Arthritis,Completed,As directed
+RX00966,P0294,D0084,2026-06-01,Hypothyroidism,Discontinued,Take after food
+RX00967,P0201,D0030,2026-05-20,Hypertension,Active,Take after food
+RX00968,P0923,D0006,2026-02-11,Arthritis,Discontinued,Take after food
+RX00969,P0369,D0085,2026-05-01,Arthritis,Completed,Take after food
+RX00970,P0876,D0056,2026-03-19,Asthma,Completed,As directed
+RX00971,P0680,D0005,2026-02-02,Migraine,Discontinued,As directed
+RX00972,P0873,D0099,2026-05-03,Migraine,Completed,Take after food
+RX00973,P0244,D0028,2026-04-01,Type 2 Diabetes,Discontinued,Take after food
+RX00974,P0714,D0068,2026-06-30,Hypothyroidism,Completed,Take before food
+RX00975,P0795,D0071,2026-01-31,Arthritis,Active,Take after food
+RX00976,P0010,D0082,2026-07-11,Hypertension,Active,As directed
+RX00977,P0724,D0039,2026-03-20,GERD,Completed,As directed
+RX00978,P0379,D0009,2026-04-05,High Cholesterol,Discontinued,Take before food
+RX00979,P0406,D0042,2026-04-07,Type 2 Diabetes,Discontinued,Take before food
+RX00980,P0900,D0077,2026-05-11,Type 2 Diabetes,Completed,Take after food
+RX00981,P0645,D0022,2026-02-28,Hypertension,Discontinued,Take before food
+RX00982,P0042,D0094,2026-09-17,GERD,Active,Take before food
+RX00983,P0019,D0001,2026-08-16,GERD,Active,As directed
+RX00984,P0668,D0054,2026-02-21,Hypertension,Discontinued,Take after food
+RX00985,P0576,D0093,2026-02-26,High Cholesterol,Completed,Take after food
+RX00986,P0317,D0078,2026-04-14,Hypothyroidism,Active,Take after food
+RX00987,P0377,D0047,2026-05-04,High Cholesterol,Discontinued,Take before food
+RX00988,P0885,D0042,2026-02-22,High Cholesterol,Completed,Take before food
+RX00989,P0135,D0070,2026-02-21,Hypothyroidism,Active,As directed
+RX00990,P0163,D0033,2026-01-25,Hypertension,Active,Take after food
+RX00991,P0321,D0074,2026-09-10,High Cholesterol,Discontinued,Take before food
+RX00992,P0878,D0070,2026-04-27,Type 2 Diabetes,Completed,Take after food
+RX00993,P0655,D0006,2026-03-16,Asthma,Discontinued,Take before food
+RX00994,P0977,D0096,2026-01-07,Migraine,Discontinued,As directed
+RX00995,P0606,D0063,2026-09-07,Arthritis,Discontinued,As directed
+RX00996,P0740,D0034,2026-04-28,Asthma,Completed,Take after food
+RX00997,P0644,D0072,2026-03-23,Hypertension,Completed,Take before food
+RX00998,P0186,D0015,2026-03-13,Migraine,Discontinued,As directed
+RX00999,P0523,D0039,2026-07-18,Type 2 Diabetes,Discontinued,Take after food
+RX01000,P0963,D0091,2026-05-27,Migraine,Completed,Take before food
+RX01001,P0666,D0076,2026-09-06,Asthma,Discontinued,As directed
+RX01002,P0427,D0079,2026-03-19,High Cholesterol,Active,Take before food
+RX01003,P0378,D0011,2026-08-27,Arthritis,Active,Take before food
+RX01004,P0833,D0046,2026-04-29,High Cholesterol,Active,Take before food
+RX01005,P0225,D0033,2026-02-27,Migraine,Completed,As directed
+RX01006,P0576,D0066,2026-07-19,Asthma,Discontinued,Take before food
+RX01007,P0300,D0038,2026-05-03,High Cholesterol,Discontinued,Take before food
+RX01008,P0929,D0027,2026-05-15,Type 2 Diabetes,Discontinued,Take after food
+RX01009,P0147,D0078,2026-04-27,Hypertension,Active,Take after food
+RX01010,P0559,D0014,2026-04-24,Hypertension,Discontinued,Take after food
+RX01011,P0072,D0015,2026-01-07,Migraine,Completed,Take before food
+RX01012,P0383,D0074,2026-08-12,GERD,Active,Take after food
+RX01013,P0873,D0054,2026-05-10,High Cholesterol,Discontinued,Take before food
+RX01014,P0758,D0095,2026-04-30,Migraine,Active,Take before food
+RX01015,P0219,D0039,2026-09-03,Migraine,Completed,Take before food
+RX01016,P0022,D0066,2026-04-28,Asthma,Discontinued,Take after food
+RX01017,P0541,D0082,2026-07-21,Type 2 Diabetes,Active,Take after food
+RX01018,P0971,D0059,2026-06-17,Type 2 Diabetes,Discontinued,As directed
+RX01019,P0549,D0099,2026-09-09,Hypertension,Active,Take after food
+RX01020,P0932,D0063,2026-06-07,Type 2 Diabetes,Completed,Take after food
+RX01021,P0358,D0044,2026-03-14,Migraine,Discontinued,Take before food
+RX01022,P0446,D0067,2026-04-20,Hypothyroidism,Discontinued,As directed
+RX01023,P0931,D0100,2026-04-01,GERD,Active,Take after food
+RX01024,P0981,D0022,2026-09-26,High Cholesterol,Active,Take after food
+RX01025,P0771,D0017,2026-02-01,GERD,Completed,As directed
+RX01026,P0268,D0031,2026-09-02,Asthma,Discontinued,Take before food
+RX01027,P0030,D0021,2026-06-30,Hypothyroidism,Completed,As directed
+RX01028,P0332,D0079,2026-05-15,Asthma,Completed,As directed
+RX01029,P0950,D0007,2026-05-01,Asthma,Discontinued,As directed
+RX01030,P0254,D0016,2026-09-17,Hypertension,Active,As directed
+RX01031,P0363,D0083,2026-01-13,Migraine,Completed,As directed
+RX01032,P0699,D0012,2026-05-01,Migraine,Discontinued,As directed
+RX01033,P0535,D0091,2026-08-31,Asthma,Active,Take before food
+RX01034,P0652,D0100,2026-01-24,Migraine,Discontinued,As directed
+RX01035,P0266,D0085,2026-09-12,Migraine,Active,As directed
+RX01036,P0889,D0083,2026-04-14,Type 2 Diabetes,Active,Take before food
+RX01037,P0778,D0005,2026-03-18,Hypothyroidism,Active,As directed
+RX01038,P0292,D0053,2026-04-29,Type 2 Diabetes,Active,Take before food
+RX01039,P0267,D0057,2026-05-07,High Cholesterol,Completed,Take after food
+RX01040,P0173,D0099,2026-06-14,Arthritis,Completed,As directed
+RX01041,P0401,D0025,2026-03-03,Migraine,Completed,Take after food
+RX01042,P0876,D0083,2026-08-26,Arthritis,Completed,As directed
+RX01043,P0114,D0072,2026-08-19,Hypertension,Completed,As directed
+RX01044,P0139,D0019,2026-08-08,High Cholesterol,Completed,Take before food
+RX01045,P0140,D0069,2026-02-23,Arthritis,Discontinued,Take before food
+RX01046,P0109,D0076,2026-09-20,Hypertension,Active,Take before food
+RX01047,P0285,D0041,2026-05-21,GERD,Completed,Take before food
+RX01048,P0358,D0075,2026-07-10,Asthma,Active,Take before food
+RX01049,P0440,D0025,2026-09-01,High Cholesterol,Discontinued,Take after food
+RX01050,P0426,D0037,2026-07-11,High Cholesterol,Active,Take before food
+RX01051,P0115,D0024,2026-05-30,Type 2 Diabetes,Completed,Take after food
+RX01052,P0055,D0064,2026-01-30,Hypertension,Discontinued,Take before food
+RX01053,P0544,D0027,2026-05-12,Hypertension,Active,As directed
+RX01054,P0946,D0051,2026-03-18,High Cholesterol,Active,Take after food
+RX01055,P0051,D0023,2026-07-03,Hypothyroidism,Discontinued,Take before food
+RX01056,P0966,D0064,2026-09-02,Migraine,Completed,As directed
+RX01057,P0299,D0078,2026-07-22,High Cholesterol,Completed,Take before food
+RX01058,P0234,D0042,2026-02-20,Asthma,Completed,Take after food
+RX01059,P0533,D0032,2026-01-24,Migraine,Active,As directed
+RX01060,P0607,D0059,2026-01-02,Migraine,Discontinued,Take after food
+RX01061,P0784,D0088,2026-05-17,High Cholesterol,Discontinued,As directed
+RX01062,P0897,D0089,2026-05-24,Hypothyroidism,Completed,As directed
+RX01063,P0960,D0026,2026-04-23,Arthritis,Discontinued,As directed
+RX01064,P0829,D0044,2026-03-25,Hypothyroidism,Active,As directed
+RX01065,P0333,D0038,2026-08-02,Asthma,Active,Take before food
+RX01066,P0466,D0011,2026-07-29,Asthma,Discontinued,Take before food
+RX01067,P0063,D0012,2026-08-09,High Cholesterol,Active,As directed
+RX01068,P0095,D0053,2026-08-13,Hypothyroidism,Active,Take after food
+RX01069,P0812,D0019,2026-08-23,Type 2 Diabetes,Discontinued,Take before food
+RX01070,P0358,D0076,2026-02-04,Migraine,Completed,Take before food
+RX01071,P0499,D0062,2026-01-13,Asthma,Completed,Take before food
+RX01072,P0231,D0029,2026-07-18,GERD,Discontinued,Take before food
+RX01073,P0613,D0013,2026-03-12,Hypothyroidism,Completed,Take before food
+RX01074,P0154,D0035,2026-07-29,High Cholesterol,Discontinued,Take after food
+RX01075,P0772,D0052,2026-01-20,High Cholesterol,Active,Take before food
+RX01076,P0604,D0068,2026-04-17,Asthma,Discontinued,Take after food
+RX01077,P0655,D0099,2026-08-31,Type 2 Diabetes,Discontinued,Take before food
+RX01078,P0773,D0027,2026-08-03,Arthritis,Active,As directed
+RX01079,P0190,D0010,2026-09-15,Type 2 Diabetes,Completed,As directed
+RX01080,P0920,D0097,2026-07-16,Type 2 Diabetes,Active,Take before food
+RX01081,P0659,D0074,2026-08-13,GERD,Active,Take before food
+RX01082,P0758,D0087,2026-01-25,Type 2 Diabetes,Completed,As directed
+RX01083,P0816,D0082,2026-04-19,GERD,Completed,Take before food
+RX01084,P0800,D0053,2026-01-02,Arthritis,Active,As directed
+RX01085,P0302,D0058,2026-08-22,Migraine,Discontinued,As directed
+RX01086,P0168,D0075,2026-07-24,High Cholesterol,Discontinued,Take after food
+RX01087,P0398,D0053,2026-01-21,Asthma,Discontinued,Take before food
+RX01088,P0588,D0017,2026-07-16,Hypothyroidism,Active,As directed
+RX01089,P0826,D0055,2026-08-20,GERD,Completed,Take after food
+RX01090,P0639,D0049,2026-04-28,Hypothyroidism,Completed,Take after food
+RX01091,P0487,D0031,2026-01-06,Hypothyroidism,Active,Take before food
+RX01092,P0370,D0048,2026-05-12,Hypertension,Active,As directed
+RX01093,P0573,D0036,2026-04-11,Type 2 Diabetes,Discontinued,Take after food
+RX01094,P0800,D0065,2026-02-20,Hypertension,Active,Take before food
+RX01095,P0325,D0020,2026-01-03,Asthma,Discontinued,Take before food
+RX01096,P0612,D0002,2026-09-05,GERD,Discontinued,As directed
+RX01097,P0673,D0065,2026-03-05,Hypothyroidism,Discontinued,Take after food
+RX01098,P0383,D0054,2026-08-01,Type 2 Diabetes,Completed,Take before food
+RX01099,P0042,D0022,2026-03-09,Hypertension,Discontinued,Take after food
+RX01100,P0149,D0022,2026-06-04,Asthma,Completed,Take before food
+RX01101,P0444,D0011,2026-06-16,Hypothyroidism,Active,Take before food
+RX01102,P0716,D0047,2026-07-23,Hypothyroidism,Completed,Take after food
+RX01103,P0870,D0052,2026-09-12,Arthritis,Active,Take before food
+RX01104,P0929,D0028,2026-04-11,High Cholesterol,Discontinued,Take after food
+RX01105,P0203,D0087,2026-01-13,Migraine,Discontinued,As directed
+RX01106,P0729,D0016,2026-07-22,Asthma,Discontinued,Take after food
+RX01107,P0467,D0052,2026-07-07,Migraine,Completed,Take before food
+RX01108,P0999,D0038,2026-08-16,Asthma,Active,Take before food
+RX01109,P0582,D0071,2026-01-29,Migraine,Discontinued,As directed
+RX01110,P0697,D0059,2026-06-14,Hypertension,Completed,Take before food
+RX01111,P0159,D0007,2026-08-10,Asthma,Completed,Take before food
+RX01112,P0705,D0042,2026-07-31,Asthma,Completed,As directed
+RX01113,P0609,D0033,2026-02-26,GERD,Discontinued,As directed
+RX01114,P0862,D0010,2026-07-29,Hypothyroidism,Discontinued,Take after food
+RX01115,P0502,D0030,2026-01-24,Type 2 Diabetes,Active,Take after food
+RX01116,P0940,D0058,2026-08-29,GERD,Completed,Take before food
+RX01117,P0965,D0086,2026-01-27,Hypertension,Active,Take after food
+RX01118,P0015,D0004,2026-08-09,High Cholesterol,Completed,Take after food
+RX01119,P0223,D0066,2026-03-11,Asthma,Active,Take before food
+RX01120,P0328,D0024,2026-01-16,Asthma,Discontinued,Take before food
+RX01121,P0104,D0022,2026-06-22,Migraine,Discontinued,As directed
+RX01122,P0412,D0024,2026-03-17,Type 2 Diabetes,Discontinued,Take after food
+RX01123,P0174,D0047,2026-01-14,Migraine,Discontinued,Take before food
+RX01124,P0109,D0011,2026-07-26,High Cholesterol,Completed,Take before food
+RX01125,P0357,D0021,2026-06-10,Arthritis,Active,Take before food
+RX01126,P0796,D0050,2026-08-01,Arthritis,Discontinued,As directed
+RX01127,P0574,D0029,2026-06-05,Hypothyroidism,Discontinued,Take before food
+RX01128,P0027,D0077,2026-07-28,Asthma,Active,As directed
+RX01129,P0950,D0079,2026-07-09,GERD,Discontinued,Take before food
+RX01130,P0157,D0008,2026-02-20,High Cholesterol,Completed,As directed
+RX01131,P0202,D0002,2026-02-21,Hypothyroidism,Completed,Take after food
+RX01132,P0832,D0023,2026-09-28,Arthritis,Discontinued,As directed
+RX01133,P0297,D0058,2026-01-11,Hypertension,Completed,As directed
+RX01134,P0590,D0094,2026-03-07,Type 2 Diabetes,Active,Take before food
+RX01135,P0074,D0008,2026-06-05,Migraine,Discontinued,Take after food
+RX01136,P0507,D0013,2026-04-25,Type 2 Diabetes,Discontinued,Take before food
+RX01137,P0260,D0055,2026-07-17,Hypertension,Discontinued,As directed
+RX01138,P0921,D0068,2026-09-21,GERD,Completed,As directed
+RX01139,P0951,D0004,2026-02-21,High Cholesterol,Active,As directed
+RX01140,P0822,D0059,2026-01-20,GERD,Completed,Take after food
+RX01141,P0985,D0086,2026-06-20,GERD,Active,As directed
+RX01142,P0710,D0065,2026-04-19,Arthritis,Discontinued,Take before food
+RX01143,P0984,D0024,2026-01-28,GERD,Active,As directed
+RX01144,P0762,D0060,2026-04-14,GERD,Active,As directed
+RX01145,P0004,D0004,2026-02-16,Migraine,Completed,As directed
+RX01146,P0977,D0025,2026-08-02,Asthma,Discontinued,As directed
+RX01147,P0661,D0079,2026-06-04,Migraine,Active,Take after food
+RX01148,P0843,D0034,2026-04-16,Asthma,Active,Take after food
+RX01149,P0035,D0090,2026-07-06,Hypothyroidism,Discontinued,Take before food
+RX01150,P0179,D0090,2026-04-25,High Cholesterol,Completed,As directed
+RX01151,P0498,D0068,2026-04-28,Type 2 Diabetes,Completed,Take after food
+RX01152,P0919,D0012,2026-05-26,Type 2 Diabetes,Completed,As directed
+RX01153,P0290,D0051,2026-06-11,GERD,Completed,Take after food
+RX01154,P0174,D0090,2026-02-13,Arthritis,Discontinued,As directed
+RX01155,P0257,D0014,2026-08-03,Arthritis,Active,Take before food
+RX01156,P0952,D0025,2026-04-01,Type 2 Diabetes,Completed,Take after food
+RX01157,P0154,D0015,2026-03-20,GERD,Completed,Take before food
+RX01158,P0830,D0090,2026-02-28,Hypothyroidism,Completed,Take before food
+RX01159,P0050,D0030,2026-04-15,Arthritis,Discontinued,Take after food
+RX01160,P0041,D0099,2026-07-16,Arthritis,Discontinued,Take before food
+RX01161,P0127,D0058,2026-09-08,Asthma,Active,Take before food
+RX01162,P0058,D0051,2026-06-18,GERD,Completed,Take after food
+RX01163,P0233,D0100,2026-07-16,Asthma,Active,As directed
+RX01164,P0727,D0001,2026-06-13,Type 2 Diabetes,Active,As directed
+RX01165,P0970,D0083,2026-03-09,Asthma,Discontinued,As directed
+RX01166,P0207,D0006,2026-03-16,Asthma,Active,Take after food
+RX01167,P0212,D0060,2026-05-10,Hypertension,Discontinued,Take before food
+RX01168,P0807,D0090,2026-04-21,Hypertension,Discontinued,As directed
+RX01169,P0420,D0003,2026-03-26,GERD,Discontinued,Take before food
+RX01170,P0199,D0005,2026-03-13,Hypothyroidism,Discontinued,Take before food
+RX01171,P0193,D0099,2026-06-21,Migraine,Active,Take after food
+RX01172,P0588,D0048,2026-08-15,Type 2 Diabetes,Discontinued,As directed
+RX01173,P0150,D0069,2026-06-20,Arthritis,Discontinued,Take before food
+RX01174,P0512,D0080,2026-03-03,High Cholesterol,Completed,Take after food
+RX01175,P0661,D0020,2026-09-20,GERD,Completed,Take after food
+RX01176,P0993,D0094,2026-08-14,Migraine,Completed,Take before food
+RX01177,P0737,D0051,2026-03-10,Type 2 Diabetes,Discontinued,Take after food
+RX01178,P0957,D0053,2026-06-12,Arthritis,Active,Take after food
+RX01179,P0108,D0005,2026-04-19,Arthritis,Active,Take before food
+RX01180,P0878,D0015,2026-07-15,Arthritis,Completed,Take before food
+RX01181,P0735,D0071,2026-08-16,Arthritis,Active,Take after food
+RX01182,P0275,D0010,2026-03-08,Type 2 Diabetes,Discontinued,Take after food
+RX01183,P0648,D0069,2026-01-05,Type 2 Diabetes,Completed,Take after food
+RX01184,P0872,D0028,2026-04-03,Arthritis,Completed,Take before food
+RX01185,P0635,D0052,2026-07-03,Arthritis,Completed,Take before food
+RX01186,P0045,D0065,2026-06-15,Arthritis,Completed,As directed
+RX01187,P0531,D0043,2026-07-18,Hypertension,Discontinued,Take after food
+RX01188,P0314,D0031,2026-09-21,GERD,Discontinued,As directed
+RX01189,P0984,D0078,2026-06-05,Migraine,Completed,Take after food
+RX01190,P0406,D0005,2026-07-18,Asthma,Discontinued,Take after food
+RX01191,P0585,D0082,2026-06-07,Arthritis,Active,Take before food
+RX01192,P0696,D0083,2026-02-23,Asthma,Discontinued,As directed
+RX01193,P0588,D0080,2026-04-06,Hypertension,Active,Take before food
+RX01194,P0477,D0064,2026-01-27,High Cholesterol,Discontinued,As directed
+RX01195,P0901,D0012,2026-04-28,Arthritis,Active,Take after food
+RX01196,P0993,D0075,2026-04-16,High Cholesterol,Active,Take before food
+RX01197,P0817,D0060,2026-02-01,GERD,Completed,Take after food
+RX01198,P0578,D0064,2026-06-30,Asthma,Active,As directed
+RX01199,P0315,D0013,2026-08-18,Asthma,Discontinued,As directed
+RX01200,P0107,D0029,2026-07-11,Asthma,Active,Take after food
+RX01201,P0144,D0090,2026-09-24,Arthritis,Discontinued,As directed
+RX01202,P0801,D0034,2026-06-05,Hypertension,Active,Take before food
+RX01203,P0177,D0063,2026-04-01,Migraine,Active,Take after food
+RX01204,P0132,D0086,2026-02-15,Type 2 Diabetes,Discontinued,Take before food
+RX01205,P0309,D0084,2026-06-08,Migraine,Discontinued,As directed
+RX01206,P0771,D0045,2026-03-16,Hypertension,Discontinued,Take before food
+RX01207,P0775,D0053,2026-01-10,Type 2 Diabetes,Discontinued,As directed
+RX01208,P0073,D0050,2026-01-02,Type 2 Diabetes,Completed,Take after food
+RX01209,P0253,D0062,2026-09-08,GERD,Active,Take after food
+RX01210,P0963,D0080,2026-02-18,Arthritis,Discontinued,Take before food
+RX01211,P0650,D0051,2026-08-17,Hypertension,Active,Take before food
+RX01212,P0177,D0008,2026-01-21,Migraine,Active,As directed
+RX01213,P0183,D0087,2026-01-05,Migraine,Completed,Take before food
+RX01214,P0947,D0003,2026-03-23,Type 2 Diabetes,Active,Take before food
+RX01215,P0570,D0044,2026-04-16,Hypothyroidism,Discontinued,Take before food
+RX01216,P0205,D0052,2026-05-21,Type 2 Diabetes,Completed,Take before food
+RX01217,P0844,D0005,2026-03-22,Type 2 Diabetes,Discontinued,Take after food
+RX01218,P0258,D0031,2026-03-23,Type 2 Diabetes,Discontinued,Take before food
+RX01219,P0550,D0055,2026-08-23,Hypothyroidism,Completed,Take before food
+RX01220,P0393,D0038,2026-09-14,Hypothyroidism,Discontinued,Take after food
+RX01221,P0392,D0031,2026-03-19,High Cholesterol,Active,As directed
+RX01222,P0290,D0067,2026-07-28,Type 2 Diabetes,Discontinued,Take before food
+RX01223,P0196,D0011,2026-09-26,Hypertension,Completed,Take after food
+RX01224,P0069,D0097,2026-07-14,Migraine,Active,As directed
+RX01225,P0481,D0008,2026-09-01,Asthma,Discontinued,Take after food
+RX01226,P0912,D0080,2026-05-17,Asthma,Completed,Take before food
+RX01227,P0552,D0100,2026-02-15,High Cholesterol,Completed,As directed
+RX01228,P0802,D0050,2026-03-22,Migraine,Completed,Take after food
+RX01229,P0521,D0067,2026-05-02,Asthma,Active,Take before food
+RX01230,P0648,D0026,2026-08-10,Hypothyroidism,Discontinued,As directed
+RX01231,P0313,D0092,2026-09-09,GERD,Active,Take after food
+RX01232,P0256,D0063,2026-05-11,Asthma,Discontinued,As directed
+RX01233,P0733,D0022,2026-02-14,Asthma,Active,Take after food
+RX01234,P0142,D0040,2026-07-21,Hypertension,Active,As directed
+RX01235,P0413,D0088,2026-07-26,Migraine,Active,Take before food
+RX01236,P0406,D0076,2026-08-18,Asthma,Completed,Take before food
+RX01237,P0028,D0047,2026-07-03,Hypothyroidism,Discontinued,As directed
+RX01238,P0172,D0049,2026-08-08,Type 2 Diabetes,Discontinued,As directed
+RX01239,P0098,D0026,2026-04-24,Migraine,Discontinued,As directed
+RX01240,P0692,D0097,2026-03-21,Type 2 Diabetes,Completed,As directed
+RX01241,P0954,D0007,2026-06-13,Asthma,Completed,Take after food
+RX01242,P0086,D0077,2026-05-19,GERD,Completed,Take before food
+RX01243,P0049,D0039,2026-01-30,Migraine,Completed,Take after food
+RX01244,P0273,D0014,2026-03-16,Migraine,Discontinued,As directed
+RX01245,P0427,D0041,2026-03-21,Hypothyroidism,Completed,Take after food
+RX01246,P0892,D0051,2026-05-12,Hypertension,Completed,Take before food
+RX01247,P0253,D0004,2026-08-13,Hypertension,Active,Take before food
+RX01248,P0475,D0051,2026-01-06,Hypothyroidism,Completed,As directed
+RX01249,P0224,D0010,2026-09-04,High Cholesterol,Discontinued,Take after food
+RX01250,P0474,D0037,2026-07-12,GERD,Completed,As directed
+RX01251,P0618,D0029,2026-08-30,GERD,Discontinued,Take before food
+RX01252,P0933,D0024,2026-04-01,Migraine,Completed,Take after food
+RX01253,P0495,D0066,2026-02-06,Migraine,Active,As directed
+RX01254,P0684,D0063,2026-02-24,Hypothyroidism,Active,As directed
+RX01255,P0517,D0019,2026-02-24,Hypothyroidism,Active,Take before food
+RX01256,P0855,D0092,2026-08-18,GERD,Discontinued,As directed
+RX01257,P0615,D0037,2026-06-09,Type 2 Diabetes,Discontinued,Take after food
+RX01258,P0417,D0091,2026-04-01,Type 2 Diabetes,Completed,Take before food
+RX01259,P0412,D0012,2026-05-31,Hypertension,Active,As directed
+RX01260,P0436,D0061,2026-03-15,High Cholesterol,Completed,As directed
+RX01261,P0960,D0051,2026-09-24,Migraine,Active,Take after food
+RX01262,P0388,D0021,2026-08-24,Migraine,Active,Take before food
+RX01263,P0356,D0051,2026-08-03,High Cholesterol,Completed,Take after food
+RX01264,P0953,D0024,2026-06-22,Hypertension,Completed,Take after food
+RX01265,P0364,D0017,2026-09-05,Hypertension,Discontinued,Take before food
+RX01266,P0902,D0097,2026-08-26,Migraine,Completed,Take after food
+RX01267,P0117,D0054,2026-03-12,Hypothyroidism,Active,As directed
+RX01268,P0155,D0085,2026-04-09,High Cholesterol,Completed,Take after food
+RX01269,P0504,D0004,2026-07-10,Hypothyroidism,Active,As directed
+RX01270,P0574,D0010,2026-08-30,High Cholesterol,Discontinued,As directed
+RX01271,P0339,D0050,2026-04-14,Asthma,Completed,Take before food
+RX01272,P0884,D0029,2026-02-04,Arthritis,Active,As directed
+RX01273,P0020,D0040,2026-08-01,Arthritis,Active,As directed
+RX01274,P0565,D0046,2026-03-12,Arthritis,Completed,Take after food
+RX01275,P0348,D0006,2026-05-23,Hypertension,Completed,Take after food
+RX01276,P0765,D0003,2026-07-15,Hypothyroidism,Completed,Take after food
+RX01277,P0383,D0072,2026-06-11,Hypertension,Discontinued,Take after food
+RX01278,P0657,D0034,2026-09-15,High Cholesterol,Active,Take before food
+RX01279,P0540,D0081,2026-03-25,High Cholesterol,Active,Take before food
+RX01280,P0847,D0063,2026-03-28,Hypertension,Active,Take after food
+RX01281,P0422,D0070,2026-07-26,Hypothyroidism,Discontinued,Take after food
+RX01282,P0165,D0069,2026-09-26,Asthma,Active,Take before food
+RX01283,P0630,D0065,2026-06-29,Hypothyroidism,Completed,As directed
+RX01284,P0604,D0085,2026-09-04,Type 2 Diabetes,Discontinued,Take after food
+RX01285,P0978,D0098,2026-05-13,Arthritis,Discontinued,As directed
+RX01286,P0716,D0025,2026-02-14,Hypothyroidism,Discontinued,Take after food
+RX01287,P0324,D0031,2026-04-24,High Cholesterol,Completed,Take before food
+RX01288,P0781,D0082,2026-05-26,Migraine,Discontinued,Take after food
+RX01289,P0290,D0060,2026-04-28,Migraine,Active,Take after food
+RX01290,P0302,D0083,2026-08-09,Asthma,Completed,As directed
+RX01291,P0766,D0100,2026-06-24,Migraine,Completed,Take before food
+RX01292,P0750,D0009,2026-06-18,Type 2 Diabetes,Completed,Take before food
+RX01293,P0576,D0083,2026-07-29,Type 2 Diabetes,Active,As directed
+RX01294,P0393,D0040,2026-07-09,Hypertension,Completed,As directed
+RX01295,P0506,D0055,2026-01-15,Hypothyroidism,Discontinued,Take after food
+RX01296,P0483,D0070,2026-07-15,Asthma,Active,Take before food
+RX01297,P0767,D0081,2026-04-27,GERD,Active,Take before food
+RX01298,P0300,D0070,2026-03-18,Hypertension,Completed,As directed
+RX01299,P0510,D0094,2026-09-12,Asthma,Active,Take after food
+RX01300,P0115,D0076,2026-06-06,Hypothyroidism,Completed,Take before food
+RX01301,P0815,D0020,2026-09-01,Type 2 Diabetes,Completed,Take before food
+RX01302,P0669,D0051,2026-05-17,Arthritis,Active,As directed
+RX01303,P0434,D0072,2026-06-05,Migraine,Active,As directed
+RX01304,P0571,D0003,2026-09-25,Hypothyroidism,Completed,Take after food
+RX01305,P0846,D0039,2026-08-27,Arthritis,Discontinued,Take before food
+RX01306,P0356,D0095,2026-04-11,GERD,Discontinued,Take after food
+RX01307,P0351,D0082,2026-08-20,Hypothyroidism,Discontinued,As directed
+RX01308,P0481,D0083,2026-02-11,Asthma,Completed,Take before food
+RX01309,P0086,D0025,2026-03-06,Hypertension,Discontinued,Take after food
+RX01310,P0878,D0021,2026-07-26,GERD,Active,As directed
+RX01311,P0917,D0012,2026-05-26,Hypothyroidism,Discontinued,Take before food
+RX01312,P0212,D0099,2026-07-21,GERD,Discontinued,Take before food
+RX01313,P0697,D0089,2026-07-07,Hypothyroidism,Discontinued,Take before food
+RX01314,P0303,D0064,2026-02-11,Type 2 Diabetes,Discontinued,Take before food
+RX01315,P0365,D0030,2026-01-20,Migraine,Discontinued,Take before food
+RX01316,P0111,D0082,2026-06-26,GERD,Active,Take after food
+RX01317,P0823,D0063,2026-08-03,Arthritis,Active,Take before food
+RX01318,P0841,D0036,2026-07-31,Hypertension,Active,Take after food
+RX01319,P0121,D0005,2026-07-16,Type 2 Diabetes,Active,Take before food
+RX01320,P0630,D0054,2026-09-03,Hypothyroidism,Active,Take before food
+RX01321,P0808,D0065,2026-04-20,High Cholesterol,Active,Take after food
+RX01322,P0389,D0027,2026-04-13,GERD,Active,As directed
+RX01323,P0423,D0067,2026-06-05,Asthma,Active,Take before food
+RX01324,P0596,D0065,2026-03-06,Type 2 Diabetes,Active,Take after food
+RX01325,P0441,D0061,2026-03-22,GERD,Completed,Take before food
+RX01326,P0124,D0048,2026-02-14,Hypothyroidism,Discontinued,Take before food
+RX01327,P0742,D0092,2026-01-08,GERD,Active,Take after food
+RX01328,P0634,D0070,2026-05-11,High Cholesterol,Discontinued,Take before food
+RX01329,P0300,D0011,2026-05-22,Hypothyroidism,Completed,Take after food
+RX01330,P0500,D0088,2026-06-29,Type 2 Diabetes,Active,Take after food
+RX01331,P0442,D0082,2026-06-27,Hypothyroidism,Active,As directed
+RX01332,P0340,D0026,2026-01-17,Hypertension,Completed,Take before food
+RX01333,P0384,D0061,2026-06-21,Hypothyroidism,Discontinued,Take after food
+RX01334,P0154,D0020,2026-01-27,Asthma,Active,Take before food
+RX01335,P0950,D0045,2026-08-20,GERD,Completed,As directed
+RX01336,P0119,D0039,2026-03-11,Migraine,Discontinued,Take after food
+RX01337,P0085,D0065,2026-04-18,Hypertension,Completed,Take after food
+RX01338,P0002,D0092,2026-08-28,Hypothyroidism,Active,Take after food
+RX01339,P0947,D0064,2026-05-24,Hypertension,Discontinued,Take before food
+RX01340,P0428,D0068,2026-01-15,GERD,Discontinued,As directed
+RX01341,P0913,D0086,2026-09-08,Type 2 Diabetes,Discontinued,Take before food
+RX01342,P0146,D0016,2026-08-11,Type 2 Diabetes,Completed,Take after food
+RX01343,P0151,D0031,2026-05-16,Hypertension,Completed,As directed
+RX01344,P0352,D0065,2026-07-23,High Cholesterol,Completed,As directed
+RX01345,P0624,D0070,2026-02-19,Hypertension,Completed,As directed
+RX01346,P0426,D0046,2026-04-26,Type 2 Diabetes,Completed,Take before food
+RX01347,P0720,D0021,2026-03-20,Asthma,Active,As directed
+RX01348,P0386,D0009,2026-03-13,Hypertension,Active,Take after food
+RX01349,P0879,D0003,2026-01-13,Arthritis,Discontinued,Take before food
+RX01350,P0851,D0031,2026-09-06,Migraine,Discontinued,Take after food
+RX01351,P0915,D0038,2026-05-17,Type 2 Diabetes,Completed,Take after food
+RX01352,P0776,D0087,2026-05-14,Asthma,Discontinued,Take before food
+RX01353,P0310,D0002,2026-06-04,GERD,Active,Take before food
+RX01354,P0320,D0037,2026-08-28,Type 2 Diabetes,Completed,Take before food
+RX01355,P0440,D0050,2026-07-23,Type 2 Diabetes,Active,Take after food
+RX01356,P0228,D0022,2026-04-03,High Cholesterol,Discontinued,Take before food
+RX01357,P0011,D0015,2026-07-16,GERD,Active,Take after food
+RX01358,P0783,D0025,2026-02-22,Asthma,Completed,Take before food
+RX01359,P0872,D0065,2026-08-24,Hypertension,Active,Take before food
+RX01360,P0685,D0061,2026-06-19,Hypertension,Discontinued,Take after food
+RX01361,P0747,D0015,2026-09-26,High Cholesterol,Discontinued,Take after food
+RX01362,P0953,D0087,2026-01-10,Hypertension,Completed,Take before food
+RX01363,P0642,D0066,2026-07-22,Type 2 Diabetes,Discontinued,Take before food
+RX01364,P0858,D0024,2026-05-05,Type 2 Diabetes,Active,Take before food
+RX01365,P0133,D0100,2026-02-14,Hypertension,Discontinued,Take before food
+RX01366,P0600,D0008,2026-03-23,Arthritis,Completed,Take after food
+RX01367,P0114,D0011,2026-07-21,GERD,Completed,Take before food
+RX01368,P0504,D0024,2026-05-21,Asthma,Active,Take after food
+RX01369,P0523,D0050,2026-01-13,Arthritis,Discontinued,Take after food
+RX01370,P0984,D0067,2026-03-05,Migraine,Active,Take after food
+RX01371,P0962,D0087,2026-04-06,Arthritis,Active,Take after food
+RX01372,P0271,D0075,2026-05-19,Asthma,Completed,Take before food
+RX01373,P0029,D0092,2026-08-10,Hypothyroidism,Active,Take before food
+RX01374,P0588,D0081,2026-03-07,Asthma,Active,Take after food
+RX01375,P0897,D0076,2026-07-17,GERD,Discontinued,As directed
+RX01376,P0285,D0070,2026-02-03,Hypothyroidism,Discontinued,Take after food
+RX01377,P0767,D0072,2026-06-28,Asthma,Completed,As directed
+RX01378,P0603,D0016,2026-04-23,Migraine,Active,Take after food
+RX01379,P0815,D0015,2026-03-29,GERD,Completed,Take before food
+RX01380,P0387,D0095,2026-06-26,Hypertension,Active,As directed
+RX01381,P0180,D0008,2026-07-31,Hypertension,Active,Take before food
+RX01382,P0963,D0066,2026-09-27,Hypertension,Completed,Take after food
+RX01383,P0205,D0044,2026-09-23,High Cholesterol,Discontinued,Take before food
+RX01384,P0453,D0026,2026-05-16,Asthma,Active,Take after food
+RX01385,P0911,D0089,2026-08-26,Arthritis,Active,As directed
+RX01386,P0229,D0056,2026-07-11,Arthritis,Discontinued,Take after food
+RX01387,P0324,D0062,2026-09-10,Hypertension,Discontinued,Take after food
+RX01388,P0809,D0062,2026-01-01,Asthma,Discontinued,Take before food
+RX01389,P0726,D0056,2026-02-05,Type 2 Diabetes,Discontinued,Take before food
+RX01390,P0147,D0011,2026-09-03,High Cholesterol,Active,Take after food
+RX01391,P0720,D0056,2026-07-16,Type 2 Diabetes,Completed,Take after food
+RX01392,P0396,D0089,2026-04-03,GERD,Completed,Take after food
+RX01393,P0155,D0019,2026-02-10,Migraine,Active,Take after food
+RX01394,P0428,D0021,2026-01-09,Type 2 Diabetes,Discontinued,Take after food
+RX01395,P0014,D0071,2026-04-06,High Cholesterol,Active,As directed
+RX01396,P0089,D0039,2026-03-04,High Cholesterol,Discontinued,Take after food
+RX01397,P0549,D0033,2026-06-18,Type 2 Diabetes,Active,Take after food
+RX01398,P0694,D0009,2026-04-28,Asthma,Active,Take before food
+RX01399,P0842,D0030,2026-04-28,Type 2 Diabetes,Discontinued,Take before food
+RX01400,P0147,D0073,2026-04-02,GERD,Discontinued,Take before food
+RX01401,P0953,D0060,2026-04-18,Type 2 Diabetes,Discontinued,Take after food
+RX01402,P0310,D0019,2026-09-17,High Cholesterol,Completed,As directed
+RX01403,P0409,D0065,2026-01-04,Hypertension,Active,As directed
+RX01404,P0962,D0062,2026-08-07,GERD,Completed,Take after food
+RX01405,P0736,D0059,2026-01-18,GERD,Discontinued,Take before food
+RX01406,P0543,D0048,2026-07-11,Asthma,Active,As directed
+RX01407,P0633,D0009,2026-09-26,High Cholesterol,Completed,Take before food
+RX01408,P0972,D0009,2026-03-04,High Cholesterol,Discontinued,Take before food
+RX01409,P0643,D0084,2026-05-09,Migraine,Discontinued,As directed
+RX01410,P0660,D0043,2026-07-03,Type 2 Diabetes,Completed,Take before food
+RX01411,P0969,D0022,2026-04-16,High Cholesterol,Completed,Take before food
+RX01412,P0043,D0023,2026-09-17,Arthritis,Completed,Take before food
+RX01413,P0937,D0009,2026-09-27,Hypertension,Discontinued,As directed
+RX01414,P0156,D0082,2026-08-16,Type 2 Diabetes,Active,Take after food
+RX01415,P0914,D0067,2026-05-21,GERD,Discontinued,Take before food
+RX01416,P0250,D0011,2026-08-10,Arthritis,Completed,As directed
+RX01417,P0844,D0051,2026-08-18,Hypertension,Discontinued,Take after food
+RX01418,P0845,D0044,2026-09-13,Migraine,Completed,Take before food
+RX01419,P0339,D0031,2026-08-19,Type 2 Diabetes,Completed,As directed
+RX01420,P0231,D0048,2026-03-08,High Cholesterol,Completed,Take before food
+RX01421,P0537,D0011,2026-01-06,Type 2 Diabetes,Discontinued,Take after food
+RX01422,P0813,D0055,2026-02-28,Asthma,Discontinued,As directed
+RX01423,P0583,D0062,2026-05-26,Migraine,Completed,As directed
+RX01424,P0787,D0026,2026-08-03,Type 2 Diabetes,Discontinued,As directed
+RX01425,P0091,D0090,2026-02-07,Arthritis,Completed,Take before food
+RX01426,P0631,D0015,2026-09-10,Hypertension,Active,As directed
+RX01427,P0278,D0036,2026-03-01,Arthritis,Discontinued,As directed
+RX01428,P0386,D0037,2026-05-03,Asthma,Discontinued,Take after food
+RX01429,P0390,D0089,2026-02-03,Hypothyroidism,Discontinued,Take after food
+RX01430,P0118,D0062,2026-09-23,Migraine,Completed,Take after food
+RX01431,P0994,D0041,2026-05-18,Asthma,Completed,Take before food
+RX01432,P0123,D0077,2026-02-01,High Cholesterol,Completed,As directed
+RX01433,P0936,D0084,2026-09-07,Migraine,Active,As directed
+RX01434,P0594,D0004,2026-06-30,GERD,Active,Take before food
+RX01435,P0547,D0084,2026-03-24,High Cholesterol,Discontinued,Take before food
+RX01436,P0987,D0027,2026-07-04,Arthritis,Active,Take after food
+RX01437,P0196,D0029,2026-07-29,Type 2 Diabetes,Discontinued,As directed
+RX01438,P0382,D0035,2026-03-10,High Cholesterol,Active,Take after food
+RX01439,P0283,D0054,2026-06-29,High Cholesterol,Completed,Take after food
+RX01440,P0429,D0079,2026-09-22,GERD,Active,As directed
+RX01441,P0952,D0064,2026-09-04,GERD,Active,Take after food
+RX01442,P0316,D0030,2026-03-03,GERD,Discontinued,As directed
+RX01443,P0562,D0087,2026-03-14,Migraine,Completed,Take after food
+RX01444,P0756,D0049,2026-06-11,Hypothyroidism,Completed,Take before food
+RX01445,P0952,D0046,2026-04-22,Arthritis,Discontinued,Take after food
+RX01446,P0534,D0034,2026-04-15,Hypertension,Completed,Take before food
+RX01447,P0443,D0077,2026-06-03,Hypothyroidism,Discontinued,Take before food
+RX01448,P0711,D0035,2026-01-01,Migraine,Completed,Take before food
+RX01449,P0531,D0077,2026-03-18,Migraine,Completed,Take after food
+RX01450,P0166,D0066,2026-07-23,High Cholesterol,Discontinued,Take after food
+RX01451,P0006,D0081,2026-02-07,Hypertension,Active,As directed
+RX01452,P0685,D0070,2026-03-31,GERD,Active,As directed
+RX01453,P0195,D0073,2026-01-09,High Cholesterol,Active,Take after food
+RX01454,P0712,D0004,2026-08-08,Arthritis,Discontinued,As directed
+RX01455,P0350,D0058,2026-04-14,Asthma,Discontinued,Take before food
+RX01456,P0684,D0016,2026-01-25,Hypothyroidism,Active,As directed
+RX01457,P0842,D0055,2026-02-25,Type 2 Diabetes,Active,As directed
+RX01458,P0950,D0097,2026-05-19,Hypothyroidism,Active,As directed
+RX01459,P0424,D0076,2026-01-17,Arthritis,Completed,As directed
+RX01460,P0934,D0010,2026-01-24,Migraine,Completed,As directed
+RX01461,P0506,D0063,2026-07-01,High Cholesterol,Active,Take after food
+RX01462,P0827,D0016,2026-08-24,Migraine,Completed,Take after food
+RX01463,P0398,D0029,2026-03-26,Asthma,Discontinued,Take before food
+RX01464,P0364,D0053,2026-04-28,High Cholesterol,Completed,Take before food
+RX01465,P0846,D0085,2026-04-05,Hypertension,Active,Take before food
+RX01466,P0151,D0094,2026-09-12,Type 2 Diabetes,Discontinued,As directed
+RX01467,P0674,D0018,2026-03-02,Type 2 Diabetes,Discontinued,Take after food
+RX01468,P0981,D0069,2026-05-07,Type 2 Diabetes,Active,As directed
+RX01469,P0331,D0010,2026-03-21,Hypertension,Completed,Take after food
+RX01470,P0626,D0003,2026-09-24,Arthritis,Active,Take before food
+RX01471,P0471,D0081,2026-01-27,Hypothyroidism,Discontinued,Take before food
+RX01472,P0387,D0018,2026-04-22,High Cholesterol,Active,As directed
+RX01473,P0262,D0059,2026-07-26,GERD,Discontinued,As directed
+RX01474,P0345,D0093,2026-04-12,Migraine,Completed,As directed
+RX01475,P0395,D0036,2026-09-17,Arthritis,Active,As directed
+RX01476,P0332,D0034,2026-04-16,Hypothyroidism,Completed,Take after food
+RX01477,P0255,D0029,2026-01-22,Hypertension,Active,As directed
+RX01478,P0008,D0035,2026-02-20,GERD,Completed,As directed
+RX01479,P0415,D0020,2026-05-26,High Cholesterol,Discontinued,Take after food
+RX01480,P0375,D0032,2026-03-03,Hypertension,Active,As directed
+RX01481,P0539,D0081,2026-05-28,Type 2 Diabetes,Active,Take after food
+RX01482,P0112,D0012,2026-06-26,Asthma,Active,Take after food
+RX01483,P0500,D0085,2026-09-11,Type 2 Diabetes,Discontinued,As directed
+RX01484,P0300,D0013,2026-07-17,Migraine,Completed,Take before food
+RX01485,P0847,D0054,2026-08-19,High Cholesterol,Active,Take before food
+RX01486,P0039,D0081,2026-05-01,Migraine,Discontinued,As directed
+RX01487,P0487,D0025,2026-07-08,GERD,Active,Take before food
+RX01488,P0242,D0048,2026-06-14,High Cholesterol,Completed,As directed
+RX01489,P0270,D0055,2026-03-06,Asthma,Active,As directed
+RX01490,P0549,D0091,2026-08-23,Migraine,Completed,Take before food
+RX01491,P0037,D0008,2026-06-07,GERD,Discontinued,Take after food
+RX01492,P0590,D0012,2026-07-14,Asthma,Active,As directed
+RX01493,P0232,D0048,2026-07-08,Type 2 Diabetes,Active,Take before food
+RX01494,P0099,D0070,2026-06-02,Arthritis,Active,Take after food
+RX01495,P0319,D0066,2026-06-21,Hypothyroidism,Completed,Take after food
+RX01496,P0566,D0033,2026-07-08,Hypothyroidism,Completed,As directed
+RX01497,P0279,D0077,2026-07-13,Arthritis,Discontinued,As directed
+RX01498,P0927,D0073,2026-08-25,GERD,Completed,Take before food
+RX01499,P0439,D0098,2026-03-24,Type 2 Diabetes,Active,Take before food
+RX01500,P0018,D0006,2026-06-17,Type 2 Diabetes,Active,Take after food
+RX01501,P0628,D0004,2026-01-13,Migraine,Discontinued,Take after food
+RX01502,P0366,D0004,2026-08-09,GERD,Active,As directed
+RX01503,P0736,D0035,2026-01-12,Asthma,Active,Take after food
+RX01504,P0764,D0014,2026-03-11,GERD,Active,Take after food
+RX01505,P0607,D0039,2026-05-11,High Cholesterol,Active,Take after food
+RX01506,P0026,D0067,2026-06-02,Asthma,Active,As directed
+RX01507,P0614,D0071,2026-08-26,Arthritis,Completed,As directed
+RX01508,P0525,D0061,2026-05-28,High Cholesterol,Active,As directed
+RX01509,P0733,D0031,2026-03-18,GERD,Active,Take after food
+RX01510,P0735,D0090,2026-04-26,GERD,Completed,Take before food
+RX01511,P0102,D0082,2026-07-19,High Cholesterol,Discontinued,Take after food
+RX01512,P0514,D0057,2026-05-11,GERD,Discontinued,Take before food
+RX01513,P0527,D0076,2026-04-17,Arthritis,Discontinued,As directed
+RX01514,P0373,D0021,2026-06-13,Arthritis,Active,Take before food
+RX01515,P0332,D0082,2026-03-03,Arthritis,Completed,Take before food
+RX01516,P0108,D0038,2026-08-04,High Cholesterol,Active,Take before food
+RX01517,P0246,D0071,2026-03-07,GERD,Completed,Take after food
+RX01518,P0003,D0070,2026-07-27,Migraine,Discontinued,Take after food
+RX01519,P0437,D0034,2026-06-02,Type 2 Diabetes,Completed,As directed
+RX01520,P0158,D0047,2026-07-15,Hypertension,Discontinued,Take after food
+RX01521,P0255,D0100,2026-06-19,GERD,Discontinued,Take before food
+RX01522,P0588,D0088,2026-02-21,Hypertension,Completed,Take before food
+RX01523,P0981,D0003,2026-08-08,Hypertension,Active,As directed
+RX01524,P0348,D0067,2026-06-20,Migraine,Completed,Take before food
+RX01525,P0007,D0081,2026-04-03,Arthritis,Discontinued,Take before food
+RX01526,P0353,D0031,2026-01-24,GERD,Completed,Take before food
+RX01527,P0421,D0093,2026-07-01,Hypertension,Completed,As directed
+RX01528,P0242,D0041,2026-07-01,Hypertension,Active,As directed
+RX01529,P0243,D0036,2026-01-16,Migraine,Active,Take before food
+RX01530,P0372,D0047,2026-09-09,Migraine,Discontinued,Take after food
+RX01531,P0128,D0036,2026-06-23,Asthma,Active,Take after food
+RX01532,P0645,D0026,2026-05-06,Hypothyroidism,Completed,As directed
+RX01533,P0231,D0039,2026-03-21,Hypertension,Active,Take after food
+RX01534,P0030,D0035,2026-06-02,Arthritis,Discontinued,As directed
+RX01535,P0043,D0081,2026-07-19,Migraine,Active,Take before food
+RX01536,P0369,D0025,2026-04-20,Migraine,Active,As directed
+RX01537,P0434,D0053,2026-04-12,Hypothyroidism,Completed,As directed
+RX01538,P0128,D0054,2026-01-28,Hypothyroidism,Completed,As directed
+RX01539,P0331,D0064,2026-04-08,GERD,Discontinued,As directed
+RX01540,P0041,D0034,2026-06-22,Arthritis,Discontinued,Take before food
+RX01541,P0197,D0054,2026-04-24,Asthma,Active,Take after food
+RX01542,P0615,D0081,2026-02-07,High Cholesterol,Discontinued,Take after food
+RX01543,P0703,D0010,2026-03-05,Hypertension,Active,As directed
+RX01544,P0988,D0006,2026-09-08,High Cholesterol,Completed,Take after food
+RX01545,P0951,D0094,2026-01-18,Hypertension,Completed,As directed
+RX01546,P0512,D0072,2026-07-26,Type 2 Diabetes,Discontinued,Take before food
+RX01547,P0940,D0002,2026-07-17,Hypothyroidism,Completed,As directed
+RX01548,P0677,D0065,2026-04-13,Migraine,Active,Take after food
+RX01549,P0444,D0042,2026-04-20,Hypertension,Active,As directed
+RX01550,P0068,D0085,2026-09-09,Asthma,Active,Take before food
+RX01551,P0621,D0096,2026-02-25,Hypertension,Completed,Take after food
+RX01552,P0369,D0040,2026-04-28,High Cholesterol,Completed,Take before food
+RX01553,P0987,D0080,2026-09-02,Migraine,Discontinued,Take after food
+RX01554,P0528,D0037,2026-06-12,High Cholesterol,Active,Take before food
+RX01555,P0183,D0048,2026-02-16,Hypertension,Completed,Take after food
+RX01556,P0683,D0048,2026-07-31,Migraine,Active,Take after food
+RX01557,P0037,D0027,2026-04-26,Asthma,Active,Take after food
+RX01558,P0012,D0015,2026-07-14,Asthma,Discontinued,As directed
+RX01559,P0983,D0052,2026-02-26,Hypertension,Completed,Take after food
+RX01560,P0520,D0046,2026-07-06,Arthritis,Completed,Take before food
+RX01561,P0051,D0045,2026-02-17,Type 2 Diabetes,Discontinued,Take before food
+RX01562,P0869,D0087,2026-02-16,Hypothyroidism,Completed,Take after food
+RX01563,P0396,D0054,2026-06-01,Asthma,Completed,Take after food
+RX01564,P0422,D0064,2026-01-02,GERD,Completed,As directed
+RX01565,P0786,D0090,2026-02-14,Type 2 Diabetes,Active,As directed
+RX01566,P0042,D0007,2026-07-21,Asthma,Completed,As directed
+RX01567,P0106,D0026,2026-09-02,Arthritis,Completed,As directed
+RX01568,P0607,D0046,2026-05-17,Hypothyroidism,Active,Take before food
+RX01569,P0154,D0063,2026-04-20,Arthritis,Active,Take before food
+RX01570,P0501,D0097,2026-01-04,Type 2 Diabetes,Completed,Take after food
+RX01571,P0453,D0023,2026-07-29,Arthritis,Completed,Take before food
+RX01572,P0230,D0027,2026-04-12,GERD,Completed,Take after food
+RX01573,P0869,D0040,2026-01-31,Type 2 Diabetes,Active,Take after food
+RX01574,P0947,D0004,2026-05-09,Asthma,Active,Take after food
+RX01575,P0936,D0010,2026-08-19,Asthma,Completed,Take before food
+RX01576,P0811,D0004,2026-07-23,Hypothyroidism,Active,Take before food
+RX01577,P0686,D0075,2026-08-30,Arthritis,Discontinued,Take before food
+RX01578,P0303,D0039,2026-02-19,Type 2 Diabetes,Active,As directed
+RX01579,P0516,D0040,2026-03-31,Migraine,Active,Take before food
+RX01580,P0997,D0095,2026-09-06,Asthma,Completed,As directed
+RX01581,P0153,D0010,2026-01-29,Migraine,Discontinued,As directed
+RX01582,P0908,D0037,2026-02-14,GERD,Active,Take before food
+RX01583,P0492,D0015,2026-02-05,Hypothyroidism,Discontinued,Take before food
+RX01584,P0538,D0038,2026-03-20,Type 2 Diabetes,Completed,Take after food
+RX01585,P0707,D0068,2026-08-20,Asthma,Discontinued,Take before food
+RX01586,P0089,D0040,2026-06-26,Arthritis,Active,As directed
+RX01587,P0477,D0031,2026-04-11,High Cholesterol,Active,As directed
+RX01588,P0945,D0067,2026-01-24,GERD,Active,As directed
+RX01589,P0166,D0091,2026-03-29,Migraine,Discontinued,As directed
+RX01590,P0369,D0096,2026-09-12,Asthma,Active,Take before food
+RX01591,P0630,D0058,2026-05-23,High Cholesterol,Completed,Take before food
+RX01592,P0967,D0050,2026-05-31,High Cholesterol,Completed,Take before food
+RX01593,P0493,D0033,2026-06-23,Hypothyroidism,Discontinued,Take after food
+RX01594,P0256,D0013,2026-01-08,Type 2 Diabetes,Active,Take before food
+RX01595,P0131,D0022,2026-02-17,Type 2 Diabetes,Completed,As directed
+RX01596,P0364,D0070,2026-03-25,Type 2 Diabetes,Active,Take before food
+RX01597,P0817,D0094,2026-07-16,Hypothyroidism,Active,As directed
+RX01598,P0673,D0071,2026-04-29,Asthma,Active,Take after food
+RX01599,P0962,D0048,2026-02-06,Type 2 Diabetes,Active,As directed
+RX01600,P0600,D0043,2026-03-30,Asthma,Completed,As directed
+RX01601,P0271,D0074,2026-07-05,Migraine,Completed,Take after food
+RX01602,P0215,D0011,2026-07-25,GERD,Discontinued,As directed
+RX01603,P0106,D0008,2026-04-20,Type 2 Diabetes,Active,Take before food
+RX01604,P0482,D0007,2026-04-07,GERD,Active,As directed
+RX01605,P0102,D0038,2026-05-23,Type 2 Diabetes,Active,Take after food
+RX01606,P0450,D0046,2026-05-22,GERD,Discontinued,Take before food
+RX01607,P0697,D0036,2026-03-04,Arthritis,Completed,Take after food
+RX01608,P0776,D0083,2026-01-03,High Cholesterol,Active,Take before food
+RX01609,P0347,D0090,2026-09-17,Migraine,Completed,Take before food
+RX01610,P0378,D0058,2026-07-10,Type 2 Diabetes,Discontinued,As directed
+RX01611,P0076,D0054,2026-06-30,Hypothyroidism,Completed,As directed
+RX01612,P0689,D0012,2026-03-16,GERD,Discontinued,Take before food
+RX01613,P0257,D0020,2026-04-21,Type 2 Diabetes,Completed,Take after food
+RX01614,P0913,D0015,2026-02-17,GERD,Completed,Take before food
+RX01615,P0934,D0021,2026-03-06,Asthma,Discontinued,As directed
+RX01616,P0819,D0037,2026-04-13,Arthritis,Active,As directed
+RX01617,P0416,D0091,2026-02-11,Arthritis,Completed,Take before food
+RX01618,P0812,D0038,2026-01-08,Type 2 Diabetes,Completed,Take before food
+RX01619,P0877,D0002,2026-09-23,Hypertension,Completed,As directed
+RX01620,P0231,D0067,2026-05-20,Hypertension,Active,Take after food
+RX01621,P0800,D0060,2026-02-24,Hypothyroidism,Discontinued,As directed
+RX01622,P0606,D0005,2026-08-07,GERD,Completed,As directed
+RX01623,P0590,D0090,2026-04-26,Type 2 Diabetes,Active,Take after food
+RX01624,P0570,D0064,2026-09-25,Hypertension,Completed,As directed
+RX01625,P0759,D0010,2026-08-18,Arthritis,Completed,As directed
+RX01626,P0599,D0088,2026-08-05,Type 2 Diabetes,Completed,Take after food
+RX01627,P0434,D0042,2026-08-30,Hypothyroidism,Active,As directed
+RX01628,P0590,D0068,2026-08-09,Hypothyroidism,Completed,As directed
+RX01629,P0548,D0043,2026-08-06,Type 2 Diabetes,Discontinued,Take after food
+RX01630,P0024,D0026,2026-03-16,Arthritis,Discontinued,As directed
+RX01631,P0375,D0060,2026-01-31,Migraine,Active,Take before food
+RX01632,P0971,D0037,2026-07-08,Type 2 Diabetes,Active,Take before food
+RX01633,P0527,D0075,2026-02-15,Arthritis,Active,As directed
+RX01634,P0567,D0083,2026-02-11,Type 2 Diabetes,Completed,As directed
+RX01635,P0803,D0099,2026-09-08,GERD,Active,Take before food
+RX01636,P0524,D0008,2026-03-01,Arthritis,Discontinued,Take before food
+RX01637,P0630,D0052,2026-08-20,Hypothyroidism,Completed,Take before food
+RX01638,P0675,D0013,2026-06-12,Hypothyroidism,Completed,Take after food
+RX01639,P0144,D0025,2026-04-13,Type 2 Diabetes,Discontinued,Take before food
+RX01640,P0988,D0024,2026-04-11,Hypothyroidism,Discontinued,As directed
+RX01641,P0798,D0086,2026-06-26,Hypothyroidism,Completed,Take after food
+RX01642,P0989,D0029,2026-08-26,Arthritis,Active,Take after food
+RX01643,P0109,D0055,2026-06-27,Migraine,Active,As directed
+RX01644,P0150,D0022,2026-02-01,Migraine,Active,Take after food
+RX01645,P0532,D0098,2026-04-07,GERD,Active,Take after food
+RX01646,P0551,D0015,2026-08-27,Migraine,Completed,Take after food
+RX01647,P0282,D0001,2026-04-05,Hypothyroidism,Discontinued,Take before food
+RX01648,P0148,D0073,2026-03-19,Asthma,Completed,As directed
+RX01649,P0803,D0092,2026-04-14,Arthritis,Completed,Take before food
+RX01650,P0173,D0016,2026-07-04,Hypertension,Active,Take after food
+RX01651,P0733,D0057,2026-08-13,Asthma,Active,Take after food
+RX01652,P0443,D0051,2026-07-08,GERD,Completed,As directed
+RX01653,P0664,D0002,2026-09-12,Arthritis,Active,Take after food
+RX01654,P0247,D0059,2026-05-04,Arthritis,Completed,Take before food
+RX01655,P0384,D0089,2026-09-17,Hypertension,Discontinued,As directed
+RX01656,P0209,D0001,2026-03-13,Hypothyroidism,Discontinued,Take before food
+RX01657,P0529,D0016,2026-01-27,GERD,Completed,As directed
+RX01658,P0706,D0054,2026-03-18,GERD,Discontinued,Take before food
+RX01659,P0139,D0058,2026-02-05,Type 2 Diabetes,Completed,Take after food
+RX01660,P0463,D0089,2026-01-19,Hypertension,Completed,Take before food
+RX01661,P0150,D0001,2026-03-28,Asthma,Active,As directed
+RX01662,P0454,D0073,2026-01-02,GERD,Discontinued,Take before food
+RX01663,P0488,D0005,2026-06-11,Type 2 Diabetes,Discontinued,Take after food
+RX01664,P0915,D0096,2026-03-30,Migraine,Completed,Take before food
+RX01665,P0255,D0012,2026-03-06,Hypertension,Discontinued,As directed
+RX01666,P0223,D0019,2026-01-12,Type 2 Diabetes,Active,Take before food
+RX01667,P0484,D0084,2026-01-19,Migraine,Active,As directed
+RX01668,P0189,D0094,2026-05-15,Arthritis,Active,Take before food
+RX01669,P0025,D0076,2026-02-25,High Cholesterol,Discontinued,As directed
+RX01670,P0875,D0016,2026-05-02,Hypertension,Completed,Take after food
+RX01671,P0031,D0059,2026-06-04,Type 2 Diabetes,Discontinued,As directed
+RX01672,P0658,D0028,2026-06-19,Hypertension,Discontinued,Take before food
+RX01673,P0354,D0004,2026-09-10,Asthma,Discontinued,Take before food
+RX01674,P0703,D0077,2026-09-23,Hypothyroidism,Completed,As directed
+RX01675,P0100,D0077,2026-05-24,GERD,Discontinued,As directed
+RX01676,P0697,D0090,2026-08-02,Migraine,Discontinued,Take before food
+RX01677,P0265,D0070,2026-03-29,Asthma,Active,Take after food
+RX01678,P0810,D0069,2026-05-11,Hypothyroidism,Active,Take before food
+RX01679,P0009,D0039,2026-05-23,Hypothyroidism,Completed,Take after food
+RX01680,P0955,D0090,2026-05-30,GERD,Active,Take before food
+RX01681,P0371,D0070,2026-01-28,Migraine,Completed,Take before food
+RX01682,P0813,D0011,2026-05-19,Asthma,Completed,Take after food
+RX01683,P0086,D0009,2026-01-20,Hypothyroidism,Active,Take after food
+RX01684,P0820,D0082,2026-02-28,Migraine,Discontinued,Take after food
+RX01685,P0104,D0089,2026-01-28,Hypothyroidism,Completed,Take before food
+RX01686,P0183,D0095,2026-01-12,Type 2 Diabetes,Discontinued,Take before food
+RX01687,P0626,D0084,2026-07-29,Asthma,Discontinued,Take after food
+RX01688,P0095,D0049,2026-08-29,Migraine,Active,As directed
+RX01689,P0020,D0021,2026-07-14,Hypertension,Active,Take after food
+RX01690,P0803,D0040,2026-01-18,Type 2 Diabetes,Discontinued,Take after food
+RX01691,P0288,D0033,2026-04-04,High Cholesterol,Discontinued,Take before food
+RX01692,P0765,D0039,2026-06-26,Hypertension,Completed,As directed
+RX01693,P0719,D0050,2026-03-17,Migraine,Discontinued,Take before food
+RX01694,P0763,D0016,2026-03-30,GERD,Completed,Take before food
+RX01695,P0930,D0018,2026-04-17,GERD,Active,As directed
+RX01696,P0883,D0072,2026-01-19,GERD,Completed,Take after food
+RX01697,P0317,D0035,2026-03-14,Hypothyroidism,Active,Take after food
+RX01698,P0454,D0037,2026-07-01,Migraine,Completed,Take after food
+RX01699,P0591,D0080,2026-08-12,Type 2 Diabetes,Discontinued,Take before food
+RX01700,P0205,D0037,2026-02-07,Asthma,Completed,Take after food
+RX01701,P0976,D0012,2026-05-23,Type 2 Diabetes,Active,Take before food
+RX01702,P0672,D0072,2026-04-29,Type 2 Diabetes,Completed,As directed
+RX01703,P0390,D0040,2026-01-06,Asthma,Completed,Take after food
+RX01704,P0197,D0067,2026-05-30,High Cholesterol,Active,Take before food
+RX01705,P0118,D0096,2026-05-16,High Cholesterol,Active,Take before food
+RX01706,P0502,D0008,2026-06-02,Hypothyroidism,Discontinued,As directed
+RX01707,P0583,D0018,2026-03-07,Asthma,Completed,As directed
+RX01708,P0456,D0098,2026-08-04,Type 2 Diabetes,Discontinued,Take before food
+RX01709,P0051,D0004,2026-09-14,Migraine,Discontinued,As directed
+RX01710,P0369,D0021,2026-03-02,Migraine,Completed,Take after food
+RX01711,P0653,D0036,2026-08-08,Arthritis,Completed,Take before food
+RX01712,P0939,D0051,2026-09-04,High Cholesterol,Active,As directed
+RX01713,P0044,D0012,2026-01-23,Asthma,Completed,Take after food
+RX01714,P0247,D0046,2026-07-02,GERD,Discontinued,As directed
+RX01715,P0628,D0092,2026-05-20,GERD,Discontinued,Take before food
+RX01716,P0324,D0052,2026-07-02,GERD,Completed,Take before food
+RX01717,P0388,D0085,2026-09-11,Hypothyroidism,Completed,Take before food
+RX01718,P0958,D0057,2026-02-17,Migraine,Active,Take before food
+RX01719,P0720,D0066,2026-07-21,Type 2 Diabetes,Discontinued,As directed
+RX01720,P0979,D0036,2026-04-19,Hypertension,Active,Take before food
+RX01721,P0798,D0019,2026-02-26,Asthma,Completed,As directed
+RX01722,P0262,D0096,2026-04-13,Arthritis,Discontinued,Take after food
+RX01723,P0894,D0087,2026-05-27,Migraine,Discontinued,As directed
+RX01724,P0137,D0016,2026-07-24,Migraine,Active,Take after food
+RX01725,P0017,D0037,2026-06-11,High Cholesterol,Discontinued,Take after food
+RX01726,P0857,D0007,2026-09-15,Arthritis,Active,As directed
+RX01727,P0980,D0072,2026-08-05,High Cholesterol,Completed,Take after food
+RX01728,P0782,D0038,2026-01-30,Hypothyroidism,Completed,As directed
+RX01729,P0683,D0011,2026-09-04,High Cholesterol,Completed,Take before food
+RX01730,P0210,D0080,2026-01-17,GERD,Active,Take before food
+RX01731,P0470,D0069,2026-05-11,High Cholesterol,Active,Take after food
+RX01732,P0556,D0007,2026-07-03,GERD,Active,As directed
+RX01733,P0340,D0008,2026-06-15,High Cholesterol,Completed,Take before food
+RX01734,P0115,D0027,2026-05-21,Hypothyroidism,Active,Take after food
+RX01735,P0743,D0090,2026-03-31,Migraine,Discontinued,Take after food
+RX01736,P0705,D0006,2026-06-14,Arthritis,Active,Take after food
+RX01737,P0811,D0013,2026-02-19,Asthma,Completed,Take before food
+RX01738,P0933,D0074,2026-07-08,Arthritis,Discontinued,Take after food
+RX01739,P0935,D0035,2026-08-13,Type 2 Diabetes,Active,Take before food
+RX01740,P0401,D0044,2026-04-21,Arthritis,Completed,Take after food
+RX01741,P0121,D0070,2026-02-25,Type 2 Diabetes,Discontinued,Take before food
+RX01742,P0786,D0001,2026-03-08,High Cholesterol,Discontinued,Take after food
+RX01743,P0687,D0032,2026-07-01,Asthma,Active,As directed
+RX01744,P0205,D0051,2026-05-27,Type 2 Diabetes,Completed,As directed
+RX01745,P0726,D0080,2026-08-29,Type 2 Diabetes,Discontinued,Take after food
+RX01746,P0843,D0010,2026-06-23,Hypothyroidism,Active,Take before food
+RX01747,P0855,D0070,2026-02-02,Type 2 Diabetes,Active,Take before food
+RX01748,P0920,D0053,2026-04-02,GERD,Completed,Take after food
+RX01749,P0122,D0064,2026-09-02,High Cholesterol,Active,Take after food
+RX01750,P0126,D0048,2026-05-12,High Cholesterol,Completed,Take after food
+RX01751,P0886,D0027,2026-06-16,Arthritis,Discontinued,As directed
+RX01752,P0614,D0051,2026-04-25,GERD,Active,Take after food
+RX01753,P0681,D0014,2026-03-02,Asthma,Active,Take after food
+RX01754,P0994,D0093,2026-06-08,Asthma,Active,Take before food
+RX01755,P0726,D0086,2026-07-14,Hypothyroidism,Discontinued,Take before food
+RX01756,P0132,D0078,2026-04-14,Type 2 Diabetes,Discontinued,Take before food
+RX01757,P0997,D0023,2026-06-21,Type 2 Diabetes,Active,As directed
+RX01758,P0283,D0034,2026-07-16,Hypertension,Active,Take after food
+RX01759,P0860,D0038,2026-02-27,Hypothyroidism,Discontinued,Take after food
+RX01760,P0010,D0044,2026-05-25,Migraine,Completed,Take before food
+RX01761,P0382,D0029,2026-08-06,High Cholesterol,Active,Take after food
+RX01762,P0492,D0038,2026-04-14,Type 2 Diabetes,Discontinued,Take after food
+RX01763,P0379,D0031,2026-05-06,High Cholesterol,Completed,As directed
+RX01764,P0282,D0009,2026-06-29,GERD,Active,As directed
+RX01765,P0031,D0087,2026-08-18,Hypertension,Discontinued,Take before food
+RX01766,P0396,D0048,2026-06-22,Asthma,Completed,Take before food
+RX01767,P0523,D0095,2026-09-17,High Cholesterol,Completed,As directed
+RX01768,P0764,D0049,2026-03-14,Type 2 Diabetes,Active,As directed
+RX01769,P0349,D0099,2026-01-02,GERD,Completed,Take after food
+RX01770,P0491,D0027,2026-02-01,Hypertension,Completed,Take after food
+RX01771,P0580,D0033,2026-07-17,Arthritis,Active,Take before food
+RX01772,P0437,D0052,2026-04-10,GERD,Active,Take after food
+RX01773,P0775,D0078,2026-04-02,Hypothyroidism,Discontinued,As directed
+RX01774,P0407,D0032,2026-08-23,High Cholesterol,Completed,Take before food
+RX01775,P0502,D0003,2026-02-10,Type 2 Diabetes,Active,Take after food
+RX01776,P0295,D0026,2026-04-08,Arthritis,Discontinued,Take after food
+RX01777,P0584,D0034,2026-08-16,Asthma,Active,As directed
+RX01778,P0847,D0096,2026-09-19,Asthma,Active,Take before food
+RX01779,P0906,D0054,2026-07-15,Arthritis,Active,Take before food
+RX01780,P0056,D0023,2026-05-25,GERD,Completed,Take before food
+RX01781,P0476,D0003,2026-05-24,Hypothyroidism,Discontinued,Take after food
+RX01782,P0211,D0031,2026-09-13,Arthritis,Discontinued,Take after food
+RX01783,P0633,D0076,2026-05-18,Asthma,Discontinued,Take before food
+RX01784,P0952,D0017,2026-06-16,High Cholesterol,Active,Take before food
+RX01785,P0560,D0067,2026-04-21,Migraine,Discontinued,Take after food
+RX01786,P0605,D0029,2026-01-14,Hypothyroidism,Completed,As directed
+RX01787,P0149,D0055,2026-03-17,High Cholesterol,Active,As directed
+RX01788,P0113,D0077,2026-06-01,Asthma,Completed,As directed
+RX01789,P0763,D0065,2026-05-23,GERD,Completed,Take before food
+RX01790,P0824,D0047,2026-01-08,Hypothyroidism,Active,As directed
+RX01791,P0125,D0084,2026-09-16,Hypothyroidism,Completed,Take before food
+RX01792,P0597,D0024,2026-06-09,GERD,Discontinued,Take after food
+RX01793,P0840,D0081,2026-07-31,Asthma,Completed,Take before food
+RX01794,P0995,D0037,2026-08-24,Asthma,Completed,Take after food
+RX01795,P0580,D0094,2026-02-11,Arthritis,Discontinued,Take after food
+RX01796,P0639,D0096,2026-02-26,Migraine,Discontinued,Take after food
+RX01797,P0409,D0039,2026-08-17,Migraine,Completed,Take after food
+RX01798,P0593,D0013,2026-09-15,Type 2 Diabetes,Completed,Take before food
+RX01799,P0045,D0094,2026-05-11,Type 2 Diabetes,Completed,As directed
+RX01800,P0002,D0072,2026-04-12,Asthma,Active,As directed
+RX01801,P0606,D0049,2026-08-30,Type 2 Diabetes,Discontinued,Take after food
+RX01802,P0362,D0066,2026-09-22,Asthma,Completed,As directed
+RX01803,P0269,D0094,2026-08-15,Asthma,Active,As directed
+RX01804,P0826,D0065,2026-05-16,Hypertension,Completed,Take before food
+RX01805,P0627,D0012,2026-07-10,Asthma,Active,Take after food
+RX01806,P0112,D0082,2026-06-06,GERD,Discontinued,Take before food
+RX01807,P0831,D0057,2026-08-05,Arthritis,Discontinued,As directed
+RX01808,P0235,D0051,2026-03-05,Arthritis,Discontinued,Take after food
+RX01809,P0803,D0100,2026-01-13,GERD,Completed,Take before food
+RX01810,P0044,D0091,2026-04-09,Asthma,Completed,Take after food
+RX01811,P0672,D0089,2026-07-05,Asthma,Active,Take before food
+RX01812,P0805,D0066,2026-02-26,Asthma,Discontinued,Take after food
+RX01813,P0008,D0029,2026-09-21,Arthritis,Active,Take after food
+RX01814,P0997,D0099,2026-06-19,GERD,Active,As directed
+RX01815,P0813,D0088,2026-04-04,Hypothyroidism,Discontinued,Take before food
+RX01816,P0384,D0020,2026-01-17,Migraine,Completed,Take before food
+RX01817,P0519,D0073,2026-03-30,GERD,Active,Take before food
+RX01818,P0610,D0009,2026-07-03,Arthritis,Active,Take after food
+RX01819,P0615,D0020,2026-09-05,GERD,Active,Take after food
+RX01820,P0374,D0081,2026-07-01,Migraine,Discontinued,Take before food
+RX01821,P0936,D0041,2026-03-11,Migraine,Active,Take after food
+RX01822,P0330,D0038,2026-04-02,GERD,Discontinued,Take after food
+RX01823,P0191,D0077,2026-08-18,Hypothyroidism,Active,Take after food
+RX01824,P0668,D0047,2026-08-22,High Cholesterol,Active,As directed
+RX01825,P0439,D0096,2026-03-16,High Cholesterol,Active,Take after food
+RX01826,P0004,D0081,2026-08-14,Type 2 Diabetes,Active,As directed
+RX01827,P0999,D0095,2026-07-02,Arthritis,Completed,Take before food
+RX01828,P0194,D0017,2026-03-03,Arthritis,Completed,Take before food
+RX01829,P0130,D0010,2026-08-05,Arthritis,Discontinued,Take before food
+RX01830,P0277,D0072,2026-04-16,Hypothyroidism,Completed,Take before food
+RX01831,P0837,D0063,2026-05-02,Hypertension,Discontinued,Take after food
+RX01832,P0218,D0053,2026-05-05,Hypothyroidism,Discontinued,Take before food
+RX01833,P0684,D0091,2026-03-07,Hypertension,Completed,As directed
+RX01834,P0524,D0059,2026-08-22,Type 2 Diabetes,Completed,As directed
+RX01835,P0265,D0003,2026-04-26,Arthritis,Active,As directed
+RX01836,P0642,D0071,2026-06-19,Hypothyroidism,Discontinued,Take before food
+RX01837,P0187,D0024,2026-07-19,GERD,Discontinued,Take after food
+RX01838,P0457,D0021,2026-05-20,GERD,Completed,Take after food
+RX01839,P0011,D0032,2026-02-16,Migraine,Active,Take before food
+RX01840,P0887,D0072,2026-09-28,Asthma,Completed,Take after food
+RX01841,P0861,D0031,2026-02-15,Arthritis,Completed,Take after food
+RX01842,P0604,D0076,2026-08-16,Migraine,Completed,Take before food
+RX01843,P0016,D0003,2026-01-26,GERD,Completed,Take before food
+RX01844,P0972,D0085,2026-01-26,Migraine,Discontinued,Take before food
+RX01845,P0676,D0010,2026-06-14,Asthma,Active,Take before food
+RX01846,P0992,D0054,2026-02-19,Type 2 Diabetes,Completed,Take before food
+RX01847,P0641,D0043,2026-05-14,Asthma,Discontinued,Take after food
+RX01848,P0811,D0018,2026-04-05,GERD,Active,Take after food
+RX01849,P0371,D0071,2026-02-28,Type 2 Diabetes,Active,Take after food
+RX01850,P0916,D0066,2026-06-29,High Cholesterol,Active,Take after food
+RX01851,P0077,D0099,2026-06-15,Hypothyroidism,Discontinued,As directed
+RX01852,P0860,D0016,2026-03-07,Arthritis,Active,Take after food
+RX01853,P0270,D0042,2026-08-05,Hypertension,Active,As directed
+RX01854,P0817,D0062,2026-04-22,Type 2 Diabetes,Completed,Take before food
+RX01855,P0393,D0060,2026-02-01,Hypertension,Completed,Take after food
+RX01856,P0439,D0007,2026-01-31,Arthritis,Discontinued,Take before food
+RX01857,P0297,D0004,2026-02-18,Arthritis,Active,As directed
+RX01858,P0235,D0023,2026-01-12,Migraine,Discontinued,As directed
+RX01859,P0100,D0085,2026-05-24,Migraine,Active,Take before food
+RX01860,P0636,D0003,2026-04-14,Migraine,Discontinued,As directed
+RX01861,P0910,D0097,2026-06-14,High Cholesterol,Active,Take after food
+RX01862,P0466,D0025,2026-05-29,Asthma,Completed,Take after food
+RX01863,P0360,D0086,2026-03-22,Arthritis,Active,Take before food
+RX01864,P0667,D0091,2026-02-04,Type 2 Diabetes,Active,Take before food
+RX01865,P0081,D0038,2026-03-12,Type 2 Diabetes,Completed,As directed
+RX01866,P0563,D0073,2026-07-16,Asthma,Completed,As directed
+RX01867,P0713,D0029,2026-03-31,Arthritis,Completed,Take after food
+RX01868,P0550,D0027,2026-09-14,Hypothyroidism,Discontinued,Take before food
+RX01869,P0418,D0004,2026-05-18,Hypothyroidism,Completed,Take before food
+RX01870,P0523,D0081,2026-08-13,Migraine,Active,As directed
+RX01871,P0873,D0028,2026-07-11,Type 2 Diabetes,Completed,As directed
+RX01872,P0682,D0076,2026-06-19,Hypothyroidism,Discontinued,Take after food
+RX01873,P0185,D0081,2026-05-10,High Cholesterol,Completed,As directed
+RX01874,P0793,D0078,2026-04-22,Migraine,Active,Take before food
+RX01875,P0668,D0089,2026-06-18,Migraine,Completed,As directed
+RX01876,P0269,D0033,2026-03-28,Hypertension,Active,Take after food
+RX01877,P0492,D0061,2026-06-08,Type 2 Diabetes,Discontinued,Take before food
+RX01878,P0844,D0043,2026-03-18,Hypertension,Discontinued,Take before food
+RX01879,P0014,D0010,2026-09-17,Type 2 Diabetes,Active,Take before food
+RX01880,P0419,D0079,2026-01-17,Type 2 Diabetes,Discontinued,Take after food
+RX01881,P0804,D0070,2026-04-23,Type 2 Diabetes,Completed,As directed
+RX01882,P0057,D0015,2026-01-23,Type 2 Diabetes,Completed,Take before food
+RX01883,P0004,D0066,2026-05-22,Migraine,Discontinued,Take before food
+RX01884,P0262,D0041,2026-03-10,High Cholesterol,Completed,Take before food
+RX01885,P0482,D0018,2026-02-02,Type 2 Diabetes,Discontinued,As directed
+RX01886,P0805,D0043,2026-02-14,Type 2 Diabetes,Active,As directed
+RX01887,P0280,D0047,2026-07-25,Asthma,Completed,As directed
+RX01888,P0656,D0017,2026-07-28,Type 2 Diabetes,Completed,Take before food
+RX01889,P0091,D0039,2026-03-30,Hypothyroidism,Discontinued,Take after food
+RX01890,P0871,D0001,2026-09-20,Hypertension,Discontinued,As directed
+RX01891,P0534,D0084,2026-08-04,GERD,Completed,As directed
+RX01892,P0807,D0014,2026-05-03,Migraine,Completed,Take before food
+RX01893,P0170,D0021,2026-09-17,Asthma,Completed,Take before food
+RX01894,P0965,D0055,2026-02-10,High Cholesterol,Completed,As directed
+RX01895,P0238,D0046,2026-02-06,Migraine,Discontinued,Take after food
+RX01896,P0739,D0064,2026-03-15,High Cholesterol,Completed,Take before food
+RX01897,P0883,D0092,2026-01-21,Type 2 Diabetes,Active,Take before food
+RX01898,P0981,D0061,2026-05-07,GERD,Active,Take after food
+RX01899,P0010,D0022,2026-04-09,Arthritis,Completed,As directed
+RX01900,P0327,D0075,2026-04-17,High Cholesterol,Completed,As directed
+RX01901,P0322,D0015,2026-02-04,Arthritis,Discontinued,Take before food
+RX01902,P0589,D0036,2026-01-11,Hypertension,Completed,Take before food
+RX01903,P0945,D0056,2026-03-10,GERD,Active,As directed
+RX01904,P0470,D0099,2026-02-23,Type 2 Diabetes,Discontinued,As directed
+RX01905,P0148,D0013,2026-08-13,Hypertension,Completed,As directed
+RX01906,P0033,D0042,2026-06-12,Arthritis,Discontinued,As directed
+RX01907,P0649,D0088,2026-01-24,GERD,Completed,Take after food
+RX01908,P0378,D0029,2026-08-28,GERD,Completed,As directed
+RX01909,P0734,D0053,2026-05-08,GERD,Active,Take before food
+RX01910,P0910,D0035,2026-07-15,Hypothyroidism,Active,Take before food
+RX01911,P0804,D0001,2026-08-29,Asthma,Active,Take before food
+RX01912,P0860,D0017,2026-01-15,High Cholesterol,Completed,Take before food
+RX01913,P0120,D0020,2026-07-26,Type 2 Diabetes,Discontinued,Take before food
+RX01914,P0185,D0078,2026-07-17,Hypothyroidism,Discontinued,As directed
+RX01915,P0787,D0089,2026-09-02,Asthma,Active,Take before food
+RX01916,P0174,D0068,2026-05-16,Hypertension,Active,Take before food
+RX01917,P0556,D0042,2026-05-29,Migraine,Completed,Take after food
+RX01918,P0646,D0084,2026-09-17,Hypothyroidism,Discontinued,As directed
+RX01919,P0340,D0065,2026-03-16,High Cholesterol,Active,As directed
+RX01920,P0079,D0086,2026-04-07,High Cholesterol,Discontinued,Take after food
+RX01921,P0944,D0036,2026-03-06,Migraine,Active,Take before food
+RX01922,P0620,D0042,2026-06-03,High Cholesterol,Discontinued,As directed
+RX01923,P0798,D0045,2026-05-09,Hypothyroidism,Completed,As directed
+RX01924,P0015,D0037,2026-08-01,Migraine,Active,Take before food
+RX01925,P0026,D0100,2026-05-30,Migraine,Active,Take before food
+RX01926,P0955,D0028,2026-08-06,Type 2 Diabetes,Discontinued,As directed
+RX01927,P0734,D0093,2026-05-28,Hypothyroidism,Active,Take before food
+RX01928,P0057,D0007,2026-04-24,Hypertension,Active,Take before food
+RX01929,P0601,D0003,2026-08-14,Migraine,Completed,Take after food
+RX01930,P0120,D0017,2026-08-06,Hypertension,Discontinued,Take before food
+RX01931,P0022,D0048,2026-06-16,Hypertension,Completed,As directed
+RX01932,P0948,D0001,2026-02-19,Asthma,Discontinued,Take before food
+RX01933,P0054,D0065,2026-08-13,Hypertension,Active,Take before food
+RX01934,P0154,D0008,2026-06-18,GERD,Active,Take after food
+RX01935,P0985,D0097,2026-08-25,GERD,Active,Take after food
+RX01936,P0389,D0077,2026-07-20,Hypothyroidism,Completed,Take after food
+RX01937,P0286,D0080,2026-09-25,Arthritis,Discontinued,Take before food
+RX01938,P0998,D0008,2026-06-16,Type 2 Diabetes,Discontinued,Take after food
+RX01939,P0046,D0068,2026-06-15,Arthritis,Completed,As directed
+RX01940,P0070,D0092,2026-07-19,Migraine,Completed,Take after food
+RX01941,P0448,D0064,2026-02-26,Asthma,Active,Take before food
+RX01942,P0067,D0093,2026-03-14,Arthritis,Completed,Take after food
+RX01943,P0495,D0016,2026-08-29,Hypothyroidism,Active,As directed
+RX01944,P0600,D0056,2026-08-31,High Cholesterol,Active,Take after food
+RX01945,P0070,D0099,2026-05-11,Hypothyroidism,Discontinued,As directed
+RX01946,P0898,D0041,2026-08-25,Migraine,Active,Take after food
+RX01947,P0225,D0018,2026-02-16,Arthritis,Discontinued,As directed
+RX01948,P0722,D0053,2026-05-10,High Cholesterol,Discontinued,Take after food
+RX01949,P0234,D0003,2026-06-05,Hypertension,Discontinued,Take after food
+RX01950,P0906,D0050,2026-07-10,Asthma,Discontinued,Take before food
+RX01951,P0581,D0015,2026-05-06,Arthritis,Discontinued,As directed
+RX01952,P0745,D0078,2026-01-04,High Cholesterol,Completed,As directed
+RX01953,P0807,D0011,2026-07-14,GERD,Active,Take before food
+RX01954,P0004,D0036,2026-07-13,Hypothyroidism,Active,Take after food
+RX01955,P0860,D0009,2026-08-11,Hypertension,Discontinued,As directed
+RX01956,P0067,D0074,2026-09-17,Arthritis,Active,Take before food
+RX01957,P0094,D0068,2026-03-18,High Cholesterol,Discontinued,As directed
+RX01958,P0555,D0056,2026-04-09,Arthritis,Completed,Take before food
+RX01959,P0793,D0015,2026-07-02,Migraine,Active,As directed
+RX01960,P0079,D0071,2026-09-03,Type 2 Diabetes,Discontinued,Take before food
+RX01961,P0896,D0008,2026-08-26,High Cholesterol,Completed,As directed
+RX01962,P0208,D0050,2026-04-01,Type 2 Diabetes,Completed,Take after food
+RX01963,P0292,D0022,2026-02-19,Hypothyroidism,Discontinued,As directed
+RX01964,P0693,D0011,2026-06-09,Asthma,Active,Take before food
+RX01965,P0835,D0092,2026-02-04,Asthma,Active,Take after food
+RX01966,P0814,D0084,2026-04-19,High Cholesterol,Discontinued,Take before food
+RX01967,P0212,D0003,2026-07-17,Hypertension,Active,Take after food
+RX01968,P0666,D0021,2026-07-03,GERD,Completed,Take after food
+RX01969,P0480,D0096,2026-07-08,GERD,Completed,As directed
+RX01970,P0762,D0089,2026-02-22,Migraine,Active,As directed
+RX01971,P0605,D0040,2026-03-12,Arthritis,Active,Take before food
+RX01972,P0130,D0099,2026-05-20,Arthritis,Discontinued,Take after food
+RX01973,P0198,D0064,2026-05-15,Hypothyroidism,Discontinued,Take before food
+RX01974,P0711,D0011,2026-05-02,High Cholesterol,Active,As directed
+RX01975,P0525,D0033,2026-07-04,Arthritis,Active,As directed
+RX01976,P0940,D0018,2026-06-15,Arthritis,Completed,As directed
+RX01977,P0724,D0033,2026-03-28,Asthma,Discontinued,Take before food
+RX01978,P0888,D0010,2026-02-16,Migraine,Active,Take before food
+RX01979,P0755,D0026,2026-06-29,Asthma,Completed,As directed
+RX01980,P0793,D0056,2026-05-01,Type 2 Diabetes,Active,As directed
+RX01981,P0195,D0084,2026-01-06,High Cholesterol,Completed,Take before food
+RX01982,P0102,D0081,2026-02-25,High Cholesterol,Active,Take after food
+RX01983,P0688,D0084,2026-09-10,High Cholesterol,Active,Take after food
+RX01984,P0714,D0054,2026-01-28,GERD,Discontinued,Take after food
+RX01985,P0761,D0016,2026-07-09,High Cholesterol,Discontinued,As directed
+RX01986,P0181,D0095,2026-02-09,Asthma,Active,Take after food
+RX01987,P0107,D0067,2026-04-21,Hypertension,Discontinued,As directed
+RX01988,P0051,D0065,2026-04-20,GERD,Active,Take after food
+RX01989,P0048,D0077,2026-04-07,Type 2 Diabetes,Discontinued,As directed
+RX01990,P0620,D0011,2026-01-11,Hypothyroidism,Active,Take after food
+RX01991,P0880,D0098,2026-07-28,Asthma,Discontinued,As directed
+RX01992,P0750,D0065,2026-03-03,Type 2 Diabetes,Completed,Take after food
+RX01993,P0209,D0098,2026-09-23,Arthritis,Completed,Take after food
+RX01994,P0556,D0032,2026-09-16,Arthritis,Discontinued,As directed
+RX01995,P0009,D0047,2026-09-06,GERD,Discontinued,As directed
+RX01996,P0447,D0065,2026-08-23,Hypertension,Completed,As directed
+RX01997,P0507,D0073,2026-04-02,Hypertension,Completed,Take before food
+RX01998,P0429,D0034,2026-03-23,Migraine,Active,As directed
+RX01999,P0353,D0074,2026-05-20,Hypothyroidism,Discontinued,Take before food
+RX02000,P0029,D0089,2026-08-30,Asthma,Active,Take after food
+RX02001,P0591,D0006,2026-07-10,GERD,Completed,Take after food
+RX02002,P0816,D0020,2026-01-19,Migraine,Active,Take before food
+RX02003,P0475,D0050,2026-07-25,High Cholesterol,Active,As directed
+RX02004,P0690,D0078,2026-06-21,Type 2 Diabetes,Discontinued,Take before food
+RX02005,P0366,D0098,2026-08-02,Hypothyroidism,Discontinued,As directed
+RX02006,P0738,D0014,2026-01-28,Migraine,Active,Take before food
+RX02007,P0552,D0033,2026-05-22,Arthritis,Completed,Take after food
+RX02008,P0432,D0059,2026-03-30,High Cholesterol,Completed,Take after food
+RX02009,P0224,D0034,2026-08-16,Arthritis,Active,As directed
+RX02010,P0686,D0010,2026-08-31,Type 2 Diabetes,Completed,As directed
+RX02011,P0387,D0053,2026-05-30,Type 2 Diabetes,Completed,As directed
+RX02012,P0435,D0050,2026-09-23,Arthritis,Discontinued,Take before food
+RX02013,P0957,D0075,2026-09-26,Hypertension,Discontinued,As directed
+RX02014,P0821,D0092,2026-08-29,Arthritis,Active,Take after food
+RX02015,P0495,D0006,2026-03-01,Hypothyroidism,Active,Take before food
+RX02016,P0890,D0002,2026-03-27,Asthma,Discontinued,Take after food
+RX02017,P0847,D0082,2026-08-02,Arthritis,Active,Take before food
+RX02018,P0944,D0045,2026-06-30,Arthritis,Active,Take after food
+RX02019,P0910,D0098,2026-01-12,Arthritis,Discontinued,As directed
+RX02020,P0309,D0037,2026-08-11,High Cholesterol,Active,As directed
+RX02021,P0278,D0069,2026-07-22,Migraine,Discontinued,Take after food
+RX02022,P0546,D0014,2026-05-26,GERD,Completed,Take before food
+RX02023,P0766,D0041,2026-07-26,GERD,Discontinued,Take after food
+RX02024,P0443,D0084,2026-08-11,High Cholesterol,Discontinued,As directed
+RX02025,P0696,D0002,2026-09-17,Hypertension,Discontinued,As directed
+RX02026,P0488,D0030,2026-04-24,Hypertension,Completed,Take before food
+RX02027,P0990,D0079,2026-08-27,Hypertension,Completed,Take before food
+RX02028,P0434,D0057,2026-04-21,Migraine,Active,Take before food
+RX02029,P0956,D0001,2026-01-28,GERD,Completed,Take before food
+RX02030,P0346,D0004,2026-04-13,Type 2 Diabetes,Active,Take after food
+RX02031,P0836,D0100,2026-04-27,Migraine,Discontinued,Take after food
+RX02032,P0786,D0061,2026-09-07,Asthma,Discontinued,Take before food
+RX02033,P0638,D0055,2026-02-19,High Cholesterol,Discontinued,As directed
+RX02034,P0365,D0031,2026-01-11,Migraine,Active,Take before food
+RX02035,P0916,D0016,2026-03-04,Hypertension,Completed,As directed
+RX02036,P0534,D0041,2026-07-15,Asthma,Active,Take after food
+RX02037,P0214,D0011,2026-08-16,Hypertension,Discontinued,As directed
+RX02038,P0869,D0091,2026-08-29,Arthritis,Completed,As directed
+RX02039,P0705,D0071,2026-08-03,Migraine,Active,Take after food
+RX02040,P0381,D0038,2026-01-10,Asthma,Discontinued,As directed
+RX02041,P0090,D0012,2026-07-20,Hypothyroidism,Discontinued,Take after food
+RX02042,P0482,D0022,2026-04-27,Hypothyroidism,Discontinued,Take before food
+RX02043,P0048,D0011,2026-05-25,Type 2 Diabetes,Discontinued,Take before food
+RX02044,P0830,D0092,2026-05-12,GERD,Active,As directed
+RX02045,P0933,D0010,2026-08-26,Asthma,Active,As directed
+RX02046,P0365,D0096,2026-04-10,Type 2 Diabetes,Active,As directed
+RX02047,P0278,D0068,2026-03-13,Asthma,Completed,Take before food
+RX02048,P0716,D0029,2026-04-18,Migraine,Discontinued,Take before food
+RX02049,P0443,D0030,2026-08-17,Arthritis,Discontinued,Take after food
+RX02050,P0545,D0089,2026-04-11,Hypothyroidism,Completed,Take before food
+RX02051,P0484,D0030,2026-05-27,GERD,Completed,Take before food
+RX02052,P0114,D0040,2026-04-05,GERD,Completed,Take before food
+RX02053,P0963,D0087,2026-04-14,GERD,Active,As directed
+RX02054,P0667,D0077,2026-08-15,Hypertension,Active,Take after food
+RX02055,P0254,D0025,2026-08-15,Hypothyroidism,Discontinued,Take after food
+RX02056,P0701,D0019,2026-06-19,Type 2 Diabetes,Completed,Take before food
+RX02057,P0960,D0098,2026-04-23,Asthma,Completed,Take after food
+RX02058,P0604,D0088,2026-08-20,GERD,Discontinued,As directed
+RX02059,P0963,D0003,2026-02-22,Migraine,Completed,As directed
+RX02060,P0345,D0070,2026-02-12,Hypothyroidism,Active,Take before food
+RX02061,P0277,D0025,2026-05-05,Asthma,Completed,As directed
+RX02062,P0771,D0005,2026-05-05,Hypothyroidism,Active,As directed
+RX02063,P0469,D0058,2026-06-23,Arthritis,Completed,As directed
+RX02064,P0514,D0037,2026-01-08,Hypertension,Completed,Take after food
+RX02065,P0070,D0001,2026-09-24,GERD,Discontinued,Take before food
+RX02066,P0471,D0053,2026-02-05,Hypertension,Discontinued,As directed
+RX02067,P0416,D0092,2026-07-19,Hypothyroidism,Discontinued,Take before food
+RX02068,P0587,D0027,2026-09-10,Asthma,Discontinued,As directed
+RX02069,P0960,D0025,2026-01-17,Hypothyroidism,Discontinued,Take before food
+RX02070,P0596,D0067,2026-09-07,Hypertension,Discontinued,As directed
+RX02071,P0959,D0069,2026-01-09,Asthma,Completed,As directed
+RX02072,P0927,D0094,2026-05-05,High Cholesterol,Discontinued,Take after food
+RX02073,P0901,D0002,2026-04-07,Type 2 Diabetes,Completed,Take after food
+RX02074,P0288,D0001,2026-02-11,High Cholesterol,Discontinued,Take before food
+RX02075,P0810,D0088,2026-07-13,Asthma,Completed,Take before food
+RX02076,P0494,D0037,2026-06-14,Migraine,Completed,As directed
+RX02077,P0907,D0025,2026-03-16,Asthma,Discontinued,As directed
+RX02078,P0337,D0003,2026-06-06,Arthritis,Discontinued,Take before food
+RX02079,P0478,D0095,2026-09-14,Migraine,Discontinued,Take after food
+RX02080,P0771,D0048,2026-05-15,Arthritis,Completed,Take before food
+RX02081,P0186,D0001,2026-03-07,Hypertension,Discontinued,As directed
+RX02082,P0754,D0020,2026-06-05,High Cholesterol,Active,As directed
+RX02083,P0464,D0013,2026-03-31,Migraine,Discontinued,Take before food
+RX02084,P0198,D0087,2026-03-04,Hypertension,Active,As directed
+RX02085,P0473,D0023,2026-03-22,Migraine,Discontinued,As directed
+RX02086,P0888,D0038,2026-07-26,Hypertension,Discontinued,Take before food
+RX02087,P0325,D0063,2026-09-28,High Cholesterol,Discontinued,Take before food
+RX02088,P0240,D0081,2026-06-11,GERD,Active,Take after food
+RX02089,P0958,D0020,2026-09-06,Hypertension,Active,Take after food
+RX02090,P0845,D0041,2026-06-18,Hypertension,Completed,Take after food
+RX02091,P0182,D0024,2026-05-18,Asthma,Completed,As directed
+RX02092,P0037,D0030,2026-02-13,Asthma,Active,As directed
+RX02093,P0878,D0025,2026-01-09,GERD,Active,Take before food
+RX02094,P0551,D0040,2026-07-29,Hypertension,Completed,Take after food
+RX02095,P0587,D0030,2026-06-17,Arthritis,Completed,Take after food
+RX02096,P0450,D0081,2026-03-31,High Cholesterol,Active,Take after food
+RX02097,P0706,D0091,2026-03-07,Asthma,Completed,Take before food
+RX02098,P0698,D0092,2026-04-23,Type 2 Diabetes,Active,As directed
+RX02099,P0393,D0013,2026-09-20,Hypertension,Completed,Take before food
+RX02100,P0673,D0063,2026-05-24,Hypertension,Active,As directed
+RX02101,P0193,D0053,2026-01-01,Migraine,Completed,Take before food
+RX02102,P0101,D0048,2026-03-05,Type 2 Diabetes,Discontinued,Take after food
+RX02103,P0187,D0022,2026-02-27,Migraine,Active,As directed
+RX02104,P0730,D0022,2026-02-01,Arthritis,Active,Take after food
+RX02105,P0131,D0032,2026-04-10,Asthma,Discontinued,Take after food
+RX02106,P0739,D0097,2026-04-22,Type 2 Diabetes,Discontinued,As directed
+RX02107,P0653,D0088,2026-06-11,Asthma,Discontinued,Take after food
+RX02108,P0290,D0024,2026-04-30,GERD,Completed,Take after food
+RX02109,P0177,D0018,2026-05-18,Type 2 Diabetes,Discontinued,Take after food
+RX02110,P0402,D0012,2026-02-13,Hypertension,Discontinued,As directed
+RX02111,P0348,D0029,2026-02-17,Asthma,Active,Take before food
+RX02112,P0626,D0062,2026-04-02,Migraine,Discontinued,As directed
+RX02113,P0091,D0038,2026-06-15,High Cholesterol,Active,As directed
+RX02114,P0669,D0080,2026-03-04,Migraine,Discontinued,As directed
+RX02115,P0480,D0078,2026-09-06,Type 2 Diabetes,Completed,Take after food
+RX02116,P0023,D0086,2026-02-22,Type 2 Diabetes,Active,Take before food
+RX02117,P0283,D0027,2026-08-11,Type 2 Diabetes,Discontinued,Take before food
+RX02118,P0054,D0011,2026-02-26,Migraine,Active,Take before food
+RX02119,P0691,D0072,2026-01-15,Asthma,Completed,Take before food
+RX02120,P0681,D0045,2026-03-16,Hypothyroidism,Discontinued,As directed
+RX02121,P0031,D0081,2026-04-07,Hypertension,Discontinued,Take after food
+RX02122,P0723,D0064,2026-08-10,High Cholesterol,Completed,Take after food
+RX02123,P0664,D0089,2026-08-22,High Cholesterol,Active,Take before food
+RX02124,P0654,D0094,2026-01-27,Asthma,Discontinued,As directed
+RX02125,P0323,D0049,2026-07-30,Arthritis,Discontinued,As directed
+RX02126,P0476,D0080,2026-08-06,Type 2 Diabetes,Completed,Take after food
+RX02127,P0915,D0019,2026-06-09,GERD,Completed,As directed
+RX02128,P0020,D0013,2026-01-12,High Cholesterol,Completed,As directed
+RX02129,P0462,D0017,2026-04-14,Arthritis,Active,As directed
+RX02130,P0766,D0022,2026-08-21,Migraine,Active,Take before food
+RX02131,P0684,D0026,2026-07-22,Hypertension,Discontinued,Take before food
+RX02132,P0888,D0071,2026-08-12,GERD,Active,As directed
+RX02133,P0188,D0008,2026-03-14,Asthma,Discontinued,As directed
+RX02134,P0353,D0037,2026-05-18,Hypertension,Active,Take after food
+RX02135,P0414,D0097,2026-08-08,Type 2 Diabetes,Completed,As directed
+RX02136,P0673,D0033,2026-02-01,Arthritis,Active,Take before food
+RX02137,P0816,D0056,2026-03-26,Asthma,Completed,As directed
+RX02138,P0269,D0067,2026-01-10,Type 2 Diabetes,Completed,Take after food
+RX02139,P0298,D0043,2026-08-13,Asthma,Discontinued,Take after food
+RX02140,P0290,D0061,2026-06-24,Hypertension,Discontinued,As directed
+RX02141,P0445,D0039,2026-02-19,GERD,Completed,Take after food
+RX02142,P0596,D0016,2026-07-24,Asthma,Discontinued,As directed
+RX02143,P0098,D0041,2026-04-25,High Cholesterol,Completed,Take before food
+RX02144,P0231,D0025,2026-04-17,Migraine,Active,As directed
+RX02145,P0653,D0018,2026-08-21,Hypothyroidism,Discontinued,As directed
+RX02146,P0668,D0026,2026-03-02,High Cholesterol,Active,As directed
+RX02147,P0181,D0099,2026-09-15,Hypertension,Completed,As directed
+RX02148,P0157,D0006,2026-07-24,Arthritis,Completed,Take before food
+RX02149,P0630,D0068,2026-04-07,Hypertension,Completed,Take before food
+RX02150,P0054,D0044,2026-08-12,Arthritis,Completed,As directed
+RX02151,P0631,D0047,2026-08-30,Type 2 Diabetes,Discontinued,Take before food
+RX02152,P0716,D0032,2026-01-18,Arthritis,Completed,Take before food
+RX02153,P0771,D0091,2026-03-13,Migraine,Discontinued,Take after food
+RX02154,P0608,D0048,2026-06-13,Migraine,Completed,Take before food
+RX02155,P0964,D0078,2026-04-04,Type 2 Diabetes,Discontinued,Take after food
+RX02156,P0075,D0013,2026-05-26,GERD,Discontinued,Take before food
+RX02157,P0926,D0035,2026-04-05,Asthma,Discontinued,Take after food
+RX02158,P0145,D0080,2026-09-14,Arthritis,Completed,Take before food
+RX02159,P0160,D0057,2026-04-23,Hypothyroidism,Active,Take before food
+RX02160,P0630,D0042,2026-01-12,Arthritis,Discontinued,Take before food
+RX02161,P0996,D0057,2026-05-26,Hypothyroidism,Active,Take before food
+RX02162,P0202,D0070,2026-09-17,Asthma,Discontinued,Take after food
+RX02163,P0014,D0093,2026-03-24,Arthritis,Completed,Take after food
+RX02164,P0169,D0014,2026-09-16,Type 2 Diabetes,Discontinued,As directed
+RX02165,P0897,D0037,2026-03-23,Hypothyroidism,Active,Take after food
+RX02166,P0985,D0011,2026-07-12,Hypothyroidism,Completed,Take before food
+RX02167,P0400,D0029,2026-04-24,Hypothyroidism,Active,Take after food
+RX02168,P0958,D0088,2026-04-09,Migraine,Active,Take before food
+RX02169,P0595,D0006,2026-06-28,Type 2 Diabetes,Completed,Take before food
+RX02170,P0014,D0059,2026-06-18,Arthritis,Discontinued,Take before food
+RX02171,P0581,D0037,2026-05-16,Type 2 Diabetes,Completed,As directed
+RX02172,P0931,D0057,2026-06-24,High Cholesterol,Discontinued,Take after food
+RX02173,P0707,D0065,2026-07-16,High Cholesterol,Active,Take before food
+RX02174,P0773,D0061,2026-05-15,GERD,Discontinued,Take after food
+RX02175,P0673,D0051,2026-08-05,Type 2 Diabetes,Completed,Take before food
+RX02176,P0704,D0051,2026-08-26,Arthritis,Completed,Take before food
+RX02177,P0014,D0051,2026-05-05,High Cholesterol,Completed,Take before food
+RX02178,P0349,D0066,2026-02-28,Hypothyroidism,Completed,Take after food
+RX02179,P0087,D0008,2026-07-29,Hypothyroidism,Completed,As directed
+RX02180,P0400,D0077,2026-04-05,High Cholesterol,Completed,As directed
+RX02181,P0659,D0053,2026-04-27,Asthma,Completed,Take before food
+RX02182,P0206,D0055,2026-09-15,Asthma,Completed,Take after food
+RX02183,P0353,D0054,2026-09-27,Asthma,Active,Take before food
+RX02184,P0613,D0099,2026-08-16,Migraine,Completed,As directed
+RX02185,P0297,D0009,2026-04-21,GERD,Active,As directed
+RX02186,P0254,D0054,2026-03-01,Hypertension,Active,Take before food
+RX02187,P0972,D0069,2026-09-02,Hypothyroidism,Completed,As directed
+RX02188,P0047,D0048,2026-05-25,High Cholesterol,Discontinued,Take before food
+RX02189,P0038,D0027,2026-02-21,Arthritis,Completed,As directed
+RX02190,P0758,D0085,2026-06-08,Arthritis,Discontinued,As directed
+RX02191,P0908,D0070,2026-07-21,Hypertension,Active,As directed
+RX02192,P0867,D0040,2026-06-04,Hypothyroidism,Discontinued,Take before food
+RX02193,P0386,D0001,2026-08-20,Arthritis,Completed,Take before food
+RX02194,P0440,D0004,2026-07-12,High Cholesterol,Active,As directed
+RX02195,P0174,D0037,2026-08-09,Asthma,Completed,Take after food
+RX02196,P0148,D0064,2026-03-14,Type 2 Diabetes,Active,Take before food
+RX02197,P0230,D0053,2026-06-22,Hypothyroidism,Completed,Take before food
+RX02198,P0469,D0030,2026-07-13,Hypertension,Discontinued,Take after food
+RX02199,P0954,D0063,2026-09-12,Asthma,Discontinued,Take before food
+RX02200,P0776,D0021,2026-07-31,High Cholesterol,Completed,As directed
+RX02201,P0457,D0053,2026-05-13,Type 2 Diabetes,Completed,As directed
+RX02202,P0443,D0053,2026-08-29,Arthritis,Discontinued,Take after food
+RX02203,P0427,D0033,2026-03-22,Hypertension,Active,Take before food
+RX02204,P0113,D0092,2026-04-11,Asthma,Completed,As directed
+RX02205,P0723,D0033,2026-08-18,Arthritis,Active,Take before food
+RX02206,P0706,D0034,2026-08-22,Type 2 Diabetes,Completed,Take before food
+RX02207,P0551,D0092,2026-08-05,Asthma,Active,Take before food
+RX02208,P0820,D0068,2026-01-14,Type 2 Diabetes,Discontinued,As directed
+RX02209,P0927,D0044,2026-09-20,GERD,Active,As directed
+RX02210,P0251,D0027,2026-09-09,Hypertension,Active,Take after food
+RX02211,P0648,D0031,2026-06-29,Type 2 Diabetes,Completed,Take before food
+RX02212,P0993,D0062,2026-06-24,Hypertension,Active,Take after food
+RX02213,P0663,D0086,2026-06-18,Hypertension,Active,As directed
+RX02214,P0549,D0026,2026-01-30,Hypothyroidism,Completed,As directed
+RX02215,P0413,D0089,2026-06-07,Asthma,Discontinued,As directed
+RX02216,P0974,D0078,2026-08-02,Arthritis,Discontinued,As directed
+RX02217,P0089,D0009,2026-04-10,Hypertension,Active,As directed
+RX02218,P0852,D0076,2026-07-03,GERD,Discontinued,Take before food
+RX02219,P0219,D0072,2026-05-13,Hypertension,Active,Take before food
+RX02220,P0789,D0035,2026-07-19,Type 2 Diabetes,Active,Take before food
+RX02221,P0416,D0082,2026-04-14,Type 2 Diabetes,Active,Take before food
+RX02222,P0206,D0042,2026-09-27,Migraine,Completed,Take after food
+RX02223,P0588,D0054,2026-01-07,Type 2 Diabetes,Completed,As directed
+RX02224,P0806,D0003,2026-06-11,Hypertension,Discontinued,Take before food
+RX02225,P0917,D0034,2026-07-04,GERD,Discontinued,As directed
+RX02226,P0260,D0093,2026-03-28,Hypertension,Completed,As directed
+RX02227,P0250,D0065,2026-02-04,GERD,Active,As directed
+RX02228,P0615,D0077,2026-08-23,Asthma,Discontinued,As directed
+RX02229,P0236,D0044,2026-05-15,Migraine,Discontinued,Take before food
+RX02230,P0345,D0070,2026-06-25,Hypertension,Discontinued,Take before food
+RX02231,P0929,D0026,2026-03-05,Hypertension,Discontinued,As directed
+RX02232,P0615,D0042,2026-07-22,Asthma,Active,Take before food
+RX02233,P0717,D0046,2026-09-23,GERD,Active,Take before food
+RX02234,P0377,D0094,2026-08-06,Hypothyroidism,Active,Take before food
+RX02235,P0220,D0007,2026-02-26,Arthritis,Active,As directed
+RX02236,P0939,D0011,2026-04-11,Hypothyroidism,Completed,As directed
+RX02237,P0600,D0056,2026-02-15,High Cholesterol,Completed,Take after food
+RX02238,P0202,D0097,2026-06-30,High Cholesterol,Completed,As directed
+RX02239,P0645,D0032,2026-06-20,Hypothyroidism,Completed,Take after food
+RX02240,P0750,D0094,2026-02-28,Hypertension,Completed,As directed
+RX02241,P0035,D0091,2026-05-19,High Cholesterol,Active,Take after food
+RX02242,P0870,D0055,2026-04-01,Asthma,Active,As directed
+RX02243,P0330,D0052,2026-03-05,Asthma,Active,Take before food
+RX02244,P0835,D0025,2026-07-09,High Cholesterol,Completed,Take after food
+RX02245,P0793,D0023,2026-06-15,Hypertension,Completed,Take before food
+RX02246,P0632,D0017,2026-04-23,Type 2 Diabetes,Discontinued,As directed
+RX02247,P0436,D0001,2026-09-16,Hypothyroidism,Active,As directed
+RX02248,P0627,D0058,2026-09-19,Asthma,Completed,Take after food
+RX02249,P0146,D0033,2026-07-25,Arthritis,Completed,As directed
+RX02250,P0336,D0098,2026-03-03,High Cholesterol,Discontinued,Take after food
+RX02251,P0482,D0051,2026-09-02,Hypertension,Active,Take after food
+RX02252,P0785,D0087,2026-01-21,Hypothyroidism,Discontinued,As directed
+RX02253,P0447,D0060,2026-05-16,Migraine,Active,As directed
+RX02254,P0933,D0042,2026-05-23,High Cholesterol,Completed,As directed
+RX02255,P0955,D0064,2026-07-28,Type 2 Diabetes,Discontinued,As directed
+RX02256,P0116,D0047,2026-04-16,Hypothyroidism,Active,Take before food
+RX02257,P0020,D0053,2026-01-09,Type 2 Diabetes,Discontinued,As directed
+RX02258,P0081,D0032,2026-04-20,Asthma,Active,Take after food
+RX02259,P0195,D0003,2026-07-24,High Cholesterol,Completed,Take after food
+RX02260,P0438,D0065,2026-08-14,Migraine,Active,Take after food
+RX02261,P0556,D0012,2026-01-22,Hypothyroidism,Active,Take before food
+RX02262,P0030,D0027,2026-03-07,Migraine,Active,Take before food
+RX02263,P0150,D0065,2026-09-27,Arthritis,Discontinued,Take after food
+RX02264,P0282,D0018,2026-06-19,Migraine,Active,As directed
+RX02265,P0079,D0085,2026-09-27,Hypothyroidism,Discontinued,As directed
+RX02266,P0753,D0029,2026-02-07,Asthma,Active,Take before food
+RX02267,P0809,D0032,2026-09-11,Hypothyroidism,Discontinued,Take before food
+RX02268,P0541,D0058,2026-04-10,High Cholesterol,Discontinued,As directed
+RX02269,P1000,D0034,2026-07-13,Hypothyroidism,Completed,Take before food
+RX02270,P0955,D0095,2026-03-07,Hypothyroidism,Discontinued,Take after food
+RX02271,P0056,D0004,2026-04-17,GERD,Completed,Take after food
+RX02272,P0246,D0065,2026-09-10,GERD,Completed,Take before food
+RX02273,P0870,D0035,2026-09-17,High Cholesterol,Discontinued,Take before food
+RX02274,P0018,D0068,2026-07-10,Asthma,Discontinued,Take before food
+RX02275,P0032,D0037,2026-06-22,Migraine,Completed,Take before food
+RX02276,P0168,D0072,2026-07-08,High Cholesterol,Discontinued,As directed
+RX02277,P0553,D0062,2026-03-30,Migraine,Active,Take after food
+RX02278,P0596,D0035,2026-01-23,High Cholesterol,Completed,Take before food
+RX02279,P0703,D0059,2026-09-19,Migraine,Discontinued,As directed
+RX02280,P0238,D0001,2026-09-24,Type 2 Diabetes,Completed,Take after food
+RX02281,P0933,D0069,2026-08-28,Hypertension,Completed,As directed
+RX02282,P0963,D0029,2026-07-04,High Cholesterol,Completed,Take before food
+RX02283,P0781,D0098,2026-01-05,Hypothyroidism,Active,As directed
+RX02284,P0259,D0024,2026-01-21,GERD,Discontinued,As directed
+RX02285,P0246,D0078,2026-06-21,Hypothyroidism,Completed,As directed
+RX02286,P0847,D0068,2026-04-11,Migraine,Discontinued,Take after food
+RX02287,P0802,D0098,2026-07-07,Hypertension,Active,Take before food
+RX02288,P0237,D0033,2026-02-10,GERD,Discontinued,Take before food
+RX02289,P0508,D0065,2026-05-12,Hypertension,Completed,As directed
+RX02290,P0682,D0071,2026-06-26,Hypertension,Discontinued,As directed
+RX02291,P0822,D0090,2026-05-09,Migraine,Completed,Take after food
+RX02292,P0600,D0022,2026-09-21,Arthritis,Active,Take before food
+RX02293,P0595,D0014,2026-01-04,Migraine,Discontinued,Take before food
+RX02294,P0266,D0042,2026-02-19,Asthma,Discontinued,As directed
+RX02295,P0587,D0026,2026-01-21,Type 2 Diabetes,Completed,As directed
+RX02296,P0911,D0062,2026-09-24,Hypothyroidism,Completed,As directed
+RX02297,P0747,D0033,2026-02-03,Hypothyroidism,Discontinued,Take before food
+RX02298,P0866,D0011,2026-06-15,Hypothyroidism,Discontinued,Take before food
+RX02299,P0065,D0034,2026-09-13,Type 2 Diabetes,Discontinued,As directed
+RX02300,P0464,D0098,2026-03-02,Migraine,Active,Take before food
+RX02301,P0411,D0053,2026-03-08,High Cholesterol,Completed,Take after food
+RX02302,P0865,D0036,2026-04-22,Hypothyroidism,Active,Take after food
+RX02303,P0962,D0099,2026-09-10,Arthritis,Discontinued,As directed
+RX02304,P0425,D0044,2026-06-21,High Cholesterol,Completed,As directed
+RX02305,P0393,D0054,2026-08-24,Hypothyroidism,Active,Take before food
+RX02306,P0859,D0100,2026-04-23,Hypertension,Active,Take after food
+RX02307,P0114,D0082,2026-05-22,Asthma,Completed,As directed
+RX02308,P0440,D0011,2026-05-21,Arthritis,Completed,As directed
+RX02309,P0592,D0065,2026-05-16,Migraine,Discontinued,As directed
+RX02310,P0104,D0070,2026-02-03,Arthritis,Discontinued,As directed
+RX02311,P0421,D0066,2026-03-23,High Cholesterol,Completed,As directed
+RX02312,P0430,D0019,2026-09-19,Hypertension,Active,Take after food
+RX02313,P0497,D0015,2026-07-11,Hypertension,Discontinued,Take before food
+RX02314,P0012,D0022,2026-04-26,High Cholesterol,Discontinued,As directed
+RX02315,P0522,D0003,2026-08-17,Migraine,Discontinued,Take after food
+RX02316,P0156,D0063,2026-03-07,Asthma,Completed,Take after food
+RX02317,P0716,D0097,2026-06-11,GERD,Discontinued,As directed
+RX02318,P0731,D0092,2026-02-22,Type 2 Diabetes,Completed,Take after food
+RX02319,P0353,D0074,2026-08-17,Hypothyroidism,Active,As directed
+RX02320,P0378,D0010,2026-05-18,Type 2 Diabetes,Discontinued,Take before food
+RX02321,P0453,D0060,2026-07-16,Type 2 Diabetes,Active,Take after food
+RX02322,P0705,D0041,2026-09-26,High Cholesterol,Active,As directed
+RX02323,P0814,D0052,2026-08-26,Asthma,Discontinued,Take before food
+RX02324,P0902,D0100,2026-02-17,Type 2 Diabetes,Discontinued,As directed
+RX02325,P0588,D0009,2026-04-29,Asthma,Discontinued,As directed
+RX02326,P0288,D0099,2026-01-19,Migraine,Active,Take before food
+RX02327,P0657,D0092,2026-09-20,Hypertension,Active,Take before food
+RX02328,P0678,D0072,2026-05-25,GERD,Discontinued,As directed
+RX02329,P0218,D0048,2026-02-01,Migraine,Discontinued,Take before food
+RX02330,P0794,D0071,2026-03-23,Migraine,Active,Take before food
+RX02331,P0626,D0098,2026-05-09,Arthritis,Discontinued,Take after food
+RX02332,P0516,D0064,2026-08-28,Hypothyroidism,Discontinued,Take before food
+RX02333,P0444,D0058,2026-04-27,Arthritis,Discontinued,Take before food
+RX02334,P0419,D0072,2026-06-09,Type 2 Diabetes,Completed,As directed
+RX02335,P0218,D0097,2026-06-07,Asthma,Active,Take after food
+RX02336,P0761,D0026,2026-04-15,GERD,Active,Take after food
+RX02337,P0987,D0051,2026-01-27,Migraine,Discontinued,Take after food
+RX02338,P0616,D0082,2026-06-08,Migraine,Completed,As directed
+RX02339,P0585,D0008,2026-01-13,Asthma,Discontinued,Take before food
+RX02340,P0144,D0060,2026-07-02,High Cholesterol,Discontinued,As directed
+RX02341,P0112,D0074,2026-02-17,Asthma,Completed,Take before food
+RX02342,P0685,D0065,2026-05-12,Hypothyroidism,Discontinued,Take before food
+RX02343,P0729,D0068,2026-08-10,Asthma,Active,Take after food
+RX02344,P0013,D0041,2026-09-19,Asthma,Completed,Take after food
+RX02345,P0037,D0016,2026-07-12,Hypertension,Active,Take before food
+RX02346,P0437,D0097,2026-03-19,Arthritis,Active,As directed
+RX02347,P0681,D0017,2026-06-30,Asthma,Completed,Take after food
+RX02348,P0259,D0038,2026-08-25,High Cholesterol,Completed,Take after food
+RX02349,P0859,D0079,2026-01-20,Asthma,Completed,Take before food
+RX02350,P0946,D0045,2026-07-07,Migraine,Completed,As directed
+RX02351,P0953,D0082,2026-09-11,Hypothyroidism,Active,Take after food
+RX02352,P0451,D0007,2026-01-25,GERD,Active,Take after food
+RX02353,P0580,D0048,2026-09-05,Arthritis,Completed,Take after food
+RX02354,P0931,D0065,2026-06-25,Asthma,Discontinued,Take before food
+RX02355,P0569,D0033,2026-08-23,High Cholesterol,Active,Take after food
+RX02356,P0487,D0083,2026-06-29,Type 2 Diabetes,Discontinued,As directed
+RX02357,P0414,D0080,2026-02-02,Type 2 Diabetes,Discontinued,As directed
+RX02358,P0484,D0070,2026-09-14,Type 2 Diabetes,Discontinued,Take before food
+RX02359,P0821,D0043,2026-07-04,Type 2 Diabetes,Discontinued,As directed
+RX02360,P0808,D0016,2026-03-13,Hypothyroidism,Active,As directed
+RX02361,P0211,D0060,2026-01-30,Migraine,Discontinued,As directed
+RX02362,P0475,D0009,2026-09-02,Arthritis,Active,Take before food
+RX02363,P0879,D0052,2026-02-24,Asthma,Active,Take after food
+RX02364,P0849,D0003,2026-09-07,Migraine,Discontinued,Take after food
+RX02365,P0808,D0074,2026-01-23,Migraine,Completed,As directed
+RX02366,P0337,D0056,2026-01-20,Arthritis,Active,Take after food
+RX02367,P0923,D0057,2026-08-02,Hypertension,Active,Take before food
+RX02368,P0434,D0027,2026-01-28,Type 2 Diabetes,Active,Take before food
+RX02369,P0649,D0038,2026-04-22,Asthma,Completed,As directed
+RX02370,P0199,D0058,2026-03-12,Hypothyroidism,Active,Take after food
+RX02371,P0742,D0036,2026-01-03,GERD,Active,Take after food
+RX02372,P0404,D0088,2026-07-09,Hypertension,Completed,As directed
+RX02373,P0719,D0021,2026-07-26,Asthma,Completed,As directed
+RX02374,P0167,D0030,2026-03-10,Hypothyroidism,Active,Take after food
+RX02375,P0238,D0038,2026-02-22,Asthma,Completed,As directed
+RX02376,P0522,D0064,2026-04-28,Hypothyroidism,Active,Take after food
+RX02377,P0722,D0076,2026-03-09,Hypothyroidism,Discontinued,Take after food
+RX02378,P0084,D0071,2026-04-14,Hypertension,Active,As directed
+RX02379,P0401,D0089,2026-04-09,Arthritis,Completed,As directed
+RX02380,P0071,D0025,2026-09-16,Arthritis,Active,As directed
+RX02381,P0439,D0032,2026-05-25,GERD,Completed,As directed
+RX02382,P0941,D0067,2026-06-02,Asthma,Completed,As directed
+RX02383,P0635,D0016,2026-02-27,GERD,Discontinued,Take after food
+RX02384,P0219,D0073,2026-09-09,Type 2 Diabetes,Active,Take after food
+RX02385,P0781,D0017,2026-04-26,Asthma,Discontinued,Take after food
+RX02386,P0721,D0090,2026-06-13,GERD,Completed,Take after food
+RX02387,P0796,D0027,2026-01-26,GERD,Completed,Take before food
+RX02388,P0293,D0037,2026-06-21,Hypertension,Discontinued,Take before food
+RX02389,P0498,D0042,2026-04-09,Arthritis,Active,Take before food
+RX02390,P0116,D0026,2026-01-21,Hypothyroidism,Completed,Take after food
+RX02391,P0816,D0021,2026-03-02,Migraine,Completed,As directed
+RX02392,P0108,D0002,2026-02-20,GERD,Completed,As directed
+RX02393,P0471,D0066,2026-09-11,Hypothyroidism,Completed,As directed
+RX02394,P0209,D0089,2026-01-06,Hypothyroidism,Active,Take before food
+RX02395,P0854,D0100,2026-06-05,Arthritis,Completed,Take before food
+RX02396,P0622,D0037,2026-09-12,Asthma,Completed,Take after food
+RX02397,P0478,D0028,2026-04-17,GERD,Active,Take before food
+RX02398,P0870,D0089,2026-04-13,Arthritis,Completed,Take after food
+RX02399,P0262,D0040,2026-09-01,Migraine,Discontinued,Take after food
+RX02400,P0168,D0021,2026-06-11,Hypothyroidism,Active,Take before food
+RX02401,P0665,D0082,2026-08-02,High Cholesterol,Discontinued,Take after food
+RX02402,P0947,D0006,2026-02-19,Hypertension,Active,Take before food
+RX02403,P0736,D0066,2026-05-01,Arthritis,Completed,As directed
+RX02404,P0958,D0007,2026-09-06,Asthma,Active,As directed
+RX02405,P0945,D0074,2026-05-01,Arthritis,Discontinued,As directed
+RX02406,P0624,D0061,2026-08-11,Hypertension,Discontinued,Take before food
+RX02407,P0036,D0010,2026-09-10,High Cholesterol,Completed,As directed
+RX02408,P0589,D0051,2026-03-08,GERD,Completed,Take after food
+RX02409,P0927,D0063,2026-03-06,Hypothyroidism,Completed,Take before food
+RX02410,P0071,D0001,2026-05-05,Arthritis,Active,As directed
+RX02411,P0930,D0003,2026-06-03,Migraine,Completed,As directed
+RX02412,P0292,D0004,2026-01-20,Arthritis,Discontinued,As directed
+RX02413,P0336,D0014,2026-05-20,Arthritis,Discontinued,Take after food
+RX02414,P0419,D0098,2026-05-05,Hypertension,Completed,Take before food
+RX02415,P0649,D0021,2026-01-06,GERD,Completed,Take after food
+RX02416,P0019,D0085,2026-01-21,Arthritis,Active,As directed
+RX02417,P0102,D0063,2026-07-06,Type 2 Diabetes,Active,Take before food
+RX02418,P0153,D0072,2026-08-25,Type 2 Diabetes,Completed,As directed
+RX02419,P0269,D0001,2026-08-31,Migraine,Discontinued,Take before food
+RX02420,P0373,D0085,2026-02-08,High Cholesterol,Discontinued,As directed
+RX02421,P0121,D0047,2026-06-15,Migraine,Discontinued,Take after food
+RX02422,P0432,D0039,2026-05-05,High Cholesterol,Discontinued,As directed
+RX02423,P0604,D0068,2026-09-24,Asthma,Discontinued,Take after food
+RX02424,P0396,D0060,2026-01-21,Hypertension,Discontinued,Take before food
+RX02425,P0259,D0014,2026-03-12,Hypothyroidism,Discontinued,As directed
+RX02426,P0910,D0091,2026-06-30,GERD,Completed,Take after food
+RX02427,P0602,D0087,2026-04-06,GERD,Discontinued,As directed
+RX02428,P0199,D0007,2026-06-24,GERD,Discontinued,Take before food
+RX02429,P0850,D0061,2026-02-18,Hypothyroidism,Completed,Take before food
+RX02430,P0881,D0071,2026-02-21,Migraine,Discontinued,Take after food
+RX02431,P0856,D0001,2026-04-15,Hypertension,Active,Take after food
+RX02432,P0023,D0053,2026-07-25,Migraine,Active,Take after food
+RX02433,P0431,D0084,2026-09-07,Hypothyroidism,Active,As directed
+RX02434,P0997,D0065,2026-08-02,High Cholesterol,Active,As directed
+RX02435,P0643,D0040,2026-01-15,Type 2 Diabetes,Active,As directed
+RX02436,P0719,D0086,2026-07-26,Asthma,Active,As directed
+RX02437,P0769,D0066,2026-04-01,Hypertension,Completed,Take before food
+RX02438,P0776,D0077,2026-01-28,Asthma,Active,Take after food
+RX02439,P0355,D0014,2026-03-28,Asthma,Discontinued,Take before food
+RX02440,P0323,D0083,2026-08-15,Type 2 Diabetes,Completed,Take after food
+RX02441,P0596,D0083,2026-06-26,Asthma,Completed,As directed
+RX02442,P0202,D0055,2026-08-01,High Cholesterol,Discontinued,Take after food
+RX02443,P0131,D0029,2026-06-16,Hypertension,Discontinued,Take after food
+RX02444,P0153,D0042,2026-08-06,Asthma,Active,Take after food
+RX02445,P0071,D0082,2026-02-24,Type 2 Diabetes,Active,Take after food
+RX02446,P0940,D0003,2026-04-19,GERD,Discontinued,As directed
+RX02447,P0961,D0072,2026-02-09,Hypertension,Discontinued,Take after food
+RX02448,P0171,D0012,2026-05-16,Asthma,Discontinued,Take after food
+RX02449,P0765,D0100,2026-06-29,Hypothyroidism,Active,Take after food
+RX02450,P0062,D0010,2026-08-15,Hypertension,Discontinued,Take before food
+RX02451,P0341,D0023,2026-06-28,Hypertension,Discontinued,Take after food
+RX02452,P0036,D0076,2026-02-04,Type 2 Diabetes,Discontinued,As directed
+RX02453,P0742,D0060,2026-06-14,Type 2 Diabetes,Discontinued,Take after food
+RX02454,P0523,D0048,2026-02-12,Type 2 Diabetes,Discontinued,Take after food
+RX02455,P0858,D0042,2026-06-05,Hypertension,Active,Take after food
+RX02456,P0847,D0021,2026-01-31,Arthritis,Active,Take after food
+RX02457,P1000,D0022,2026-06-19,GERD,Active,As directed
+RX02458,P0187,D0051,2026-01-22,GERD,Active,As directed
+RX02459,P0057,D0076,2026-05-07,GERD,Discontinued,Take after food
+RX02460,P0450,D0079,2026-05-26,Type 2 Diabetes,Discontinued,Take after food
+RX02461,P0505,D0014,2026-01-17,Type 2 Diabetes,Completed,Take before food
+RX02462,P0114,D0039,2026-05-11,Type 2 Diabetes,Completed,As directed
+RX02463,P0551,D0065,2026-09-11,Type 2 Diabetes,Completed,Take before food
+RX02464,P0066,D0006,2026-04-27,Arthritis,Completed,As directed
+RX02465,P0741,D0031,2026-02-03,Arthritis,Active,Take before food
+RX02466,P0344,D0030,2026-04-05,Hypothyroidism,Completed,Take before food
+RX02467,P0629,D0080,2026-07-01,Hypertension,Active,Take after food
+RX02468,P0700,D0025,2026-09-01,Migraine,Completed,Take after food
+RX02469,P0825,D0100,2026-09-05,Type 2 Diabetes,Discontinued,Take after food
+RX02470,P0365,D0094,2026-04-09,Hypothyroidism,Discontinued,Take before food
+RX02471,P0953,D0035,2026-07-08,Hypertension,Discontinued,Take before food
+RX02472,P0519,D0071,2026-02-21,Type 2 Diabetes,Discontinued,Take before food
+RX02473,P0359,D0058,2026-02-13,GERD,Completed,Take after food
+RX02474,P0454,D0058,2026-08-30,Arthritis,Completed,Take before food
+RX02475,P0932,D0017,2026-02-06,GERD,Active,As directed
+RX02476,P0400,D0014,2026-05-26,Hypertension,Active,Take after food
+RX02477,P0256,D0003,2026-04-16,GERD,Discontinued,As directed
+RX02478,P0358,D0030,2026-09-28,Hypothyroidism,Active,As directed
+RX02479,P0068,D0042,2026-01-11,GERD,Active,As directed
+RX02480,P0479,D0084,2026-03-01,Hypothyroidism,Completed,As directed
+RX02481,P0001,D0008,2026-05-06,Arthritis,Completed,As directed
+RX02482,P0478,D0042,2026-02-01,Arthritis,Discontinued,Take before food
+RX02483,P0305,D0068,2026-05-13,Type 2 Diabetes,Completed,Take before food
+RX02484,P0243,D0098,2026-05-24,Migraine,Completed,As directed
+RX02485,P0617,D0022,2026-07-24,Hypothyroidism,Active,Take before food
+RX02486,P0790,D0028,2026-02-19,Arthritis,Discontinued,As directed
+RX02487,P0535,D0014,2026-04-30,High Cholesterol,Active,Take before food
+RX02488,P0937,D0090,2026-02-10,Migraine,Completed,Take before food
+RX02489,P0924,D0024,2026-08-25,Asthma,Completed,Take before food
+RX02490,P0695,D0059,2026-04-08,Type 2 Diabetes,Completed,As directed
+RX02491,P0633,D0078,2026-03-02,Hypothyroidism,Completed,Take after food
+RX02492,P0060,D0011,2026-02-23,High Cholesterol,Active,Take after food
+RX02493,P0842,D0087,2026-09-14,GERD,Completed,Take after food
+RX02494,P0821,D0070,2026-08-25,GERD,Discontinued,As directed
+RX02495,P0538,D0083,2026-05-04,Asthma,Active,As directed
+RX02496,P0059,D0100,2026-08-30,GERD,Active,Take before food
+RX02497,P0568,D0039,2026-01-27,Hypertension,Discontinued,As directed
+RX02498,P0006,D0054,2026-06-19,Asthma,Active,As directed
+RX02499,P0789,D0035,2026-07-16,Hypothyroidism,Discontinued,Take before food
+RX02500,P0004,D0043,2026-08-02,Hypertension,Discontinued,As directed

@@ -1,0 +1,6 @@
+Emergency_Contact_ID,Patient_ID,Relationship,Contact_Type,Phone,Status
+EC001,P001,Parent,Emergency Contact,9000000001,Available
+EC002,P002,Sibling,Emergency Contact,9000000002,Available
+EC003,P003,Parent,Emergency Contact,9000000003,Available
+EC004,P004,Spouse,Emergency Contact,9000000004,Available
+EC005,P005,Parent,Emergency Contact,9000000005,Available

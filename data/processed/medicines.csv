@@ -1,0 +1,21 @@
+Medicine_ID,Medicine_Name,Form,Category,Unit_Price
+M001,Paracetamol 500 mg,Tablet,Analgesic/Antipyretic,99.89
+M002,Amoxicillin 500 mg,Capsule,Antibiotic,238.17
+M003,Cetirizine 10 mg,Tablet,Antihistamine,185.68
+M004,Omeprazole 20 mg,Capsule,Proton Pump Inhibitor,153.68
+M005,Metformin 500 mg,Tablet,Antidiabetic,47.44
+M006,Amlodipine 5 mg,Tablet,Antihypertensive,47.44
+M007,Losartan 50 mg,Tablet,Antihypertensive,23.94
+M008,Atorvastatin 10 mg,Tablet,Lipid Lowering,217.88
+M009,Levothyroxine 50 mcg,Tablet,Thyroid Hormone,154.27
+M010,Salbutamol Inhaler,Inhaler,Bronchodilator,179.94
+M011,Ibuprofen 200 mg,Tablet,NSAID,14.94
+M012,Azithromycin 500 mg,Tablet,Antibiotic,242.78
+M013,ORS Sachet,Sachet,Rehydration,209.79
+M014,Pantoprazole 40 mg,Tablet,Proton Pump Inhibitor,60.96
+M015,Vitamin D3 1000 IU,Tablet,Vitamin Supplement,53.64
+M016,Montelukast 10 mg,Tablet,Respiratory,54.02
+M017,Aspirin 75 mg,Tablet,Antiplatelet,83.02
+M018,Glimepiride 1 mg,Tablet,Antidiabetic,135.94
+M019,Diclofenac Gel,Gel,Topical Analgesic,113.67
+M020,Calcium Carbonate 500 mg,Tablet,Mineral Supplement,79.89

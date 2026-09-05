@@ -1,0 +1,6 @@
+Allergy_ID,Patient_ID,Allergen,Allergy_Type,Severity,Status
+ALG001,P001,Penicillin,Medication,Moderate,Active
+ALG002,P002,Dust,Environmental,Mild,Active
+ALG003,P003,Peanuts,Food,Severe,Active
+ALG004,P004,,Not Applicable,Not Applicable,Inactive
+ALG005,P005,,Not Applicable,Not Applicable,InactiveS

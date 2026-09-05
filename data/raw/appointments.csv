@@ -1,0 +1,3001 @@
+Appointment_ID,Patient_ID,Doctor_ID,Appointment_Date,Appointment_Time,Status,Reason
+A00001,P0683,D0018,2026-04-01,08:00,Completed,Lab review
+A00002,P0162,D0054,2026-07-02,08:00,Scheduled,Routine consultation
+A00003,P0346,D0028,2026-02-10,13:00,Cancelled,Follow-up
+A00004,P0649,D0080,2026-06-27,12:45,Completed,New complaint
+A00005,P0103,D0098,2026-05-25,08:45,Completed,Follow-up
+A00006,P0954,D0046,2026-03-08,15:00,Scheduled,Lab review
+A00007,P0050,D0002,2026-01-15,11:00,No-show,Lab review
+A00008,P0209,D0089,2026-04-21,12:00,Cancelled,Routine consultation
+A00009,P0130,D0005,2026-01-02,12:30,Cancelled,New complaint
+A00010,P0066,D0010,2026-01-24,16:30,Completed,Routine consultation
+A00011,P0983,D0070,2026-04-24,13:15,Completed,Follow-up
+A00012,P0047,D0047,2026-07-11,13:15,Completed,Routine consultation
+A00013,P0584,D0074,2026-01-31,14:45,Completed,Routine consultation
+A00014,P0076,D0070,2026-07-23,14:00,Completed,New complaint
+A00015,P0797,D0090,2026-09-02,12:00,Cancelled,New complaint
+A00016,P0734,D0028,2026-09-14,12:15,Scheduled,Lab review
+A00017,P0022,D0001,2026-06-07,13:15,Completed,New complaint
+A00018,P0336,D0002,2026-07-13,10:30,Completed,Lab review
+A00019,P0218,D0049,2026-01-06,09:45,Completed,Follow-up
+A00020,P0109,D0059,2026-07-20,10:30,Completed,Follow-up
+A00021,P0225,D0029,2026-02-01,10:15,Completed,Routine consultation
+A00022,P0586,D0006,2026-02-05,08:00,Scheduled,New complaint
+A00023,P0006,D0082,2026-01-24,13:15,Scheduled,New complaint
+A00024,P0015,D0020,2026-09-19,12:15,Cancelled,Routine consultation
+A00025,P0455,D0029,2026-02-15,14:45,Scheduled,Routine consultation
+A00026,P0343,D0097,2026-05-25,13:45,Cancelled,New complaint
+A00027,P0176,D0076,2026-06-15,10:00,Scheduled,New complaint
+A00028,P0048,D0030,2026-06-09,10:45,No-show,Follow-up
+A00029,P0906,D0089,2026-08-03,10:00,Completed,Lab review
+A00030,P0080,D0033,2026-07-01,16:15,Completed,New complaint
+A00031,P0930,D0057,2026-01-13,10:00,Completed,Lab review
+A00032,P0186,D0025,2026-03-24,11:00,Completed,Follow-up
+A00033,P0362,D0068,2026-02-20,10:00,Scheduled,New complaint
+A00034,P0445,D0014,2026-01-03,13:00,Scheduled,New complaint
+A00035,P0341,D0071,2026-04-19,16:30,Scheduled,Lab review
+A00036,P0721,D0089,2026-08-26,15:15,Completed,Routine consultation
+A00037,P0491,D0069,2026-01-26,13:15,Scheduled,Follow-up
+A00038,P0624,D0020,2026-02-04,16:45,Completed,New complaint
+A00039,P0340,D0040,2026-03-30,16:30,Cancelled,Routine consultation
+A00040,P0740,D0097,2026-09-21,10:15,Completed,Routine consultation
+A00041,P0630,D0038,2026-01-28,10:15,Completed,Follow-up
+A00042,P0259,D0012,2026-03-11,10:00,Completed,New complaint
+A00043,P0947,D0096,2026-05-23,11:15,Cancelled,Routine consultation
+A00044,P0592,D0078,2026-02-03,14:30,Scheduled,Routine consultation
+A00045,P0037,D0082,2026-03-06,08:15,Completed,Routine consultation
+A00046,P0873,D0017,2026-05-22,10:15,Completed,New complaint
+A00047,P0713,D0014,2026-09-12,13:15,Completed,Follow-up
+A00048,P0428,D0043,2026-01-22,10:00,Cancelled,New complaint
+A00049,P0003,D0088,2026-05-10,14:15,No-show,Routine consultation
+A00050,P0468,D0059,2026-06-26,11:45,Completed,Routine consultation
+A00051,P0701,D0003,2026-04-25,10:00,Scheduled,Routine consultation
+A00052,P0306,D0049,2026-08-01,09:45,Cancelled,Routine consultation
+A00053,P0123,D0004,2026-03-23,16:15,Completed,Lab review
+A00054,P0167,D0020,2026-02-04,14:45,Scheduled,Follow-up
+A00055,P0015,D0065,2026-03-02,14:45,Completed,New complaint
+A00056,P0472,D0097,2026-07-08,14:45,Cancelled,Routine consultation
+A00057,P0953,D0020,2026-07-16,11:45,Completed,New complaint
+A00058,P0311,D0075,2026-07-05,13:00,Completed,Lab review
+A00059,P0989,D0056,2026-06-03,08:45,Completed,Follow-up
+A00060,P0582,D0054,2026-06-06,11:15,Completed,Lab review
+A00061,P0195,D0017,2026-07-12,10:45,Cancelled,New complaint
+A00062,P0091,D0038,2026-03-10,14:00,No-show,Lab review
+A00063,P0942,D0095,2026-04-21,14:15,Completed,Lab review
+A00064,P0696,D0066,2026-05-17,10:00,Cancelled,Routine consultation
+A00065,P0152,D0082,2026-09-10,09:45,Completed,Lab review
+A00066,P0226,D0026,2026-02-13,14:30,Scheduled,Follow-up
+A00067,P0998,D0024,2026-03-10,12:45,Cancelled,Routine consultation
+A00068,P0231,D0032,2026-07-06,16:15,Completed,Follow-up
+A00069,P0081,D0091,2026-01-18,11:00,Cancelled,New complaint
+A00070,P0737,D0035,2026-07-27,08:30,Completed,New complaint
+A00071,P0339,D0059,2026-07-19,12:45,Completed,Lab review
+A00072,P0991,D0031,2026-06-21,11:30,Completed,New complaint
+A00073,P0954,D0094,2026-05-19,14:45,Scheduled,New complaint
+A00074,P0928,D0036,2026-02-02,14:15,Completed,Follow-up
+A00075,P0023,D0069,2026-06-25,12:30,Scheduled,Routine consultation
+A00076,P0835,D0044,2026-06-20,12:00,Completed,New complaint
+A00077,P0590,D0049,2026-03-15,13:30,Completed,New complaint
+A00078,P0014,D0059,2026-04-04,09:15,Cancelled,Lab review
+A00079,P0796,D0092,2026-03-11,11:30,Scheduled,Routine consultation
+A00080,P0126,D0037,2026-05-17,10:45,Completed,Lab review
+A00081,P0964,D0054,2026-04-11,11:15,Cancelled,Lab review
+A00082,P0736,D0008,2026-06-12,12:15,Completed,New complaint
+A00083,P0107,D0088,2026-04-23,15:15,Cancelled,Routine consultation
+A00084,P0942,D0022,2026-03-04,15:30,Completed,Routine consultation
+A00085,P0095,D0072,2026-02-10,13:45,Completed,Follow-up
+A00086,P0757,D0023,2026-04-18,13:30,Completed,New complaint
+A00087,P0050,D0015,2026-05-13,12:45,Completed,Follow-up
+A00088,P0816,D0044,2026-01-13,16:45,Cancelled,Follow-up
+A00089,P0464,D0017,2026-04-24,15:45,Scheduled,New complaint
+A00090,P0200,D0060,2026-06-15,14:15,Completed,Lab review
+A00091,P0835,D0020,2026-02-01,08:30,Cancelled,Routine consultation
+A00092,P0665,D0067,2026-01-13,13:30,Scheduled,Routine consultation
+A00093,P0496,D0088,2026-01-19,08:15,Completed,Follow-up
+A00094,P0328,D0060,2026-02-03,12:15,Scheduled,Follow-up
+A00095,P0619,D0039,2026-03-03,14:00,Completed,Routine consultation
+A00096,P0507,D0022,2026-04-22,14:00,Cancelled,Follow-up
+A00097,P0638,D0045,2026-03-04,11:45,Completed,Follow-up
+A00098,P0929,D0093,2026-09-23,14:15,Completed,Follow-up
+A00099,P0131,D0093,2026-09-06,11:30,Completed,Lab review
+A00100,P0174,D0020,2026-04-20,11:15,Scheduled,New complaint
+A00101,P0002,D0037,2026-04-27,11:15,Completed,New complaint
+A00102,P0133,D0030,2026-04-24,13:15,Completed,Routine consultation
+A00103,P0481,D0051,2026-09-17,13:00,Completed,Routine consultation
+A00104,P0399,D0078,2026-08-24,08:15,Completed,Routine consultation
+A00105,P0391,D0005,2026-09-16,10:15,Completed,New complaint
+A00106,P0103,D0046,2026-03-05,10:45,Scheduled,Follow-up
+A00107,P0683,D0081,2026-04-04,09:45,Completed,Lab review
+A00108,P0206,D0042,2026-05-13,14:45,Completed,Lab review
+A00109,P0994,D0028,2026-03-09,10:15,No-show,Follow-up
+A00110,P0650,D0014,2026-03-14,10:00,Scheduled,Lab review
+A00111,P0574,D0086,2026-05-10,10:30,Cancelled,Follow-up
+A00112,P0415,D0008,2026-04-05,10:30,Completed,Lab review
+A00113,P0922,D0050,2026-04-19,13:00,Completed,New complaint
+A00114,P0545,D0008,2026-05-06,09:00,Completed,New complaint
+A00115,P0007,D0063,2026-05-22,09:15,Scheduled,Follow-up
+A00116,P0153,D0002,2026-06-06,09:30,Cancelled,Routine consultation
+A00117,P0411,D0085,2026-04-23,14:15,Completed,Lab review
+A00118,P0673,D0047,2026-07-24,11:45,Completed,Lab review
+A00119,P0371,D0041,2026-05-22,15:00,Completed,Routine consultation
+A00120,P0089,D0055,2026-03-31,09:30,No-show,Lab review
+A00121,P0338,D0055,2026-02-06,09:30,Completed,Routine consultation
+A00122,P0462,D0071,2026-07-12,11:30,Completed,Follow-up
+A00123,P0831,D0018,2026-01-31,15:00,Completed,Follow-up
+A00124,P0073,D0080,2026-08-11,10:00,Cancelled,New complaint
+A00125,P0154,D0040,2026-02-19,10:00,Completed,Follow-up
+A00126,P0474,D0069,2026-05-05,14:45,Scheduled,New complaint
+A00127,P0221,D0010,2026-07-27,08:45,Completed,New complaint
+A00128,P0818,D0078,2026-09-05,11:00,No-show,Follow-up
+A00129,P0692,D0098,2026-03-09,15:45,Completed,Lab review
+A00130,P0361,D0031,2026-09-01,16:45,Cancelled,Follow-up
+A00131,P0618,D0012,2026-06-08,11:00,Scheduled,New complaint
+A00132,P0032,D0066,2026-06-18,12:15,Scheduled,Lab review
+A00133,P0149,D0006,2026-04-04,11:00,Completed,Routine consultation
+A00134,P0498,D0049,2026-06-30,08:30,Completed,Lab review
+A00135,P0008,D0092,2026-08-22,12:45,Completed,Follow-up
+A00136,P0406,D0040,2026-08-04,16:45,Completed,New complaint
+A00137,P0587,D0058,2026-09-12,14:30,Scheduled,Lab review
+A00138,P0395,D0045,2026-02-15,14:15,Completed,Routine consultation
+A00139,P0024,D0053,2026-05-12,13:00,Completed,Lab review
+A00140,P0039,D0076,2026-04-23,15:15,Scheduled,Lab review
+A00141,P0452,D0011,2026-08-07,10:45,Completed,Lab review
+A00142,P0329,D0027,2026-03-12,14:15,Completed,Lab review
+A00143,P0377,D0045,2026-08-27,08:15,Completed,Follow-up
+A00144,P0437,D0039,2026-08-25,14:15,Completed,Routine consultation
+A00145,P0627,D0051,2026-06-10,12:30,Completed,Lab review
+A00146,P0306,D0043,2026-07-31,14:15,Scheduled,Lab review
+A00147,P0805,D0010,2026-04-24,12:30,Scheduled,Lab review
+A00148,P0772,D0078,2026-03-04,14:15,Completed,Lab review
+A00149,P0232,D0074,2026-05-22,15:30,Cancelled,New complaint
+A00150,P0150,D0029,2026-05-16,08:15,Completed,Lab review
+A00151,P0620,D0093,2026-09-14,14:15,Completed,Follow-up
+A00152,P0256,D0021,2026-09-25,12:00,Completed,Routine consultation
+A00153,P0708,D0023,2026-08-17,10:00,Completed,New complaint
+A00154,P0309,D0067,2026-01-23,15:30,Completed,Lab review
+A00155,P0484,D0075,2026-07-31,13:30,Completed,Follow-up
+A00156,P0044,D0039,2026-01-20,11:00,Completed,New complaint
+A00157,P0152,D0093,2026-06-05,14:00,Scheduled,Routine consultation
+A00158,P0110,D0018,2026-01-15,10:30,Scheduled,Follow-up
+A00159,P0886,D0046,2026-08-25,13:45,Completed,New complaint
+A00160,P0644,D0087,2026-04-08,13:30,Cancelled,Routine consultation
+A00161,P0968,D0009,2026-08-09,09:15,Completed,Lab review
+A00162,P0713,D0042,2026-06-02,11:30,Completed,Follow-up
+A00163,P0957,D0070,2026-02-13,09:15,Scheduled,Routine consultation
+A00164,P0196,D0053,2026-04-15,12:15,Completed,Follow-up
+A00165,P0318,D0059,2026-01-18,11:15,Completed,Lab review
+A00166,P0020,D0039,2026-07-28,11:00,Completed,New complaint
+A00167,P0801,D0070,2026-08-01,16:45,Cancelled,Routine consultation
+A00168,P0391,D0097,2026-06-10,10:30,Scheduled,Routine consultation
+A00169,P0449,D0037,2026-03-20,09:45,Completed,Lab review
+A00170,P0213,D0041,2026-04-07,08:30,Completed,Follow-up
+A00171,P0166,D0072,2026-07-07,08:15,Scheduled,Lab review
+A00172,P0186,D0058,2026-08-05,14:30,Scheduled,Follow-up
+A00173,P0533,D0020,2026-04-12,11:15,Scheduled,Follow-up
+A00174,P0138,D0043,2026-01-05,10:00,Completed,Routine consultation
+A00175,P0236,D0003,2026-04-21,11:00,Completed,Lab review
+A00176,P0070,D0094,2026-07-29,15:45,Scheduled,New complaint
+A00177,P0449,D0055,2026-08-22,13:00,Completed,New complaint
+A00178,P0921,D0096,2026-06-27,13:15,Completed,Lab review
+A00179,P0081,D0023,2026-07-09,11:00,Cancelled,Lab review
+A00180,P0030,D0028,2026-09-07,10:15,Completed,Follow-up
+A00181,P0470,D0009,2026-01-24,10:30,No-show,Routine consultation
+A00182,P0981,D0021,2026-02-16,15:15,Scheduled,Follow-up
+A00183,P0060,D0057,2026-05-30,08:30,Cancelled,New complaint
+A00184,P0748,D0100,2026-05-13,16:45,No-show,New complaint
+A00185,P0424,D0014,2026-09-11,13:30,Scheduled,Follow-up
+A00186,P0369,D0082,2026-05-16,08:45,Completed,New complaint
+A00187,P0348,D0065,2026-03-20,15:15,Cancelled,Routine consultation
+A00188,P0614,D0006,2026-04-03,10:30,Cancelled,Lab review
+A00189,P0730,D0033,2026-07-17,14:30,Cancelled,Follow-up
+A00190,P0643,D0025,2026-05-07,15:15,Completed,Routine consultation
+A00191,P0087,D0012,2026-04-06,09:15,No-show,Routine consultation
+A00192,P0242,D0090,2026-08-23,16:00,Completed,New complaint
+A00193,P0876,D0007,2026-01-26,09:45,Cancelled,New complaint
+A00194,P0613,D0020,2026-05-30,08:15,Completed,Lab review
+A00195,P0753,D0098,2026-07-01,10:30,Completed,Routine consultation
+A00196,P0928,D0064,2026-03-30,10:15,No-show,Lab review
+A00197,P0187,D0021,2026-05-08,11:45,Completed,Lab review
+A00198,P0385,D0023,2026-03-18,10:00,Completed,Lab review
+A00199,P0931,D0025,2026-05-14,14:15,Scheduled,Routine consultation
+A00200,P0302,D0039,2026-04-11,11:30,Completed,Routine consultation
+A00201,P0521,D0077,2026-06-06,16:45,Scheduled,Lab review
+A00202,P0022,D0022,2026-01-07,12:45,Completed,Lab review
+A00203,P0074,D0079,2026-07-13,16:30,Scheduled,Lab review
+A00204,P0264,D0080,2026-04-08,15:45,Scheduled,Follow-up
+A00205,P0164,D0077,2026-07-23,14:15,Scheduled,New complaint
+A00206,P0464,D0064,2026-04-30,12:15,Completed,Follow-up
+A00207,P0018,D0054,2026-03-23,13:15,Completed,New complaint
+A00208,P0146,D0078,2026-06-28,16:00,Completed,Lab review
+A00209,P0120,D0010,2026-03-22,10:30,Completed,New complaint
+A00210,P0606,D0041,2026-04-22,08:15,Completed,New complaint
+A00211,P0475,D0086,2026-04-30,14:15,Scheduled,Follow-up
+A00212,P0681,D0098,2026-07-29,10:30,No-show,Routine consultation
+A00213,P0344,D0085,2026-08-09,14:00,Completed,Routine consultation
+A00214,P0210,D0093,2026-06-23,09:15,Completed,Routine consultation
+A00215,P0722,D0021,2026-01-23,12:15,Completed,Routine consultation
+A00216,P0973,D0023,2026-04-01,10:00,Scheduled,Lab review
+A00217,P0729,D0048,2026-06-01,16:00,Completed,New complaint
+A00218,P0412,D0039,2026-08-02,16:45,Cancelled,Routine consultation
+A00219,P0269,D0072,2026-02-26,16:30,Completed,New complaint
+A00220,P0858,D0087,2026-06-08,12:15,Completed,New complaint
+A00221,P0453,D0082,2026-04-01,16:45,Completed,Follow-up
+A00222,P0795,D0095,2026-06-10,16:30,No-show,New complaint
+A00223,P0794,D0096,2026-05-25,14:30,Completed,New complaint
+A00224,P0675,D0024,2026-03-08,11:30,Completed,Follow-up
+A00225,P0077,D0025,2026-08-12,10:15,Completed,Lab review
+A00226,P0168,D0079,2026-02-02,08:30,Completed,Follow-up
+A00227,P0961,D0066,2026-02-27,12:45,Cancelled,Routine consultation
+A00228,P0158,D0098,2026-02-16,15:45,Completed,Lab review
+A00229,P0527,D0090,2026-09-27,09:15,Completed,Routine consultation
+A00230,P0433,D0053,2026-01-30,11:45,Completed,Follow-up
+A00231,P0357,D0026,2026-01-02,08:00,Scheduled,Lab review
+A00232,P0194,D0013,2026-04-10,16:45,Completed,Routine consultation
+A00233,P0251,D0068,2026-06-17,10:30,Cancelled,Routine consultation
+A00234,P0948,D0054,2026-07-01,16:15,Cancelled,Follow-up
+A00235,P0408,D0069,2026-02-01,08:45,Scheduled,Follow-up
+A00236,P0879,D0030,2026-08-23,14:15,Completed,Follow-up
+A00237,P0220,D0062,2026-09-14,14:15,Completed,Routine consultation
+A00238,P0905,D0081,2026-09-16,13:00,No-show,New complaint
+A00239,P0108,D0032,2026-04-01,14:45,Completed,Lab review
+A00240,P0195,D0020,2026-02-25,08:00,Scheduled,Follow-up
+A00241,P0102,D0087,2026-04-13,11:15,Completed,Follow-up
+A00242,P0755,D0077,2026-06-28,10:45,Scheduled,Routine consultation
+A00243,P0726,D0098,2026-09-28,15:30,Scheduled,Routine consultation
+A00244,P0395,D0013,2026-07-27,15:45,Scheduled,New complaint
+A00245,P0651,D0069,2026-07-09,10:00,Completed,Lab review
+A00246,P0479,D0078,2026-05-07,09:15,Completed,New complaint
+A00247,P0361,D0076,2026-03-01,15:00,Completed,Follow-up
+A00248,P0183,D0095,2026-06-03,13:45,Scheduled,Follow-up
+A00249,P0713,D0052,2026-07-20,14:30,Completed,Follow-up
+A00250,P0332,D0058,2026-07-01,09:15,Completed,Follow-up
+A00251,P0617,D0035,2026-06-25,13:15,Scheduled,Routine consultation
+A00252,P0594,D0078,2026-08-16,12:15,Completed,Lab review
+A00253,P0434,D0076,2026-09-01,10:45,No-show,Lab review
+A00254,P0497,D0003,2026-02-02,15:45,Scheduled,New complaint
+A00255,P0573,D0046,2026-06-07,15:30,Scheduled,Lab review
+A00256,P0977,D0066,2026-07-27,12:00,Completed,Lab review
+A00257,P0249,D0037,2026-02-27,14:45,Cancelled,Lab review
+A00258,P0390,D0038,2026-04-16,14:00,Scheduled,Routine consultation
+A00259,P0011,D0078,2026-05-16,12:30,Completed,New complaint
+A00260,P0122,D0005,2026-01-06,13:15,Completed,Follow-up
+A00261,P0410,D0038,2026-08-23,08:45,Scheduled,Routine consultation
+A00262,P0278,D0069,2026-01-10,16:15,Cancelled,Lab review
+A00263,P0001,D0072,2026-09-24,09:15,Cancelled,Follow-up
+A00264,P0313,D0086,2026-01-22,13:45,Cancelled,Follow-up
+A00265,P0567,D0045,2026-08-31,12:00,Completed,Follow-up
+A00266,P0808,D0048,2026-01-08,10:45,Cancelled,Routine consultation
+A00267,P0696,D0045,2026-01-01,11:00,Scheduled,New complaint
+A00268,P0018,D0046,2026-02-22,13:15,Completed,Routine consultation
+A00269,P0555,D0086,2026-05-14,11:45,Cancelled,Lab review
+A00270,P0515,D0098,2026-08-10,15:00,Completed,Routine consultation
+A00271,P0166,D0054,2026-03-02,16:45,Cancelled,Routine consultation
+A00272,P0438,D0048,2026-01-16,09:15,Cancelled,Routine consultation
+A00273,P0941,D0038,2026-01-25,11:30,Completed,Lab review
+A00274,P0496,D0036,2026-03-09,08:45,Scheduled,New complaint
+A00275,P0309,D0005,2026-07-25,13:15,Completed,Follow-up
+A00276,P0626,D0077,2026-03-01,13:30,Completed,New complaint
+A00277,P0787,D0023,2026-03-12,13:45,Completed,Follow-up
+A00278,P0242,D0028,2026-03-05,08:30,No-show,Lab review
+A00279,P0511,D0040,2026-08-14,08:30,Completed,New complaint
+A00280,P0702,D0042,2026-06-05,16:30,Completed,Follow-up
+A00281,P0099,D0030,2026-08-12,13:15,Completed,Lab review
+A00282,P0993,D0018,2026-01-04,15:00,Completed,Lab review
+A00283,P0719,D0077,2026-04-22,09:15,Completed,Follow-up
+A00284,P0970,D0012,2026-07-21,10:15,No-show,Routine consultation
+A00285,P0649,D0060,2026-08-30,11:15,Completed,New complaint
+A00286,P0633,D0045,2026-05-19,16:15,Scheduled,Lab review
+A00287,P0599,D0086,2026-06-16,10:15,Completed,Lab review
+A00288,P0416,D0015,2026-03-13,13:00,No-show,Lab review
+A00289,P0460,D0009,2026-09-08,13:00,Completed,Routine consultation
+A00290,P0316,D0077,2026-09-28,08:30,Completed,New complaint
+A00291,P0483,D0030,2026-08-21,12:30,Scheduled,Follow-up
+A00292,P0449,D0068,2026-07-02,10:30,Scheduled,Lab review
+A00293,P0365,D0075,2026-02-27,15:00,Completed,New complaint
+A00294,P0868,D0078,2026-04-13,12:30,Completed,Lab review
+A00295,P0228,D0025,2026-04-29,15:00,Completed,Follow-up
+A00296,P0705,D0026,2026-08-04,09:00,Completed,Follow-up
+A00297,P0519,D0069,2026-08-07,08:45,Cancelled,Routine consultation
+A00298,P0557,D0061,2026-06-30,10:45,Completed,Lab review
+A00299,P0701,D0009,2026-08-11,10:30,Completed,Routine consultation
+A00300,P0335,D0085,2026-08-16,12:45,Completed,Lab review
+A00301,P0104,D0066,2026-04-26,15:00,Scheduled,Routine consultation
+A00302,P0193,D0038,2026-07-02,14:45,Completed,New complaint
+A00303,P0454,D0096,2026-09-12,09:45,Completed,Follow-up
+A00304,P0230,D0027,2026-07-23,09:30,Cancelled,Follow-up
+A00305,P0269,D0044,2026-05-12,14:45,Completed,Routine consultation
+A00306,P0546,D0077,2026-01-19,09:00,Scheduled,New complaint
+A00307,P0853,D0088,2026-04-27,08:15,Scheduled,Follow-up
+A00308,P0680,D0067,2026-02-18,09:45,Completed,Lab review
+A00309,P0284,D0095,2026-03-29,12:45,No-show,Lab review
+A00310,P0175,D0072,2026-08-23,13:45,Cancelled,Lab review
+A00311,P0773,D0067,2026-09-09,13:30,Completed,Routine consultation
+A00312,P0074,D0057,2026-01-27,10:15,Scheduled,New complaint
+A00313,P0542,D0070,2026-02-07,10:30,Completed,New complaint
+A00314,P0949,D0043,2026-02-11,15:00,Scheduled,Lab review
+A00315,P0809,D0035,2026-05-15,13:00,Scheduled,Follow-up
+A00316,P0536,D0051,2026-08-06,15:15,No-show,Routine consultation
+A00317,P0654,D0004,2026-02-12,10:15,Completed,Lab review
+A00318,P0794,D0011,2026-08-11,16:00,Scheduled,New complaint
+A00319,P0591,D0002,2026-02-10,12:30,Cancelled,Routine consultation
+A00320,P0480,D0074,2026-03-27,09:45,Completed,Lab review
+A00321,P0947,D0055,2026-03-17,16:45,Scheduled,Follow-up
+A00322,P0763,D0065,2026-07-11,09:30,Completed,Routine consultation
+A00323,P0200,D0017,2026-08-26,08:30,Scheduled,Routine consultation
+A00324,P0807,D0075,2026-03-04,09:15,Completed,Follow-up
+A00325,P0138,D0083,2026-03-06,15:30,Cancelled,Lab review
+A00326,P0044,D0074,2026-03-04,11:45,Completed,Lab review
+A00327,P0044,D0037,2026-02-21,16:00,Completed,Follow-up
+A00328,P0212,D0052,2026-06-03,11:45,Completed,Lab review
+A00329,P0776,D0052,2026-09-12,11:45,Completed,New complaint
+A00330,P0522,D0093,2026-02-10,11:30,Scheduled,Follow-up
+A00331,P0818,D0080,2026-04-18,13:15,Completed,Routine consultation
+A00332,P0999,D0097,2026-06-20,16:30,Cancelled,New complaint
+A00333,P0462,D0086,2026-02-16,13:30,Completed,Lab review
+A00334,P0599,D0063,2026-07-17,14:15,Scheduled,Lab review
+A00335,P0389,D0038,2026-06-27,09:00,Completed,Routine consultation
+A00336,P0483,D0063,2026-03-10,16:15,Completed,Routine consultation
+A00337,P0785,D0084,2026-03-23,16:45,Completed,Routine consultation
+A00338,P0182,D0067,2026-06-25,11:30,Completed,Lab review
+A00339,P0079,D0005,2026-05-12,09:45,Cancelled,New complaint
+A00340,P0549,D0082,2026-06-15,11:30,Cancelled,New complaint
+A00341,P0987,D0016,2026-05-16,08:30,Completed,Routine consultation
+A00342,P0009,D0034,2026-03-11,15:15,Completed,New complaint
+A00343,P0957,D0066,2026-04-17,14:15,Cancelled,Lab review
+A00344,P0119,D0068,2026-05-13,12:45,Scheduled,Follow-up
+A00345,P0590,D0053,2026-06-12,11:00,Scheduled,Routine consultation
+A00346,P0267,D0089,2026-08-03,15:45,Scheduled,Routine consultation
+A00347,P0962,D0079,2026-03-30,10:30,Completed,Lab review
+A00348,P0877,D0091,2026-06-13,13:00,Completed,Lab review
+A00349,P0127,D0059,2026-08-21,10:45,Completed,Follow-up
+A00350,P0808,D0014,2026-01-11,14:00,Scheduled,Lab review
+A00351,P0970,D0027,2026-01-18,11:30,Scheduled,Routine consultation
+A00352,P0562,D0061,2026-09-17,15:15,Completed,Lab review
+A00353,P0220,D0052,2026-09-20,11:15,Completed,New complaint
+A00354,P0097,D0030,2026-08-19,08:30,Scheduled,Routine consultation
+A00355,P0525,D0082,2026-02-27,13:15,Cancelled,Routine consultation
+A00356,P0406,D0018,2026-04-06,16:15,Completed,Follow-up
+A00357,P0671,D0022,2026-01-21,12:00,Cancelled,Follow-up
+A00358,P0462,D0060,2026-02-13,08:30,Completed,Lab review
+A00359,P0058,D0091,2026-05-24,09:00,Scheduled,Lab review
+A00360,P0278,D0048,2026-02-21,11:15,No-show,Follow-up
+A00361,P0732,D0079,2026-02-08,08:45,Completed,Follow-up
+A00362,P0029,D0076,2026-03-15,12:45,Scheduled,New complaint
+A00363,P0887,D0074,2026-03-19,14:30,Completed,Follow-up
+A00364,P0508,D0039,2026-04-01,13:00,Scheduled,Follow-up
+A00365,P0853,D0089,2026-05-29,08:30,Scheduled,Follow-up
+A00366,P0111,D0069,2026-03-30,14:00,Cancelled,Routine consultation
+A00367,P0392,D0068,2026-01-19,11:30,Completed,New complaint
+A00368,P0013,D0020,2026-04-21,08:45,Completed,New complaint
+A00369,P0798,D0005,2026-03-28,08:15,Completed,Lab review
+A00370,P0739,D0018,2026-05-02,14:45,Completed,Lab review
+A00371,P0011,D0044,2026-04-11,14:00,Completed,Lab review
+A00372,P0507,D0032,2026-01-16,08:00,Completed,Routine consultation
+A00373,P0631,D0060,2026-01-14,15:15,Completed,Routine consultation
+A00374,P0096,D0014,2026-08-20,10:15,Completed,New complaint
+A00375,P0906,D0010,2026-01-22,16:45,Scheduled,New complaint
+A00376,P0026,D0033,2026-03-14,10:00,Completed,Lab review
+A00377,P0114,D0073,2026-07-28,09:45,Completed,Routine consultation
+A00378,P0263,D0040,2026-08-31,08:45,Completed,Routine consultation
+A00379,P0301,D0017,2026-03-16,11:30,Completed,Follow-up
+A00380,P0148,D0044,2026-02-17,14:00,Completed,Lab review
+A00381,P0598,D0035,2026-02-12,10:00,Completed,New complaint
+A00382,P0632,D0003,2026-08-31,10:45,Completed,Follow-up
+A00383,P0097,D0029,2026-08-04,13:30,No-show,New complaint
+A00384,P0618,D0039,2026-07-29,09:45,Scheduled,Routine consultation
+A00385,P0848,D0089,2026-03-10,12:30,Completed,Lab review
+A00386,P0135,D0014,2026-02-27,14:00,Completed,Routine consultation
+A00387,P0175,D0056,2026-06-13,16:00,Completed,New complaint
+A00388,P0262,D0062,2026-05-27,16:45,Scheduled,New complaint
+A00389,P0389,D0008,2026-03-06,11:45,Cancelled,Lab review
+A00390,P0025,D0066,2026-06-09,15:30,Scheduled,New complaint
+A00391,P0503,D0038,2026-02-15,09:00,Scheduled,Follow-up
+A00392,P0045,D0007,2026-02-13,14:30,Completed,Follow-up
+A00393,P0805,D0042,2026-07-21,10:15,No-show,Lab review
+A00394,P0277,D0058,2026-05-18,16:45,No-show,Routine consultation
+A00395,P0230,D0074,2026-09-16,10:00,No-show,New complaint
+A00396,P0192,D0019,2026-06-13,12:45,Scheduled,Routine consultation
+A00397,P0205,D0096,2026-03-28,09:15,Scheduled,Follow-up
+A00398,P0002,D0027,2026-01-08,13:30,Scheduled,Routine consultation
+A00399,P0562,D0067,2026-02-01,08:00,Completed,Lab review
+A00400,P0608,D0015,2026-07-26,15:15,Scheduled,Routine consultation
+A00401,P0125,D0033,2026-09-22,16:00,Completed,Routine consultation
+A00402,P0582,D0097,2026-01-12,09:45,Scheduled,Follow-up
+A00403,P0207,D0059,2026-05-01,10:45,Scheduled,New complaint
+A00404,P0555,D0094,2026-01-23,14:00,Completed,Routine consultation
+A00405,P0398,D0032,2026-08-06,15:30,Completed,Routine consultation
+A00406,P0256,D0056,2026-09-21,12:15,Completed,Routine consultation
+A00407,P0952,D0013,2026-05-06,15:00,Completed,Routine consultation
+A00408,P0711,D0034,2026-06-12,09:30,Completed,Follow-up
+A00409,P0194,D0082,2026-06-08,10:00,Completed,Routine consultation
+A00410,P0332,D0098,2026-02-05,13:15,Completed,New complaint
+A00411,P0330,D0049,2026-07-30,08:45,No-show,Lab review
+A00412,P0443,D0057,2026-05-26,12:45,Completed,Routine consultation
+A00413,P0274,D0083,2026-02-18,08:15,Scheduled,Follow-up
+A00414,P0943,D0018,2026-02-16,16:15,Scheduled,New complaint
+A00415,P0985,D0051,2026-05-28,08:15,Completed,Lab review
+A00416,P0269,D0089,2026-09-14,09:45,Completed,Follow-up
+A00417,P0653,D0025,2026-08-28,11:30,Completed,Follow-up
+A00418,P0018,D0002,2026-04-24,13:45,Completed,Follow-up
+A00419,P0565,D0090,2026-02-18,16:15,Completed,Routine consultation
+A00420,P0806,D0081,2026-08-03,09:15,No-show,Lab review
+A00421,P0118,D0005,2026-01-10,12:45,Completed,Follow-up
+A00422,P0437,D0053,2026-04-23,08:30,Completed,Routine consultation
+A00423,P0535,D0019,2026-03-07,16:15,Completed,Routine consultation
+A00424,P0926,D0017,2026-02-15,10:15,Scheduled,New complaint
+A00425,P0129,D0004,2026-02-05,13:00,Scheduled,Lab review
+A00426,P0754,D0055,2026-07-11,08:45,Completed,Lab review
+A00427,P0391,D0093,2026-04-25,12:30,Completed,Lab review
+A00428,P0430,D0029,2026-04-01,10:45,Cancelled,Lab review
+A00429,P0637,D0012,2026-07-16,08:00,Completed,Routine consultation
+A00430,P0988,D0094,2026-07-07,15:15,Completed,Follow-up
+A00431,P0572,D0054,2026-05-13,11:30,Completed,New complaint
+A00432,P0776,D0013,2026-03-28,10:30,Scheduled,Follow-up
+A00433,P0464,D0001,2026-08-23,10:45,Completed,New complaint
+A00434,P0976,D0020,2026-07-18,13:45,Cancelled,Lab review
+A00435,P0873,D0070,2026-02-09,15:45,Completed,Lab review
+A00436,P0850,D0011,2026-05-31,15:45,Scheduled,Routine consultation
+A00437,P0038,D0053,2026-04-17,13:00,No-show,Routine consultation
+A00438,P0309,D0019,2026-09-19,12:45,Completed,Lab review
+A00439,P0055,D0040,2026-05-20,11:30,Scheduled,New complaint
+A00440,P0089,D0044,2026-03-20,09:15,Scheduled,New complaint
+A00441,P0366,D0033,2026-05-10,13:15,Scheduled,Follow-up
+A00442,P0821,D0037,2026-01-09,14:30,Scheduled,Routine consultation
+A00443,P0793,D0026,2026-03-05,09:45,Completed,Routine consultation
+A00444,P0003,D0086,2026-03-17,15:15,Completed,Lab review
+A00445,P0513,D0065,2026-04-26,13:30,Cancelled,Routine consultation
+A00446,P0601,D0054,2026-09-28,16:30,Completed,New complaint
+A00447,P0356,D0013,2026-07-27,12:00,Cancelled,Routine consultation
+A00448,P0835,D0048,2026-04-04,09:15,Completed,Lab review
+A00449,P0884,D0004,2026-02-12,10:15,Completed,New complaint
+A00450,P0005,D0031,2026-01-27,12:45,Completed,Routine consultation
+A00451,P0060,D0026,2026-09-16,14:00,Completed,Follow-up
+A00452,P0083,D0012,2026-02-23,15:00,Cancelled,Routine consultation
+A00453,P0942,D0061,2026-01-07,11:30,Cancelled,Follow-up
+A00454,P0604,D0060,2026-02-24,15:00,Scheduled,New complaint
+A00455,P0906,D0020,2026-01-24,09:45,Scheduled,Lab review
+A00456,P0101,D0075,2026-01-27,16:30,Scheduled,New complaint
+A00457,P0944,D0002,2026-09-26,13:30,Scheduled,Routine consultation
+A00458,P0229,D0044,2026-04-16,15:30,Completed,Routine consultation
+A00459,P0572,D0068,2026-01-12,15:15,Scheduled,New complaint
+A00460,P0141,D0100,2026-09-25,08:45,Completed,Routine consultation
+A00461,P0969,D0054,2026-04-27,15:00,Completed,Routine consultation
+A00462,P1000,D0020,2026-09-20,09:45,Completed,Follow-up
+A00463,P0503,D0100,2026-07-16,12:45,Completed,Follow-up
+A00464,P0042,D0058,2026-09-06,13:15,Cancelled,Routine consultation
+A00465,P0561,D0002,2026-01-04,10:30,Scheduled,Lab review
+A00466,P0016,D0022,2026-06-30,15:00,Scheduled,Lab review
+A00467,P0898,D0051,2026-04-10,10:15,No-show,Follow-up
+A00468,P0809,D0050,2026-03-04,14:00,Scheduled,New complaint
+A00469,P0408,D0086,2026-06-30,15:30,Completed,New complaint
+A00470,P0448,D0080,2026-08-15,13:00,Scheduled,Follow-up
+A00471,P0330,D0008,2026-07-06,10:00,Scheduled,New complaint
+A00472,P0075,D0001,2026-06-02,10:45,Completed,Routine consultation
+A00473,P0048,D0084,2026-04-22,11:30,Completed,Lab review
+A00474,P0720,D0096,2026-03-22,12:15,Scheduled,Follow-up
+A00475,P0516,D0009,2026-03-12,12:30,Completed,Routine consultation
+A00476,P0616,D0010,2026-06-04,09:45,Cancelled,Lab review
+A00477,P0104,D0048,2026-04-28,08:15,Cancelled,New complaint
+A00478,P0716,D0038,2026-09-01,13:45,Completed,Follow-up
+A00479,P0318,D0071,2026-04-29,13:15,Completed,Routine consultation
+A00480,P0902,D0098,2026-06-16,08:00,Completed,New complaint
+A00481,P0503,D0065,2026-08-04,12:15,Cancelled,New complaint
+A00482,P0253,D0071,2026-03-04,13:45,Completed,Routine consultation
+A00483,P0928,D0058,2026-03-12,16:00,Cancelled,Lab review
+A00484,P0607,D0048,2026-02-20,10:15,Scheduled,New complaint
+A00485,P0371,D0034,2026-09-17,09:30,Completed,Routine consultation
+A00486,P0752,D0050,2026-08-25,10:15,Completed,Lab review
+A00487,P0791,D0036,2026-05-30,14:30,Completed,New complaint
+A00488,P0367,D0009,2026-08-28,10:00,Completed,Routine consultation
+A00489,P0847,D0065,2026-08-24,11:00,Completed,Lab review
+A00490,P0545,D0083,2026-07-16,12:45,Scheduled,New complaint
+A00491,P0499,D0041,2026-02-01,11:00,Completed,Follow-up
+A00492,P0304,D0010,2026-01-09,10:45,Cancelled,Lab review
+A00493,P0052,D0021,2026-08-24,10:45,Scheduled,Lab review
+A00494,P0152,D0058,2026-05-13,14:45,Completed,Lab review
+A00495,P0439,D0033,2026-01-24,15:45,Completed,New complaint
+A00496,P0490,D0009,2026-07-13,11:15,Cancelled,Follow-up
+A00497,P0488,D0054,2026-06-23,11:45,Scheduled,Lab review
+A00498,P0740,D0065,2026-03-06,11:45,Cancelled,Routine consultation
+A00499,P0530,D0067,2026-07-28,08:30,No-show,Follow-up
+A00500,P0799,D0048,2026-04-01,08:30,Scheduled,Lab review
+A00501,P0704,D0068,2026-01-04,13:00,No-show,Follow-up
+A00502,P0761,D0011,2026-08-31,11:45,No-show,Lab review
+A00503,P0796,D0002,2026-08-19,14:30,Completed,Lab review
+A00504,P0755,D0061,2026-07-30,15:00,Completed,New complaint
+A00505,P0261,D0021,2026-09-13,13:30,Completed,Routine consultation
+A00506,P0151,D0024,2026-01-15,11:30,Completed,New complaint
+A00507,P0185,D0008,2026-03-08,15:15,Scheduled,Follow-up
+A00508,P0109,D0098,2026-03-17,15:00,Completed,New complaint
+A00509,P0622,D0016,2026-07-09,15:45,No-show,Routine consultation
+A00510,P0799,D0038,2026-08-05,10:00,Completed,Lab review
+A00511,P0858,D0071,2026-02-28,12:30,Completed,Follow-up
+A00512,P0963,D0014,2026-01-17,13:15,Cancelled,Routine consultation
+A00513,P0031,D0024,2026-04-17,10:15,Scheduled,Routine consultation
+A00514,P0695,D0051,2026-02-18,12:15,Completed,Routine consultation
+A00515,P0890,D0010,2026-02-01,14:00,Completed,Routine consultation
+A00516,P0947,D0025,2026-04-21,09:45,Completed,Routine consultation
+A00517,P0299,D0075,2026-06-25,08:00,Completed,Follow-up
+A00518,P0260,D0036,2026-07-31,15:15,Completed,Follow-up
+A00519,P0577,D0036,2026-02-27,15:15,Scheduled,New complaint
+A00520,P0553,D0029,2026-05-04,16:00,No-show,Routine consultation
+A00521,P0063,D0021,2026-07-23,13:30,Cancelled,Lab review
+A00522,P0131,D0060,2026-02-25,11:15,Scheduled,New complaint
+A00523,P0164,D0074,2026-04-03,16:00,Completed,New complaint
+A00524,P0306,D0099,2026-04-24,13:00,Scheduled,New complaint
+A00525,P0736,D0054,2026-01-31,10:45,Completed,Lab review
+A00526,P0567,D0083,2026-03-29,15:15,Completed,Follow-up
+A00527,P0024,D0058,2026-09-08,12:30,Scheduled,New complaint
+A00528,P0767,D0064,2026-06-04,08:45,No-show,New complaint
+A00529,P0559,D0002,2026-01-12,10:00,Scheduled,Routine consultation
+A00530,P0191,D0099,2026-03-29,08:15,Completed,Lab review
+A00531,P0287,D0034,2026-06-03,11:00,Completed,Routine consultation
+A00532,P0357,D0025,2026-04-26,10:15,Completed,Follow-up
+A00533,P0367,D0009,2026-01-04,10:15,Completed,Lab review
+A00534,P0117,D0080,2026-06-19,13:00,Cancelled,Follow-up
+A00535,P0816,D0092,2026-06-22,12:30,Scheduled,Routine consultation
+A00536,P0712,D0027,2026-04-26,14:30,Scheduled,Follow-up
+A00537,P0871,D0032,2026-04-09,10:30,Completed,Follow-up
+A00538,P0832,D0069,2026-08-07,10:00,Completed,Follow-up
+A00539,P0771,D0035,2026-03-04,10:30,Completed,Routine consultation
+A00540,P0321,D0079,2026-08-16,13:45,Scheduled,Follow-up
+A00541,P0249,D0064,2026-01-29,09:15,Completed,Routine consultation
+A00542,P0603,D0048,2026-09-04,15:30,Completed,Routine consultation
+A00543,P0610,D0100,2026-01-08,14:15,Cancelled,Routine consultation
+A00544,P0638,D0013,2026-04-15,15:30,Scheduled,Follow-up
+A00545,P0720,D0030,2026-07-22,15:00,Completed,Lab review
+A00546,P0967,D0055,2026-04-29,14:15,Cancelled,Lab review
+A00547,P0684,D0066,2026-08-31,13:15,Scheduled,New complaint
+A00548,P0919,D0019,2026-05-09,14:00,Scheduled,New complaint
+A00549,P0028,D0001,2026-03-03,15:15,Scheduled,Follow-up
+A00550,P0277,D0008,2026-05-18,13:15,Completed,Routine consultation
+A00551,P0881,D0043,2026-02-02,13:15,Completed,Lab review
+A00552,P0738,D0099,2026-02-18,12:15,Completed,Routine consultation
+A00553,P0530,D0057,2026-06-03,11:00,Completed,New complaint
+A00554,P0620,D0017,2026-03-13,12:45,Completed,Lab review
+A00555,P0514,D0070,2026-03-09,10:00,Completed,Lab review
+A00556,P0605,D0024,2026-06-14,16:00,Scheduled,Routine consultation
+A00557,P0505,D0006,2026-06-04,16:45,Completed,New complaint
+A00558,P0776,D0022,2026-04-12,11:15,Scheduled,New complaint
+A00559,P0894,D0080,2026-07-01,09:30,No-show,Follow-up
+A00560,P0984,D0056,2026-06-24,15:30,Completed,Lab review
+A00561,P0850,D0095,2026-09-15,13:15,Completed,Lab review
+A00562,P0415,D0023,2026-08-12,15:15,Completed,Lab review
+A00563,P0675,D0075,2026-07-23,15:15,Scheduled,Lab review
+A00564,P0755,D0048,2026-06-06,11:30,Completed,New complaint
+A00565,P0177,D0024,2026-03-28,16:15,Cancelled,Routine consultation
+A00566,P0362,D0094,2026-02-24,16:15,Scheduled,New complaint
+A00567,P0177,D0071,2026-03-28,12:45,Completed,Lab review
+A00568,P0872,D0022,2026-04-03,08:00,Scheduled,Follow-up
+A00569,P0584,D0074,2026-05-21,09:30,Completed,Routine consultation
+A00570,P0175,D0089,2026-01-07,14:45,Completed,Follow-up
+A00571,P0269,D0044,2026-07-29,14:00,Cancelled,Routine consultation
+A00572,P0190,D0009,2026-07-04,14:15,Completed,Lab review
+A00573,P0630,D0010,2026-01-21,08:15,Completed,Routine consultation
+A00574,P0782,D0026,2026-04-23,11:30,Completed,Follow-up
+A00575,P0857,D0060,2026-03-10,10:30,Completed,Follow-up
+A00576,P0430,D0003,2026-07-15,08:00,No-show,Follow-up
+A00577,P0329,D0052,2026-08-25,15:00,Completed,Routine consultation
+A00578,P1000,D0056,2026-08-03,08:45,Cancelled,New complaint
+A00579,P0011,D0002,2026-05-25,11:30,Scheduled,Follow-up
+A00580,P0278,D0055,2026-08-26,10:15,Completed,New complaint
+A00581,P0211,D0026,2026-03-17,11:00,Scheduled,Routine consultation
+A00582,P0730,D0012,2026-01-07,12:30,No-show,Lab review
+A00583,P0399,D0045,2026-03-12,11:00,Completed,Lab review
+A00584,P0183,D0060,2026-03-01,11:45,Completed,New complaint
+A00585,P0974,D0054,2026-09-25,13:45,Cancelled,Routine consultation
+A00586,P0619,D0038,2026-08-05,11:30,Completed,Routine consultation
+A00587,P0485,D0042,2026-05-23,14:00,Cancelled,Routine consultation
+A00588,P0021,D0012,2026-09-19,16:45,Cancelled,New complaint
+A00589,P0715,D0024,2026-04-07,10:30,Completed,Follow-up
+A00590,P0456,D0040,2026-05-27,16:15,Completed,Lab review
+A00591,P0225,D0035,2026-02-09,15:15,Completed,Lab review
+A00592,P0587,D0033,2026-04-11,16:45,Completed,Routine consultation
+A00593,P0792,D0069,2026-03-26,13:30,Completed,Follow-up
+A00594,P0573,D0073,2026-07-13,10:45,Completed,New complaint
+A00595,P0752,D0091,2026-03-30,11:45,Completed,Routine consultation
+A00596,P0513,D0044,2026-01-02,13:15,Scheduled,Lab review
+A00597,P0094,D0051,2026-09-04,12:15,Scheduled,Follow-up
+A00598,P0596,D0100,2026-06-14,08:00,Completed,Routine consultation
+A00599,P0313,D0063,2026-05-15,14:00,Cancelled,New complaint
+A00600,P0467,D0065,2026-02-18,12:15,No-show,Lab review
+A00601,P0053,D0051,2026-05-22,11:45,Scheduled,Routine consultation
+A00602,P0263,D0054,2026-08-20,13:45,Cancelled,Follow-up
+A00603,P0567,D0009,2026-07-18,11:45,Completed,Lab review
+A00604,P0837,D0067,2026-02-14,16:30,Scheduled,Routine consultation
+A00605,P0487,D0090,2026-01-31,10:45,Completed,Routine consultation
+A00606,P0343,D0006,2026-01-06,16:30,Scheduled,New complaint
+A00607,P0373,D0053,2026-01-11,12:15,Scheduled,New complaint
+A00608,P0234,D0091,2026-01-18,13:00,Completed,Lab review
+A00609,P0217,D0004,2026-08-06,16:15,Completed,New complaint
+A00610,P0483,D0090,2026-04-19,08:45,Scheduled,Routine consultation
+A00611,P0431,D0053,2026-03-11,10:15,Cancelled,New complaint
+A00612,P0790,D0066,2026-05-24,09:00,Completed,New complaint
+A00613,P0693,D0077,2026-06-18,11:30,Cancelled,Routine consultation
+A00614,P0587,D0054,2026-07-18,15:15,Completed,Follow-up
+A00615,P0410,D0004,2026-09-21,16:45,Scheduled,Lab review
+A00616,P0585,D0018,2026-06-15,08:30,Completed,Routine consultation
+A00617,P0664,D0072,2026-08-22,08:30,Completed,Routine consultation
+A00618,P0417,D0051,2026-07-25,15:00,Completed,Routine consultation
+A00619,P0592,D0087,2026-02-05,14:15,Cancelled,Routine consultation
+A00620,P0786,D0066,2026-08-31,11:15,Cancelled,Routine consultation
+A00621,P0576,D0020,2026-03-23,15:00,Completed,Lab review
+A00622,P0093,D0059,2026-04-15,11:45,Scheduled,Routine consultation
+A00623,P0176,D0052,2026-08-05,12:30,Scheduled,Follow-up
+A00624,P0996,D0012,2026-01-16,11:15,Scheduled,Follow-up
+A00625,P0116,D0037,2026-06-17,12:00,Completed,New complaint
+A00626,P0614,D0023,2026-08-19,08:45,Completed,Lab review
+A00627,P0377,D0034,2026-08-13,11:00,No-show,Follow-up
+A00628,P0675,D0032,2026-05-20,11:30,Cancelled,Follow-up
+A00629,P0425,D0061,2026-02-08,15:00,Completed,Routine consultation
+A00630,P0680,D0029,2026-07-17,14:30,Scheduled,Lab review
+A00631,P0389,D0084,2026-09-28,08:00,Cancelled,Follow-up
+A00632,P0002,D0026,2026-09-19,09:30,No-show,Routine consultation
+A00633,P0960,D0077,2026-02-28,15:00,No-show,New complaint
+A00634,P0901,D0007,2026-06-02,08:45,Completed,Routine consultation
+A00635,P0164,D0052,2026-09-23,09:45,Completed,Follow-up
+A00636,P0667,D0099,2026-08-01,16:15,Completed,Lab review
+A00637,P0677,D0003,2026-09-27,13:00,Completed,Lab review
+A00638,P0091,D0010,2026-04-05,15:30,Completed,Routine consultation
+A00639,P0880,D0015,2026-08-05,09:45,Completed,New complaint
+A00640,P0016,D0072,2026-07-27,14:15,Completed,Follow-up
+A00641,P0468,D0008,2026-01-09,11:00,Scheduled,Follow-up
+A00642,P0288,D0035,2026-08-04,11:30,Completed,New complaint
+A00643,P0535,D0088,2026-04-05,12:30,Cancelled,New complaint
+A00644,P0012,D0095,2026-01-04,09:15,Scheduled,Follow-up
+A00645,P0221,D0053,2026-06-02,10:30,Scheduled,Routine consultation
+A00646,P0373,D0032,2026-03-21,11:45,Completed,Lab review
+A00647,P0256,D0079,2026-08-20,14:00,Completed,New complaint
+A00648,P0249,D0049,2026-01-01,10:30,Completed,Lab review
+A00649,P0228,D0090,2026-01-22,13:30,Scheduled,Lab review
+A00650,P0809,D0048,2026-09-14,09:45,Scheduled,Lab review
+A00651,P0847,D0090,2026-01-09,11:45,Completed,Follow-up
+A00652,P0511,D0032,2026-03-02,13:45,Completed,Lab review
+A00653,P0203,D0017,2026-07-24,14:15,Completed,Routine consultation
+A00654,P0619,D0100,2026-07-15,14:45,Scheduled,New complaint
+A00655,P0382,D0075,2026-05-26,09:15,Completed,New complaint
+A00656,P0975,D0033,2026-03-31,10:00,Completed,New complaint
+A00657,P0578,D0080,2026-04-05,10:45,Completed,New complaint
+A00658,P0990,D0059,2026-08-02,14:00,No-show,New complaint
+A00659,P0387,D0079,2026-04-01,11:30,No-show,Follow-up
+A00660,P0770,D0071,2026-05-07,11:30,Scheduled,New complaint
+A00661,P0462,D0079,2026-09-21,15:45,Completed,New complaint
+A00662,P0253,D0033,2026-01-07,12:00,Completed,Routine consultation
+A00663,P0098,D0042,2026-09-25,12:15,Completed,Follow-up
+A00664,P0413,D0002,2026-02-13,10:15,Completed,Routine consultation
+A00665,P0669,D0085,2026-05-29,12:00,Scheduled,New complaint
+A00666,P0759,D0084,2026-03-17,09:30,Scheduled,Routine consultation
+A00667,P0308,D0016,2026-05-26,09:15,Completed,New complaint
+A00668,P0136,D0005,2026-06-14,10:45,Scheduled,New complaint
+A00669,P0164,D0096,2026-06-17,14:30,Scheduled,Follow-up
+A00670,P0636,D0091,2026-06-01,08:30,Scheduled,Routine consultation
+A00671,P0345,D0030,2026-09-23,10:15,Completed,New complaint
+A00672,P0638,D0034,2026-08-07,14:00,Scheduled,New complaint
+A00673,P0665,D0048,2026-03-06,16:00,Completed,Follow-up
+A00674,P0675,D0047,2026-01-03,09:45,Completed,Routine consultation
+A00675,P0103,D0068,2026-08-18,14:45,Completed,Lab review
+A00676,P0870,D0001,2026-09-03,10:30,Completed,Lab review
+A00677,P0728,D0021,2026-09-09,12:00,Completed,Routine consultation
+A00678,P0871,D0052,2026-04-10,15:30,Completed,Routine consultation
+A00679,P0202,D0083,2026-09-12,15:45,Completed,New complaint
+A00680,P0430,D0012,2026-06-29,08:15,Scheduled,Follow-up
+A00681,P0854,D0080,2026-01-24,10:30,Scheduled,Routine consultation
+A00682,P0199,D0027,2026-04-12,16:45,Completed,Follow-up
+A00683,P0873,D0040,2026-06-02,10:30,Completed,New complaint
+A00684,P0799,D0035,2026-05-27,16:00,Completed,Routine consultation
+A00685,P0887,D0017,2026-08-16,16:45,Scheduled,Lab review
+A00686,P0424,D0042,2026-02-03,08:45,Completed,Routine consultation
+A00687,P0092,D0062,2026-08-30,08:30,Scheduled,Follow-up
+A00688,P0361,D0050,2026-06-27,09:30,Completed,Lab review
+A00689,P0522,D0001,2026-01-19,09:30,Completed,Routine consultation
+A00690,P0267,D0035,2026-02-18,13:45,Scheduled,New complaint
+A00691,P0944,D0051,2026-07-07,11:00,Completed,New complaint
+A00692,P0292,D0002,2026-08-31,08:00,Scheduled,Routine consultation
+A00693,P0121,D0070,2026-06-09,13:30,Completed,Routine consultation
+A00694,P0183,D0011,2026-05-08,16:15,Cancelled,Routine consultation
+A00695,P0788,D0021,2026-04-18,14:45,Scheduled,Routine consultation
+A00696,P0938,D0070,2026-05-03,16:30,Scheduled,Lab review
+A00697,P0156,D0051,2026-01-11,15:00,Completed,Lab review
+A00698,P0709,D0056,2026-02-16,14:30,Scheduled,Follow-up
+A00699,P0739,D0054,2026-04-15,11:30,Completed,Routine consultation
+A00700,P0270,D0003,2026-04-08,15:30,Completed,Routine consultation
+A00701,P0518,D0093,2026-08-10,15:00,No-show,New complaint
+A00702,P0696,D0092,2026-01-22,10:00,Completed,Routine consultation
+A00703,P0095,D0026,2026-05-25,11:00,Scheduled,Follow-up
+A00704,P0099,D0043,2026-07-19,14:00,Completed,Lab review
+A00705,P0820,D0052,2026-01-25,13:15,Completed,Routine consultation
+A00706,P0303,D0059,2026-02-27,14:00,Scheduled,Follow-up
+A00707,P0232,D0077,2026-03-17,08:30,Cancelled,Routine consultation
+A00708,P0373,D0092,2026-09-01,15:30,Completed,New complaint
+A00709,P0941,D0082,2026-01-30,16:15,Cancelled,Routine consultation
+A00710,P0400,D0096,2026-08-16,09:30,Completed,Lab review
+A00711,P0898,D0063,2026-05-05,12:45,Cancelled,New complaint
+A00712,P0255,D0042,2026-03-09,14:15,Scheduled,New complaint
+A00713,P1000,D0002,2026-01-02,13:15,Completed,New complaint
+A00714,P0017,D0017,2026-02-07,16:30,Completed,New complaint
+A00715,P0530,D0052,2026-01-04,11:45,Completed,Routine consultation
+A00716,P0406,D0051,2026-07-21,11:00,Completed,Routine consultation
+A00717,P0749,D0068,2026-07-09,08:15,Cancelled,Routine consultation
+A00718,P0639,D0070,2026-08-08,12:00,Scheduled,Routine consultation
+A00719,P0169,D0008,2026-04-21,08:00,Cancelled,Follow-up
+A00720,P0139,D0003,2026-01-15,10:30,Scheduled,Lab review
+A00721,P0776,D0048,2026-03-22,11:45,Scheduled,Lab review
+A00722,P0993,D0051,2026-04-29,09:15,Completed,New complaint
+A00723,P0358,D0064,2026-01-23,10:45,No-show,Lab review
+A00724,P0045,D0041,2026-05-12,12:15,Completed,Lab review
+A00725,P0527,D0012,2026-05-27,13:15,Completed,Routine consultation
+A00726,P0357,D0081,2026-03-03,16:45,Completed,Follow-up
+A00727,P0408,D0052,2026-05-26,12:30,Completed,Follow-up
+A00728,P0506,D0079,2026-07-09,10:00,Completed,Lab review
+A00729,P0241,D0053,2026-07-28,14:00,Completed,New complaint
+A00730,P0032,D0058,2026-03-13,12:45,Completed,New complaint
+A00731,P0017,D0017,2026-03-20,14:45,Completed,Routine consultation
+A00732,P0028,D0010,2026-07-07,16:30,Completed,Follow-up
+A00733,P0236,D0087,2026-01-03,09:45,Scheduled,Routine consultation
+A00734,P0324,D0055,2026-08-05,15:00,Completed,New complaint
+A00735,P0184,D0033,2026-02-01,13:15,Completed,Follow-up
+A00736,P0453,D0073,2026-05-06,13:30,Completed,New complaint
+A00737,P0100,D0088,2026-05-16,13:15,Cancelled,New complaint
+A00738,P0127,D0074,2026-01-28,13:45,No-show,Routine consultation
+A00739,P0446,D0096,2026-09-26,16:45,No-show,New complaint
+A00740,P0398,D0016,2026-04-20,14:30,Scheduled,Follow-up
+A00741,P0643,D0086,2026-06-15,15:30,Scheduled,New complaint
+A00742,P0051,D0099,2026-01-04,13:45,Completed,Follow-up
+A00743,P0556,D0034,2026-09-02,15:00,Completed,Routine consultation
+A00744,P0027,D0078,2026-02-21,10:15,Completed,New complaint
+A00745,P0871,D0019,2026-05-04,11:15,Scheduled,New complaint
+A00746,P0580,D0052,2026-04-19,10:15,Completed,Routine consultation
+A00747,P0330,D0031,2026-04-06,16:15,Scheduled,New complaint
+A00748,P0265,D0022,2026-08-24,14:15,Completed,Follow-up
+A00749,P0668,D0019,2026-03-23,11:30,Completed,Follow-up
+A00750,P0258,D0089,2026-04-04,08:00,No-show,Routine consultation
+A00751,P0780,D0023,2026-08-05,11:15,Completed,Lab review
+A00752,P0507,D0085,2026-03-12,11:30,Completed,Follow-up
+A00753,P0840,D0042,2026-01-05,15:30,Cancelled,Lab review
+A00754,P0919,D0050,2026-05-18,13:15,Completed,New complaint
+A00755,P0207,D0071,2026-06-15,14:00,No-show,Routine consultation
+A00756,P0808,D0037,2026-01-16,08:45,No-show,Follow-up
+A00757,P0641,D0093,2026-03-21,10:45,Scheduled,Follow-up
+A00758,P0479,D0028,2026-09-10,15:45,Completed,Routine consultation
+A00759,P0978,D0051,2026-08-01,16:00,Completed,Lab review
+A00760,P0004,D0027,2026-09-02,08:45,Scheduled,Routine consultation
+A00761,P0344,D0079,2026-05-02,14:00,Completed,Lab review
+A00762,P0746,D0005,2026-03-11,12:00,Scheduled,Lab review
+A00763,P0277,D0003,2026-01-28,10:45,Scheduled,New complaint
+A00764,P0439,D0059,2026-08-31,13:15,Completed,Lab review
+A00765,P0015,D0006,2026-01-02,14:15,Completed,New complaint
+A00766,P0650,D0052,2026-04-08,16:30,Cancelled,Lab review
+A00767,P0588,D0058,2026-07-30,09:30,Completed,New complaint
+A00768,P0602,D0090,2026-04-17,09:15,Scheduled,New complaint
+A00769,P0614,D0091,2026-05-23,09:30,Completed,Routine consultation
+A00770,P0888,D0037,2026-06-11,13:00,Scheduled,Follow-up
+A00771,P0304,D0028,2026-03-15,14:45,Completed,Follow-up
+A00772,P0134,D0013,2026-05-12,14:00,Completed,Routine consultation
+A00773,P0576,D0044,2026-02-23,13:30,Completed,Routine consultation
+A00774,P0702,D0058,2026-01-03,09:15,Completed,Follow-up
+A00775,P0962,D0064,2026-03-12,11:30,Completed,Follow-up
+A00776,P0765,D0065,2026-06-24,14:45,Scheduled,Routine consultation
+A00777,P0931,D0017,2026-09-20,16:15,Completed,New complaint
+A00778,P0070,D0050,2026-01-30,13:30,Completed,New complaint
+A00779,P0590,D0083,2026-02-09,11:30,Completed,Lab review
+A00780,P0401,D0004,2026-08-28,16:30,Scheduled,Lab review
+A00781,P0639,D0035,2026-09-21,14:45,Scheduled,New complaint
+A00782,P0995,D0001,2026-04-09,16:15,Cancelled,New complaint
+A00783,P0824,D0016,2026-03-20,11:45,Completed,Routine consultation
+A00784,P0394,D0052,2026-03-14,14:00,Completed,Routine consultation
+A00785,P0923,D0041,2026-08-03,13:30,Scheduled,New complaint
+A00786,P0682,D0067,2026-05-23,13:45,No-show,Lab review
+A00787,P0361,D0013,2026-06-17,13:45,No-show,Follow-up
+A00788,P0282,D0001,2026-05-11,15:45,Completed,New complaint
+A00789,P0534,D0054,2026-09-26,15:30,Cancelled,Follow-up
+A00790,P0074,D0054,2026-05-30,08:30,Completed,Lab review
+A00791,P0180,D0033,2026-06-16,09:15,Cancelled,Lab review
+A00792,P0956,D0038,2026-02-05,16:45,Completed,Follow-up
+A00793,P0935,D0069,2026-04-14,16:45,No-show,Routine consultation
+A00794,P0841,D0061,2026-09-20,11:30,Cancelled,Routine consultation
+A00795,P0419,D0025,2026-08-20,08:15,Completed,Lab review
+A00796,P0525,D0083,2026-05-18,10:15,Completed,Follow-up
+A00797,P0554,D0079,2026-01-24,13:00,Scheduled,Follow-up
+A00798,P0218,D0035,2026-01-16,12:00,Scheduled,Routine consultation
+A00799,P0611,D0063,2026-08-10,09:45,Cancelled,New complaint
+A00800,P0157,D0072,2026-03-11,12:30,Completed,Follow-up
+A00801,P0540,D0002,2026-07-05,14:30,Completed,Routine consultation
+A00802,P0772,D0099,2026-08-26,11:30,Completed,New complaint
+A00803,P0587,D0042,2026-06-03,16:00,Completed,Follow-up
+A00804,P0599,D0081,2026-05-09,08:30,Scheduled,Routine consultation
+A00805,P0173,D0092,2026-03-13,14:00,Scheduled,Lab review
+A00806,P0993,D0012,2026-03-17,08:15,Completed,Follow-up
+A00807,P0626,D0003,2026-06-20,16:30,Completed,Lab review
+A00808,P0099,D0073,2026-03-20,08:15,Scheduled,New complaint
+A00809,P0472,D0047,2026-08-30,12:45,Scheduled,Routine consultation
+A00810,P0756,D0035,2026-06-08,09:45,No-show,Follow-up
+A00811,P0860,D0078,2026-04-14,08:15,Completed,New complaint
+A00812,P0585,D0054,2026-09-21,12:00,Completed,Follow-up
+A00813,P0755,D0083,2026-03-28,14:00,Completed,New complaint
+A00814,P0431,D0062,2026-05-24,10:45,Completed,Follow-up
+A00815,P0717,D0001,2026-02-20,15:15,Completed,Follow-up
+A00816,P0095,D0068,2026-04-20,09:30,No-show,Routine consultation
+A00817,P0302,D0100,2026-08-28,16:15,Completed,New complaint
+A00818,P0425,D0080,2026-07-05,13:30,Completed,Routine consultation
+A00819,P0137,D0059,2026-08-04,10:15,Scheduled,Follow-up
+A00820,P0640,D0065,2026-08-31,09:45,No-show,Routine consultation
+A00821,P0483,D0087,2026-03-19,10:15,Cancelled,Routine consultation
+A00822,P0844,D0035,2026-01-19,14:30,Cancelled,New complaint
+A00823,P0830,D0060,2026-01-29,16:30,No-show,Lab review
+A00824,P0431,D0064,2026-05-13,09:45,Completed,Follow-up
+A00825,P0864,D0058,2026-09-26,09:00,Scheduled,New complaint
+A00826,P0598,D0009,2026-09-21,09:30,Completed,Routine consultation
+A00827,P0172,D0052,2026-06-04,13:45,Cancelled,Follow-up
+A00828,P0421,D0027,2026-09-16,12:45,Completed,Follow-up
+A00829,P0082,D0020,2026-01-09,15:45,Completed,New complaint
+A00830,P0959,D0081,2026-02-25,10:00,Scheduled,Routine consultation
+A00831,P0159,D0073,2026-06-20,09:00,Scheduled,New complaint
+A00832,P0836,D0004,2026-02-20,16:15,Scheduled,New complaint
+A00833,P0733,D0098,2026-01-04,14:45,Cancelled,Routine consultation
+A00834,P0601,D0017,2026-03-02,08:45,Completed,Follow-up
+A00835,P0230,D0036,2026-03-15,14:15,Cancelled,New complaint
+A00836,P0249,D0092,2026-06-05,15:00,Completed,New complaint
+A00837,P0524,D0079,2026-09-09,13:45,Completed,Follow-up
+A00838,P0708,D0058,2026-04-08,13:30,Completed,New complaint
+A00839,P0785,D0022,2026-08-15,11:00,Cancelled,Follow-up
+A00840,P0349,D0081,2026-02-21,13:30,Completed,Lab review
+A00841,P0131,D0083,2026-08-14,08:30,Completed,New complaint
+A00842,P0728,D0036,2026-04-24,16:30,Completed,Lab review
+A00843,P0108,D0010,2026-07-08,16:15,Completed,Lab review
+A00844,P0771,D0020,2026-09-05,08:00,No-show,Lab review
+A00845,P0549,D0057,2026-01-26,11:45,Completed,New complaint
+A00846,P0900,D0058,2026-02-08,08:45,Scheduled,Routine consultation
+A00847,P0824,D0100,2026-03-14,11:30,Scheduled,Lab review
+A00848,P0270,D0053,2026-08-07,16:30,No-show,Lab review
+A00849,P0744,D0055,2026-01-13,11:45,No-show,Routine consultation
+A00850,P0961,D0018,2026-02-03,14:15,Scheduled,New complaint
+A00851,P0890,D0016,2026-04-22,15:15,Completed,New complaint
+A00852,P0616,D0091,2026-07-07,15:15,Scheduled,New complaint
+A00853,P0985,D0072,2026-04-30,09:45,Scheduled,Follow-up
+A00854,P0340,D0072,2026-01-20,10:00,Completed,Lab review
+A00855,P0180,D0039,2026-03-25,11:15,Completed,Lab review
+A00856,P0642,D0095,2026-02-05,16:30,Completed,Follow-up
+A00857,P0970,D0060,2026-08-10,14:00,Cancelled,Lab review
+A00858,P0727,D0033,2026-05-30,14:45,Completed,Routine consultation
+A00859,P0666,D0011,2026-06-26,13:30,No-show,New complaint
+A00860,P0066,D0057,2026-05-18,09:45,Completed,Routine consultation
+A00861,P0526,D0086,2026-03-24,10:00,Completed,Routine consultation
+A00862,P0807,D0098,2026-05-27,09:15,Completed,Lab review
+A00863,P0723,D0076,2026-09-03,14:00,Completed,Follow-up
+A00864,P0027,D0095,2026-09-07,15:30,No-show,Follow-up
+A00865,P0995,D0026,2026-07-27,12:15,Scheduled,Routine consultation
+A00866,P0993,D0096,2026-03-19,14:30,Completed,New complaint
+A00867,P0426,D0049,2026-04-06,09:15,Completed,Routine consultation
+A00868,P0446,D0010,2026-07-13,14:45,Completed,Lab review
+A00869,P0179,D0005,2026-07-21,11:30,Completed,Follow-up
+A00870,P0629,D0076,2026-03-10,11:30,Completed,Routine consultation
+A00871,P0568,D0029,2026-04-17,15:45,Cancelled,New complaint
+A00872,P0486,D0058,2026-07-03,08:00,Scheduled,Lab review
+A00873,P0834,D0052,2026-03-18,12:30,Completed,Lab review
+A00874,P0252,D0100,2026-01-14,10:15,Cancelled,Routine consultation
+A00875,P0930,D0047,2026-08-23,12:45,Completed,Lab review
+A00876,P0113,D0071,2026-03-13,14:00,Completed,New complaint
+A00877,P0069,D0073,2026-03-07,14:15,Scheduled,Lab review
+A00878,P0597,D0098,2026-07-15,13:30,Completed,Follow-up
+A00879,P0872,D0034,2026-09-06,15:45,Cancelled,Lab review
+A00880,P0950,D0071,2026-01-24,08:15,Completed,Follow-up
+A00881,P0747,D0093,2026-06-21,13:00,No-show,Lab review
+A00882,P0493,D0019,2026-05-28,12:45,Completed,Follow-up
+A00883,P0774,D0031,2026-01-01,12:45,No-show,Routine consultation
+A00884,P0388,D0094,2026-05-10,13:30,Scheduled,Routine consultation
+A00885,P0595,D0026,2026-07-11,15:30,Completed,Routine consultation
+A00886,P0539,D0067,2026-02-28,12:45,Completed,Lab review
+A00887,P0896,D0089,2026-04-20,09:15,Completed,Routine consultation
+A00888,P0452,D0064,2026-06-14,12:15,Scheduled,New complaint
+A00889,P0054,D0090,2026-02-18,16:15,Completed,Lab review
+A00890,P0103,D0093,2026-09-15,08:00,Scheduled,New complaint
+A00891,P0212,D0075,2026-05-05,09:30,Completed,Routine consultation
+A00892,P0444,D0062,2026-02-03,12:15,Completed,Follow-up
+A00893,P0818,D0071,2026-02-23,08:45,Completed,New complaint
+A00894,P0647,D0068,2026-02-19,08:45,Completed,Lab review
+A00895,P0860,D0007,2026-03-07,13:45,Completed,Routine consultation
+A00896,P0251,D0093,2026-03-15,14:15,Completed,Lab review
+A00897,P0414,D0005,2026-04-02,11:00,Completed,Follow-up
+A00898,P0896,D0043,2026-01-28,10:45,No-show,Lab review
+A00899,P0173,D0037,2026-01-10,13:15,Scheduled,Routine consultation
+A00900,P0414,D0053,2026-05-29,10:00,Completed,Routine consultation
+A00901,P0328,D0095,2026-06-11,09:30,Scheduled,Follow-up
+A00902,P0435,D0032,2026-01-10,09:45,Completed,Follow-up
+A00903,P0285,D0005,2026-03-07,10:15,Completed,Lab review
+A00904,P0681,D0023,2026-04-29,10:15,Completed,New complaint
+A00905,P0984,D0085,2026-03-13,08:00,Scheduled,Routine consultation
+A00906,P0263,D0069,2026-02-08,09:15,Completed,Follow-up
+A00907,P0658,D0023,2026-02-21,11:15,Completed,New complaint
+A00908,P0250,D0094,2026-03-01,11:15,Scheduled,Lab review
+A00909,P0130,D0028,2026-07-30,12:30,Completed,New complaint
+A00910,P0439,D0001,2026-06-02,12:45,Completed,New complaint
+A00911,P0179,D0096,2026-08-08,11:30,Completed,Lab review
+A00912,P0652,D0086,2026-05-07,14:45,Completed,Follow-up
+A00913,P0182,D0080,2026-05-22,16:30,Completed,Follow-up
+A00914,P0343,D0089,2026-07-02,14:00,Completed,New complaint
+A00915,P0577,D0009,2026-07-26,13:30,Completed,New complaint
+A00916,P0894,D0082,2026-03-22,13:15,Completed,New complaint
+A00917,P0273,D0061,2026-08-02,12:00,Scheduled,Lab review
+A00918,P0870,D0075,2026-04-23,11:45,Scheduled,Follow-up
+A00919,P0946,D0098,2026-05-28,15:30,Completed,Lab review
+A00920,P0575,D0075,2026-04-30,13:15,Scheduled,New complaint
+A00921,P0766,D0032,2026-03-07,16:30,Completed,Follow-up
+A00922,P0305,D0014,2026-07-18,15:15,Completed,Routine consultation
+A00923,P0974,D0026,2026-03-22,15:45,Scheduled,Follow-up
+A00924,P0963,D0085,2026-06-15,12:15,Completed,Lab review
+A00925,P0685,D0074,2026-09-14,14:15,Completed,Routine consultation
+A00926,P0304,D0073,2026-07-21,16:15,Completed,Follow-up
+A00927,P0363,D0029,2026-02-09,14:00,Scheduled,Routine consultation
+A00928,P0712,D0060,2026-02-21,14:15,Completed,Follow-up
+A00929,P0486,D0017,2026-01-12,15:15,Completed,New complaint
+A00930,P0281,D0069,2026-03-27,08:00,Scheduled,New complaint
+A00931,P0396,D0094,2026-01-10,16:15,Completed,Follow-up
+A00932,P0293,D0051,2026-03-02,10:00,Scheduled,Lab review
+A00933,P0332,D0083,2026-08-15,14:15,Completed,Follow-up
+A00934,P0353,D0097,2026-03-26,14:30,Completed,Follow-up
+A00935,P0767,D0075,2026-02-25,15:15,Cancelled,Lab review
+A00936,P0841,D0074,2026-01-06,11:45,Completed,Routine consultation
+A00937,P0720,D0050,2026-02-26,10:45,Scheduled,New complaint
+A00938,P0689,D0004,2026-02-15,14:45,Completed,Follow-up
+A00939,P0615,D0015,2026-04-22,13:15,Completed,New complaint
+A00940,P0805,D0099,2026-02-25,10:30,Scheduled,Routine consultation
+A00941,P0749,D0075,2026-07-25,11:30,Completed,Routine consultation
+A00942,P0279,D0035,2026-04-10,11:15,Completed,New complaint
+A00943,P0547,D0013,2026-09-04,11:30,Completed,Lab review
+A00944,P0886,D0056,2026-02-15,08:00,Completed,Follow-up
+A00945,P0931,D0070,2026-01-20,09:30,Completed,New complaint
+A00946,P0791,D0004,2026-01-06,12:00,Completed,Lab review
+A00947,P0543,D0072,2026-03-24,08:15,Cancelled,New complaint
+A00948,P0938,D0070,2026-08-02,09:45,No-show,Routine consultation
+A00949,P0148,D0016,2026-01-21,11:30,No-show,Follow-up
+A00950,P0310,D0071,2026-05-13,16:30,Completed,Follow-up
+A00951,P0203,D0010,2026-01-31,11:30,Completed,New complaint
+A00952,P0211,D0070,2026-02-19,15:00,Completed,Routine consultation
+A00953,P0876,D0090,2026-06-15,15:00,Cancelled,New complaint
+A00954,P0802,D0091,2026-03-01,11:15,Completed,Lab review
+A00955,P0928,D0060,2026-01-09,10:30,Scheduled,Routine consultation
+A00956,P0297,D0012,2026-03-24,16:00,Completed,New complaint
+A00957,P0931,D0063,2026-06-03,13:15,No-show,Routine consultation
+A00958,P0870,D0066,2026-04-20,14:45,Completed,New complaint
+A00959,P0620,D0010,2026-05-31,14:15,Completed,Routine consultation
+A00960,P0630,D0015,2026-01-20,15:30,Scheduled,New complaint
+A00961,P0256,D0083,2026-03-04,12:15,Completed,Lab review
+A00962,P0728,D0031,2026-05-26,08:00,Completed,Lab review
+A00963,P0421,D0077,2026-04-22,13:00,Scheduled,Follow-up
+A00964,P0562,D0033,2026-07-18,09:45,Cancelled,Lab review
+A00965,P0776,D0084,2026-03-27,13:15,Completed,Lab review
+A00966,P0649,D0047,2026-02-08,08:15,Completed,Routine consultation
+A00967,P0534,D0068,2026-08-27,16:30,Cancelled,Lab review
+A00968,P0519,D0073,2026-08-07,14:30,No-show,Follow-up
+A00969,P0109,D0076,2026-01-30,08:30,No-show,Lab review
+A00970,P0962,D0085,2026-08-10,15:30,Cancelled,Follow-up
+A00971,P0908,D0019,2026-07-07,13:30,Cancelled,Follow-up
+A00972,P0160,D0050,2026-08-18,09:45,Completed,Lab review
+A00973,P0266,D0049,2026-07-27,13:00,Cancelled,New complaint
+A00974,P0302,D0084,2026-01-12,08:00,No-show,Routine consultation
+A00975,P0522,D0083,2026-04-24,08:45,No-show,New complaint
+A00976,P0807,D0090,2026-04-03,12:00,Completed,Routine consultation
+A00977,P0419,D0070,2026-01-03,08:45,Scheduled,Lab review
+A00978,P0550,D0019,2026-02-21,15:15,Completed,New complaint
+A00979,P0125,D0045,2026-03-28,11:00,Cancelled,Follow-up
+A00980,P0566,D0019,2026-03-13,11:15,Completed,Follow-up
+A00981,P0483,D0042,2026-05-26,08:30,Cancelled,Follow-up
+A00982,P0002,D0035,2026-07-03,12:00,Completed,Lab review
+A00983,P0382,D0014,2026-08-20,09:15,Scheduled,Follow-up
+A00984,P0199,D0041,2026-06-27,08:30,No-show,New complaint
+A00985,P0946,D0001,2026-03-16,10:15,Scheduled,New complaint
+A00986,P0980,D0063,2026-05-29,09:30,Scheduled,Routine consultation
+A00987,P0030,D0017,2026-08-26,16:15,No-show,Routine consultation
+A00988,P0105,D0080,2026-02-07,08:30,Completed,Lab review
+A00989,P0628,D0043,2026-05-05,12:00,Cancelled,Follow-up
+A00990,P0295,D0061,2026-09-19,09:30,Scheduled,New complaint
+A00991,P0180,D0011,2026-05-28,10:00,Scheduled,Follow-up
+A00992,P0775,D0045,2026-01-12,14:15,Completed,Routine consultation
+A00993,P0684,D0019,2026-04-27,15:00,Completed,New complaint
+A00994,P0611,D0074,2026-05-09,11:45,Completed,Lab review
+A00995,P0804,D0048,2026-06-15,13:45,Scheduled,Lab review
+A00996,P0192,D0074,2026-01-11,16:30,Cancelled,Routine consultation
+A00997,P0707,D0039,2026-08-03,14:00,Completed,Follow-up
+A00998,P0016,D0049,2026-09-24,16:45,Completed,Routine consultation
+A00999,P0471,D0031,2026-07-18,13:45,Completed,Lab review
+A01000,P0085,D0052,2026-07-10,15:00,Completed,New complaint
+A01001,P0429,D0085,2026-08-01,09:15,Scheduled,Lab review
+A01002,P0226,D0082,2026-01-30,10:30,Completed,Lab review
+A01003,P0631,D0079,2026-04-10,15:45,Completed,New complaint
+A01004,P0471,D0100,2026-06-01,12:30,Cancelled,Follow-up
+A01005,P0692,D0024,2026-06-15,08:30,Completed,Follow-up
+A01006,P0309,D0066,2026-05-09,10:15,Completed,Routine consultation
+A01007,P0727,D0017,2026-05-21,09:45,Completed,Lab review
+A01008,P0615,D0014,2026-06-25,11:45,Completed,Lab review
+A01009,P0867,D0075,2026-06-11,15:30,No-show,New complaint
+A01010,P0016,D0021,2026-03-31,15:45,Completed,Lab review
+A01011,P0782,D0028,2026-08-20,08:15,Completed,Follow-up
+A01012,P0186,D0029,2026-06-23,12:30,Cancelled,Lab review
+A01013,P0232,D0006,2026-03-13,16:45,Completed,Follow-up
+A01014,P0927,D0089,2026-08-11,14:15,Scheduled,Routine consultation
+A01015,P0498,D0038,2026-08-15,10:00,No-show,Follow-up
+A01016,P0090,D0053,2026-03-09,08:30,Completed,Follow-up
+A01017,P0605,D0023,2026-03-03,13:15,Cancelled,New complaint
+A01018,P0406,D0029,2026-04-18,15:00,No-show,Lab review
+A01019,P0860,D0030,2026-01-17,11:00,Scheduled,Routine consultation
+A01020,P0008,D0024,2026-06-04,16:30,Completed,New complaint
+A01021,P0591,D0031,2026-02-18,08:00,Scheduled,Follow-up
+A01022,P0619,D0063,2026-07-11,11:45,Completed,Routine consultation
+A01023,P0189,D0091,2026-01-02,08:00,Scheduled,Lab review
+A01024,P0150,D0024,2026-08-09,09:45,Cancelled,New complaint
+A01025,P0527,D0095,2026-05-24,15:00,Completed,Lab review
+A01026,P0233,D0001,2026-01-02,15:15,Completed,Lab review
+A01027,P0085,D0050,2026-04-22,10:15,Scheduled,New complaint
+A01028,P0292,D0043,2026-08-27,16:00,Completed,New complaint
+A01029,P0014,D0095,2026-05-28,11:45,Completed,Lab review
+A01030,P0943,D0011,2026-06-30,11:00,Scheduled,New complaint
+A01031,P0349,D0008,2026-08-08,14:45,Completed,New complaint
+A01032,P0028,D0074,2026-08-03,09:15,Completed,Routine consultation
+A01033,P0417,D0085,2026-06-14,15:00,Completed,Routine consultation
+A01034,P0071,D0087,2026-03-21,10:15,Completed,New complaint
+A01035,P0645,D0062,2026-08-15,08:45,Scheduled,Follow-up
+A01036,P0155,D0026,2026-06-21,11:15,Scheduled,Routine consultation
+A01037,P0890,D0018,2026-07-02,10:00,Completed,Lab review
+A01038,P0226,D0064,2026-09-20,13:45,Completed,Lab review
+A01039,P0023,D0006,2026-03-19,12:15,Completed,Follow-up
+A01040,P0584,D0097,2026-08-21,13:15,Completed,Follow-up
+A01041,P0147,D0034,2026-05-05,09:15,Completed,New complaint
+A01042,P0995,D0062,2026-07-14,11:15,Scheduled,Lab review
+A01043,P0821,D0088,2026-02-22,15:15,Completed,Lab review
+A01044,P0942,D0068,2026-02-06,13:15,Completed,Routine consultation
+A01045,P0835,D0050,2026-02-20,12:00,Cancelled,Follow-up
+A01046,P0189,D0056,2026-08-08,14:30,Completed,Follow-up
+A01047,P0500,D0024,2026-07-08,09:15,No-show,Lab review
+A01048,P0501,D0047,2026-06-26,11:15,Scheduled,Lab review
+A01049,P0267,D0068,2026-07-17,15:45,Completed,Lab review
+A01050,P0286,D0074,2026-08-07,10:15,Completed,Lab review
+A01051,P0417,D0081,2026-03-03,08:30,Completed,Routine consultation
+A01052,P0335,D0050,2026-07-31,10:45,Completed,Lab review
+A01053,P0888,D0054,2026-02-26,10:00,Scheduled,New complaint
+A01054,P0612,D0030,2026-08-02,15:15,Scheduled,Routine consultation
+A01055,P0702,D0035,2026-08-14,11:30,Cancelled,Routine consultation
+A01056,P0448,D0085,2026-03-09,09:30,Completed,Routine consultation
+A01057,P0300,D0064,2026-04-06,10:15,Completed,Routine consultation
+A01058,P0741,D0073,2026-05-27,13:45,Completed,Follow-up
+A01059,P0715,D0084,2026-07-11,09:30,Completed,Routine consultation
+A01060,P0096,D0038,2026-04-15,11:15,Completed,Follow-up
+A01061,P0661,D0094,2026-05-05,11:45,Cancelled,Routine consultation
+A01062,P0735,D0051,2026-05-19,13:00,Completed,New complaint
+A01063,P0417,D0081,2026-01-07,14:15,Completed,Follow-up
+A01064,P0005,D0015,2026-09-24,14:15,Completed,Follow-up
+A01065,P0913,D0093,2026-03-19,08:00,Scheduled,Lab review
+A01066,P0398,D0033,2026-09-15,12:15,Scheduled,Follow-up
+A01067,P0870,D0058,2026-04-15,11:45,Scheduled,New complaint
+A01068,P0962,D0089,2026-01-12,16:15,Completed,New complaint
+A01069,P0391,D0002,2026-09-13,09:15,Cancelled,Lab review
+A01070,P0025,D0072,2026-05-27,14:15,No-show,New complaint
+A01071,P0888,D0025,2026-05-24,08:00,Completed,Lab review
+A01072,P0052,D0084,2026-02-17,11:30,No-show,Routine consultation
+A01073,P0299,D0051,2026-02-09,09:30,Completed,Lab review
+A01074,P0222,D0068,2026-01-31,16:00,Scheduled,Routine consultation
+A01075,P0063,D0037,2026-05-27,12:00,Completed,Follow-up
+A01076,P0395,D0066,2026-02-02,13:45,Completed,Follow-up
+A01077,P0282,D0066,2026-06-19,11:00,Scheduled,New complaint
+A01078,P0361,D0065,2026-06-08,15:30,Completed,Routine consultation
+A01079,P0529,D0041,2026-01-07,09:45,Completed,New complaint
+A01080,P0563,D0034,2026-02-26,15:45,Completed,Routine consultation
+A01081,P0415,D0078,2026-03-21,15:00,Completed,Follow-up
+A01082,P0096,D0014,2026-09-05,09:45,Completed,New complaint
+A01083,P0116,D0011,2026-08-06,16:45,Scheduled,New complaint
+A01084,P0594,D0095,2026-07-17,15:30,Scheduled,Follow-up
+A01085,P0068,D0061,2026-04-12,10:45,Cancelled,Lab review
+A01086,P0384,D0025,2026-01-15,13:15,Completed,Routine consultation
+A01087,P0451,D0091,2026-06-28,14:30,Completed,Lab review
+A01088,P0254,D0075,2026-05-07,13:15,Scheduled,Follow-up
+A01089,P0410,D0085,2026-05-25,10:45,Completed,New complaint
+A01090,P0069,D0088,2026-09-04,13:00,Completed,Lab review
+A01091,P0620,D0027,2026-08-06,14:45,Completed,Follow-up
+A01092,P0210,D0021,2026-01-04,10:30,Cancelled,New complaint
+A01093,P0441,D0076,2026-04-02,15:45,Scheduled,Follow-up
+A01094,P0654,D0048,2026-05-11,13:00,Cancelled,Routine consultation
+A01095,P0896,D0067,2026-03-26,13:15,Completed,Lab review
+A01096,P0005,D0070,2026-08-07,09:15,Completed,Follow-up
+A01097,P0129,D0093,2026-01-04,16:45,Cancelled,New complaint
+A01098,P0973,D0062,2026-04-25,16:15,Scheduled,New complaint
+A01099,P0900,D0098,2026-08-22,09:00,Completed,Follow-up
+A01100,P0669,D0065,2026-06-13,10:45,No-show,Follow-up
+A01101,P0454,D0011,2026-01-01,08:00,Completed,Routine consultation
+A01102,P0199,D0038,2026-03-14,12:15,Scheduled,New complaint
+A01103,P0757,D0085,2026-04-21,08:30,Completed,New complaint
+A01104,P0958,D0016,2026-08-29,09:45,Scheduled,New complaint
+A01105,P0727,D0079,2026-02-25,14:30,Completed,New complaint
+A01106,P0304,D0006,2026-07-26,15:45,Scheduled,New complaint
+A01107,P0295,D0100,2026-09-26,11:15,Completed,Routine consultation
+A01108,P0959,D0037,2026-07-07,10:15,No-show,New complaint
+A01109,P0640,D0026,2026-07-06,11:45,No-show,Follow-up
+A01110,P0779,D0034,2026-03-07,09:00,Completed,Routine consultation
+A01111,P0710,D0037,2026-08-23,08:30,Completed,Follow-up
+A01112,P0343,D0064,2026-08-04,08:00,Scheduled,Routine consultation
+A01113,P0764,D0090,2026-02-12,13:00,Completed,Routine consultation
+A01114,P0010,D0004,2026-07-23,10:45,Completed,Follow-up
+A01115,P0686,D0034,2026-07-25,13:15,Cancelled,Lab review
+A01116,P0226,D0041,2026-08-22,16:15,Completed,Follow-up
+A01117,P0615,D0024,2026-07-03,15:00,Completed,New complaint
+A01118,P0394,D0032,2026-08-30,09:30,No-show,New complaint
+A01119,P0832,D0020,2026-07-18,12:15,Completed,Follow-up
+A01120,P0837,D0085,2026-02-16,15:15,Completed,Lab review
+A01121,P0318,D0051,2026-03-16,16:15,Completed,Lab review
+A01122,P0298,D0001,2026-03-27,15:15,Completed,Routine consultation
+A01123,P0681,D0007,2026-03-14,08:45,Completed,New complaint
+A01124,P0604,D0004,2026-01-09,13:00,Scheduled,Lab review
+A01125,P0508,D0015,2026-05-24,11:15,Completed,Follow-up
+A01126,P0328,D0054,2026-01-30,11:15,Cancelled,Follow-up
+A01127,P0092,D0008,2026-07-15,11:00,Completed,Routine consultation
+A01128,P0068,D0071,2026-01-27,16:15,Completed,Routine consultation
+A01129,P0178,D0068,2026-01-02,12:00,Scheduled,Follow-up
+A01130,P0344,D0070,2026-06-21,12:00,Cancelled,Follow-up
+A01131,P0946,D0034,2026-01-26,11:00,Scheduled,New complaint
+A01132,P0249,D0099,2026-08-02,14:00,Completed,Follow-up
+A01133,P0144,D0018,2026-01-13,16:00,Scheduled,New complaint
+A01134,P0874,D0098,2026-09-24,09:30,Scheduled,New complaint
+A01135,P0893,D0045,2026-05-12,15:00,Cancelled,Follow-up
+A01136,P0358,D0088,2026-02-07,09:00,Completed,Follow-up
+A01137,P0510,D0026,2026-05-06,08:45,Scheduled,Lab review
+A01138,P0765,D0040,2026-03-13,09:00,Completed,New complaint
+A01139,P0752,D0046,2026-04-30,15:45,Scheduled,Routine consultation
+A01140,P0491,D0089,2026-07-27,15:45,Cancelled,New complaint
+A01141,P0674,D0068,2026-09-03,14:15,Completed,Follow-up
+A01142,P0558,D0068,2026-07-29,11:45,Cancelled,Lab review
+A01143,P0901,D0100,2026-01-13,09:45,Scheduled,Follow-up
+A01144,P0607,D0021,2026-08-24,14:15,Completed,New complaint
+A01145,P0584,D0090,2026-08-11,15:00,Scheduled,New complaint
+A01146,P0837,D0042,2026-07-23,09:45,Completed,Routine consultation
+A01147,P0828,D0041,2026-08-26,12:15,Scheduled,Routine consultation
+A01148,P0638,D0062,2026-03-11,13:30,Completed,Follow-up
+A01149,P0390,D0038,2026-08-11,13:45,Completed,Follow-up
+A01150,P0325,D0004,2026-07-09,16:00,No-show,Lab review
+A01151,P0914,D0100,2026-03-05,15:00,Completed,New complaint
+A01152,P0605,D0046,2026-04-07,09:15,Cancelled,Lab review
+A01153,P0083,D0083,2026-02-17,16:45,Completed,Lab review
+A01154,P0058,D0084,2026-09-27,14:00,Completed,Routine consultation
+A01155,P0277,D0077,2026-01-03,10:30,Scheduled,Follow-up
+A01156,P0358,D0082,2026-09-25,15:45,Completed,Routine consultation
+A01157,P0604,D0026,2026-04-30,08:15,Completed,Routine consultation
+A01158,P0066,D0083,2026-03-18,13:00,Completed,Routine consultation
+A01159,P0586,D0097,2026-09-10,12:15,No-show,New complaint
+A01160,P0166,D0030,2026-06-26,10:15,Cancelled,New complaint
+A01161,P0394,D0022,2026-04-18,09:00,Cancelled,Routine consultation
+A01162,P0963,D0018,2026-09-13,11:00,Cancelled,Follow-up
+A01163,P0266,D0090,2026-07-17,14:15,Cancelled,New complaint
+A01164,P0968,D0095,2026-07-06,11:45,Scheduled,Routine consultation
+A01165,P0827,D0083,2026-06-17,15:00,Scheduled,Lab review
+A01166,P0695,D0100,2026-07-20,13:45,Cancelled,Lab review
+A01167,P0808,D0027,2026-01-26,14:45,Completed,Lab review
+A01168,P0261,D0043,2026-05-10,13:15,Scheduled,Lab review
+A01169,P0363,D0066,2026-07-14,14:45,Completed,Lab review
+A01170,P0576,D0095,2026-09-17,11:30,Cancelled,Lab review
+A01171,P0853,D0064,2026-08-08,10:45,Completed,New complaint
+A01172,P0247,D0020,2026-06-03,16:30,Completed,New complaint
+A01173,P0005,D0066,2026-08-31,13:45,Cancelled,Lab review
+A01174,P0790,D0079,2026-05-05,10:45,Scheduled,Lab review
+A01175,P0612,D0089,2026-06-03,11:45,Completed,Routine consultation
+A01176,P0327,D0008,2026-07-02,08:30,Completed,Routine consultation
+A01177,P0411,D0060,2026-03-31,16:30,Completed,Routine consultation
+A01178,P0288,D0023,2026-01-27,15:15,Cancelled,Follow-up
+A01179,P0233,D0095,2026-01-24,15:45,Completed,Follow-up
+A01180,P0683,D0081,2026-06-11,12:30,No-show,Routine consultation
+A01181,P0065,D0054,2026-05-04,16:00,Completed,Lab review
+A01182,P0693,D0017,2026-02-26,13:00,Scheduled,Routine consultation
+A01183,P0674,D0024,2026-06-03,13:00,No-show,Routine consultation
+A01184,P0233,D0009,2026-06-09,11:30,Completed,New complaint
+A01185,P0769,D0063,2026-05-16,11:15,Scheduled,Lab review
+A01186,P0115,D0019,2026-04-07,09:00,Completed,Lab review
+A01187,P0411,D0046,2026-01-15,12:15,Completed,New complaint
+A01188,P0861,D0087,2026-05-16,10:45,Completed,Follow-up
+A01189,P0537,D0047,2026-06-26,09:00,Completed,Follow-up
+A01190,P0351,D0011,2026-06-29,13:30,Completed,New complaint
+A01191,P0332,D0013,2026-01-21,09:15,Completed,Lab review
+A01192,P0774,D0088,2026-06-26,13:30,Completed,New complaint
+A01193,P0486,D0024,2026-01-17,14:15,Completed,Routine consultation
+A01194,P0254,D0057,2026-08-01,15:15,Completed,Routine consultation
+A01195,P0851,D0061,2026-03-13,09:30,Completed,New complaint
+A01196,P0905,D0013,2026-03-27,14:30,Completed,New complaint
+A01197,P0539,D0016,2026-01-15,16:30,Completed,New complaint
+A01198,P0604,D0080,2026-07-20,10:00,No-show,New complaint
+A01199,P0247,D0003,2026-04-30,09:45,Scheduled,Follow-up
+A01200,P0763,D0064,2026-06-22,09:45,No-show,Lab review
+A01201,P0739,D0079,2026-06-21,08:30,Cancelled,Follow-up
+A01202,P0234,D0087,2026-03-06,14:45,Cancelled,Follow-up
+A01203,P0848,D0100,2026-04-21,12:15,Completed,Routine consultation
+A01204,P0871,D0012,2026-06-07,16:30,Scheduled,Follow-up
+A01205,P0623,D0032,2026-01-30,10:30,Completed,Lab review
+A01206,P0805,D0093,2026-01-24,10:15,Completed,Follow-up
+A01207,P0371,D0099,2026-05-11,10:45,Completed,New complaint
+A01208,P0113,D0092,2026-08-27,10:00,Completed,Routine consultation
+A01209,P0917,D0011,2026-05-27,12:15,Completed,Follow-up
+A01210,P0905,D0079,2026-06-03,11:45,Completed,Routine consultation
+A01211,P0496,D0016,2026-01-20,10:45,Scheduled,Routine consultation
+A01212,P0151,D0088,2026-06-14,08:45,Scheduled,New complaint
+A01213,P0829,D0009,2026-03-06,14:30,Cancelled,Follow-up
+A01214,P0863,D0055,2026-03-24,16:00,Completed,Routine consultation
+A01215,P0235,D0080,2026-01-28,16:45,Completed,Routine consultation
+A01216,P0806,D0042,2026-05-07,14:00,Completed,New complaint
+A01217,P0792,D0004,2026-08-11,15:00,Completed,New complaint
+A01218,P0659,D0038,2026-09-07,08:45,Completed,Routine consultation
+A01219,P0261,D0036,2026-07-11,11:00,Completed,Routine consultation
+A01220,P0795,D0083,2026-04-01,08:15,Completed,Follow-up
+A01221,P0909,D0028,2026-09-11,16:00,Scheduled,Lab review
+A01222,P0609,D0041,2026-06-27,08:15,Completed,New complaint
+A01223,P0665,D0100,2026-07-23,08:15,Completed,Routine consultation
+A01224,P0702,D0089,2026-04-16,12:45,Completed,Lab review
+A01225,P0246,D0055,2026-06-02,09:15,Completed,Routine consultation
+A01226,P0851,D0071,2026-01-23,09:15,Scheduled,New complaint
+A01227,P0893,D0097,2026-03-30,09:00,Completed,Follow-up
+A01228,P0062,D0013,2026-05-06,12:45,Completed,Follow-up
+A01229,P0241,D0069,2026-03-18,08:00,Scheduled,Follow-up
+A01230,P0033,D0099,2026-07-05,11:15,Scheduled,Follow-up
+A01231,P0742,D0100,2026-02-09,14:00,Scheduled,Follow-up
+A01232,P0551,D0073,2026-08-01,08:15,Scheduled,Routine consultation
+A01233,P0615,D0002,2026-09-03,11:45,Completed,Lab review
+A01234,P0189,D0006,2026-09-06,14:45,Completed,Lab review
+A01235,P0716,D0092,2026-03-08,09:30,Completed,Routine consultation
+A01236,P0117,D0056,2026-08-31,08:45,Completed,Lab review
+A01237,P0107,D0024,2026-01-15,16:30,Completed,Routine consultation
+A01238,P0784,D0015,2026-09-28,13:00,Cancelled,Routine consultation
+A01239,P0266,D0047,2026-05-16,12:30,Completed,New complaint
+A01240,P0347,D0050,2026-03-14,14:30,Cancelled,Follow-up
+A01241,P0081,D0031,2026-08-21,14:45,Completed,Routine consultation
+A01242,P0769,D0019,2026-09-14,16:45,Cancelled,Follow-up
+A01243,P0138,D0095,2026-07-01,14:00,Completed,New complaint
+A01244,P0963,D0004,2026-08-14,16:15,Completed,New complaint
+A01245,P0201,D0070,2026-04-17,15:00,Cancelled,New complaint
+A01246,P0747,D0018,2026-05-27,08:15,Completed,Lab review
+A01247,P0305,D0051,2026-07-14,09:30,Cancelled,Follow-up
+A01248,P0745,D0028,2026-09-11,14:15,Completed,Routine consultation
+A01249,P0798,D0013,2026-02-06,15:45,Scheduled,Follow-up
+A01250,P0303,D0066,2026-02-22,13:15,Completed,New complaint
+A01251,P0269,D0062,2026-08-04,11:45,Completed,Lab review
+A01252,P0552,D0073,2026-07-18,13:45,Completed,New complaint
+A01253,P0565,D0072,2026-01-12,11:45,Scheduled,Follow-up
+A01254,P0555,D0029,2026-01-02,08:30,Completed,Follow-up
+A01255,P0784,D0045,2026-07-25,11:00,Scheduled,Follow-up
+A01256,P0495,D0008,2026-03-16,09:15,Completed,Follow-up
+A01257,P0930,D0034,2026-05-24,09:00,Completed,Follow-up
+A01258,P0175,D0017,2026-02-18,09:45,Completed,Lab review
+A01259,P0021,D0012,2026-09-03,09:15,Completed,New complaint
+A01260,P0343,D0087,2026-07-25,08:45,Completed,Lab review
+A01261,P0640,D0077,2026-09-02,12:45,Completed,Follow-up
+A01262,P0128,D0015,2026-03-11,09:45,Completed,New complaint
+A01263,P0530,D0095,2026-06-21,14:30,Completed,Routine consultation
+A01264,P0505,D0028,2026-01-05,14:00,Scheduled,Lab review
+A01265,P0418,D0026,2026-07-28,11:00,Cancelled,Follow-up
+A01266,P0460,D0023,2026-08-25,13:30,Scheduled,New complaint
+A01267,P0624,D0053,2026-02-22,14:30,Completed,Routine consultation
+A01268,P0402,D0068,2026-02-15,11:00,No-show,Follow-up
+A01269,P0659,D0002,2026-01-25,09:15,Completed,New complaint
+A01270,P0815,D0088,2026-09-10,13:15,Scheduled,Routine consultation
+A01271,P0432,D0016,2026-07-19,11:15,Cancelled,Follow-up
+A01272,P0275,D0075,2026-02-09,15:30,Completed,Routine consultation
+A01273,P0488,D0087,2026-06-08,08:15,Completed,Lab review
+A01274,P0516,D0029,2026-06-01,13:30,Completed,New complaint
+A01275,P0157,D0062,2026-05-01,16:00,Cancelled,Follow-up
+A01276,P0796,D0044,2026-03-20,10:30,Completed,Lab review
+A01277,P0572,D0009,2026-02-05,10:30,Scheduled,Lab review
+A01278,P0927,D0014,2026-09-10,14:15,Cancelled,Follow-up
+A01279,P0125,D0090,2026-04-07,14:00,Completed,Follow-up
+A01280,P0101,D0027,2026-05-14,13:30,Scheduled,Lab review
+A01281,P0322,D0050,2026-06-12,11:00,Completed,Routine consultation
+A01282,P0613,D0052,2026-05-05,08:45,Completed,Lab review
+A01283,P0372,D0075,2026-01-24,14:30,Completed,Follow-up
+A01284,P0720,D0014,2026-05-23,08:15,Completed,Follow-up
+A01285,P0411,D0066,2026-06-18,09:45,Completed,Follow-up
+A01286,P0957,D0055,2026-04-21,15:15,Completed,New complaint
+A01287,P0673,D0029,2026-03-11,09:45,Scheduled,Routine consultation
+A01288,P0667,D0022,2026-04-03,12:15,Scheduled,Lab review
+A01289,P0831,D0008,2026-02-18,16:15,Completed,Follow-up
+A01290,P0321,D0040,2026-04-05,11:45,Cancelled,Routine consultation
+A01291,P0275,D0022,2026-02-21,12:30,Completed,Lab review
+A01292,P0710,D0036,2026-03-21,08:15,Completed,Lab review
+A01293,P0422,D0045,2026-01-04,12:45,Scheduled,Routine consultation
+A01294,P0674,D0009,2026-03-02,16:45,No-show,New complaint
+A01295,P0106,D0040,2026-05-21,08:30,Completed,Follow-up
+A01296,P0040,D0041,2026-02-03,11:45,Completed,Follow-up
+A01297,P0701,D0082,2026-06-03,13:00,Scheduled,Follow-up
+A01298,P0028,D0083,2026-07-17,09:00,Completed,New complaint
+A01299,P0768,D0074,2026-06-13,12:15,Scheduled,Follow-up
+A01300,P0492,D0049,2026-01-19,10:15,Scheduled,New complaint
+A01301,P0584,D0045,2026-08-05,10:15,Completed,New complaint
+A01302,P0855,D0009,2026-02-17,12:00,Scheduled,Follow-up
+A01303,P0130,D0036,2026-01-09,11:30,Scheduled,Follow-up
+A01304,P0435,D0087,2026-05-31,08:45,Completed,Follow-up
+A01305,P0207,D0039,2026-05-19,14:15,Scheduled,Follow-up
+A01306,P0484,D0048,2026-05-02,12:15,Completed,New complaint
+A01307,P0520,D0056,2026-08-12,12:00,Scheduled,Lab review
+A01308,P0256,D0094,2026-05-28,10:30,Scheduled,New complaint
+A01309,P0352,D0003,2026-03-10,16:30,Completed,Follow-up
+A01310,P0168,D0098,2026-06-24,08:30,Cancelled,Lab review
+A01311,P0255,D0073,2026-05-20,15:00,Completed,New complaint
+A01312,P0331,D0077,2026-05-26,13:15,Completed,New complaint
+A01313,P0265,D0059,2026-07-27,13:00,Completed,Follow-up
+A01314,P0281,D0018,2026-01-03,08:30,Scheduled,New complaint
+A01315,P0758,D0094,2026-04-19,12:30,Scheduled,New complaint
+A01316,P0441,D0058,2026-07-13,16:45,Scheduled,Lab review
+A01317,P0718,D0014,2026-08-22,08:45,Completed,Routine consultation
+A01318,P0867,D0034,2026-08-10,08:00,Scheduled,Routine consultation
+A01319,P0818,D0068,2026-02-11,08:15,Completed,New complaint
+A01320,P0492,D0046,2026-02-22,13:45,Completed,Lab review
+A01321,P0556,D0094,2026-01-01,13:00,Completed,Routine consultation
+A01322,P0679,D0038,2026-02-19,14:45,Completed,Follow-up
+A01323,P0993,D0048,2026-04-15,12:15,Scheduled,New complaint
+A01324,P0905,D0036,2026-09-22,13:00,Completed,Routine consultation
+A01325,P0878,D0091,2026-06-21,14:45,Scheduled,Follow-up
+A01326,P0047,D0018,2026-09-06,13:30,Cancelled,Lab review
+A01327,P0074,D0061,2026-04-02,16:45,Cancelled,Follow-up
+A01328,P0308,D0005,2026-06-19,15:00,Cancelled,Lab review
+A01329,P0893,D0091,2026-01-29,11:30,No-show,New complaint
+A01330,P0527,D0010,2026-03-30,14:30,Scheduled,Follow-up
+A01331,P0777,D0096,2026-09-22,12:15,Completed,Routine consultation
+A01332,P0525,D0045,2026-07-17,11:30,Completed,Routine consultation
+A01333,P0450,D0071,2026-01-12,09:15,Scheduled,Lab review
+A01334,P0778,D0038,2026-02-13,11:00,Scheduled,Lab review
+A01335,P0359,D0068,2026-03-17,15:45,Completed,New complaint
+A01336,P0336,D0054,2026-01-25,11:45,Completed,Follow-up
+A01337,P0312,D0088,2026-08-05,11:30,Completed,Lab review
+A01338,P0766,D0095,2026-07-26,16:45,Scheduled,Follow-up
+A01339,P0691,D0020,2026-02-23,16:00,Completed,Lab review
+A01340,P0489,D0092,2026-08-14,14:00,Cancelled,Routine consultation
+A01341,P0908,D0058,2026-08-18,11:00,Completed,Lab review
+A01342,P0178,D0087,2026-08-25,15:45,Completed,Follow-up
+A01343,P0456,D0069,2026-07-18,11:45,Completed,Routine consultation
+A01344,P0834,D0064,2026-09-18,16:45,Completed,New complaint
+A01345,P0666,D0031,2026-07-11,12:30,No-show,Lab review
+A01346,P0457,D0096,2026-03-12,13:15,Completed,Lab review
+A01347,P0399,D0060,2026-01-15,11:45,Completed,New complaint
+A01348,P0894,D0020,2026-05-25,08:30,Completed,New complaint
+A01349,P0083,D0040,2026-08-04,15:30,Scheduled,Lab review
+A01350,P0078,D0041,2026-04-13,12:00,Scheduled,Follow-up
+A01351,P0808,D0005,2026-04-17,08:00,Scheduled,Routine consultation
+A01352,P0382,D0051,2026-05-23,08:45,Completed,Follow-up
+A01353,P0352,D0032,2026-05-04,12:30,Completed,Lab review
+A01354,P0351,D0024,2026-08-05,13:15,Cancelled,Follow-up
+A01355,P0647,D0088,2026-07-30,14:00,Cancelled,Routine consultation
+A01356,P0030,D0074,2026-01-19,12:45,Scheduled,Routine consultation
+A01357,P0599,D0097,2026-01-31,11:30,Scheduled,New complaint
+A01358,P0854,D0041,2026-02-09,09:45,No-show,Routine consultation
+A01359,P0767,D0058,2026-02-22,13:15,Scheduled,Lab review
+A01360,P0320,D0094,2026-07-25,14:00,Completed,New complaint
+A01361,P0524,D0063,2026-08-06,09:45,Scheduled,Lab review
+A01362,P0688,D0084,2026-08-25,14:45,Cancelled,New complaint
+A01363,P0730,D0018,2026-03-17,08:30,Completed,Lab review
+A01364,P0283,D0092,2026-07-11,08:00,Completed,Follow-up
+A01365,P0589,D0091,2026-04-29,08:15,Completed,New complaint
+A01366,P0285,D0062,2026-05-27,08:30,Scheduled,New complaint
+A01367,P0260,D0008,2026-03-31,10:00,Completed,Follow-up
+A01368,P0386,D0005,2026-02-15,16:45,Completed,Lab review
+A01369,P0566,D0076,2026-08-19,11:15,Cancelled,Lab review
+A01370,P0172,D0034,2026-08-21,16:30,Completed,Lab review
+A01371,P0336,D0078,2026-03-07,08:15,Completed,Routine consultation
+A01372,P0802,D0065,2026-01-09,10:15,Completed,Follow-up
+A01373,P0424,D0040,2026-07-02,09:45,No-show,New complaint
+A01374,P0209,D0012,2026-09-03,12:00,No-show,Lab review
+A01375,P0009,D0019,2026-02-09,16:15,Completed,Lab review
+A01376,P0791,D0041,2026-04-11,12:45,Completed,Routine consultation
+A01377,P0654,D0022,2026-06-28,11:30,Scheduled,New complaint
+A01378,P0829,D0074,2026-06-17,13:00,Completed,Routine consultation
+A01379,P0339,D0047,2026-03-29,16:45,Cancelled,Routine consultation
+A01380,P0777,D0080,2026-07-12,15:30,Completed,Follow-up
+A01381,P0546,D0098,2026-02-19,11:30,No-show,Routine consultation
+A01382,P0984,D0069,2026-01-22,08:15,Completed,Lab review
+A01383,P0131,D0091,2026-07-17,11:30,Scheduled,Follow-up
+A01384,P0706,D0078,2026-06-09,10:00,Cancelled,New complaint
+A01385,P0178,D0009,2026-05-04,08:00,Completed,Follow-up
+A01386,P0093,D0012,2026-08-30,11:30,Completed,New complaint
+A01387,P0086,D0043,2026-02-15,11:15,Cancelled,Lab review
+A01388,P0976,D0009,2026-07-05,11:00,Completed,Routine consultation
+A01389,P0304,D0002,2026-04-08,08:30,Completed,Routine consultation
+A01390,P0370,D0079,2026-02-21,08:45,Completed,Lab review
+A01391,P0760,D0091,2026-06-13,15:45,Completed,Lab review
+A01392,P0802,D0072,2026-06-16,12:00,Scheduled,Follow-up
+A01393,P0962,D0079,2026-02-20,10:45,Cancelled,Lab review
+A01394,P0427,D0040,2026-06-24,10:00,Scheduled,Routine consultation
+A01395,P0940,D0089,2026-01-12,14:00,Scheduled,New complaint
+A01396,P0917,D0097,2026-02-17,08:00,Cancelled,Follow-up
+A01397,P0820,D0095,2026-03-23,12:15,Completed,Follow-up
+A01398,P0156,D0088,2026-08-02,16:15,Completed,New complaint
+A01399,P0666,D0049,2026-07-02,14:15,Cancelled,New complaint
+A01400,P0647,D0035,2026-03-16,08:15,Completed,Routine consultation
+A01401,P0583,D0030,2026-01-02,08:30,Completed,Lab review
+A01402,P0565,D0081,2026-09-10,10:15,Completed,Follow-up
+A01403,P0048,D0083,2026-03-22,10:00,Scheduled,Lab review
+A01404,P0261,D0025,2026-06-23,15:15,Scheduled,Routine consultation
+A01405,P0303,D0043,2026-03-16,13:00,Completed,Routine consultation
+A01406,P0724,D0019,2026-06-19,16:00,Cancelled,New complaint
+A01407,P0295,D0071,2026-01-09,14:00,Completed,Follow-up
+A01408,P0802,D0046,2026-05-15,08:45,Cancelled,New complaint
+A01409,P0710,D0078,2026-05-15,15:45,No-show,Routine consultation
+A01410,P0650,D0065,2026-01-12,12:00,No-show,Lab review
+A01411,P0210,D0005,2026-08-12,14:30,Completed,New complaint
+A01412,P0825,D0018,2026-06-18,13:45,Completed,New complaint
+A01413,P0746,D0049,2026-09-18,16:45,Completed,Follow-up
+A01414,P0675,D0007,2026-02-07,11:45,Completed,Follow-up
+A01415,P0101,D0094,2026-03-12,08:00,Cancelled,New complaint
+A01416,P0851,D0076,2026-01-05,12:45,Completed,New complaint
+A01417,P0522,D0003,2026-02-10,08:15,Completed,Routine consultation
+A01418,P0748,D0032,2026-05-12,16:30,Scheduled,Lab review
+A01419,P0266,D0059,2026-06-07,09:00,Cancelled,Routine consultation
+A01420,P0452,D0017,2026-07-05,11:30,Scheduled,Lab review
+A01421,P0221,D0082,2026-02-17,14:45,Completed,Lab review
+A01422,P0506,D0002,2026-04-24,10:45,Cancelled,Lab review
+A01423,P0835,D0081,2026-09-19,16:45,Completed,New complaint
+A01424,P0608,D0022,2026-06-19,14:15,Completed,Follow-up
+A01425,P0735,D0069,2026-03-23,16:15,Cancelled,Routine consultation
+A01426,P0252,D0048,2026-09-27,11:15,Completed,New complaint
+A01427,P0438,D0069,2026-09-19,16:30,Scheduled,New complaint
+A01428,P0515,D0003,2026-09-06,14:45,Scheduled,New complaint
+A01429,P0492,D0035,2026-05-23,13:15,Scheduled,Lab review
+A01430,P0082,D0030,2026-09-01,13:15,Completed,Follow-up
+A01431,P0919,D0045,2026-02-11,15:30,Scheduled,Lab review
+A01432,P0282,D0069,2026-03-23,16:45,Scheduled,Lab review
+A01433,P0995,D0068,2026-02-14,09:30,Completed,Follow-up
+A01434,P0779,D0016,2026-08-08,15:30,Cancelled,Routine consultation
+A01435,P0343,D0029,2026-09-10,14:30,Completed,New complaint
+A01436,P0786,D0046,2026-07-02,13:00,Scheduled,New complaint
+A01437,P0452,D0068,2026-06-09,09:45,Scheduled,Follow-up
+A01438,P0360,D0095,2026-01-05,08:15,Completed,Follow-up
+A01439,P0804,D0025,2026-02-01,09:45,Cancelled,Routine consultation
+A01440,P0177,D0036,2026-06-17,15:15,Completed,Lab review
+A01441,P0492,D0049,2026-04-21,12:15,Completed,Routine consultation
+A01442,P0671,D0089,2026-09-24,12:45,Completed,Routine consultation
+A01443,P0009,D0027,2026-09-17,08:30,Completed,Lab review
+A01444,P0892,D0029,2026-01-03,09:30,Completed,Follow-up
+A01445,P0410,D0096,2026-07-11,16:45,Completed,Lab review
+A01446,P0427,D0003,2026-06-17,12:30,Completed,Follow-up
+A01447,P0497,D0035,2026-07-21,08:45,No-show,New complaint
+A01448,P0050,D0081,2026-03-12,15:15,Completed,Follow-up
+A01449,P0110,D0077,2026-07-22,12:00,Scheduled,Lab review
+A01450,P0823,D0065,2026-07-29,15:15,Completed,Routine consultation
+A01451,P0994,D0042,2026-03-29,09:30,Scheduled,Follow-up
+A01452,P0465,D0044,2026-05-06,08:45,Cancelled,Follow-up
+A01453,P0187,D0054,2026-02-15,10:45,Completed,Lab review
+A01454,P0296,D0096,2026-07-23,15:30,Completed,New complaint
+A01455,P0085,D0086,2026-01-12,15:30,Scheduled,Routine consultation
+A01456,P0495,D0048,2026-09-16,09:45,Completed,Follow-up
+A01457,P0813,D0040,2026-05-22,12:00,Scheduled,Follow-up
+A01458,P0440,D0036,2026-06-23,11:00,Scheduled,Follow-up
+A01459,P0679,D0074,2026-09-24,11:30,Completed,New complaint
+A01460,P0389,D0100,2026-08-16,14:30,Completed,Routine consultation
+A01461,P0334,D0039,2026-09-04,08:30,Scheduled,Lab review
+A01462,P0785,D0056,2026-04-18,12:15,Completed,New complaint
+A01463,P0820,D0073,2026-02-22,13:45,Completed,Follow-up
+A01464,P0499,D0052,2026-01-02,12:00,No-show,Follow-up
+A01465,P0216,D0047,2026-06-02,09:30,Scheduled,New complaint
+A01466,P0113,D0016,2026-03-05,08:00,No-show,Lab review
+A01467,P0785,D0037,2026-08-25,15:15,Scheduled,Lab review
+A01468,P0711,D0069,2026-05-04,09:30,Completed,Follow-up
+A01469,P0986,D0065,2026-06-30,13:45,Completed,Lab review
+A01470,P0277,D0083,2026-02-23,11:30,No-show,New complaint
+A01471,P0547,D0043,2026-06-08,09:45,Cancelled,Lab review
+A01472,P0156,D0031,2026-08-28,11:30,Cancelled,Lab review
+A01473,P0855,D0100,2026-07-10,13:00,Scheduled,Lab review
+A01474,P0371,D0065,2026-09-06,12:45,Completed,New complaint
+A01475,P0807,D0068,2026-07-26,08:15,Scheduled,Lab review
+A01476,P0172,D0031,2026-03-02,11:45,Completed,Lab review
+A01477,P0019,D0060,2026-08-16,08:30,Completed,New complaint
+A01478,P0748,D0064,2026-08-16,09:30,Scheduled,New complaint
+A01479,P0570,D0045,2026-05-06,12:00,Scheduled,Lab review
+A01480,P0512,D0037,2026-01-22,16:15,Completed,New complaint
+A01481,P0027,D0025,2026-01-19,09:45,Scheduled,New complaint
+A01482,P0472,D0045,2026-02-21,08:00,Scheduled,Routine consultation
+A01483,P0768,D0005,2026-01-21,09:45,No-show,New complaint
+A01484,P0557,D0056,2026-05-19,08:45,Scheduled,Follow-up
+A01485,P0697,D0013,2026-09-28,13:30,Completed,Follow-up
+A01486,P0681,D0071,2026-02-26,13:15,Scheduled,New complaint
+A01487,P0362,D0026,2026-08-16,14:15,Scheduled,New complaint
+A01488,P0721,D0068,2026-05-03,13:30,Scheduled,Routine consultation
+A01489,P0132,D0018,2026-09-08,08:45,Completed,Follow-up
+A01490,P0237,D0045,2026-05-19,09:15,Cancelled,Follow-up
+A01491,P0195,D0007,2026-01-04,09:30,Scheduled,Lab review
+A01492,P0999,D0079,2026-03-26,15:30,Completed,New complaint
+A01493,P0730,D0099,2026-04-26,13:45,Scheduled,New complaint
+A01494,P0533,D0003,2026-08-15,09:30,Completed,Routine consultation
+A01495,P0824,D0047,2026-01-27,15:15,Scheduled,New complaint
+A01496,P0400,D0004,2026-07-06,16:15,Completed,Lab review
+A01497,P0919,D0094,2026-04-03,14:15,Completed,Lab review
+A01498,P0440,D0075,2026-02-04,10:45,Completed,Follow-up
+A01499,P0078,D0034,2026-03-07,11:15,Scheduled,Follow-up
+A01500,P0085,D0014,2026-06-15,10:45,Scheduled,Follow-up
+A01501,P0777,D0098,2026-06-20,12:45,Completed,Lab review
+A01502,P0717,D0028,2026-05-20,14:30,Completed,Lab review
+A01503,P0113,D0067,2026-05-24,12:00,Completed,Lab review
+A01504,P0944,D0058,2026-02-13,11:45,Completed,Routine consultation
+A01505,P0212,D0071,2026-06-23,10:00,Cancelled,Routine consultation
+A01506,P0526,D0039,2026-04-21,15:45,Scheduled,Lab review
+A01507,P0392,D0086,2026-09-12,09:30,Completed,Routine consultation
+A01508,P0204,D0032,2026-02-08,12:15,Completed,Routine consultation
+A01509,P0454,D0022,2026-02-19,09:15,Completed,New complaint
+A01510,P0521,D0062,2026-01-06,11:00,Cancelled,New complaint
+A01511,P0048,D0094,2026-05-30,15:45,Scheduled,New complaint
+A01512,P0995,D0070,2026-09-05,14:00,Completed,New complaint
+A01513,P0003,D0062,2026-07-13,10:30,Completed,New complaint
+A01514,P0982,D0013,2026-02-03,14:15,Completed,Routine consultation
+A01515,P0575,D0007,2026-05-25,16:45,Scheduled,Routine consultation
+A01516,P0046,D0029,2026-09-14,14:15,Cancelled,Follow-up
+A01517,P0815,D0052,2026-07-18,12:30,Completed,New complaint
+A01518,P0603,D0079,2026-08-28,12:00,Completed,Routine consultation
+A01519,P0397,D0033,2026-06-15,11:00,Scheduled,Routine consultation
+A01520,P0306,D0017,2026-09-07,08:15,Completed,Routine consultation
+A01521,P0566,D0009,2026-08-19,08:00,Scheduled,Lab review
+A01522,P0558,D0019,2026-02-21,11:45,Scheduled,New complaint
+A01523,P0180,D0016,2026-01-06,15:30,No-show,Follow-up
+A01524,P0747,D0018,2026-02-04,11:45,Scheduled,Lab review
+A01525,P0144,D0023,2026-03-29,14:00,Completed,Routine consultation
+A01526,P0812,D0036,2026-09-19,15:30,Completed,Follow-up
+A01527,P0559,D0030,2026-04-29,11:30,Scheduled,Lab review
+A01528,P0419,D0047,2026-04-09,09:00,Completed,Lab review
+A01529,P0347,D0033,2026-02-13,15:30,Completed,Follow-up
+A01530,P0898,D0021,2026-06-26,09:00,Scheduled,Lab review
+A01531,P0933,D0070,2026-01-25,09:15,Completed,Routine consultation
+A01532,P0580,D0075,2026-06-19,13:45,Completed,Follow-up
+A01533,P0505,D0064,2026-06-23,15:00,Completed,New complaint
+A01534,P0354,D0053,2026-01-14,11:00,Completed,Routine consultation
+A01535,P0260,D0090,2026-06-05,09:15,Completed,Lab review
+A01536,P0554,D0030,2026-02-17,14:30,Scheduled,Lab review
+A01537,P0395,D0072,2026-04-17,11:45,Completed,New complaint
+A01538,P0887,D0086,2026-07-26,15:45,Completed,Routine consultation
+A01539,P0230,D0040,2026-01-05,14:30,Completed,New complaint
+A01540,P0779,D0031,2026-04-30,09:45,Completed,Follow-up
+A01541,P0767,D0093,2026-04-01,12:45,Scheduled,Lab review
+A01542,P0120,D0100,2026-09-13,12:30,Completed,Lab review
+A01543,P0743,D0028,2026-01-23,12:45,Cancelled,Routine consultation
+A01544,P0878,D0044,2026-06-26,14:00,Cancelled,Follow-up
+A01545,P0609,D0100,2026-09-05,08:45,Cancelled,Lab review
+A01546,P0852,D0016,2026-06-03,15:45,Completed,Routine consultation
+A01547,P0315,D0058,2026-09-05,15:45,Completed,Lab review
+A01548,P0154,D0066,2026-08-03,13:45,Scheduled,New complaint
+A01549,P0700,D0074,2026-03-19,10:45,Completed,Lab review
+A01550,P0594,D0002,2026-05-18,08:15,Scheduled,Lab review
+A01551,P0760,D0054,2026-07-14,16:30,Completed,New complaint
+A01552,P0070,D0028,2026-07-14,10:45,Completed,New complaint
+A01553,P0905,D0057,2026-09-01,08:45,Cancelled,New complaint
+A01554,P0776,D0084,2026-07-11,15:00,Completed,New complaint
+A01555,P0509,D0060,2026-03-15,14:15,Scheduled,New complaint
+A01556,P0970,D0057,2026-02-05,09:00,Scheduled,Lab review
+A01557,P0177,D0024,2026-03-05,10:45,Scheduled,Routine consultation
+A01558,P0295,D0026,2026-07-28,16:15,Completed,Follow-up
+A01559,P0221,D0079,2026-05-04,08:15,Scheduled,Follow-up
+A01560,P0024,D0052,2026-05-10,12:45,Cancelled,Routine consultation
+A01561,P0697,D0001,2026-07-13,12:15,Completed,Lab review
+A01562,P0449,D0069,2026-03-08,11:30,Cancelled,Lab review
+A01563,P0140,D0065,2026-03-13,12:00,Completed,New complaint
+A01564,P0883,D0034,2026-01-25,08:45,Completed,Lab review
+A01565,P0799,D0044,2026-05-28,16:45,Completed,Routine consultation
+A01566,P0171,D0047,2026-09-24,08:30,Completed,Lab review
+A01567,P0332,D0032,2026-03-15,16:00,No-show,New complaint
+A01568,P0342,D0004,2026-06-04,10:30,Completed,New complaint
+A01569,P0029,D0087,2026-08-17,16:45,Completed,Follow-up
+A01570,P0256,D0010,2026-03-08,10:00,Cancelled,Routine consultation
+A01571,P0988,D0054,2026-02-17,13:45,No-show,Follow-up
+A01572,P0164,D0067,2026-08-30,16:45,Completed,Routine consultation
+A01573,P0582,D0047,2026-05-09,10:30,Scheduled,Follow-up
+A01574,P0318,D0039,2026-02-27,15:45,Completed,Routine consultation
+A01575,P0555,D0072,2026-05-01,11:15,Completed,New complaint
+A01576,P0081,D0090,2026-01-03,08:30,Completed,New complaint
+A01577,P0154,D0003,2026-06-09,13:00,Completed,Follow-up
+A01578,P0370,D0039,2026-01-02,09:45,Completed,Lab review
+A01579,P0543,D0064,2026-02-04,14:30,Scheduled,Routine consultation
+A01580,P0426,D0017,2026-01-29,12:45,Cancelled,Lab review
+A01581,P0176,D0052,2026-01-10,09:30,Scheduled,New complaint
+A01582,P0846,D0007,2026-05-10,12:15,Completed,New complaint
+A01583,P0300,D0095,2026-01-29,15:30,Completed,Follow-up
+A01584,P0520,D0064,2026-04-14,08:30,Completed,Follow-up
+A01585,P0437,D0007,2026-04-21,14:00,Scheduled,Lab review
+A01586,P0235,D0018,2026-06-21,15:15,Completed,Routine consultation
+A01587,P0513,D0091,2026-05-18,16:30,Completed,New complaint
+A01588,P0046,D0093,2026-01-04,09:30,Completed,New complaint
+A01589,P0029,D0080,2026-09-12,15:15,Completed,Routine consultation
+A01590,P0869,D0072,2026-03-08,08:00,Completed,Lab review
+A01591,P0722,D0020,2026-03-06,11:15,No-show,New complaint
+A01592,P0773,D0062,2026-01-02,12:15,Scheduled,Follow-up
+A01593,P0937,D0042,2026-02-22,13:30,Cancelled,Routine consultation
+A01594,P0086,D0037,2026-08-08,11:45,Scheduled,Routine consultation
+A01595,P0310,D0090,2026-08-27,13:45,Cancelled,Lab review
+A01596,P0847,D0031,2026-04-04,12:45,Scheduled,Follow-up
+A01597,P0616,D0011,2026-07-17,10:30,Completed,Follow-up
+A01598,P0669,D0074,2026-02-05,10:30,No-show,New complaint
+A01599,P0726,D0060,2026-08-19,11:45,Completed,Lab review
+A01600,P0203,D0081,2026-06-02,11:30,Cancelled,Lab review
+A01601,P0169,D0078,2026-08-25,16:45,No-show,New complaint
+A01602,P0346,D0052,2026-07-05,15:00,Scheduled,Lab review
+A01603,P0855,D0021,2026-04-25,16:00,Scheduled,Routine consultation
+A01604,P0657,D0038,2026-04-26,12:00,Completed,New complaint
+A01605,P0739,D0007,2026-08-03,08:00,Scheduled,Routine consultation
+A01606,P0495,D0030,2026-02-03,14:30,Completed,Follow-up
+A01607,P0392,D0089,2026-05-28,10:45,Scheduled,Follow-up
+A01608,P0609,D0020,2026-03-06,13:30,No-show,Follow-up
+A01609,P0610,D0098,2026-07-31,11:00,Completed,Lab review
+A01610,P0152,D0060,2026-01-31,09:30,Completed,Routine consultation
+A01611,P0406,D0040,2026-08-24,10:15,Cancelled,Lab review
+A01612,P0586,D0002,2026-09-09,13:45,Cancelled,Routine consultation
+A01613,P0941,D0079,2026-09-25,12:15,Scheduled,Follow-up
+A01614,P0460,D0040,2026-06-18,16:30,Completed,Follow-up
+A01615,P0934,D0089,2026-06-15,14:45,Completed,New complaint
+A01616,P0884,D0077,2026-02-12,13:15,Completed,Follow-up
+A01617,P0760,D0039,2026-03-27,14:15,Completed,Follow-up
+A01618,P0044,D0093,2026-07-26,13:00,Completed,Routine consultation
+A01619,P0308,D0059,2026-01-20,08:45,Completed,Lab review
+A01620,P0516,D0063,2026-06-04,10:45,Completed,Lab review
+A01621,P0732,D0037,2026-06-12,12:00,Completed,Follow-up
+A01622,P0614,D0019,2026-03-05,14:45,Scheduled,Routine consultation
+A01623,P0831,D0035,2026-08-10,15:30,No-show,Follow-up
+A01624,P0701,D0074,2026-04-11,12:15,Completed,Routine consultation
+A01625,P0758,D0100,2026-05-22,13:15,Scheduled,Follow-up
+A01626,P0572,D0089,2026-06-27,10:45,Completed,New complaint
+A01627,P0914,D0029,2026-04-12,11:00,Completed,New complaint
+A01628,P0255,D0081,2026-04-30,12:30,Cancelled,Follow-up
+A01629,P0434,D0040,2026-01-26,10:15,Completed,Follow-up
+A01630,P0956,D0033,2026-03-20,12:45,Completed,Lab review
+A01631,P0057,D0031,2026-04-08,15:15,Completed,Routine consultation
+A01632,P0050,D0017,2026-06-15,09:45,Completed,Follow-up
+A01633,P0500,D0091,2026-06-17,09:00,Completed,Lab review
+A01634,P0056,D0076,2026-06-16,16:45,No-show,Lab review
+A01635,P0156,D0083,2026-01-27,12:15,Cancelled,Lab review
+A01636,P0073,D0011,2026-06-24,14:30,Scheduled,Follow-up
+A01637,P0135,D0042,2026-07-10,13:00,Completed,Routine consultation
+A01638,P0601,D0012,2026-09-06,16:00,Cancelled,Lab review
+A01639,P0747,D0089,2026-01-11,13:15,Completed,Lab review
+A01640,P0342,D0089,2026-02-05,15:00,Completed,Lab review
+A01641,P0916,D0051,2026-07-03,15:00,Completed,Follow-up
+A01642,P0285,D0053,2026-03-30,16:15,Completed,New complaint
+A01643,P0866,D0010,2026-03-03,14:15,Scheduled,Lab review
+A01644,P0135,D0002,2026-08-10,11:30,Cancelled,Routine consultation
+A01645,P0321,D0006,2026-08-23,14:00,Completed,Routine consultation
+A01646,P0513,D0046,2026-06-10,16:45,Scheduled,New complaint
+A01647,P0314,D0025,2026-08-17,15:00,Scheduled,New complaint
+A01648,P0764,D0098,2026-01-13,16:00,Scheduled,Routine consultation
+A01649,P0784,D0097,2026-01-23,09:30,Completed,Routine consultation
+A01650,P0498,D0066,2026-01-26,11:15,Completed,Routine consultation
+A01651,P0819,D0051,2026-04-17,08:30,Scheduled,New complaint
+A01652,P0418,D0066,2026-05-05,16:00,Completed,Lab review
+A01653,P0955,D0054,2026-02-15,16:30,No-show,Routine consultation
+A01654,P0343,D0052,2026-06-29,08:45,Scheduled,Follow-up
+A01655,P0537,D0005,2026-07-14,15:15,Completed,Follow-up
+A01656,P0742,D0082,2026-09-07,10:00,No-show,Routine consultation
+A01657,P0648,D0025,2026-05-29,15:15,Completed,Lab review
+A01658,P0478,D0067,2026-08-04,12:00,Completed,Routine consultation
+A01659,P0619,D0057,2026-04-24,08:45,No-show,Lab review
+A01660,P0291,D0078,2026-02-22,12:30,Completed,New complaint
+A01661,P0397,D0062,2026-08-25,09:30,Completed,Routine consultation
+A01662,P0461,D0048,2026-08-11,14:45,Completed,Lab review
+A01663,P0436,D0039,2026-09-09,09:00,Completed,Routine consultation
+A01664,P0213,D0039,2026-06-29,13:45,Completed,Routine consultation
+A01665,P0215,D0076,2026-09-15,08:45,No-show,Routine consultation
+A01666,P0542,D0045,2026-01-17,10:30,Completed,Follow-up
+A01667,P0494,D0031,2026-05-03,15:45,Completed,Follow-up
+A01668,P0705,D0072,2026-02-20,14:45,Completed,Follow-up
+A01669,P0290,D0071,2026-08-01,09:30,Completed,Follow-up
+A01670,P0269,D0086,2026-01-07,09:15,Completed,Lab review
+A01671,P0025,D0085,2026-05-29,13:30,Completed,Lab review
+A01672,P0682,D0073,2026-06-01,08:00,Scheduled,Follow-up
+A01673,P0243,D0067,2026-09-11,14:45,Completed,Follow-up
+A01674,P0402,D0028,2026-06-08,14:00,Completed,Lab review
+A01675,P0791,D0086,2026-05-08,16:15,Completed,Routine consultation
+A01676,P0321,D0021,2026-02-10,12:15,Scheduled,Follow-up
+A01677,P0109,D0057,2026-01-10,15:30,No-show,New complaint
+A01678,P0773,D0050,2026-06-10,12:45,Completed,New complaint
+A01679,P0535,D0078,2026-04-10,13:00,Scheduled,Follow-up
+A01680,P0464,D0100,2026-03-16,13:15,Completed,New complaint
+A01681,P0131,D0032,2026-01-29,08:15,Completed,Follow-up
+A01682,P0392,D0096,2026-05-27,08:30,Completed,Routine consultation
+A01683,P0676,D0048,2026-04-05,13:00,Completed,Routine consultation
+A01684,P0791,D0065,2026-05-15,09:15,Cancelled,Routine consultation
+A01685,P0413,D0056,2026-06-22,09:45,Completed,Routine consultation
+A01686,P0500,D0068,2026-04-03,11:15,Scheduled,Lab review
+A01687,P0819,D0025,2026-09-06,08:45,Completed,Lab review
+A01688,P0627,D0042,2026-03-13,15:45,Cancelled,Lab review
+A01689,P0016,D0019,2026-06-05,12:15,Completed,Lab review
+A01690,P0196,D0093,2026-03-18,12:45,Completed,New complaint
+A01691,P0308,D0047,2026-05-01,15:00,Completed,Routine consultation
+A01692,P0713,D0020,2026-02-26,16:00,Completed,New complaint
+A01693,P0619,D0098,2026-03-04,12:00,Completed,New complaint
+A01694,P0026,D0034,2026-01-04,14:00,Completed,Routine consultation
+A01695,P0835,D0075,2026-09-14,09:00,Cancelled,Follow-up
+A01696,P0910,D0039,2026-06-11,14:15,Scheduled,New complaint
+A01697,P0993,D0006,2026-04-19,12:00,Completed,Routine consultation
+A01698,P0774,D0009,2026-05-24,09:15,Completed,Routine consultation
+A01699,P0972,D0044,2026-02-23,12:00,No-show,Follow-up
+A01700,P0456,D0076,2026-03-22,13:00,Scheduled,Lab review
+A01701,P0515,D0047,2026-06-09,15:00,Completed,Lab review
+A01702,P0103,D0038,2026-01-25,14:45,Scheduled,New complaint
+A01703,P0023,D0026,2026-09-27,11:00,Completed,Lab review
+A01704,P0486,D0017,2026-07-19,12:30,No-show,Follow-up
+A01705,P0615,D0035,2026-08-23,13:45,Scheduled,New complaint
+A01706,P0220,D0058,2026-05-18,08:15,Completed,New complaint
+A01707,P0624,D0014,2026-01-02,11:15,Scheduled,New complaint
+A01708,P0836,D0081,2026-05-28,09:15,Completed,Lab review
+A01709,P0018,D0029,2026-02-06,08:45,Completed,New complaint
+A01710,P0720,D0083,2026-06-29,11:00,Scheduled,Lab review
+A01711,P0090,D0088,2026-09-08,14:15,Cancelled,Routine consultation
+A01712,P0660,D0043,2026-01-14,16:45,Completed,Routine consultation
+A01713,P0406,D0005,2026-03-26,13:15,Completed,Lab review
+A01714,P0452,D0038,2026-01-11,08:30,No-show,New complaint
+A01715,P0794,D0082,2026-08-26,12:45,Scheduled,Lab review
+A01716,P0479,D0002,2026-09-18,12:00,Cancelled,Follow-up
+A01717,P0055,D0059,2026-07-27,09:00,Scheduled,Routine consultation
+A01718,P0973,D0098,2026-02-06,15:45,Cancelled,New complaint
+A01719,P0829,D0026,2026-06-10,12:15,Cancelled,Routine consultation
+A01720,P0114,D0010,2026-08-16,16:00,Completed,New complaint
+A01721,P0631,D0004,2026-01-27,08:30,Completed,Routine consultation
+A01722,P0089,D0046,2026-05-18,12:30,Completed,New complaint
+A01723,P0238,D0030,2026-08-18,12:15,Scheduled,Lab review
+A01724,P0963,D0021,2026-07-28,13:30,Completed,Routine consultation
+A01725,P0745,D0030,2026-09-03,08:15,Completed,Routine consultation
+A01726,P0394,D0081,2026-01-29,12:15,Completed,Lab review
+A01727,P0981,D0095,2026-04-20,14:00,Scheduled,New complaint
+A01728,P0222,D0073,2026-05-01,09:45,Cancelled,New complaint
+A01729,P0735,D0093,2026-03-21,12:45,Completed,Follow-up
+A01730,P0879,D0043,2026-06-28,16:45,No-show,Follow-up
+A01731,P0567,D0059,2026-03-20,15:45,Scheduled,Lab review
+A01732,P0591,D0026,2026-02-10,11:30,Scheduled,New complaint
+A01733,P0441,D0001,2026-07-19,15:00,Completed,Routine consultation
+A01734,P0474,D0078,2026-09-02,11:30,Completed,Routine consultation
+A01735,P0026,D0051,2026-07-18,10:30,Scheduled,Follow-up
+A01736,P0310,D0052,2026-07-09,12:45,Completed,New complaint
+A01737,P0679,D0081,2026-01-08,09:30,Scheduled,Lab review
+A01738,P0614,D0092,2026-09-06,08:15,Completed,Follow-up
+A01739,P0408,D0096,2026-09-01,09:45,Scheduled,Follow-up
+A01740,P0619,D0084,2026-07-05,13:15,Completed,Routine consultation
+A01741,P0008,D0007,2026-03-30,14:00,Scheduled,Routine consultation
+A01742,P0435,D0010,2026-01-29,09:30,Completed,New complaint
+A01743,P0807,D0033,2026-04-09,16:30,No-show,Routine consultation
+A01744,P0002,D0007,2026-03-13,09:15,Scheduled,Follow-up
+A01745,P0682,D0049,2026-04-09,16:30,Cancelled,Routine consultation
+A01746,P0202,D0087,2026-07-27,15:15,No-show,Routine consultation
+A01747,P0542,D0016,2026-02-01,12:30,Completed,New complaint
+A01748,P0993,D0041,2026-05-06,14:30,Scheduled,Routine consultation
+A01749,P0791,D0068,2026-03-12,10:00,Completed,Follow-up
+A01750,P0769,D0011,2026-01-11,14:15,Completed,New complaint
+A01751,P0394,D0009,2026-05-28,09:45,Scheduled,Follow-up
+A01752,P0424,D0034,2026-01-15,10:15,Scheduled,New complaint
+A01753,P0325,D0081,2026-05-03,14:15,Scheduled,Routine consultation
+A01754,P0281,D0002,2026-07-31,15:45,Cancelled,Follow-up
+A01755,P0675,D0023,2026-04-26,09:15,No-show,Follow-up
+A01756,P0934,D0014,2026-03-18,14:45,Completed,Follow-up
+A01757,P0866,D0022,2026-08-25,12:30,No-show,Lab review
+A01758,P0265,D0039,2026-04-05,14:30,Scheduled,Lab review
+A01759,P0520,D0015,2026-05-08,14:45,Cancelled,Routine consultation
+A01760,P0227,D0006,2026-02-08,12:15,Completed,Routine consultation
+A01761,P0576,D0064,2026-09-24,08:30,Completed,Lab review
+A01762,P0790,D0082,2026-06-12,13:00,Cancelled,Follow-up
+A01763,P0952,D0079,2026-09-04,16:45,Completed,Lab review
+A01764,P0731,D0094,2026-02-20,10:00,Completed,New complaint
+A01765,P0120,D0053,2026-05-01,15:15,Completed,New complaint
+A01766,P0150,D0025,2026-07-22,08:15,Completed,Lab review
+A01767,P0180,D0080,2026-02-07,16:00,Completed,New complaint
+A01768,P0994,D0074,2026-08-28,11:45,Completed,Lab review
+A01769,P0070,D0073,2026-09-08,13:30,No-show,Follow-up
+A01770,P0699,D0011,2026-05-11,15:30,Completed,New complaint
+A01771,P0013,D0028,2026-04-21,14:45,Scheduled,New complaint
+A01772,P0981,D0084,2026-03-17,13:45,Completed,New complaint
+A01773,P0374,D0072,2026-02-23,09:15,Completed,Follow-up
+A01774,P0816,D0002,2026-04-16,11:00,Completed,Lab review
+A01775,P0761,D0066,2026-07-23,11:00,Scheduled,Follow-up
+A01776,P0524,D0060,2026-05-10,16:15,Completed,Follow-up
+A01777,P0700,D0092,2026-02-26,08:45,Completed,Follow-up
+A01778,P0236,D0092,2026-02-12,10:45,Completed,Lab review
+A01779,P0153,D0024,2026-05-29,16:30,Completed,Follow-up
+A01780,P0866,D0003,2026-01-04,09:45,Scheduled,Follow-up
+A01781,P0448,D0088,2026-08-29,12:00,Scheduled,New complaint
+A01782,P0335,D0009,2026-08-09,11:45,Completed,Lab review
+A01783,P0701,D0091,2026-06-30,13:00,Completed,Lab review
+A01784,P0634,D0039,2026-02-11,08:00,Scheduled,Lab review
+A01785,P0899,D0023,2026-03-07,10:45,Completed,Routine consultation
+A01786,P0011,D0058,2026-01-07,11:45,Completed,Follow-up
+A01787,P0764,D0084,2026-06-14,08:15,Completed,Routine consultation
+A01788,P0899,D0082,2026-04-08,12:15,Completed,New complaint
+A01789,P0446,D0099,2026-06-19,11:00,Scheduled,Routine consultation
+A01790,P0227,D0016,2026-02-27,14:45,Completed,New complaint
+A01791,P0745,D0087,2026-07-17,16:45,Completed,Follow-up
+A01792,P0383,D0036,2026-04-16,08:30,Cancelled,Routine consultation
+A01793,P0447,D0051,2026-01-10,14:00,Completed,New complaint
+A01794,P0298,D0095,2026-01-03,08:30,Completed,Routine consultation
+A01795,P0502,D0053,2026-02-21,13:00,Completed,New complaint
+A01796,P0601,D0017,2026-03-29,16:00,Completed,Routine consultation
+A01797,P0838,D0003,2026-07-03,08:30,Scheduled,New complaint
+A01798,P0126,D0043,2026-08-01,09:15,Cancelled,Lab review
+A01799,P0714,D0021,2026-07-10,10:15,Completed,Routine consultation
+A01800,P0467,D0083,2026-06-16,16:15,Completed,Lab review
+A01801,P0758,D0008,2026-05-01,13:30,No-show,Lab review
+A01802,P0961,D0044,2026-09-12,14:15,Scheduled,Follow-up
+A01803,P0090,D0015,2026-07-06,08:00,Cancelled,Follow-up
+A01804,P0855,D0024,2026-06-16,13:45,Completed,Follow-up
+A01805,P0085,D0057,2026-07-25,08:15,Completed,Routine consultation
+A01806,P0931,D0046,2026-05-02,08:30,Cancelled,Routine consultation
+A01807,P0070,D0040,2026-08-30,09:45,Cancelled,Follow-up
+A01808,P0981,D0090,2026-04-02,11:30,Completed,Lab review
+A01809,P0334,D0095,2026-07-06,10:00,Scheduled,New complaint
+A01810,P0508,D0077,2026-08-15,13:45,Scheduled,Routine consultation
+A01811,P0607,D0071,2026-02-24,11:45,Completed,Lab review
+A01812,P0995,D0019,2026-06-19,15:45,Completed,Lab review
+A01813,P0399,D0001,2026-06-16,09:00,Completed,Lab review
+A01814,P0900,D0045,2026-08-26,08:00,Scheduled,Follow-up
+A01815,P0207,D0049,2026-04-03,09:15,Scheduled,New complaint
+A01816,P0279,D0059,2026-02-01,08:15,Completed,Routine consultation
+A01817,P0008,D0088,2026-03-08,16:15,No-show,New complaint
+A01818,P0759,D0015,2026-05-24,14:00,Scheduled,New complaint
+A01819,P0649,D0043,2026-03-06,15:00,Scheduled,Routine consultation
+A01820,P0767,D0070,2026-04-23,11:45,Cancelled,Lab review
+A01821,P0752,D0083,2026-03-16,16:30,No-show,New complaint
+A01822,P0795,D0031,2026-09-20,09:30,No-show,New complaint
+A01823,P0729,D0073,2026-07-22,11:00,Completed,Routine consultation
+A01824,P0602,D0037,2026-08-29,11:45,Scheduled,Lab review
+A01825,P0701,D0083,2026-05-22,13:45,Scheduled,Lab review
+A01826,P0463,D0052,2026-05-22,09:00,Scheduled,Follow-up
+A01827,P0656,D0099,2026-08-07,10:45,No-show,Lab review
+A01828,P0851,D0046,2026-04-29,12:45,No-show,Routine consultation
+A01829,P0256,D0044,2026-07-20,08:30,Scheduled,Follow-up
+A01830,P0474,D0078,2026-09-22,13:00,Scheduled,New complaint
+A01831,P0462,D0065,2026-07-06,16:30,Scheduled,New complaint
+A01832,P0388,D0062,2026-06-18,14:00,Completed,Follow-up
+A01833,P0862,D0089,2026-06-06,08:45,Completed,New complaint
+A01834,P0981,D0050,2026-02-20,15:45,Completed,Follow-up
+A01835,P0504,D0066,2026-06-11,08:00,Completed,New complaint
+A01836,P0203,D0092,2026-03-22,10:15,Scheduled,Lab review
+A01837,P0926,D0025,2026-05-25,08:15,Completed,Lab review
+A01838,P0699,D0099,2026-03-08,16:30,Completed,Follow-up
+A01839,P0953,D0088,2026-04-25,09:15,Cancelled,Lab review
+A01840,P0244,D0041,2026-04-11,10:45,Scheduled,Lab review
+A01841,P0160,D0034,2026-03-02,12:45,Scheduled,Routine consultation
+A01842,P0252,D0035,2026-04-07,10:15,Completed,Routine consultation
+A01843,P0908,D0005,2026-05-30,14:30,Scheduled,Lab review
+A01844,P0712,D0058,2026-06-10,13:30,No-show,Routine consultation
+A01845,P0421,D0015,2026-03-18,08:00,Completed,Routine consultation
+A01846,P0272,D0047,2026-04-10,14:30,Scheduled,New complaint
+A01847,P0111,D0071,2026-07-20,09:15,Scheduled,Routine consultation
+A01848,P0863,D0054,2026-03-17,15:00,Completed,New complaint
+A01849,P0173,D0020,2026-07-27,09:15,Cancelled,Follow-up
+A01850,P0304,D0037,2026-01-14,13:45,Completed,Lab review
+A01851,P0380,D0048,2026-05-08,08:30,Completed,Lab review
+A01852,P0993,D0053,2026-06-20,08:15,Completed,Lab review
+A01853,P0511,D0063,2026-08-08,08:45,Scheduled,Lab review
+A01854,P0500,D0053,2026-04-21,11:15,Cancelled,Follow-up
+A01855,P0037,D0004,2026-02-01,12:45,Completed,Follow-up
+A01856,P0971,D0055,2026-07-24,14:15,Cancelled,Routine consultation
+A01857,P0064,D0073,2026-04-05,10:15,Completed,Lab review
+A01858,P0469,D0099,2026-01-12,14:00,Scheduled,New complaint
+A01859,P0980,D0044,2026-08-25,08:00,Scheduled,Follow-up
+A01860,P0599,D0027,2026-01-20,08:15,Completed,Routine consultation
+A01861,P0916,D0021,2026-08-23,14:45,Cancelled,New complaint
+A01862,P0703,D0031,2026-04-04,09:15,Scheduled,Follow-up
+A01863,P0802,D0084,2026-02-07,10:45,Scheduled,Routine consultation
+A01864,P0026,D0062,2026-01-02,13:15,Completed,Follow-up
+A01865,P0920,D0072,2026-08-02,08:00,Completed,Follow-up
+A01866,P0456,D0096,2026-09-19,11:45,Completed,New complaint
+A01867,P0636,D0072,2026-01-28,13:30,Completed,New complaint
+A01868,P0064,D0052,2026-03-27,16:15,Completed,Follow-up
+A01869,P0172,D0054,2026-09-23,08:00,No-show,Routine consultation
+A01870,P0721,D0054,2026-05-30,12:45,Completed,Lab review
+A01871,P0419,D0002,2026-03-12,12:45,Cancelled,New complaint
+A01872,P0451,D0020,2026-01-10,14:30,Scheduled,Lab review
+A01873,P0473,D0028,2026-06-25,10:30,Completed,New complaint
+A01874,P0561,D0069,2026-05-09,15:45,Completed,New complaint
+A01875,P0326,D0062,2026-01-02,12:45,Completed,Routine consultation
+A01876,P0927,D0079,2026-08-11,09:15,Completed,New complaint
+A01877,P0159,D0052,2026-03-20,16:30,Completed,Follow-up
+A01878,P0704,D0093,2026-09-20,10:45,Completed,New complaint
+A01879,P0028,D0001,2026-05-12,09:45,Completed,New complaint
+A01880,P0035,D0043,2026-02-08,16:45,Completed,New complaint
+A01881,P0077,D0089,2026-09-21,08:15,Cancelled,New complaint
+A01882,P0993,D0074,2026-07-13,12:45,Cancelled,Routine consultation
+A01883,P0920,D0016,2026-03-15,15:15,Cancelled,Lab review
+A01884,P0244,D0048,2026-03-10,16:30,Scheduled,Lab review
+A01885,P0087,D0074,2026-02-12,14:00,Scheduled,Lab review
+A01886,P0003,D0090,2026-01-11,16:45,Completed,Routine consultation
+A01887,P0894,D0014,2026-09-21,14:45,Completed,Routine consultation
+A01888,P0742,D0008,2026-09-03,15:00,Completed,Lab review
+A01889,P0231,D0055,2026-01-30,12:15,No-show,Lab review
+A01890,P0717,D0020,2026-08-15,14:45,Scheduled,Lab review
+A01891,P0336,D0009,2026-07-31,09:00,Completed,Routine consultation
+A01892,P0835,D0014,2026-01-27,15:00,Completed,Lab review
+A01893,P0382,D0007,2026-01-15,10:00,Completed,Lab review
+A01894,P0721,D0088,2026-08-31,10:15,Scheduled,Routine consultation
+A01895,P0635,D0061,2026-02-11,08:15,Completed,New complaint
+A01896,P0656,D0030,2026-05-18,15:30,Cancelled,New complaint
+A01897,P0261,D0098,2026-06-14,15:30,Completed,Follow-up
+A01898,P0058,D0037,2026-07-16,12:15,Completed,Lab review
+A01899,P0452,D0038,2026-02-27,13:15,Completed,Lab review
+A01900,P0470,D0100,2026-02-17,11:15,No-show,Follow-up
+A01901,P0760,D0074,2026-08-16,14:45,Scheduled,New complaint
+A01902,P0762,D0087,2026-07-14,16:00,Cancelled,Routine consultation
+A01903,P0786,D0012,2026-06-13,13:45,Cancelled,New complaint
+A01904,P0534,D0039,2026-06-04,08:30,Scheduled,New complaint
+A01905,P0282,D0035,2026-09-22,16:00,Scheduled,Routine consultation
+A01906,P0979,D0044,2026-09-21,08:15,Completed,Follow-up
+A01907,P0455,D0033,2026-05-26,08:30,Completed,Routine consultation
+A01908,P0265,D0048,2026-08-12,11:15,Scheduled,Lab review
+A01909,P0100,D0015,2026-03-16,15:00,Completed,Routine consultation
+A01910,P0986,D0069,2026-09-23,13:00,Completed,New complaint
+A01911,P0611,D0029,2026-09-19,16:30,Cancelled,Routine consultation
+A01912,P0121,D0065,2026-05-05,13:45,Scheduled,Routine consultation
+A01913,P0710,D0069,2026-08-21,11:30,Completed,Routine consultation
+A01914,P0272,D0020,2026-03-21,10:45,Completed,New complaint
+A01915,P0872,D0043,2026-03-10,08:30,Completed,Follow-up
+A01916,P0736,D0079,2026-09-22,15:00,Completed,Routine consultation
+A01917,P0624,D0094,2026-05-25,15:30,Completed,New complaint
+A01918,P0302,D0023,2026-06-06,14:00,Scheduled,New complaint
+A01919,P0699,D0061,2026-02-23,15:30,No-show,Follow-up
+A01920,P0081,D0059,2026-02-11,12:45,Completed,Lab review
+A01921,P0820,D0019,2026-01-25,12:30,Scheduled,Follow-up
+A01922,P0635,D0065,2026-08-05,15:45,Completed,New complaint
+A01923,P0339,D0038,2026-09-26,15:45,Completed,Lab review
+A01924,P0242,D0036,2026-08-20,12:00,Completed,Follow-up
+A01925,P0708,D0043,2026-04-20,14:00,No-show,New complaint
+A01926,P0680,D0009,2026-04-04,15:30,No-show,Follow-up
+A01927,P0529,D0078,2026-05-09,14:15,Completed,Follow-up
+A01928,P0807,D0038,2026-05-23,16:30,Completed,Follow-up
+A01929,P0122,D0009,2026-08-05,13:45,No-show,New complaint
+A01930,P0719,D0031,2026-07-25,10:15,Cancelled,Routine consultation
+A01931,P0344,D0079,2026-08-27,08:45,Completed,Routine consultation
+A01932,P0388,D0005,2026-06-11,11:00,Completed,Follow-up
+A01933,P0255,D0007,2026-08-19,12:15,Completed,New complaint
+A01934,P0550,D0053,2026-04-01,15:00,Scheduled,Follow-up
+A01935,P0894,D0046,2026-05-26,12:45,Completed,Routine consultation
+A01936,P0215,D0070,2026-02-23,10:00,Scheduled,New complaint
+A01937,P0553,D0098,2026-04-06,16:45,Scheduled,New complaint
+A01938,P0714,D0039,2026-08-02,09:30,Completed,Lab review
+A01939,P0238,D0046,2026-09-20,14:45,Completed,Lab review
+A01940,P0170,D0081,2026-02-10,16:00,Cancelled,Follow-up
+A01941,P0961,D0022,2026-06-23,10:00,Cancelled,New complaint
+A01942,P0855,D0079,2026-08-10,08:30,Completed,Lab review
+A01943,P0710,D0069,2026-03-31,16:15,No-show,New complaint
+A01944,P0046,D0032,2026-01-19,13:15,Completed,Follow-up
+A01945,P0094,D0094,2026-03-27,16:45,Scheduled,Follow-up
+A01946,P0213,D0056,2026-04-18,10:00,No-show,New complaint
+A01947,P0952,D0096,2026-05-31,10:45,Completed,New complaint
+A01948,P0191,D0061,2026-03-11,14:30,Completed,New complaint
+A01949,P0154,D0001,2026-07-13,08:15,Completed,New complaint
+A01950,P0852,D0035,2026-08-18,16:15,Completed,Routine consultation
+A01951,P0682,D0069,2026-01-04,14:15,Completed,Follow-up
+A01952,P0492,D0032,2026-05-17,13:30,Completed,New complaint
+A01953,P0880,D0058,2026-03-30,11:15,Completed,Routine consultation
+A01954,P0219,D0044,2026-01-29,12:30,Completed,New complaint
+A01955,P0795,D0060,2026-04-22,08:15,Completed,Follow-up
+A01956,P0836,D0058,2026-03-29,16:30,No-show,Routine consultation
+A01957,P0043,D0098,2026-06-09,10:30,Scheduled,Follow-up
+A01958,P0298,D0053,2026-06-19,13:30,Completed,Follow-up
+A01959,P0301,D0014,2026-08-19,15:00,Completed,New complaint
+A01960,P0653,D0037,2026-02-05,13:45,Completed,New complaint
+A01961,P0862,D0044,2026-04-30,16:45,Completed,Routine consultation
+A01962,P0765,D0086,2026-06-02,12:30,Completed,Follow-up
+A01963,P0639,D0010,2026-04-17,10:15,No-show,Follow-up
+A01964,P0361,D0069,2026-05-26,16:30,Completed,New complaint
+A01965,P0913,D0021,2026-01-15,08:45,Completed,Lab review
+A01966,P0432,D0036,2026-06-10,12:15,Completed,New complaint
+A01967,P0212,D0008,2026-01-13,16:30,Completed,Routine consultation
+A01968,P0711,D0016,2026-04-26,11:00,Completed,New complaint
+A01969,P0558,D0029,2026-02-16,14:15,Completed,New complaint
+A01970,P0040,D0070,2026-01-28,13:00,Scheduled,Routine consultation
+A01971,P0469,D0036,2026-07-07,11:15,Cancelled,Follow-up
+A01972,P0022,D0017,2026-06-16,14:45,Scheduled,New complaint
+A01973,P0073,D0041,2026-09-09,10:45,No-show,Lab review
+A01974,P0714,D0075,2026-08-09,13:45,Scheduled,Lab review
+A01975,P0582,D0044,2026-06-30,15:30,Scheduled,Lab review
+A01976,P0332,D0084,2026-07-08,08:30,Completed,New complaint
+A01977,P0118,D0039,2026-03-10,09:45,Completed,Lab review
+A01978,P0640,D0045,2026-02-08,16:15,No-show,Lab review
+A01979,P0829,D0008,2026-03-09,13:15,No-show,Follow-up
+A01980,P0099,D0009,2026-02-08,14:30,Scheduled,Follow-up
+A01981,P0504,D0038,2026-02-17,12:30,Scheduled,Lab review
+A01982,P0042,D0086,2026-03-18,08:15,Completed,New complaint
+A01983,P0027,D0066,2026-05-15,15:15,Scheduled,Follow-up
+A01984,P0843,D0094,2026-06-03,08:15,Completed,Follow-up
+A01985,P0756,D0037,2026-03-30,09:15,Cancelled,Lab review
+A01986,P0792,D0056,2026-01-05,10:15,Completed,Routine consultation
+A01987,P0817,D0092,2026-05-09,09:15,Completed,Routine consultation
+A01988,P0490,D0074,2026-07-05,10:30,Completed,Routine consultation
+A01989,P0623,D0033,2026-01-14,12:45,Completed,Follow-up
+A01990,P0417,D0002,2026-03-20,13:30,Completed,Routine consultation
+A01991,P0759,D0094,2026-02-28,11:30,No-show,Lab review
+A01992,P0071,D0026,2026-09-15,13:45,Completed,New complaint
+A01993,P0560,D0054,2026-04-01,15:45,Completed,New complaint
+A01994,P0119,D0099,2026-05-03,12:15,Completed,Routine consultation
+A01995,P0515,D0011,2026-03-26,09:15,No-show,Routine consultation
+A01996,P0574,D0005,2026-02-17,12:30,Completed,Routine consultation
+A01997,P0694,D0053,2026-09-28,09:45,Completed,Lab review
+A01998,P0845,D0074,2026-03-22,11:00,Completed,Routine consultation
+A01999,P0687,D0028,2026-09-20,10:00,Completed,New complaint
+A02000,P0983,D0020,2026-04-16,09:45,Completed,New complaint
+A02001,P0308,D0092,2026-07-24,15:00,Cancelled,Routine consultation
+A02002,P0879,D0084,2026-09-05,09:00,Completed,Routine consultation
+A02003,P0298,D0005,2026-02-28,16:45,Completed,Routine consultation
+A02004,P0801,D0021,2026-02-27,11:15,Completed,Follow-up
+A02005,P0441,D0004,2026-05-20,12:30,No-show,Routine consultation
+A02006,P0789,D0051,2026-05-12,16:45,Completed,New complaint
+A02007,P0367,D0091,2026-08-21,13:15,Cancelled,New complaint
+A02008,P0846,D0049,2026-03-19,11:00,Scheduled,Follow-up
+A02009,P0856,D0026,2026-03-02,14:00,Scheduled,Routine consultation
+A02010,P0790,D0089,2026-02-17,08:30,Scheduled,Routine consultation
+A02011,P0062,D0055,2026-04-07,14:15,Completed,New complaint
+A02012,P0609,D0078,2026-01-12,08:30,Completed,New complaint
+A02013,P0785,D0032,2026-07-23,11:15,Completed,New complaint
+A02014,P0111,D0096,2026-01-31,08:45,Scheduled,Routine consultation
+A02015,P0281,D0084,2026-01-14,15:00,Completed,New complaint
+A02016,P0222,D0039,2026-04-12,11:15,Completed,Routine consultation
+A02017,P0301,D0037,2026-07-27,13:45,Cancelled,Follow-up
+A02018,P0344,D0077,2026-03-29,11:45,Scheduled,New complaint
+A02019,P0936,D0070,2026-04-06,10:30,Cancelled,Follow-up
+A02020,P0761,D0036,2026-07-11,16:30,Completed,Routine consultation
+A02021,P0801,D0004,2026-04-19,09:45,No-show,Lab review
+A02022,P0439,D0064,2026-09-23,10:15,Completed,Follow-up
+A02023,P0900,D0073,2026-09-08,11:45,Cancelled,Follow-up
+A02024,P0034,D0034,2026-03-16,11:00,Scheduled,New complaint
+A02025,P0532,D0040,2026-05-11,15:30,Completed,Lab review
+A02026,P0967,D0092,2026-09-22,14:45,Completed,New complaint
+A02027,P0134,D0005,2026-04-29,15:00,Completed,Routine consultation
+A02028,P0912,D0022,2026-08-23,13:30,Scheduled,New complaint
+A02029,P0267,D0046,2026-07-24,08:00,Completed,Routine consultation
+A02030,P0768,D0100,2026-09-20,09:00,Completed,Routine consultation
+A02031,P0558,D0015,2026-07-09,15:15,Scheduled,Follow-up
+A02032,P0425,D0069,2026-07-14,09:00,Completed,Routine consultation
+A02033,P0881,D0026,2026-06-07,14:00,Cancelled,Routine consultation
+A02034,P0410,D0096,2026-02-15,16:15,Scheduled,Lab review
+A02035,P0389,D0045,2026-06-24,13:30,Cancelled,Follow-up
+A02036,P0389,D0065,2026-07-23,16:15,Scheduled,Follow-up
+A02037,P0274,D0004,2026-09-13,15:00,Completed,Lab review
+A02038,P0868,D0073,2026-06-11,12:30,Completed,New complaint
+A02039,P0237,D0001,2026-08-06,08:00,Cancelled,Routine consultation
+A02040,P0509,D0100,2026-07-31,10:15,Completed,Follow-up
+A02041,P0929,D0035,2026-09-25,14:45,Scheduled,Routine consultation
+A02042,P0817,D0068,2026-08-16,11:45,Completed,Lab review
+A02043,P0022,D0075,2026-01-29,13:45,Completed,Routine consultation
+A02044,P0034,D0070,2026-02-13,14:30,Completed,Follow-up
+A02045,P0247,D0036,2026-07-30,12:00,Cancelled,Lab review
+A02046,P0833,D0060,2026-05-20,11:45,Completed,New complaint
+A02047,P0730,D0085,2026-03-30,15:30,Scheduled,Routine consultation
+A02048,P0262,D0037,2026-06-06,10:30,Scheduled,New complaint
+A02049,P0142,D0011,2026-08-08,13:30,No-show,New complaint
+A02050,P0487,D0044,2026-07-01,14:15,Completed,Routine consultation
+A02051,P0991,D0096,2026-01-07,09:45,Cancelled,Routine consultation
+A02052,P0314,D0060,2026-08-17,11:30,Scheduled,Lab review
+A02053,P0321,D0087,2026-06-13,10:15,Completed,New complaint
+A02054,P0844,D0021,2026-04-19,16:15,Completed,New complaint
+A02055,P0093,D0057,2026-02-16,08:00,Completed,Routine consultation
+A02056,P0460,D0052,2026-03-06,12:30,No-show,Follow-up
+A02057,P0573,D0037,2026-01-21,12:30,Completed,Lab review
+A02058,P0731,D0045,2026-03-30,11:30,Scheduled,Follow-up
+A02059,P0691,D0069,2026-04-20,15:15,Cancelled,Lab review
+A02060,P0676,D0027,2026-07-27,15:00,Completed,Follow-up
+A02061,P0281,D0082,2026-08-01,13:45,Completed,New complaint
+A02062,P0531,D0072,2026-02-19,09:30,Completed,Routine consultation
+A02063,P0692,D0067,2026-09-26,15:00,Scheduled,Lab review
+A02064,P0746,D0074,2026-02-07,08:45,Completed,New complaint
+A02065,P0956,D0052,2026-03-03,09:30,Completed,New complaint
+A02066,P0062,D0098,2026-02-11,09:15,Scheduled,Lab review
+A02067,P0895,D0063,2026-06-05,10:30,Completed,Lab review
+A02068,P0739,D0086,2026-04-05,11:45,Completed,Lab review
+A02069,P0058,D0061,2026-09-11,15:00,Scheduled,Routine consultation
+A02070,P0177,D0043,2026-03-17,13:15,No-show,Follow-up
+A02071,P0564,D0021,2026-02-14,16:00,Scheduled,New complaint
+A02072,P0682,D0052,2026-09-05,08:45,Completed,Routine consultation
+A02073,P0370,D0093,2026-03-17,16:45,Cancelled,Follow-up
+A02074,P0420,D0040,2026-07-04,15:00,Completed,Follow-up
+A02075,P0194,D0088,2026-02-25,08:00,No-show,New complaint
+A02076,P0048,D0032,2026-01-05,08:45,Completed,Routine consultation
+A02077,P0942,D0092,2026-09-28,16:45,Scheduled,New complaint
+A02078,P0511,D0097,2026-04-26,10:00,Scheduled,Follow-up
+A02079,P0609,D0020,2026-05-20,16:30,Scheduled,New complaint
+A02080,P0886,D0053,2026-09-09,12:45,No-show,Follow-up
+A02081,P0873,D0061,2026-07-29,13:00,Scheduled,Lab review
+A02082,P0453,D0018,2026-06-24,14:30,Completed,New complaint
+A02083,P0792,D0077,2026-07-04,12:00,Completed,Routine consultation
+A02084,P0489,D0074,2026-08-17,12:45,Completed,Routine consultation
+A02085,P0784,D0017,2026-04-10,12:30,Scheduled,Routine consultation
+A02086,P0407,D0079,2026-04-06,14:15,No-show,Follow-up
+A02087,P0866,D0096,2026-01-30,11:15,Completed,Lab review
+A02088,P0976,D0057,2026-06-26,10:30,Completed,Routine consultation
+A02089,P0795,D0098,2026-01-17,15:30,Completed,New complaint
+A02090,P0444,D0066,2026-04-27,13:00,Completed,Follow-up
+A02091,P0763,D0062,2026-05-20,15:45,Completed,Follow-up
+A02092,P0494,D0098,2026-06-25,16:15,Scheduled,Routine consultation
+A02093,P0410,D0093,2026-02-01,13:15,No-show,New complaint
+A02094,P0505,D0056,2026-04-17,11:15,Completed,Lab review
+A02095,P0714,D0052,2026-03-08,10:30,Completed,Follow-up
+A02096,P0510,D0087,2026-08-27,10:15,Completed,Lab review
+A02097,P0239,D0030,2026-04-17,09:00,Scheduled,Routine consultation
+A02098,P0146,D0084,2026-01-04,16:30,Completed,Routine consultation
+A02099,P0274,D0026,2026-04-15,15:00,Completed,Follow-up
+A02100,P0547,D0036,2026-03-05,16:15,Completed,Routine consultation
+A02101,P0913,D0071,2026-03-07,13:45,Scheduled,Routine consultation
+A02102,P0451,D0013,2026-05-18,15:15,Scheduled,Lab review
+A02103,P0586,D0085,2026-02-28,15:45,Completed,Routine consultation
+A02104,P0865,D0091,2026-07-17,12:30,Completed,Lab review
+A02105,P0502,D0086,2026-03-15,09:30,Scheduled,Follow-up
+A02106,P0297,D0004,2026-08-26,10:45,Completed,Follow-up
+A02107,P0535,D0068,2026-08-19,11:45,Completed,Follow-up
+A02108,P0651,D0074,2026-05-15,10:15,Completed,New complaint
+A02109,P0694,D0028,2026-08-28,16:15,Completed,Lab review
+A02110,P0097,D0077,2026-01-12,11:15,Completed,New complaint
+A02111,P0698,D0088,2026-06-26,13:00,Scheduled,Follow-up
+A02112,P0447,D0056,2026-06-19,08:45,Cancelled,New complaint
+A02113,P0229,D0039,2026-01-19,14:45,Completed,New complaint
+A02114,P0253,D0019,2026-02-17,12:45,Scheduled,Lab review
+A02115,P0541,D0043,2026-02-15,08:15,Completed,Follow-up
+A02116,P0157,D0014,2026-08-29,14:15,Completed,New complaint
+A02117,P0211,D0074,2026-05-04,15:30,Scheduled,New complaint
+A02118,P0939,D0077,2026-04-27,12:30,Completed,Follow-up
+A02119,P0425,D0047,2026-06-28,13:30,Completed,Lab review
+A02120,P0060,D0066,2026-04-12,09:45,Completed,Routine consultation
+A02121,P0017,D0085,2026-01-28,10:00,Completed,New complaint
+A02122,P0227,D0088,2026-04-15,14:45,Scheduled,Follow-up
+A02123,P0210,D0093,2026-06-29,14:45,Scheduled,Follow-up
+A02124,P0941,D0065,2026-03-29,11:30,Completed,Follow-up
+A02125,P0006,D0013,2026-02-03,14:45,Scheduled,Routine consultation
+A02126,P0406,D0093,2026-01-06,12:45,No-show,Routine consultation
+A02127,P0424,D0040,2026-08-15,11:15,Completed,New complaint
+A02128,P0629,D0047,2026-04-12,15:30,Scheduled,Lab review
+A02129,P0815,D0008,2026-02-16,15:45,Scheduled,Routine consultation
+A02130,P0941,D0054,2026-04-12,15:00,Completed,Lab review
+A02131,P0359,D0097,2026-02-25,08:30,Completed,Follow-up
+A02132,P0985,D0074,2026-05-20,14:45,Cancelled,Lab review
+A02133,P0553,D0057,2026-09-10,11:15,Scheduled,Routine consultation
+A02134,P0676,D0043,2026-06-16,10:00,Completed,Lab review
+A02135,P0454,D0070,2026-02-14,16:15,Scheduled,Lab review
+A02136,P0608,D0068,2026-08-19,15:00,No-show,Follow-up
+A02137,P0835,D0034,2026-08-16,12:15,Completed,New complaint
+A02138,P0516,D0006,2026-09-18,13:15,Completed,Lab review
+A02139,P0047,D0066,2026-01-30,10:15,Cancelled,New complaint
+A02140,P0272,D0029,2026-05-24,14:15,Completed,Follow-up
+A02141,P0610,D0043,2026-07-03,12:45,Completed,Routine consultation
+A02142,P0399,D0005,2026-04-06,09:30,Cancelled,New complaint
+A02143,P0215,D0043,2026-02-02,08:00,Cancelled,New complaint
+A02144,P0001,D0039,2026-05-29,14:45,Scheduled,Routine consultation
+A02145,P0266,D0057,2026-04-19,15:45,Completed,New complaint
+A02146,P0084,D0024,2026-03-04,09:45,Completed,Lab review
+A02147,P0716,D0041,2026-01-23,11:45,No-show,New complaint
+A02148,P0044,D0039,2026-09-15,09:00,Completed,Follow-up
+A02149,P0135,D0070,2026-04-21,11:30,Completed,New complaint
+A02150,P0528,D0041,2026-01-01,09:15,Completed,Routine consultation
+A02151,P0805,D0062,2026-01-14,10:30,Completed,Routine consultation
+A02152,P0189,D0038,2026-02-24,08:00,Cancelled,New complaint
+A02153,P0934,D0048,2026-02-18,16:00,Scheduled,New complaint
+A02154,P0195,D0052,2026-02-16,12:00,Scheduled,Lab review
+A02155,P0124,D0074,2026-01-19,13:30,Completed,Follow-up
+A02156,P0084,D0065,2026-07-30,16:45,Completed,New complaint
+A02157,P0550,D0002,2026-02-09,15:00,Scheduled,Follow-up
+A02158,P0018,D0063,2026-04-15,10:30,Cancelled,Routine consultation
+A02159,P0986,D0076,2026-08-05,09:15,Completed,Follow-up
+A02160,P0591,D0046,2026-02-08,11:30,Completed,Follow-up
+A02161,P0682,D0007,2026-01-22,12:00,No-show,Follow-up
+A02162,P0508,D0047,2026-09-02,09:45,Completed,Lab review
+A02163,P0262,D0070,2026-07-17,10:45,Completed,New complaint
+A02164,P0927,D0054,2026-02-24,09:15,Scheduled,Follow-up
+A02165,P0398,D0076,2026-01-17,11:00,No-show,Lab review
+A02166,P0503,D0087,2026-02-07,14:30,Completed,Routine consultation
+A02167,P0050,D0083,2026-03-02,16:45,Completed,Routine consultation
+A02168,P0896,D0087,2026-03-04,10:15,Scheduled,Follow-up
+A02169,P0333,D0046,2026-04-11,08:15,Scheduled,New complaint
+A02170,P0807,D0020,2026-03-11,08:45,Completed,Lab review
+A02171,P0867,D0003,2026-06-24,14:00,Cancelled,New complaint
+A02172,P0991,D0037,2026-02-25,14:00,Completed,Lab review
+A02173,P0145,D0097,2026-03-25,09:00,Completed,Follow-up
+A02174,P0415,D0036,2026-08-05,08:00,Scheduled,Routine consultation
+A02175,P0860,D0006,2026-05-10,12:45,Cancelled,Routine consultation
+A02176,P0040,D0100,2026-09-13,09:30,Scheduled,Follow-up
+A02177,P0270,D0036,2026-05-20,14:30,Scheduled,Lab review
+A02178,P0605,D0088,2026-01-16,14:00,Cancelled,Lab review
+A02179,P0848,D0017,2026-09-14,08:45,Scheduled,New complaint
+A02180,P0443,D0077,2026-05-15,13:45,Scheduled,Lab review
+A02181,P0146,D0078,2026-01-21,15:30,No-show,Routine consultation
+A02182,P0298,D0080,2026-06-06,10:00,Completed,New complaint
+A02183,P0869,D0025,2026-08-09,10:30,Scheduled,Lab review
+A02184,P0620,D0011,2026-08-21,14:45,Cancelled,Lab review
+A02185,P0401,D0037,2026-04-10,08:00,Completed,New complaint
+A02186,P0689,D0092,2026-03-05,15:30,Completed,Lab review
+A02187,P0133,D0078,2026-01-08,10:45,Cancelled,New complaint
+A02188,P0397,D0018,2026-02-13,09:45,Scheduled,New complaint
+A02189,P0316,D0077,2026-08-11,08:15,Completed,Lab review
+A02190,P0495,D0084,2026-07-24,16:45,Completed,New complaint
+A02191,P0860,D0064,2026-07-09,14:15,Scheduled,Lab review
+A02192,P0919,D0047,2026-01-23,10:00,Cancelled,New complaint
+A02193,P0735,D0019,2026-03-09,11:00,Completed,Lab review
+A02194,P0156,D0044,2026-04-02,11:30,Cancelled,New complaint
+A02195,P0764,D0067,2026-01-18,08:30,Cancelled,Lab review
+A02196,P0185,D0014,2026-07-19,09:45,Completed,Routine consultation
+A02197,P0641,D0047,2026-06-23,10:00,Cancelled,Follow-up
+A02198,P0193,D0093,2026-06-19,11:00,Completed,Lab review
+A02199,P0338,D0079,2026-07-10,14:00,No-show,Follow-up
+A02200,P0154,D0017,2026-05-28,10:15,Scheduled,Routine consultation
+A02201,P0944,D0075,2026-01-04,09:15,Completed,Lab review
+A02202,P0931,D0090,2026-04-26,09:30,Scheduled,Routine consultation
+A02203,P0525,D0029,2026-05-24,08:45,Completed,Follow-up
+A02204,P0706,D0039,2026-08-27,15:15,Completed,Follow-up
+A02205,P0953,D0068,2026-02-19,09:45,Completed,Routine consultation
+A02206,P0515,D0014,2026-04-22,15:00,Scheduled,Routine consultation
+A02207,P0167,D0053,2026-07-16,10:30,Completed,New complaint
+A02208,P0696,D0043,2026-09-23,14:15,Completed,New complaint
+A02209,P0888,D0017,2026-08-20,12:30,Completed,Lab review
+A02210,P0201,D0096,2026-09-15,16:15,Scheduled,New complaint
+A02211,P0303,D0096,2026-03-18,13:30,Completed,Lab review
+A02212,P0070,D0060,2026-04-14,13:00,No-show,Follow-up
+A02213,P0256,D0033,2026-01-13,13:00,Completed,Follow-up
+A02214,P0163,D0001,2026-09-27,10:45,No-show,New complaint
+A02215,P0389,D0049,2026-07-23,15:45,Scheduled,Follow-up
+A02216,P0724,D0090,2026-09-11,12:30,Cancelled,New complaint
+A02217,P0641,D0061,2026-02-10,10:00,Completed,Routine consultation
+A02218,P0619,D0025,2026-04-21,14:30,Completed,Follow-up
+A02219,P0673,D0084,2026-07-22,10:00,Completed,Lab review
+A02220,P0226,D0001,2026-02-12,12:30,Scheduled,Routine consultation
+A02221,P0285,D0037,2026-01-08,14:00,Completed,New complaint
+A02222,P0320,D0035,2026-06-06,13:45,No-show,Follow-up
+A02223,P0831,D0016,2026-02-05,15:00,Scheduled,Lab review
+A02224,P0909,D0036,2026-04-27,11:15,Scheduled,New complaint
+A02225,P0030,D0012,2026-03-26,14:45,Completed,Routine consultation
+A02226,P0302,D0039,2026-04-16,12:15,Scheduled,New complaint
+A02227,P0834,D0071,2026-07-06,16:30,Scheduled,Routine consultation
+A02228,P0858,D0061,2026-09-26,16:00,Completed,Routine consultation
+A02229,P0587,D0076,2026-03-08,09:30,Completed,Lab review
+A02230,P0941,D0029,2026-04-22,15:45,Completed,New complaint
+A02231,P0220,D0016,2026-05-28,08:15,Completed,Follow-up
+A02232,P0571,D0006,2026-04-28,13:30,No-show,New complaint
+A02233,P0212,D0088,2026-01-08,12:45,Completed,Lab review
+A02234,P0569,D0060,2026-09-26,11:45,Completed,New complaint
+A02235,P0471,D0003,2026-09-12,12:00,Completed,New complaint
+A02236,P0013,D0001,2026-07-30,13:45,Scheduled,New complaint
+A02237,P0876,D0071,2026-07-13,10:15,Cancelled,Routine consultation
+A02238,P0124,D0075,2026-04-03,16:15,Cancelled,Follow-up
+A02239,P0493,D0072,2026-09-15,14:15,Scheduled,New complaint
+A02240,P0726,D0028,2026-03-10,14:30,Scheduled,Follow-up
+A02241,P0660,D0076,2026-01-06,12:30,No-show,New complaint
+A02242,P0411,D0085,2026-03-27,08:45,No-show,Routine consultation
+A02243,P0238,D0013,2026-05-20,16:30,Completed,Lab review
+A02244,P0534,D0094,2026-05-16,11:30,Completed,Routine consultation
+A02245,P0881,D0056,2026-02-27,16:30,Completed,Follow-up
+A02246,P0030,D0050,2026-05-14,10:00,Scheduled,New complaint
+A02247,P0315,D0072,2026-02-15,15:00,Scheduled,Follow-up
+A02248,P0086,D0089,2026-07-12,12:00,Completed,Lab review
+A02249,P0587,D0034,2026-06-29,13:30,Completed,Follow-up
+A02250,P0214,D0098,2026-09-13,11:00,Cancelled,Follow-up
+A02251,P0182,D0063,2026-07-21,13:45,Completed,New complaint
+A02252,P0500,D0047,2026-09-24,15:45,Scheduled,Lab review
+A02253,P0854,D0100,2026-08-06,09:15,Completed,New complaint
+A02254,P0226,D0100,2026-05-12,09:30,Cancelled,Routine consultation
+A02255,P0806,D0063,2026-06-02,10:45,Cancelled,Follow-up
+A02256,P0870,D0052,2026-04-13,08:45,Completed,Routine consultation
+A02257,P0084,D0029,2026-01-17,09:00,Scheduled,Lab review
+A02258,P0316,D0037,2026-06-07,16:00,Completed,Follow-up
+A02259,P0634,D0021,2026-07-31,12:45,Scheduled,Lab review
+A02260,P0885,D0093,2026-01-07,09:00,Completed,New complaint
+A02261,P0846,D0059,2026-02-19,14:30,Scheduled,Routine consultation
+A02262,P0928,D0062,2026-06-09,09:30,Completed,Routine consultation
+A02263,P0473,D0086,2026-07-15,15:45,Completed,New complaint
+A02264,P0122,D0006,2026-04-03,08:45,Cancelled,Follow-up
+A02265,P0313,D0029,2026-08-23,10:45,Scheduled,Routine consultation
+A02266,P0582,D0073,2026-07-06,16:45,Completed,Follow-up
+A02267,P0107,D0086,2026-05-17,13:45,Cancelled,Lab review
+A02268,P0161,D0099,2026-07-05,15:15,Cancelled,New complaint
+A02269,P0698,D0043,2026-01-04,09:00,Completed,Routine consultation
+A02270,P0641,D0024,2026-08-27,15:15,Scheduled,New complaint
+A02271,P0417,D0066,2026-01-03,14:30,Scheduled,New complaint
+A02272,P0690,D0078,2026-02-02,08:30,Completed,Lab review
+A02273,P0883,D0076,2026-09-14,14:45,Completed,Follow-up
+A02274,P0279,D0064,2026-04-10,14:30,Completed,New complaint
+A02275,P0406,D0064,2026-04-13,10:45,Scheduled,Lab review
+A02276,P0531,D0057,2026-07-21,12:30,Scheduled,New complaint
+A02277,P0996,D0057,2026-07-17,12:30,Scheduled,Lab review
+A02278,P0875,D0057,2026-07-01,11:30,Cancelled,Lab review
+A02279,P0025,D0100,2026-01-19,10:30,Completed,New complaint
+A02280,P0573,D0093,2026-09-11,10:00,Completed,New complaint
+A02281,P0341,D0004,2026-06-11,11:30,Completed,Lab review
+A02282,P0792,D0062,2026-05-24,16:00,Completed,Lab review
+A02283,P0204,D0094,2026-04-28,16:15,Completed,New complaint
+A02284,P0254,D0053,2026-04-07,10:00,Scheduled,Lab review
+A02285,P0831,D0100,2026-09-26,08:30,Completed,Follow-up
+A02286,P0991,D0036,2026-08-23,11:00,Completed,Routine consultation
+A02287,P0831,D0091,2026-07-17,11:15,Completed,Routine consultation
+A02288,P0822,D0095,2026-06-10,09:00,Cancelled,New complaint
+A02289,P0891,D0069,2026-07-04,16:15,Completed,New complaint
+A02290,P0947,D0051,2026-04-16,11:30,Completed,New complaint
+A02291,P0764,D0005,2026-05-17,14:45,Completed,Follow-up
+A02292,P0271,D0015,2026-09-06,11:45,Completed,Follow-up
+A02293,P0055,D0012,2026-01-28,12:00,Completed,New complaint
+A02294,P0824,D0069,2026-08-12,08:45,Completed,Lab review
+A02295,P0531,D0034,2026-02-28,14:30,Scheduled,New complaint
+A02296,P0531,D0026,2026-09-01,15:15,No-show,Routine consultation
+A02297,P0258,D0028,2026-08-07,09:30,Cancelled,New complaint
+A02298,P0541,D0076,2026-07-10,12:45,Completed,Lab review
+A02299,P0420,D0005,2026-01-12,13:15,Completed,New complaint
+A02300,P0343,D0056,2026-01-15,14:45,Scheduled,Routine consultation
+A02301,P0965,D0021,2026-09-04,09:00,Scheduled,Follow-up
+A02302,P0584,D0015,2026-07-24,09:15,Completed,New complaint
+A02303,P0613,D0083,2026-08-25,12:30,Scheduled,Lab review
+A02304,P0511,D0053,2026-02-22,11:15,No-show,New complaint
+A02305,P0502,D0075,2026-01-05,13:00,Completed,Routine consultation
+A02306,P0908,D0004,2026-07-27,13:00,Cancelled,Lab review
+A02307,P0989,D0059,2026-01-21,15:00,Completed,Lab review
+A02308,P0525,D0026,2026-08-14,16:30,Cancelled,Follow-up
+A02309,P0474,D0028,2026-05-11,16:30,Completed,Lab review
+A02310,P0899,D0034,2026-05-26,08:30,Scheduled,New complaint
+A02311,P0630,D0002,2026-04-05,16:00,Completed,New complaint
+A02312,P0823,D0033,2026-09-17,11:45,Completed,Routine consultation
+A02313,P0765,D0080,2026-08-08,15:30,Completed,Lab review
+A02314,P0565,D0072,2026-05-14,12:00,Scheduled,Lab review
+A02315,P0191,D0081,2026-04-21,08:15,Completed,Lab review
+A02316,P0159,D0055,2026-08-12,08:30,Scheduled,Routine consultation
+A02317,P0212,D0084,2026-03-05,13:15,Completed,Follow-up
+A02318,P0225,D0003,2026-07-25,14:15,No-show,Follow-up
+A02319,P0362,D0034,2026-05-06,13:45,No-show,Follow-up
+A02320,P0823,D0046,2026-01-16,15:00,Completed,Routine consultation
+A02321,P0947,D0021,2026-04-03,15:15,Completed,Follow-up
+A02322,P0572,D0042,2026-07-02,11:00,Completed,Lab review
+A02323,P0681,D0069,2026-03-07,11:00,Completed,Routine consultation
+A02324,P0828,D0008,2026-07-16,16:15,Completed,Routine consultation
+A02325,P0932,D0045,2026-01-17,11:00,Completed,Lab review
+A02326,P0455,D0097,2026-08-18,11:30,Cancelled,New complaint
+A02327,P0278,D0092,2026-04-15,16:15,Completed,Lab review
+A02328,P0384,D0011,2026-05-02,16:00,Completed,New complaint
+A02329,P0448,D0036,2026-03-16,11:15,Cancelled,Lab review
+A02330,P0190,D0047,2026-02-20,16:30,Completed,New complaint
+A02331,P0345,D0044,2026-08-03,16:00,Scheduled,Follow-up
+A02332,P0589,D0055,2026-01-28,16:00,Scheduled,Lab review
+A02333,P0397,D0014,2026-06-05,12:45,Scheduled,Lab review
+A02334,P0600,D0095,2026-01-08,12:30,Completed,Lab review
+A02335,P0671,D0033,2026-01-16,16:15,Completed,Lab review
+A02336,P0028,D0057,2026-01-22,11:30,No-show,New complaint
+A02337,P0616,D0090,2026-07-04,13:30,Scheduled,Follow-up
+A02338,P0880,D0008,2026-07-08,13:00,Completed,Follow-up
+A02339,P0795,D0043,2026-03-20,15:45,Completed,New complaint
+A02340,P0382,D0074,2026-09-12,15:30,Cancelled,Lab review
+A02341,P0223,D0066,2026-05-26,09:15,Completed,Lab review
+A02342,P0631,D0005,2026-05-08,15:45,Completed,Routine consultation
+A02343,P0615,D0037,2026-05-26,13:30,Completed,Lab review
+A02344,P0945,D0093,2026-08-02,15:30,Cancelled,Routine consultation
+A02345,P0203,D0087,2026-08-12,14:15,Scheduled,New complaint
+A02346,P0338,D0047,2026-09-08,09:15,Scheduled,Lab review
+A02347,P0442,D0058,2026-01-16,10:45,Completed,Routine consultation
+A02348,P0802,D0020,2026-07-12,12:00,Cancelled,Follow-up
+A02349,P0407,D0047,2026-09-09,10:45,Completed,Routine consultation
+A02350,P0711,D0081,2026-05-25,13:00,Completed,Routine consultation
+A02351,P0348,D0037,2026-09-12,08:00,No-show,Lab review
+A02352,P0365,D0080,2026-05-04,12:30,No-show,Lab review
+A02353,P0435,D0072,2026-08-11,10:00,No-show,Follow-up
+A02354,P0717,D0098,2026-04-15,13:45,Completed,Routine consultation
+A02355,P0823,D0096,2026-07-02,08:30,Scheduled,Routine consultation
+A02356,P0301,D0026,2026-09-15,14:00,Completed,Routine consultation
+A02357,P0573,D0042,2026-07-09,13:45,Scheduled,Routine consultation
+A02358,P0401,D0072,2026-08-22,11:15,Completed,Routine consultation
+A02359,P0037,D0068,2026-05-05,09:45,Scheduled,Lab review
+A02360,P0378,D0048,2026-01-13,09:00,Scheduled,Follow-up
+A02361,P0379,D0027,2026-02-10,09:00,Completed,Follow-up
+A02362,P0034,D0079,2026-07-27,12:00,Scheduled,Follow-up
+A02363,P0512,D0076,2026-04-22,14:15,Completed,Routine consultation
+A02364,P0532,D0022,2026-05-01,16:45,No-show,Routine consultation
+A02365,P0291,D0058,2026-04-19,16:30,Completed,New complaint
+A02366,P0255,D0096,2026-08-20,14:45,Cancelled,Follow-up
+A02367,P0307,D0066,2026-01-05,16:15,Scheduled,Follow-up
+A02368,P0446,D0038,2026-05-31,10:45,Completed,Follow-up
+A02369,P0869,D0004,2026-07-31,12:30,Completed,Follow-up
+A02370,P0417,D0031,2026-03-27,15:45,Completed,Lab review
+A02371,P0455,D0039,2026-09-23,09:45,Completed,Follow-up
+A02372,P0680,D0012,2026-06-09,14:45,Completed,Lab review
+A02373,P0256,D0012,2026-07-16,11:30,Cancelled,Lab review
+A02374,P0670,D0019,2026-08-12,14:30,Completed,Lab review
+A02375,P0812,D0075,2026-01-06,10:45,Scheduled,New complaint
+A02376,P0429,D0086,2026-05-18,14:45,No-show,Routine consultation
+A02377,P0860,D0018,2026-03-04,16:15,Scheduled,Follow-up
+A02378,P0393,D0072,2026-05-05,10:30,Completed,Follow-up
+A02379,P0213,D0030,2026-01-27,11:45,Completed,Lab review
+A02380,P0209,D0066,2026-01-28,14:00,Completed,Lab review
+A02381,P0514,D0032,2026-09-24,13:45,Completed,Lab review
+A02382,P0703,D0042,2026-06-18,13:45,Scheduled,New complaint
+A02383,P0515,D0050,2026-07-24,13:45,Scheduled,Routine consultation
+A02384,P0069,D0095,2026-01-28,13:30,Completed,New complaint
+A02385,P0655,D0033,2026-09-03,14:30,No-show,Lab review
+A02386,P0170,D0060,2026-04-20,14:15,Completed,New complaint
+A02387,P0364,D0025,2026-02-24,12:45,Cancelled,Lab review
+A02388,P0299,D0020,2026-04-01,08:00,Completed,New complaint
+A02389,P0733,D0013,2026-08-15,12:45,Cancelled,Follow-up
+A02390,P0085,D0081,2026-01-26,11:30,Scheduled,Lab review
+A02391,P0384,D0081,2026-01-12,13:45,Completed,Follow-up
+A02392,P0051,D0070,2026-06-12,16:30,Completed,Lab review
+A02393,P0727,D0073,2026-04-07,10:15,Completed,New complaint
+A02394,P0191,D0063,2026-08-05,14:15,Scheduled,Routine consultation
+A02395,P0210,D0071,2026-05-23,10:15,Completed,New complaint
+A02396,P0755,D0063,2026-01-21,16:00,Completed,Lab review
+A02397,P0542,D0035,2026-03-19,10:00,Completed,Lab review
+A02398,P0342,D0017,2026-07-28,13:00,Completed,Follow-up
+A02399,P0981,D0015,2026-06-29,14:00,Cancelled,Follow-up
+A02400,P0046,D0040,2026-06-12,16:15,No-show,Routine consultation
+A02401,P0127,D0029,2026-09-05,15:30,Completed,Routine consultation
+A02402,P0112,D0052,2026-01-06,10:15,Completed,New complaint
+A02403,P0843,D0059,2026-05-28,13:15,Completed,New complaint
+A02404,P0291,D0032,2026-05-03,10:00,Completed,Follow-up
+A02405,P0820,D0012,2026-08-16,12:15,Completed,New complaint
+A02406,P0877,D0006,2026-07-30,13:45,Completed,Follow-up
+A02407,P0992,D0046,2026-07-25,09:45,Completed,Routine consultation
+A02408,P0465,D0042,2026-08-03,10:30,Completed,Follow-up
+A02409,P0916,D0007,2026-08-04,15:15,Scheduled,New complaint
+A02410,P0466,D0093,2026-08-31,08:15,Completed,Routine consultation
+A02411,P0564,D0063,2026-01-04,13:45,Completed,Routine consultation
+A02412,P0792,D0010,2026-06-13,15:00,No-show,Routine consultation
+A02413,P0465,D0089,2026-09-25,09:45,Scheduled,Follow-up
+A02414,P0589,D0030,2026-05-04,13:15,Scheduled,Follow-up
+A02415,P0543,D0037,2026-01-09,13:30,Scheduled,Lab review
+A02416,P0485,D0008,2026-02-11,14:30,Cancelled,Lab review
+A02417,P0724,D0068,2026-04-07,10:00,Completed,Follow-up
+A02418,P0700,D0034,2026-05-19,10:45,Completed,Lab review
+A02419,P0147,D0093,2026-06-19,09:00,Completed,Routine consultation
+A02420,P0558,D0065,2026-02-03,13:30,Completed,Lab review
+A02421,P0195,D0037,2026-02-20,08:15,Completed,Lab review
+A02422,P0208,D0098,2026-05-07,11:45,Completed,Lab review
+A02423,P0199,D0060,2026-09-04,13:30,Scheduled,Routine consultation
+A02424,P0123,D0052,2026-01-02,16:30,Scheduled,Lab review
+A02425,P0034,D0082,2026-04-30,15:45,Scheduled,Routine consultation
+A02426,P0452,D0008,2026-08-25,08:30,Completed,Follow-up
+A02427,P0884,D0028,2026-06-24,10:15,No-show,New complaint
+A02428,P0390,D0068,2026-02-17,15:30,Completed,New complaint
+A02429,P0364,D0078,2026-08-16,13:00,Completed,Follow-up
+A02430,P0059,D0088,2026-05-03,08:00,Completed,Lab review
+A02431,P0254,D0092,2026-02-12,14:15,Scheduled,New complaint
+A02432,P0660,D0064,2026-04-19,14:30,Completed,Lab review
+A02433,P0359,D0091,2026-06-03,08:45,Scheduled,Lab review
+A02434,P0585,D0026,2026-07-01,10:30,No-show,Lab review
+A02435,P0873,D0049,2026-08-28,08:45,Cancelled,Routine consultation
+A02436,P0891,D0002,2026-05-14,14:15,Completed,Lab review
+A02437,P0461,D0015,2026-08-06,10:15,Scheduled,Follow-up
+A02438,P0955,D0081,2026-07-30,08:15,Scheduled,Routine consultation
+A02439,P0525,D0003,2026-03-04,16:45,Scheduled,Routine consultation
+A02440,P0602,D0084,2026-04-23,14:00,Completed,Lab review
+A02441,P0670,D0060,2026-01-02,16:00,Completed,Follow-up
+A02442,P0683,D0022,2026-03-11,15:45,Completed,Lab review
+A02443,P0844,D0063,2026-09-26,15:45,Cancelled,Routine consultation
+A02444,P0138,D0090,2026-02-13,12:45,Completed,Follow-up
+A02445,P0438,D0083,2026-02-21,09:30,Scheduled,New complaint
+A02446,P0988,D0063,2026-06-06,14:00,Completed,Lab review
+A02447,P0608,D0022,2026-07-05,14:00,Completed,Lab review
+A02448,P0411,D0031,2026-03-03,11:30,Cancelled,New complaint
+A02449,P0361,D0006,2026-05-25,16:15,Completed,Lab review
+A02450,P0765,D0035,2026-02-24,14:45,Cancelled,New complaint
+A02451,P0555,D0016,2026-08-31,11:30,Scheduled,Routine consultation
+A02452,P0522,D0058,2026-09-08,15:30,No-show,Lab review
+A02453,P0383,D0079,2026-09-13,15:15,No-show,Lab review
+A02454,P0382,D0050,2026-06-07,11:15,Scheduled,New complaint
+A02455,P0149,D0099,2026-03-05,10:30,Completed,Routine consultation
+A02456,P0914,D0033,2026-04-13,08:45,Completed,Routine consultation
+A02457,P0115,D0074,2026-03-18,14:45,Completed,New complaint
+A02458,P0245,D0087,2026-04-07,11:30,Completed,Routine consultation
+A02459,P0571,D0028,2026-05-06,16:45,Completed,New complaint
+A02460,P0383,D0030,2026-03-09,16:45,Completed,Lab review
+A02461,P0055,D0018,2026-04-02,14:15,Scheduled,Lab review
+A02462,P0517,D0016,2026-09-09,12:45,Completed,Follow-up
+A02463,P0764,D0048,2026-07-26,11:30,Completed,Follow-up
+A02464,P0593,D0029,2026-03-26,10:15,Completed,New complaint
+A02465,P0928,D0002,2026-09-19,14:30,Scheduled,Lab review
+A02466,P0324,D0042,2026-08-13,13:00,No-show,New complaint
+A02467,P0308,D0027,2026-09-05,09:45,Completed,Follow-up
+A02468,P0657,D0041,2026-06-04,11:30,Completed,Follow-up
+A02469,P0707,D0043,2026-09-15,09:00,Completed,Routine consultation
+A02470,P0052,D0080,2026-03-14,15:15,Completed,Routine consultation
+A02471,P0462,D0083,2026-04-07,14:30,Completed,New complaint
+A02472,P0205,D0074,2026-04-06,12:15,Completed,New complaint
+A02473,P0333,D0003,2026-08-24,08:30,Completed,Lab review
+A02474,P0822,D0014,2026-04-27,12:30,Completed,Routine consultation
+A02475,P0879,D0063,2026-01-09,12:15,Scheduled,New complaint
+A02476,P0286,D0075,2026-05-14,11:30,Completed,Routine consultation
+A02477,P0518,D0070,2026-02-24,16:00,Cancelled,New complaint
+A02478,P0781,D0081,2026-02-28,11:15,Scheduled,Lab review
+A02479,P0542,D0040,2026-08-18,13:15,Scheduled,Routine consultation
+A02480,P0734,D0064,2026-02-21,09:30,Completed,Follow-up
+A02481,P0406,D0007,2026-06-03,15:30,Scheduled,New complaint
+A02482,P0192,D0039,2026-05-27,10:45,Cancelled,Lab review
+A02483,P0167,D0001,2026-06-15,12:45,Cancelled,Routine consultation
+A02484,P0813,D0050,2026-04-29,13:30,Scheduled,Follow-up
+A02485,P0005,D0063,2026-03-15,11:30,Cancelled,Routine consultation
+A02486,P0235,D0036,2026-08-16,11:30,Completed,Routine consultation
+A02487,P0702,D0007,2026-06-24,12:45,Scheduled,Routine consultation
+A02488,P0949,D0074,2026-08-02,08:15,Completed,Routine consultation
+A02489,P0111,D0051,2026-01-27,15:30,Completed,Follow-up
+A02490,P0758,D0023,2026-02-08,12:00,Completed,Follow-up
+A02491,P0500,D0044,2026-03-26,12:00,Completed,New complaint
+A02492,P0447,D0033,2026-09-21,08:30,Scheduled,Routine consultation
+A02493,P0125,D0025,2026-09-28,13:30,Completed,Follow-up
+A02494,P0749,D0002,2026-08-11,14:30,Completed,Lab review
+A02495,P0714,D0098,2026-02-04,13:45,Cancelled,Routine consultation
+A02496,P0745,D0061,2026-08-13,09:30,Completed,Routine consultation
+A02497,P0607,D0023,2026-06-18,10:30,Completed,Routine consultation
+A02498,P0585,D0075,2026-02-22,12:15,Cancelled,Lab review
+A02499,P0113,D0037,2026-09-15,09:30,Completed,Routine consultation
+A02500,P0711,D0091,2026-04-21,16:30,Completed,Follow-up
+A02501,P0423,D0042,2026-03-03,12:15,Completed,Routine consultation
+A02502,P0462,D0039,2026-03-25,08:00,Cancelled,Follow-up
+A02503,P0719,D0040,2026-01-27,16:30,Completed,New complaint
+A02504,P0557,D0010,2026-07-26,13:30,Scheduled,Follow-up
+A02505,P0254,D0085,2026-08-26,10:00,Completed,Lab review
+A02506,P0980,D0035,2026-02-22,14:30,Scheduled,Routine consultation
+A02507,P0737,D0015,2026-06-10,11:15,Scheduled,Routine consultation
+A02508,P0064,D0067,2026-02-18,09:15,Completed,Follow-up
+A02509,P0413,D0069,2026-04-22,09:30,Scheduled,Follow-up
+A02510,P0957,D0092,2026-05-29,10:30,No-show,Follow-up
+A02511,P0179,D0051,2026-03-17,12:45,Completed,Routine consultation
+A02512,P0143,D0041,2026-05-05,10:00,Completed,Lab review
+A02513,P0452,D0006,2026-03-23,11:45,Cancelled,New complaint
+A02514,P0792,D0018,2026-07-17,08:30,Scheduled,Follow-up
+A02515,P0932,D0061,2026-09-10,14:45,Completed,New complaint
+A02516,P0041,D0058,2026-09-07,10:00,Scheduled,Follow-up
+A02517,P0247,D0028,2026-05-30,08:00,Scheduled,Lab review
+A02518,P0990,D0019,2026-02-07,08:45,Completed,New complaint
+A02519,P0188,D0056,2026-03-12,13:30,Completed,Routine consultation
+A02520,P0608,D0023,2026-08-12,16:15,Completed,New complaint
+A02521,P0717,D0024,2026-04-30,16:30,Completed,Routine consultation
+A02522,P0930,D0049,2026-03-28,16:15,Scheduled,Follow-up
+A02523,P0529,D0003,2026-08-24,16:45,Completed,Routine consultation
+A02524,P0361,D0059,2026-05-21,10:15,Scheduled,Follow-up
+A02525,P0593,D0031,2026-02-10,16:30,Completed,Routine consultation
+A02526,P0667,D0025,2026-08-07,10:00,Completed,Lab review
+A02527,P0008,D0061,2026-08-28,08:30,No-show,Routine consultation
+A02528,P0007,D0093,2026-09-11,15:30,Scheduled,Lab review
+A02529,P0802,D0045,2026-05-25,14:15,Completed,New complaint
+A02530,P0244,D0070,2026-08-01,10:00,No-show,Lab review
+A02531,P0566,D0036,2026-07-03,09:30,Scheduled,Lab review
+A02532,P0597,D0043,2026-03-29,10:30,Completed,Follow-up
+A02533,P0628,D0009,2026-04-07,08:30,Completed,Routine consultation
+A02534,P0113,D0096,2026-07-31,11:30,Scheduled,Routine consultation
+A02535,P0317,D0044,2026-01-14,14:45,Completed,Follow-up
+A02536,P0775,D0046,2026-08-08,11:45,Scheduled,Routine consultation
+A02537,P0067,D0063,2026-06-21,08:30,Completed,Follow-up
+A02538,P0138,D0054,2026-03-14,11:30,Cancelled,New complaint
+A02539,P0727,D0026,2026-09-15,15:00,Cancelled,Follow-up
+A02540,P0144,D0067,2026-04-21,16:00,Completed,Routine consultation
+A02541,P0968,D0040,2026-09-27,11:30,Scheduled,Lab review
+A02542,P0925,D0021,2026-03-13,09:00,Completed,Lab review
+A02543,P0913,D0028,2026-08-05,11:45,Completed,Lab review
+A02544,P0920,D0003,2026-04-16,11:00,No-show,New complaint
+A02545,P0837,D0056,2026-03-24,11:00,Scheduled,Lab review
+A02546,P0241,D0069,2026-05-13,08:00,Completed,Routine consultation
+A02547,P0561,D0048,2026-05-05,14:30,Scheduled,Routine consultation
+A02548,P0513,D0020,2026-01-23,10:00,Completed,Lab review
+A02549,P0459,D0006,2026-01-13,16:00,Completed,Lab review
+A02550,P0650,D0071,2026-08-05,09:45,Completed,New complaint
+A02551,P0289,D0073,2026-04-09,10:00,Scheduled,New complaint
+A02552,P0986,D0003,2026-01-06,11:15,Completed,Lab review
+A02553,P0742,D0027,2026-09-11,12:15,Completed,Follow-up
+A02554,P0370,D0009,2026-02-23,08:45,Cancelled,Routine consultation
+A02555,P0068,D0002,2026-05-31,14:00,Scheduled,Routine consultation
+A02556,P0345,D0047,2026-04-13,09:15,Completed,New complaint
+A02557,P0739,D0061,2026-06-05,10:00,Scheduled,Follow-up
+A02558,P0434,D0097,2026-03-07,11:30,Cancelled,New complaint
+A02559,P0387,D0100,2026-03-08,09:45,Completed,New complaint
+A02560,P0488,D0095,2026-08-21,15:45,Completed,Lab review
+A02561,P0476,D0085,2026-02-02,11:45,Completed,Follow-up
+A02562,P0630,D0059,2026-02-13,16:15,Scheduled,Follow-up
+A02563,P0231,D0005,2026-01-22,12:45,Completed,Routine consultation
+A02564,P0758,D0065,2026-05-10,13:30,Completed,Routine consultation
+A02565,P0117,D0069,2026-08-22,11:30,Scheduled,Routine consultation
+A02566,P0746,D0087,2026-09-13,14:30,Completed,Routine consultation
+A02567,P0523,D0043,2026-06-28,15:30,Scheduled,Routine consultation
+A02568,P0738,D0018,2026-06-16,11:45,Completed,Lab review
+A02569,P0598,D0024,2026-06-06,11:15,Completed,Lab review
+A02570,P0234,D0067,2026-05-09,08:45,Completed,New complaint
+A02571,P0056,D0095,2026-08-22,08:15,Completed,Routine consultation
+A02572,P0573,D0085,2026-07-01,11:45,Completed,Routine consultation
+A02573,P0737,D0044,2026-06-27,13:30,Scheduled,Lab review
+A02574,P0461,D0098,2026-05-17,12:00,No-show,New complaint
+A02575,P0660,D0092,2026-08-22,15:15,Cancelled,Follow-up
+A02576,P0467,D0100,2026-02-24,08:00,Completed,Routine consultation
+A02577,P0507,D0098,2026-05-22,08:30,No-show,Routine consultation
+A02578,P0109,D0089,2026-03-30,12:45,Completed,New complaint
+A02579,P0966,D0003,2026-01-08,12:00,No-show,Lab review
+A02580,P0084,D0067,2026-08-07,14:45,Completed,Lab review
+A02581,P0789,D0038,2026-03-18,14:15,Completed,New complaint
+A02582,P0482,D0011,2026-01-31,12:45,Completed,Routine consultation
+A02583,P0478,D0100,2026-03-02,16:45,Completed,Follow-up
+A02584,P0796,D0007,2026-03-22,13:45,Scheduled,Lab review
+A02585,P0251,D0018,2026-04-25,08:45,Completed,New complaint
+A02586,P0674,D0033,2026-08-05,16:45,Scheduled,Routine consultation
+A02587,P0818,D0030,2026-04-20,08:30,Completed,Routine consultation
+A02588,P0268,D0052,2026-08-26,15:15,Cancelled,Follow-up
+A02589,P0290,D0068,2026-05-26,15:00,Completed,Follow-up
+A02590,P0787,D0037,2026-01-31,09:45,Completed,Follow-up
+A02591,P0706,D0049,2026-02-12,12:30,Cancelled,Routine consultation
+A02592,P0475,D0048,2026-09-19,09:15,Scheduled,New complaint
+A02593,P0278,D0031,2026-01-30,08:15,Cancelled,New complaint
+A02594,P0363,D0049,2026-05-19,11:15,Cancelled,New complaint
+A02595,P0216,D0049,2026-06-01,08:30,Completed,Routine consultation
+A02596,P0075,D0044,2026-03-21,11:00,Completed,Routine consultation
+A02597,P0029,D0049,2026-02-28,08:15,Completed,Routine consultation
+A02598,P0055,D0005,2026-05-07,14:15,Completed,Follow-up
+A02599,P0272,D0021,2026-04-01,09:30,Scheduled,New complaint
+A02600,P0836,D0026,2026-08-13,11:30,Scheduled,Follow-up
+A02601,P0127,D0053,2026-06-11,14:00,Completed,Lab review
+A02602,P0424,D0090,2026-06-09,12:15,Completed,Lab review
+A02603,P0450,D0098,2026-06-18,13:15,Scheduled,Lab review
+A02604,P0738,D0083,2026-03-20,14:15,Scheduled,Routine consultation
+A02605,P0991,D0005,2026-02-24,12:30,Completed,Follow-up
+A02606,P0569,D0048,2026-03-10,11:30,Scheduled,Lab review
+A02607,P0972,D0086,2026-09-19,08:15,Scheduled,Lab review
+A02608,P0345,D0004,2026-03-29,16:00,No-show,New complaint
+A02609,P0734,D0086,2026-06-11,08:45,Completed,New complaint
+A02610,P0808,D0038,2026-04-19,13:30,Cancelled,Lab review
+A02611,P0505,D0063,2026-04-03,12:45,Completed,Lab review
+A02612,P0814,D0076,2026-05-21,14:30,Completed,Lab review
+A02613,P0050,D0056,2026-08-07,12:00,Completed,Follow-up
+A02614,P0129,D0095,2026-07-19,12:45,Scheduled,Lab review
+A02615,P0474,D0076,2026-07-06,11:45,Completed,Lab review
+A02616,P0597,D0013,2026-05-29,14:00,Completed,Routine consultation
+A02617,P0161,D0047,2026-05-11,08:45,Completed,Lab review
+A02618,P0095,D0097,2026-04-12,14:00,Completed,Follow-up
+A02619,P0032,D0057,2026-03-14,12:45,Scheduled,New complaint
+A02620,P0724,D0062,2026-03-11,13:00,Completed,Routine consultation
+A02621,P0135,D0048,2026-07-21,08:15,Completed,Follow-up
+A02622,P0971,D0035,2026-06-02,11:30,No-show,New complaint
+A02623,P0438,D0012,2026-07-03,10:15,Scheduled,New complaint
+A02624,P0345,D0040,2026-05-16,14:30,Scheduled,Lab review
+A02625,P0178,D0058,2026-07-01,15:00,Scheduled,Routine consultation
+A02626,P0450,D0094,2026-09-10,12:15,Completed,Follow-up
+A02627,P0924,D0004,2026-03-09,10:30,Completed,Follow-up
+A02628,P0397,D0014,2026-07-21,10:45,Completed,Lab review
+A02629,P0285,D0094,2026-01-16,12:00,No-show,Lab review
+A02630,P0168,D0071,2026-07-07,09:00,Completed,Routine consultation
+A02631,P0007,D0018,2026-03-04,08:30,Scheduled,Follow-up
+A02632,P0794,D0084,2026-03-24,08:45,Completed,Lab review
+A02633,P0453,D0100,2026-07-02,10:15,No-show,New complaint
+A02634,P0187,D0027,2026-09-09,15:30,Scheduled,Lab review
+A02635,P0840,D0082,2026-05-16,11:15,No-show,New complaint
+A02636,P0533,D0028,2026-04-10,10:45,Scheduled,Follow-up
+A02637,P0043,D0002,2026-02-10,13:00,Completed,Routine consultation
+A02638,P0070,D0033,2026-09-08,15:15,Completed,Lab review
+A02639,P0995,D0044,2026-09-25,14:45,Completed,New complaint
+A02640,P0488,D0032,2026-02-04,13:30,Completed,Routine consultation
+A02641,P0574,D0073,2026-07-02,10:00,Scheduled,Routine consultation
+A02642,P0682,D0073,2026-08-21,11:00,No-show,Routine consultation
+A02643,P0479,D0058,2026-09-01,11:15,Cancelled,Follow-up
+A02644,P0198,D0036,2026-02-23,10:45,No-show,Lab review
+A02645,P0916,D0099,2026-09-22,13:00,Completed,New complaint
+A02646,P0422,D0070,2026-07-11,08:15,Scheduled,Routine consultation
+A02647,P0177,D0004,2026-01-31,15:15,Scheduled,New complaint
+A02648,P0535,D0075,2026-02-13,10:00,Cancelled,Lab review
+A02649,P0611,D0083,2026-06-27,10:15,Scheduled,New complaint
+A02650,P0215,D0010,2026-01-20,10:15,Cancelled,New complaint
+A02651,P0370,D0058,2026-06-29,09:45,Scheduled,Routine consultation
+A02652,P0015,D0071,2026-04-12,10:15,Completed,Routine consultation
+A02653,P0962,D0009,2026-08-11,08:30,Completed,Routine consultation
+A02654,P0970,D0029,2026-03-28,12:00,No-show,Routine consultation
+A02655,P0506,D0084,2026-08-16,16:45,Completed,New complaint
+A02656,P0973,D0001,2026-06-16,13:30,Scheduled,Routine consultation
+A02657,P0304,D0080,2026-06-05,13:00,Cancelled,New complaint
+A02658,P0423,D0080,2026-04-01,11:45,Completed,New complaint
+A02659,P0514,D0055,2026-03-07,15:15,No-show,Routine consultation
+A02660,P0041,D0040,2026-03-05,12:15,Scheduled,Follow-up
+A02661,P0699,D0089,2026-05-19,13:00,Completed,New complaint
+A02662,P0898,D0050,2026-03-16,09:45,Completed,Follow-up
+A02663,P0110,D0055,2026-06-01,11:30,Scheduled,New complaint
+A02664,P0453,D0072,2026-08-18,12:00,Cancelled,New complaint
+A02665,P0458,D0035,2026-09-19,13:30,Scheduled,Routine consultation
+A02666,P0469,D0083,2026-01-28,14:45,Completed,New complaint
+A02667,P0640,D0031,2026-05-29,09:45,Scheduled,New complaint
+A02668,P0485,D0007,2026-06-12,11:45,Completed,Follow-up
+A02669,P0442,D0095,2026-05-23,11:00,Completed,Follow-up
+A02670,P0560,D0002,2026-05-13,11:45,Completed,Routine consultation
+A02671,P0644,D0076,2026-05-30,08:45,Completed,Lab review
+A02672,P0383,D0051,2026-02-04,16:45,Scheduled,Follow-up
+A02673,P0854,D0100,2026-08-10,10:00,Scheduled,Follow-up
+A02674,P0988,D0044,2026-03-23,15:15,Scheduled,Routine consultation
+A02675,P0913,D0062,2026-03-14,13:45,No-show,Routine consultation
+A02676,P0028,D0071,2026-03-21,11:00,Scheduled,New complaint
+A02677,P0377,D0030,2026-09-17,13:00,Completed,Lab review
+A02678,P0390,D0003,2026-04-03,13:45,Completed,Routine consultation
+A02679,P0418,D0084,2026-06-20,15:15,Scheduled,Follow-up
+A02680,P0075,D0032,2026-01-16,11:30,Cancelled,New complaint
+A02681,P0603,D0066,2026-06-23,11:15,Completed,Lab review
+A02682,P0755,D0064,2026-08-16,15:00,Cancelled,New complaint
+A02683,P0279,D0049,2026-01-23,08:45,Completed,Lab review
+A02684,P0033,D0007,2026-05-03,11:45,Scheduled,Routine consultation
+A02685,P0202,D0050,2026-09-07,12:30,Scheduled,Routine consultation
+A02686,P0448,D0024,2026-07-15,11:45,Cancelled,Lab review
+A02687,P0853,D0001,2026-09-02,15:30,Scheduled,Lab review
+A02688,P0440,D0016,2026-07-11,16:45,Completed,Lab review
+A02689,P0281,D0022,2026-09-13,12:00,Completed,Lab review
+A02690,P0112,D0093,2026-04-30,09:30,Scheduled,New complaint
+A02691,P0726,D0034,2026-03-30,14:15,Scheduled,Follow-up
+A02692,P0210,D0092,2026-02-12,10:15,Completed,Follow-up
+A02693,P0015,D0060,2026-03-04,13:00,Scheduled,Routine consultation
+A02694,P0297,D0092,2026-04-19,10:00,Completed,Lab review
+A02695,P0946,D0062,2026-06-29,14:45,Completed,Lab review
+A02696,P0400,D0001,2026-02-26,15:45,Completed,New complaint
+A02697,P0412,D0088,2026-04-29,09:00,Cancelled,Lab review
+A02698,P0504,D0086,2026-07-09,15:45,No-show,New complaint
+A02699,P0395,D0052,2026-07-10,15:45,Cancelled,New complaint
+A02700,P0129,D0002,2026-07-21,08:30,Completed,Lab review
+A02701,P0338,D0042,2026-03-13,14:30,No-show,Routine consultation
+A02702,P0295,D0074,2026-09-09,13:00,Scheduled,New complaint
+A02703,P0148,D0060,2026-09-28,10:45,Completed,Lab review
+A02704,P0442,D0010,2026-03-14,10:00,Scheduled,Lab review
+A02705,P0610,D0069,2026-01-21,14:15,Completed,Follow-up
+A02706,P0036,D0008,2026-09-27,14:30,Completed,New complaint
+A02707,P0882,D0056,2026-03-13,12:45,Completed,Routine consultation
+A02708,P0264,D0032,2026-05-06,10:00,Completed,Routine consultation
+A02709,P0841,D0003,2026-04-08,11:15,Cancelled,Routine consultation
+A02710,P0685,D0003,2026-02-27,16:30,Completed,Lab review
+A02711,P0352,D0067,2026-09-14,16:30,Completed,Lab review
+A02712,P0158,D0073,2026-03-10,12:30,Completed,Lab review
+A02713,P0422,D0078,2026-02-08,12:15,Completed,Lab review
+A02714,P0325,D0010,2026-06-27,15:15,No-show,Follow-up
+A02715,P0673,D0031,2026-09-14,15:00,Completed,New complaint
+A02716,P0673,D0027,2026-08-06,14:15,Cancelled,Lab review
+A02717,P0476,D0084,2026-08-12,12:00,Completed,Follow-up
+A02718,P0710,D0016,2026-06-17,14:00,Scheduled,Routine consultation
+A02719,P0882,D0055,2026-08-10,10:30,No-show,Lab review
+A02720,P0607,D0026,2026-08-29,14:15,Completed,Lab review
+A02721,P0857,D0015,2026-03-12,14:30,Completed,New complaint
+A02722,P0579,D0094,2026-04-08,14:45,Cancelled,Routine consultation
+A02723,P0671,D0064,2026-02-16,08:15,Cancelled,Routine consultation
+A02724,P0193,D0070,2026-06-10,10:00,No-show,New complaint
+A02725,P0128,D0100,2026-03-23,09:15,Cancelled,Lab review
+A02726,P0921,D0046,2026-02-08,08:30,Scheduled,New complaint
+A02727,P0428,D0089,2026-03-29,12:30,Completed,Routine consultation
+A02728,P0436,D0053,2026-02-18,14:30,Completed,Follow-up
+A02729,P0535,D0020,2026-04-19,13:00,Completed,Follow-up
+A02730,P0247,D0087,2026-07-16,10:30,Completed,Lab review
+A02731,P0659,D0064,2026-01-08,11:00,Completed,Lab review
+A02732,P0063,D0019,2026-02-03,12:15,Cancelled,Lab review
+A02733,P0500,D0036,2026-04-08,13:00,Completed,Follow-up
+A02734,P0876,D0075,2026-05-07,10:00,Scheduled,New complaint
+A02735,P0277,D0001,2026-01-13,10:30,Completed,Follow-up
+A02736,P0480,D0062,2026-02-14,08:00,Completed,Follow-up
+A02737,P0962,D0017,2026-05-01,13:15,Scheduled,New complaint
+A02738,P0447,D0046,2026-09-01,11:45,Completed,New complaint
+A02739,P0131,D0057,2026-07-23,09:45,Completed,Follow-up
+A02740,P0571,D0014,2026-06-22,13:30,Completed,Routine consultation
+A02741,P0439,D0014,2026-04-03,14:45,Completed,Follow-up
+A02742,P0184,D0060,2026-04-22,10:30,Scheduled,Follow-up
+A02743,P0957,D0083,2026-02-05,13:00,Completed,Lab review
+A02744,P0448,D0021,2026-04-24,11:00,Completed,Lab review
+A02745,P0832,D0058,2026-09-16,10:30,Completed,Follow-up
+A02746,P0227,D0058,2026-02-05,10:00,Cancelled,Routine consultation
+A02747,P0614,D0032,2026-03-17,15:30,Scheduled,Lab review
+A02748,P0972,D0037,2026-06-11,15:00,Cancelled,Routine consultation
+A02749,P0182,D0005,2026-02-15,14:15,Cancelled,New complaint
+A02750,P0004,D0092,2026-06-16,09:00,Completed,Lab review
+A02751,P0898,D0028,2026-04-08,14:30,Completed,Lab review
+A02752,P0767,D0100,2026-05-09,11:15,Scheduled,New complaint
+A02753,P0161,D0089,2026-02-17,12:15,Scheduled,Routine consultation
+A02754,P0170,D0057,2026-01-29,15:15,Completed,Follow-up
+A02755,P0521,D0007,2026-06-13,10:45,Cancelled,New complaint
+A02756,P0058,D0078,2026-06-13,15:00,Cancelled,Follow-up
+A02757,P0015,D0006,2026-07-10,11:00,Scheduled,Routine consultation
+A02758,P0351,D0066,2026-08-05,11:15,Scheduled,New complaint
+A02759,P0291,D0052,2026-09-01,15:30,Completed,New complaint
+A02760,P0567,D0085,2026-03-03,15:15,Completed,New complaint
+A02761,P0281,D0054,2026-01-15,11:30,Scheduled,Follow-up
+A02762,P0363,D0084,2026-04-05,12:45,Scheduled,New complaint
+A02763,P0343,D0038,2026-09-28,12:00,Scheduled,Follow-up
+A02764,P0321,D0064,2026-06-20,09:45,Completed,Routine consultation
+A02765,P0807,D0094,2026-09-21,13:00,Cancelled,New complaint
+A02766,P0721,D0073,2026-07-22,14:30,Completed,New complaint
+A02767,P0043,D0082,2026-06-17,14:00,No-show,Follow-up
+A02768,P0158,D0024,2026-04-23,15:30,Scheduled,New complaint
+A02769,P0653,D0018,2026-05-20,16:30,Completed,Follow-up
+A02770,P0095,D0094,2026-04-05,10:30,Completed,Lab review
+A02771,P0465,D0083,2026-09-03,13:15,Completed,New complaint
+A02772,P0280,D0009,2026-07-23,14:00,Completed,New complaint
+A02773,P0190,D0080,2026-06-07,11:00,Cancelled,Routine consultation
+A02774,P0159,D0023,2026-02-09,11:45,Scheduled,Follow-up
+A02775,P0371,D0082,2026-03-04,08:15,Scheduled,Lab review
+A02776,P0622,D0082,2026-04-08,10:15,Completed,Routine consultation
+A02777,P0571,D0034,2026-06-06,14:15,Completed,New complaint
+A02778,P0944,D0070,2026-06-18,11:00,Completed,Follow-up
+A02779,P0469,D0088,2026-05-31,15:45,Scheduled,Routine consultation
+A02780,P0319,D0039,2026-08-13,16:15,Completed,New complaint
+A02781,P0442,D0088,2026-07-13,12:15,Cancelled,Lab review
+A02782,P0518,D0021,2026-04-18,16:45,Cancelled,Lab review
+A02783,P0344,D0075,2026-01-09,16:30,Completed,New complaint
+A02784,P0387,D0049,2026-03-26,15:15,Scheduled,Follow-up
+A02785,P0459,D0095,2026-04-18,10:30,Cancelled,New complaint
+A02786,P0944,D0070,2026-05-06,12:45,Cancelled,Follow-up
+A02787,P0479,D0023,2026-08-31,08:30,Completed,Follow-up
+A02788,P0427,D0051,2026-05-10,12:45,Completed,Lab review
+A02789,P0090,D0070,2026-02-21,12:45,Completed,New complaint
+A02790,P0515,D0071,2026-09-20,14:15,Completed,New complaint
+A02791,P0619,D0033,2026-03-28,12:30,Cancelled,Follow-up
+A02792,P0637,D0091,2026-07-04,09:45,Completed,Routine consultation
+A02793,P0049,D0072,2026-04-28,12:30,No-show,Follow-up
+A02794,P0558,D0004,2026-05-01,09:15,Completed,Follow-up
+A02795,P0600,D0009,2026-05-18,15:45,Cancelled,Follow-up
+A02796,P0647,D0079,2026-09-10,15:15,Scheduled,Routine consultation
+A02797,P0953,D0004,2026-02-16,10:15,Completed,Follow-up
+A02798,P0185,D0004,2026-02-19,16:30,Completed,Follow-up
+A02799,P0156,D0028,2026-05-04,09:30,Completed,Follow-up
+A02800,P0696,D0009,2026-05-05,14:15,Completed,Routine consultation
+A02801,P0497,D0006,2026-04-01,09:15,Completed,Routine consultation
+A02802,P0036,D0015,2026-08-07,15:15,Completed,Lab review
+A02803,P0680,D0099,2026-01-10,11:00,Completed,Lab review
+A02804,P0716,D0001,2026-07-24,08:00,Scheduled,Routine consultation
+A02805,P0864,D0028,2026-08-26,14:30,Cancelled,Follow-up
+A02806,P0264,D0028,2026-05-31,12:15,Scheduled,New complaint
+A02807,P0321,D0037,2026-02-28,13:00,Scheduled,Lab review
+A02808,P0477,D0081,2026-08-11,09:00,Completed,New complaint
+A02809,P0145,D0069,2026-01-06,10:45,No-show,Routine consultation
+A02810,P0639,D0031,2026-05-11,08:00,Scheduled,Routine consultation
+A02811,P0184,D0027,2026-04-14,12:00,Completed,New complaint
+A02812,P0882,D0077,2026-01-07,08:30,Cancelled,Follow-up
+A02813,P0560,D0030,2026-04-02,12:00,Completed,Lab review
+A02814,P0165,D0047,2026-04-06,15:45,Completed,Routine consultation
+A02815,P0115,D0013,2026-03-25,09:15,Completed,Lab review
+A02816,P0172,D0050,2026-05-29,10:15,Completed,Routine consultation
+A02817,P0457,D0065,2026-02-21,09:45,Completed,New complaint
+A02818,P0755,D0018,2026-08-28,16:45,No-show,Routine consultation
+A02819,P0342,D0025,2026-04-02,13:00,Completed,Lab review
+A02820,P0240,D0100,2026-03-28,14:45,Completed,Follow-up
+A02821,P0495,D0088,2026-01-21,12:00,Cancelled,Lab review
+A02822,P0969,D0087,2026-04-17,08:30,Completed,Follow-up
+A02823,P0799,D0010,2026-02-09,16:30,Completed,Lab review
+A02824,P0815,D0041,2026-01-15,15:30,Completed,Lab review
+A02825,P0561,D0038,2026-09-14,13:15,Completed,New complaint
+A02826,P0801,D0064,2026-08-17,08:15,Completed,New complaint
+A02827,P0752,D0001,2026-08-20,15:00,Scheduled,Follow-up
+A02828,P0280,D0085,2026-01-13,15:45,Completed,Routine consultation
+A02829,P0330,D0042,2026-06-23,16:15,Scheduled,Routine consultation
+A02830,P0453,D0022,2026-02-13,15:15,Completed,New complaint
+A02831,P0579,D0004,2026-05-05,10:15,Completed,Follow-up
+A02832,P0111,D0012,2026-03-08,08:30,Scheduled,Routine consultation
+A02833,P0438,D0026,2026-04-09,12:00,Cancelled,Routine consultation
+A02834,P0031,D0023,2026-02-07,08:30,Completed,New complaint
+A02835,P0691,D0061,2026-06-11,09:00,Scheduled,Lab review
+A02836,P0472,D0007,2026-09-01,09:00,Scheduled,Lab review
+A02837,P0935,D0066,2026-06-30,15:45,Scheduled,Follow-up
+A02838,P0850,D0008,2026-02-15,10:30,Completed,Routine consultation
+A02839,P0963,D0032,2026-06-07,12:00,Completed,Routine consultation
+A02840,P0772,D0036,2026-02-01,09:00,Cancelled,Lab review
+A02841,P0476,D0057,2026-07-28,15:45,Completed,Routine consultation
+A02842,P0579,D0052,2026-06-23,10:30,Scheduled,Routine consultation
+A02843,P0810,D0013,2026-09-05,08:15,Completed,Lab review
+A02844,P0891,D0060,2026-06-19,09:45,Scheduled,Routine consultation
+A02845,P0569,D0001,2026-03-08,10:15,Completed,Lab review
+A02846,P0517,D0021,2026-04-28,12:45,Completed,Follow-up
+A02847,P0061,D0080,2026-06-15,11:15,Cancelled,Follow-up
+A02848,P0803,D0031,2026-05-18,16:45,Completed,New complaint
+A02849,P0635,D0078,2026-03-31,15:15,Cancelled,Follow-up
+A02850,P0914,D0088,2026-04-21,13:45,Scheduled,Follow-up
+A02851,P0590,D0065,2026-05-11,08:15,Completed,New complaint
+A02852,P0785,D0050,2026-04-11,16:30,Completed,Lab review
+A02853,P0255,D0075,2026-05-17,10:45,Scheduled,Lab review
+A02854,P0728,D0031,2026-07-21,13:15,Scheduled,New complaint
+A02855,P0808,D0020,2026-08-21,14:15,Completed,Lab review
+A02856,P0917,D0001,2026-04-26,11:30,No-show,Follow-up
+A02857,P0435,D0025,2026-01-29,09:45,Completed,Routine consultation
+A02858,P0095,D0048,2026-03-01,12:15,Completed,Follow-up
+A02859,P0996,D0054,2026-05-11,13:15,Completed,Follow-up
+A02860,P0187,D0028,2026-09-28,16:45,Completed,New complaint
+A02861,P0273,D0047,2026-01-17,12:30,Completed,Routine consultation
+A02862,P0893,D0038,2026-06-06,11:30,No-show,Routine consultation
+A02863,P0348,D0034,2026-02-09,09:45,Cancelled,Lab review
+A02864,P0657,D0037,2026-05-31,13:45,Completed,Routine consultation
+A02865,P0388,D0031,2026-06-03,10:30,Completed,Lab review
+A02866,P0126,D0053,2026-02-08,10:00,Completed,New complaint
+A02867,P0296,D0023,2026-03-30,12:45,Scheduled,New complaint
+A02868,P0746,D0027,2026-03-30,12:45,Completed,New complaint
+A02869,P0246,D0001,2026-07-11,09:30,Completed,Lab review
+A02870,P0967,D0084,2026-03-03,12:30,Completed,Follow-up
+A02871,P0940,D0088,2026-05-23,15:15,Cancelled,Routine consultation
+A02872,P0267,D0042,2026-06-23,15:15,Scheduled,Routine consultation
+A02873,P0144,D0033,2026-01-14,16:00,Completed,Lab review
+A02874,P0963,D0022,2026-05-03,15:45,Completed,Routine consultation
+A02875,P0014,D0055,2026-02-06,12:45,Completed,New complaint
+A02876,P0829,D0077,2026-02-28,08:45,Scheduled,Follow-up
+A02877,P0903,D0019,2026-08-17,12:00,Scheduled,Routine consultation
+A02878,P0396,D0044,2026-09-23,15:00,Completed,Routine consultation
+A02879,P0359,D0075,2026-05-17,15:00,Completed,Routine consultation
+A02880,P0143,D0094,2026-03-26,13:00,No-show,Routine consultation
+A02881,P0932,D0033,2026-08-01,08:00,Scheduled,Follow-up
+A02882,P0809,D0066,2026-09-04,10:45,No-show,Follow-up
+A02883,P0568,D0051,2026-02-27,10:00,Cancelled,Lab review
+A02884,P0038,D0060,2026-06-01,10:30,Scheduled,New complaint
+A02885,P0168,D0005,2026-08-20,16:30,No-show,Routine consultation
+A02886,P0859,D0035,2026-05-27,09:30,Completed,New complaint
+A02887,P0863,D0063,2026-01-08,15:15,Completed,New complaint
+A02888,P0174,D0067,2026-02-04,13:30,Scheduled,Lab review
+A02889,P0676,D0061,2026-05-20,15:30,Scheduled,Follow-up
+A02890,P0608,D0030,2026-09-08,16:15,Completed,Lab review
+A02891,P0676,D0077,2026-09-13,15:45,Scheduled,Follow-up
+A02892,P0017,D0061,2026-07-19,15:45,Completed,Routine consultation
+A02893,P0620,D0035,2026-01-21,13:15,Scheduled,Routine consultation
+A02894,P0837,D0030,2026-06-12,08:30,Scheduled,Follow-up
+A02895,P0896,D0018,2026-06-24,14:00,Completed,New complaint
+A02896,P0876,D0080,2026-07-16,14:00,Completed,Lab review
+A02897,P0018,D0063,2026-06-07,15:45,Completed,Routine consultation
+A02898,P0091,D0065,2026-03-29,09:00,Completed,New complaint
+A02899,P0319,D0084,2026-03-26,10:45,Completed,Routine consultation
+A02900,P0876,D0036,2026-09-27,08:15,Completed,Lab review
+A02901,P0806,D0078,2026-02-01,16:30,Scheduled,Lab review
+A02902,P0345,D0021,2026-07-27,13:15,Cancelled,Follow-up
+A02903,P0039,D0058,2026-08-29,15:30,Scheduled,New complaint
+A02904,P0918,D0029,2026-07-05,13:45,Completed,Lab review
+A02905,P0078,D0022,2026-06-30,10:30,Completed,Lab review
+A02906,P0813,D0076,2026-05-29,14:45,Cancelled,Routine consultation
+A02907,P0792,D0022,2026-02-12,15:30,Cancelled,New complaint
+A02908,P0336,D0021,2026-03-31,12:45,Completed,New complaint
+A02909,P0146,D0008,2026-09-12,12:00,Cancelled,Lab review
+A02910,P0001,D0008,2026-05-18,08:45,Scheduled,Routine consultation
+A02911,P0290,D0019,2026-06-25,09:15,Completed,Lab review
+A02912,P0858,D0089,2026-08-29,13:15,Completed,Routine consultation
+A02913,P0723,D0032,2026-04-14,15:45,Completed,Lab review
+A02914,P0134,D0093,2026-08-02,09:30,Completed,Follow-up
+A02915,P0524,D0046,2026-01-12,12:00,Completed,New complaint
+A02916,P0907,D0053,2026-05-06,11:30,Completed,New complaint
+A02917,P0460,D0019,2026-09-27,15:15,Completed,New complaint
+A02918,P0709,D0065,2026-06-28,11:15,Completed,Routine consultation
+A02919,P0824,D0050,2026-02-03,15:00,Completed,Follow-up
+A02920,P0517,D0048,2026-04-14,11:00,Completed,Routine consultation
+A02921,P0430,D0084,2026-09-28,12:15,Cancelled,New complaint
+A02922,P0646,D0078,2026-01-28,10:00,Cancelled,Routine consultation
+A02923,P0749,D0021,2026-04-24,15:00,Scheduled,Routine consultation
+A02924,P0498,D0093,2026-01-17,11:45,No-show,New complaint
+A02925,P0466,D0031,2026-09-13,15:45,Cancelled,Lab review
+A02926,P0366,D0045,2026-08-22,14:30,Completed,Routine consultation
+A02927,P0629,D0043,2026-04-17,12:00,Cancelled,Lab review
+A02928,P0111,D0007,2026-04-14,13:00,Completed,Follow-up
+A02929,P0241,D0007,2026-06-11,13:15,Completed,Follow-up
+A02930,P0669,D0011,2026-04-09,11:15,Completed,Routine consultation
+A02931,P0345,D0096,2026-06-09,16:30,Scheduled,New complaint
+A02932,P0257,D0003,2026-01-12,10:45,Completed,New complaint
+A02933,P0289,D0092,2026-01-08,14:45,Completed,Routine consultation
+A02934,P0448,D0021,2026-06-02,12:45,Completed,New complaint
+A02935,P0753,D0033,2026-05-27,16:15,Scheduled,New complaint
+A02936,P0179,D0075,2026-08-21,11:00,Completed,New complaint
+A02937,P0354,D0022,2026-06-17,15:15,Scheduled,Follow-up
+A02938,P0465,D0060,2026-04-28,13:15,Scheduled,Follow-up
+A02939,P0550,D0034,2026-07-11,16:15,Completed,Routine consultation
+A02940,P0394,D0087,2026-06-03,13:00,Scheduled,Routine consultation
+A02941,P0673,D0038,2026-05-22,13:45,No-show,New complaint
+A02942,P0244,D0075,2026-05-09,13:15,Completed,Lab review
+A02943,P0311,D0020,2026-02-07,13:15,No-show,New complaint
+A02944,P0339,D0033,2026-09-11,16:30,Completed,Routine consultation
+A02945,P0781,D0063,2026-02-05,16:45,Scheduled,Lab review
+A02946,P0385,D0058,2026-01-24,09:30,No-show,Follow-up
+A02947,P0777,D0083,2026-08-05,15:15,No-show,Routine consultation
+A02948,P0059,D0089,2026-03-07,16:00,Completed,Routine consultation
+A02949,P0849,D0082,2026-08-25,15:00,Completed,Lab review
+A02950,P0109,D0053,2026-08-05,08:15,Completed,Lab review
+A02951,P0822,D0088,2026-01-07,15:15,Scheduled,New complaint
+A02952,P0332,D0023,2026-05-18,13:45,Completed,Lab review
+A02953,P0891,D0017,2026-04-02,16:15,Scheduled,New complaint
+A02954,P0943,D0012,2026-09-08,16:30,No-show,Routine consultation
+A02955,P0356,D0046,2026-08-05,14:00,Scheduled,Routine consultation
+A02956,P0694,D0054,2026-06-16,13:45,Completed,New complaint
+A02957,P0045,D0073,2026-08-01,16:30,Completed,Follow-up
+A02958,P0655,D0002,2026-07-18,12:45,Completed,Lab review
+A02959,P0120,D0010,2026-06-10,09:45,Completed,Lab review
+A02960,P0135,D0034,2026-08-01,11:15,Cancelled,Routine consultation
+A02961,P0405,D0078,2026-09-19,10:30,Completed,Follow-up
+A02962,P0926,D0073,2026-02-11,10:45,Completed,Lab review
+A02963,P0539,D0062,2026-07-18,15:30,Scheduled,New complaint
+A02964,P0953,D0029,2026-04-12,09:45,Completed,Follow-up
+A02965,P0726,D0027,2026-09-11,08:30,Completed,Follow-up
+A02966,P0433,D0033,2026-04-03,13:00,Completed,Routine consultation
+A02967,P0289,D0052,2026-03-03,10:45,Scheduled,Routine consultation
+A02968,P0209,D0014,2026-02-26,15:45,Scheduled,Routine consultation
+A02969,P0478,D0088,2026-09-15,14:15,Scheduled,Lab review
+A02970,P0005,D0054,2026-06-27,11:45,Scheduled,Follow-up
+A02971,P0194,D0045,2026-04-09,08:45,Completed,Follow-up
+A02972,P0383,D0051,2026-06-30,15:45,Scheduled,Lab review
+A02973,P0820,D0009,2026-03-27,16:30,Completed,Lab review
+A02974,P0876,D0096,2026-01-05,08:15,Completed,Follow-up
+A02975,P0316,D0099,2026-01-10,11:15,Completed,New complaint
+A02976,P0767,D0042,2026-06-05,14:15,Completed,Follow-up
+A02977,P0119,D0072,2026-06-24,14:00,Completed,Follow-up
+A02978,P0704,D0055,2026-01-07,11:00,Cancelled,Lab review
+A02979,P0678,D0009,2026-09-16,14:15,Scheduled,Follow-up
+A02980,P0672,D0021,2026-02-02,09:00,Completed,Routine consultation
+A02981,P0829,D0027,2026-08-27,15:00,Scheduled,New complaint
+A02982,P0402,D0084,2026-07-17,14:15,Scheduled,Lab review
+A02983,P0666,D0032,2026-09-03,10:00,Completed,Lab review
+A02984,P0011,D0025,2026-09-21,12:30,Completed,New complaint
+A02985,P0032,D0029,2026-01-26,10:30,Completed,Follow-up
+A02986,P0676,D0026,2026-06-26,11:00,Completed,Lab review
+A02987,P0976,D0089,2026-06-25,10:45,Completed,New complaint
+A02988,P0833,D0094,2026-02-20,13:00,Completed,Lab review
+A02989,P0569,D0008,2026-07-26,16:45,Completed,Routine consultation
+A02990,P0156,D0037,2026-03-06,14:30,Cancelled,Lab review
+A02991,P0164,D0093,2026-02-06,16:30,Scheduled,Follow-up
+A02992,P0932,D0001,2026-09-17,16:15,Cancelled,Routine consultation
+A02993,P0602,D0060,2026-06-17,09:30,Completed,New complaint
+A02994,P0410,D0093,2026-05-18,09:15,Completed,Lab review
+A02995,P0141,D0066,2026-08-14,14:30,Cancelled,Follow-up
+A02996,P0860,D0073,2026-03-10,14:00,Scheduled,Lab review
+A02997,P0576,D0034,2026-01-13,10:30,Scheduled,Lab review
+A02998,P0470,D0062,2026-04-08,12:30,Cancelled,New complaint
+A02999,P0941,D0070,2026-07-22,09:15,Completed,New complaint
+A03000,P0796,D0095,2026-06-25,13:00,No-show,Routine consultation

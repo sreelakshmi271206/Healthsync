@@ -1,0 +1,6 @@
+Patient_ID,Diet_Type,Physical_Activity_Level,Sleep_Quality,Smoking,Alcohol_Use,Junk_Food_Frequency,Average_Sleep_Hours
+P001,Vegetarian,Moderate,Good,No,No,Occasionally,7.0
+P002,Mixed,Low,Average,No,No,Never,6.5
+P003,Mixed,High,Good,No,No,Never,8.0
+P004,Vegetarian,Moderate,Average,No,No,Never,7.5
+P005,Mixed,Low,Poor,No,Yes,Occasionally,6.0

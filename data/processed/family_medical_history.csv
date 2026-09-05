@@ -1,0 +1,6 @@
+Family_History_ID,Patient_ID,Relation,Condition,Has_Family_History,Status
+FMH001,P001,Father,Hypertension,Yes,Controlled
+FMH002,P001,Mother,Diabetes,Yes,Controlled
+FMH003,P002,Father,Heart Disease,No,Not Applicable
+FMH004,P003,Mother,Diabetes,Yes,Unknown
+FMH005,P004,Father,Hypertension,Yes,Controlled

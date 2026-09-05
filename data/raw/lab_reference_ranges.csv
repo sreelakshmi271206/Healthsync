@@ -1,0 +1,6 @@
+Reference_ID,Test_Name,Unit,Lower_Limit,Upper_Limit,Note
+LRT001,Blood Glucose,mg/dL,70.0,140.0,Adult general reference example
+LRT002,Systolic BP,mmHg,90.0,120.0,Adult general reference example
+LRT003,Diastolic BP,mmHg,60.0,80.0,Adult general reference example
+LRT004,Body Temperature,C,36.1,37.2,Adult general reference example
+LRT005,Oxygen Saturation,%,95.0,100.0,Adult general reference example

@@ -1,0 +1,1201 @@
+History_ID,Patient_ID,Condition,Diagnosed_Year,Status,Family_History
+MH00001,P0072,High Cholesterol,2024,Under control,Yes
+MH00002,P0571,Asthma,2021,Under control,Yes
+MH00003,P0059,Type 2 Diabetes,2025,Active,Yes
+MH00004,P0531,Seasonal illness,2020,Under control,No
+MH00005,P0742,Arthritis,2022,Active,No
+MH00006,P0924,Type 2 Diabetes,2025,Active,No
+MH00007,P0391,Hypertension,2024,Active,Yes
+MH00008,P0788,Type 2 Diabetes,2021,Under control,No
+MH00009,P0578,Seasonal illness,2020,Active,Yes
+MH00010,P0960,Hypothyroidism,2022,Under control,Yes
+MH00011,P0461,High Cholesterol,2025,Resolved,Yes
+MH00012,P0354,GERD,2023,Active,Yes
+MH00013,P0550,Arthritis,2021,Active,Yes
+MH00014,P0653,Asthma,2023,Resolved,No
+MH00015,P0377,Hypertension,2023,Resolved,No
+MH00016,P0044,GERD,2023,Under control,No
+MH00017,P0412,Asthma,2025,Resolved,No
+MH00018,P0965,Hypothyroidism,2023,Resolved,Yes
+MH00019,P0752,GERD,2023,Resolved,Yes
+MH00020,P0373,Arthritis,2022,Under control,Yes
+MH00021,P0137,Seasonal illness,2021,Active,No
+MH00022,P0730,High Cholesterol,2024,Active,Yes
+MH00023,P0922,GERD,2024,Resolved,Yes
+MH00024,P0660,Migraine,2021,Resolved,No
+MH00025,P0482,Type 2 Diabetes,2024,Under control,Yes
+MH00026,P0308,Hypothyroidism,2020,Active,No
+MH00027,P0346,Seasonal illness,2021,Under control,Yes
+MH00028,P0960,Seasonal illness,2023,Active,Yes
+MH00029,P0025,High Cholesterol,2023,Under control,No
+MH00030,P0280,Asthma,2025,Resolved,No
+MH00031,P0155,Hypothyroidism,2022,Resolved,No
+MH00032,P0889,Asthma,2023,Resolved,No
+MH00033,P0693,Type 2 Diabetes,2020,Active,No
+MH00034,P0009,Hypertension,2022,Active,Yes
+MH00035,P0954,Arthritis,2021,Under control,No
+MH00036,P0981,High Cholesterol,2022,Active,Yes
+MH00037,P0639,Arthritis,2024,Resolved,Yes
+MH00038,P0347,Asthma,2022,Resolved,No
+MH00039,P0822,Seasonal illness,2021,Active,No
+MH00040,P0426,Type 2 Diabetes,2024,Under control,Yes
+MH00041,P0163,Seasonal illness,2024,Under control,Yes
+MH00042,P0717,Migraine,2025,Active,No
+MH00043,P0680,Asthma,2023,Active,No
+MH00044,P0139,Hypothyroidism,2023,Resolved,Yes
+MH00045,P0175,Hypertension,2024,Under control,Yes
+MH00046,P0954,GERD,2024,Under control,No
+MH00047,P0459,Hypertension,2023,Under control,Yes
+MH00048,P0907,Arthritis,2020,Resolved,No
+MH00049,P0182,Asthma,2024,Resolved,Yes
+MH00050,P0939,Asthma,2020,Under control,No
+MH00051,P0985,Arthritis,2022,Under control,No
+MH00052,P0364,GERD,2020,Under control,Yes
+MH00053,P0174,Arthritis,2022,Active,Yes
+MH00054,P0533,Hypertension,2023,Resolved,No
+MH00055,P0054,High Cholesterol,2025,Resolved,Yes
+MH00056,P0460,Hypothyroidism,2022,Active,Yes
+MH00057,P0768,GERD,2025,Active,Yes
+MH00058,P0565,Hypertension,2021,Under control,No
+MH00059,P0753,Hypertension,2022,Resolved,No
+MH00060,P0927,GERD,2023,Resolved,No
+MH00061,P0712,Migraine,2025,Resolved,Yes
+MH00062,P0376,Seasonal illness,2023,Resolved,Yes
+MH00063,P0136,Arthritis,2025,Resolved,No
+MH00064,P0501,Migraine,2022,Active,Yes
+MH00065,P0941,Type 2 Diabetes,2025,Resolved,No
+MH00066,P0024,Asthma,2020,Active,No
+MH00067,P0182,Arthritis,2020,Active,No
+MH00068,P0798,Type 2 Diabetes,2020,Active,No
+MH00069,P0755,Arthritis,2024,Active,No
+MH00070,P0597,GERD,2025,Resolved,No
+MH00071,P0628,Type 2 Diabetes,2020,Under control,No
+MH00072,P0205,Type 2 Diabetes,2021,Active,No
+MH00073,P0004,Hypothyroidism,2025,Active,No
+MH00074,P0052,Type 2 Diabetes,2023,Resolved,No
+MH00075,P0488,High Cholesterol,2025,Resolved,No
+MH00076,P0481,Migraine,2025,Under control,No
+MH00077,P0454,Asthma,2024,Active,No
+MH00078,P0181,High Cholesterol,2022,Active,No
+MH00079,P0717,Type 2 Diabetes,2025,Active,No
+MH00080,P0192,Arthritis,2021,Active,Yes
+MH00081,P0651,Migraine,2024,Resolved,Yes
+MH00082,P0224,Hypothyroidism,2022,Resolved,No
+MH00083,P0544,Hypertension,2025,Under control,Yes
+MH00084,P0289,Asthma,2020,Active,No
+MH00085,P0506,Arthritis,2025,Active,Yes
+MH00086,P0082,GERD,2020,Under control,No
+MH00087,P0327,Arthritis,2025,Under control,No
+MH00088,P0583,Migraine,2025,Resolved,Yes
+MH00089,P0367,GERD,2022,Resolved,Yes
+MH00090,P0782,GERD,2022,Under control,No
+MH00091,P0234,Asthma,2020,Under control,Yes
+MH00092,P0420,GERD,2023,Resolved,Yes
+MH00093,P0475,GERD,2023,Active,No
+MH00094,P0756,Hypothyroidism,2023,Active,No
+MH00095,P0808,Arthritis,2023,Under control,No
+MH00096,P0410,Arthritis,2020,Resolved,No
+MH00097,P0155,Asthma,2021,Active,No
+MH00098,P0401,GERD,2021,Resolved,Yes
+MH00099,P0203,Hypertension,2023,Resolved,No
+MH00100,P0311,Seasonal illness,2022,Active,No
+MH00101,P0499,GERD,2023,Resolved,No
+MH00102,P0500,Hypertension,2022,Active,No
+MH00103,P0976,Arthritis,2025,Resolved,Yes
+MH00104,P0145,High Cholesterol,2024,Resolved,No
+MH00105,P0427,GERD,2020,Resolved,No
+MH00106,P0347,Migraine,2025,Under control,Yes
+MH00107,P0627,Type 2 Diabetes,2024,Active,Yes
+MH00108,P0350,Arthritis,2025,Active,Yes
+MH00109,P0579,GERD,2020,Active,Yes
+MH00110,P0379,Hypothyroidism,2021,Active,Yes
+MH00111,P0705,High Cholesterol,2022,Under control,Yes
+MH00112,P0806,Migraine,2024,Resolved,Yes
+MH00113,P0716,High Cholesterol,2021,Resolved,No
+MH00114,P0726,High Cholesterol,2021,Resolved,Yes
+MH00115,P0912,Hypertension,2022,Under control,No
+MH00116,P0394,Asthma,2024,Resolved,No
+MH00117,P0542,GERD,2023,Under control,Yes
+MH00118,P0069,GERD,2023,Active,Yes
+MH00119,P0729,Asthma,2022,Active,Yes
+MH00120,P0253,High Cholesterol,2025,Active,Yes
+MH00121,P0365,GERD,2024,Active,Yes
+MH00122,P0980,Arthritis,2023,Resolved,No
+MH00123,P0844,High Cholesterol,2024,Under control,No
+MH00124,P0303,Hypertension,2025,Active,Yes
+MH00125,P0255,Hypothyroidism,2023,Under control,No
+MH00126,P0306,Migraine,2021,Active,Yes
+MH00127,P0026,Hypertension,2025,Under control,Yes
+MH00128,P0081,Arthritis,2023,Active,Yes
+MH00129,P0641,Hypothyroidism,2024,Active,Yes
+MH00130,P0777,Arthritis,2020,Resolved,Yes
+MH00131,P0283,High Cholesterol,2025,Under control,Yes
+MH00132,P0292,Asthma,2024,Active,Yes
+MH00133,P0980,Hypertension,2020,Active,Yes
+MH00134,P0566,GERD,2022,Active,Yes
+MH00135,P0852,Hypothyroidism,2024,Active,Yes
+MH00136,P0662,Arthritis,2023,Active,Yes
+MH00137,P0628,Hypertension,2025,Resolved,Yes
+MH00138,P0580,Hypertension,2024,Active,No
+MH00139,P0509,Type 2 Diabetes,2020,Active,No
+MH00140,P0105,Seasonal illness,2021,Under control,No
+MH00141,P0095,Arthritis,2022,Resolved,No
+MH00142,P0423,Arthritis,2020,Resolved,Yes
+MH00143,P0559,Hypertension,2024,Resolved,Yes
+MH00144,P0712,Asthma,2024,Active,No
+MH00145,P0460,Asthma,2020,Resolved,No
+MH00146,P0246,Hypertension,2025,Under control,No
+MH00147,P0054,High Cholesterol,2023,Active,No
+MH00148,P0225,High Cholesterol,2021,Active,Yes
+MH00149,P0331,Hypothyroidism,2025,Under control,Yes
+MH00150,P0020,Seasonal illness,2022,Resolved,No
+MH00151,P0686,Hypothyroidism,2024,Active,No
+MH00152,P0205,Hypertension,2021,Active,Yes
+MH00153,P0008,Arthritis,2025,Active,Yes
+MH00154,P0522,Asthma,2023,Active,No
+MH00155,P0550,Hypertension,2025,Under control,Yes
+MH00156,P0273,Seasonal illness,2022,Under control,Yes
+MH00157,P0164,High Cholesterol,2024,Resolved,Yes
+MH00158,P0201,Arthritis,2022,Resolved,No
+MH00159,P0667,Migraine,2023,Active,Yes
+MH00160,P0618,Seasonal illness,2023,Active,No
+MH00161,P0116,Hypertension,2023,Active,No
+MH00162,P0205,Migraine,2025,Under control,No
+MH00163,P0908,Migraine,2022,Resolved,No
+MH00164,P0664,High Cholesterol,2024,Resolved,No
+MH00165,P0524,Hypertension,2022,Active,No
+MH00166,P0850,Asthma,2022,Active,Yes
+MH00167,P0970,Hypothyroidism,2025,Resolved,Yes
+MH00168,P0401,Asthma,2023,Resolved,Yes
+MH00169,P0815,High Cholesterol,2020,Under control,No
+MH00170,P0906,Hypertension,2020,Under control,No
+MH00171,P0878,Hypertension,2022,Active,Yes
+MH00172,P0456,Hypothyroidism,2025,Under control,No
+MH00173,P0100,Hypertension,2022,Active,No
+MH00174,P0995,Hypothyroidism,2025,Resolved,No
+MH00175,P0287,Hypothyroidism,2025,Active,Yes
+MH00176,P0789,Hypertension,2020,Resolved,No
+MH00177,P0270,GERD,2021,Active,No
+MH00178,P0902,GERD,2021,Active,No
+MH00179,P0089,High Cholesterol,2023,Under control,Yes
+MH00180,P0277,Hypertension,2025,Under control,Yes
+MH00181,P0065,Asthma,2021,Active,Yes
+MH00182,P0695,Hypothyroidism,2020,Active,Yes
+MH00183,P0443,GERD,2023,Active,No
+MH00184,P0591,Hypertension,2025,Active,Yes
+MH00185,P0727,Migraine,2025,Resolved,No
+MH00186,P0822,Migraine,2020,Under control,Yes
+MH00187,P0987,High Cholesterol,2021,Under control,Yes
+MH00188,P0830,Hypertension,2025,Active,Yes
+MH00189,P0573,GERD,2021,Under control,No
+MH00190,P0294,Arthritis,2020,Under control,Yes
+MH00191,P0468,GERD,2024,Active,Yes
+MH00192,P0675,Arthritis,2025,Under control,No
+MH00193,P0329,Arthritis,2023,Active,Yes
+MH00194,P0382,GERD,2022,Resolved,No
+MH00195,P0834,GERD,2025,Under control,Yes
+MH00196,P0369,Hypothyroidism,2020,Under control,Yes
+MH00197,P0907,Asthma,2022,Resolved,Yes
+MH00198,P0462,Seasonal illness,2025,Active,No
+MH00199,P0352,Seasonal illness,2025,Active,Yes
+MH00200,P0554,Asthma,2024,Active,No
+MH00201,P0845,Hypothyroidism,2020,Resolved,No
+MH00202,P0514,Seasonal illness,2020,Under control,No
+MH00203,P0590,Hypertension,2022,Under control,No
+MH00204,P0758,High Cholesterol,2025,Under control,Yes
+MH00205,P0501,Type 2 Diabetes,2022,Under control,Yes
+MH00206,P0562,Hypothyroidism,2024,Under control,Yes
+MH00207,P0225,Arthritis,2025,Resolved,No
+MH00208,P0232,GERD,2021,Under control,No
+MH00209,P0734,Hypertension,2024,Active,Yes
+MH00210,P0148,Type 2 Diabetes,2025,Resolved,No
+MH00211,P0774,Hypothyroidism,2022,Active,No
+MH00212,P0975,High Cholesterol,2020,Active,No
+MH00213,P0303,Type 2 Diabetes,2021,Active,No
+MH00214,P0069,Migraine,2023,Active,Yes
+MH00215,P0968,Arthritis,2025,Resolved,No
+MH00216,P0715,Migraine,2022,Resolved,Yes
+MH00217,P0214,Migraine,2023,Under control,Yes
+MH00218,P0651,Hypertension,2025,Resolved,No
+MH00219,P0512,Arthritis,2022,Active,Yes
+MH00220,P0718,GERD,2023,Under control,No
+MH00221,P0433,Arthritis,2025,Resolved,No
+MH00222,P0390,Hypertension,2023,Active,Yes
+MH00223,P0259,Seasonal illness,2020,Active,No
+MH00224,P0742,Type 2 Diabetes,2023,Resolved,Yes
+MH00225,P0248,GERD,2020,Resolved,Yes
+MH00226,P0566,GERD,2021,Under control,Yes
+MH00227,P0098,Hypertension,2025,Active,No
+MH00228,P0958,Seasonal illness,2023,Active,No
+MH00229,P0475,Migraine,2025,Under control,Yes
+MH00230,P0821,Seasonal illness,2025,Under control,No
+MH00231,P0260,Type 2 Diabetes,2025,Under control,Yes
+MH00232,P0179,GERD,2022,Active,No
+MH00233,P0298,Arthritis,2023,Active,No
+MH00234,P0992,Type 2 Diabetes,2021,Resolved,Yes
+MH00235,P0256,Hypertension,2023,Under control,No
+MH00236,P0792,Hypothyroidism,2020,Resolved,No
+MH00237,P0229,Arthritis,2025,Under control,Yes
+MH00238,P0235,GERD,2025,Active,No
+MH00239,P0169,Asthma,2021,Under control,No
+MH00240,P0449,GERD,2022,Under control,Yes
+MH00241,P0022,Seasonal illness,2025,Resolved,No
+MH00242,P0429,GERD,2020,Resolved,Yes
+MH00243,P0571,Hypothyroidism,2020,Active,No
+MH00244,P0270,Arthritis,2023,Resolved,No
+MH00245,P0929,Asthma,2020,Active,No
+MH00246,P0089,Asthma,2025,Active,Yes
+MH00247,P0676,Seasonal illness,2022,Under control,Yes
+MH00248,P0490,Type 2 Diabetes,2025,Active,Yes
+MH00249,P0119,Seasonal illness,2020,Active,No
+MH00250,P0151,Migraine,2021,Under control,Yes
+MH00251,P0012,Arthritis,2020,Under control,No
+MH00252,P0116,Seasonal illness,2025,Resolved,No
+MH00253,P0311,Asthma,2022,Active,Yes
+MH00254,P0821,High Cholesterol,2021,Under control,Yes
+MH00255,P0490,GERD,2021,Active,No
+MH00256,P0398,Seasonal illness,2025,Under control,No
+MH00257,P0150,Asthma,2024,Active,No
+MH00258,P0490,Seasonal illness,2020,Under control,No
+MH00259,P0253,Hypothyroidism,2025,Resolved,No
+MH00260,P0848,Migraine,2023,Active,Yes
+MH00261,P0044,Arthritis,2023,Active,No
+MH00262,P0688,Arthritis,2023,Resolved,No
+MH00263,P0767,Asthma,2023,Under control,Yes
+MH00264,P0662,Asthma,2021,Under control,Yes
+MH00265,P0510,Type 2 Diabetes,2023,Under control,No
+MH00266,P0428,Type 2 Diabetes,2024,Active,No
+MH00267,P0792,Hypertension,2022,Resolved,Yes
+MH00268,P0288,GERD,2025,Resolved,Yes
+MH00269,P0857,Seasonal illness,2024,Resolved,Yes
+MH00270,P0876,GERD,2024,Resolved,Yes
+MH00271,P0776,Seasonal illness,2025,Under control,No
+MH00272,P0481,Arthritis,2020,Under control,Yes
+MH00273,P0999,Arthritis,2024,Under control,No
+MH00274,P0258,Migraine,2022,Resolved,No
+MH00275,P0321,Arthritis,2021,Under control,No
+MH00276,P0357,Migraine,2021,Resolved,Yes
+MH00277,P0286,Migraine,2024,Resolved,No
+MH00278,P0787,Asthma,2025,Resolved,No
+MH00279,P0704,Arthritis,2025,Under control,Yes
+MH00280,P0210,GERD,2024,Under control,No
+MH00281,P0121,Migraine,2025,Active,No
+MH00282,P0613,Arthritis,2021,Under control,Yes
+MH00283,P0384,High Cholesterol,2023,Resolved,Yes
+MH00284,P0955,GERD,2024,Resolved,No
+MH00285,P0261,Type 2 Diabetes,2022,Active,Yes
+MH00286,P0833,Seasonal illness,2023,Active,No
+MH00287,P0194,Migraine,2023,Resolved,Yes
+MH00288,P0524,Hypothyroidism,2021,Resolved,No
+MH00289,P0438,GERD,2024,Active,Yes
+MH00290,P0448,Hypothyroidism,2022,Active,No
+MH00291,P0186,Type 2 Diabetes,2022,Active,No
+MH00292,P0868,Type 2 Diabetes,2022,Active,Yes
+MH00293,P0131,Type 2 Diabetes,2025,Under control,Yes
+MH00294,P0210,Hypertension,2025,Under control,No
+MH00295,P0011,Type 2 Diabetes,2022,Under control,Yes
+MH00296,P0292,Hypothyroidism,2021,Active,No
+MH00297,P0634,Migraine,2024,Resolved,No
+MH00298,P0156,Hypertension,2024,Under control,Yes
+MH00299,P0781,High Cholesterol,2021,Resolved,No
+MH00300,P0555,Hypertension,2021,Active,Yes
+MH00301,P0829,GERD,2020,Active,No
+MH00302,P0866,Hypothyroidism,2021,Active,Yes
+MH00303,P0625,Asthma,2021,Active,Yes
+MH00304,P0110,Hypertension,2021,Under control,Yes
+MH00305,P0446,Hypothyroidism,2023,Active,No
+MH00306,P0103,Type 2 Diabetes,2023,Under control,Yes
+MH00307,P0454,Asthma,2025,Resolved,Yes
+MH00308,P0024,Seasonal illness,2022,Active,Yes
+MH00309,P0448,Seasonal illness,2022,Resolved,No
+MH00310,P0512,Seasonal illness,2024,Resolved,Yes
+MH00311,P0622,High Cholesterol,2022,Active,No
+MH00312,P0616,Hypothyroidism,2021,Resolved,No
+MH00313,P0224,Arthritis,2022,Resolved,Yes
+MH00314,P0255,Migraine,2021,Resolved,Yes
+MH00315,P0984,Hypertension,2025,Under control,No
+MH00316,P0661,Type 2 Diabetes,2023,Under control,No
+MH00317,P0399,Arthritis,2022,Resolved,No
+MH00318,P0503,Hypothyroidism,2025,Resolved,Yes
+MH00319,P0092,Hypothyroidism,2022,Resolved,No
+MH00320,P0276,Arthritis,2022,Resolved,No
+MH00321,P0173,High Cholesterol,2024,Under control,No
+MH00322,P0867,Hypertension,2023,Resolved,No
+MH00323,P0779,High Cholesterol,2020,Under control,No
+MH00324,P0095,Seasonal illness,2020,Resolved,No
+MH00325,P0538,Migraine,2023,Active,Yes
+MH00326,P0146,Hypothyroidism,2022,Active,No
+MH00327,P0420,Migraine,2021,Under control,No
+MH00328,P0238,Type 2 Diabetes,2024,Active,No
+MH00329,P0296,Seasonal illness,2023,Resolved,No
+MH00330,P0242,Hypertension,2021,Under control,No
+MH00331,P0069,Type 2 Diabetes,2022,Active,No
+MH00332,P0798,GERD,2024,Resolved,No
+MH00333,P0157,Seasonal illness,2021,Active,No
+MH00334,P0334,Asthma,2022,Under control,No
+MH00335,P0513,Seasonal illness,2020,Resolved,No
+MH00336,P0172,Hypertension,2023,Active,No
+MH00337,P0248,Arthritis,2024,Resolved,Yes
+MH00338,P0252,GERD,2021,Under control,No
+MH00339,P0731,High Cholesterol,2021,Under control,No
+MH00340,P0069,Hypothyroidism,2021,Active,Yes
+MH00341,P0472,Seasonal illness,2023,Under control,Yes
+MH00342,P0564,Seasonal illness,2025,Resolved,Yes
+MH00343,P0986,Seasonal illness,2022,Under control,Yes
+MH00344,P0770,Migraine,2024,Resolved,No
+MH00345,P0516,GERD,2021,Active,No
+MH00346,P0076,Arthritis,2022,Active,Yes
+MH00347,P0392,Hypothyroidism,2022,Resolved,No
+MH00348,P0323,GERD,2021,Active,No
+MH00349,P0446,Asthma,2023,Under control,No
+MH00350,P0665,Migraine,2023,Active,No
+MH00351,P0017,High Cholesterol,2023,Resolved,Yes
+MH00352,P0409,GERD,2025,Resolved,Yes
+MH00353,P0904,High Cholesterol,2023,Active,Yes
+MH00354,P0983,Hypertension,2021,Active,No
+MH00355,P0303,Arthritis,2020,Resolved,Yes
+MH00356,P0932,Hypothyroidism,2025,Resolved,No
+MH00357,P0613,Migraine,2022,Under control,Yes
+MH00358,P0042,GERD,2020,Resolved,Yes
+MH00359,P0199,Migraine,2024,Active,No
+MH00360,P0104,Asthma,2025,Under control,Yes
+MH00361,P0062,Hypertension,2024,Active,Yes
+MH00362,P0025,GERD,2023,Resolved,Yes
+MH00363,P0356,Arthritis,2022,Resolved,No
+MH00364,P0821,Seasonal illness,2024,Active,Yes
+MH00365,P0777,GERD,2023,Under control,No
+MH00366,P0683,Seasonal illness,2025,Under control,No
+MH00367,P0992,Asthma,2023,Resolved,Yes
+MH00368,P0750,Migraine,2021,Active,No
+MH00369,P0096,Hypothyroidism,2022,Resolved,No
+MH00370,P0043,Hypertension,2022,Active,No
+MH00371,P0200,Hypothyroidism,2024,Active,Yes
+MH00372,P0819,Asthma,2023,Under control,Yes
+MH00373,P0939,High Cholesterol,2020,Active,No
+MH00374,P0880,Hypertension,2022,Under control,Yes
+MH00375,P0806,Type 2 Diabetes,2021,Resolved,No
+MH00376,P0948,GERD,2020,Active,Yes
+MH00377,P0832,Arthritis,2024,Under control,Yes
+MH00378,P0872,GERD,2022,Under control,Yes
+MH00379,P0647,Arthritis,2024,Active,Yes
+MH00380,P0826,High Cholesterol,2021,Active,Yes
+MH00381,P0495,Migraine,2022,Under control,Yes
+MH00382,P0511,Hypothyroidism,2020,Under control,Yes
+MH00383,P0821,Migraine,2020,Active,No
+MH00384,P0865,High Cholesterol,2021,Resolved,No
+MH00385,P0949,Type 2 Diabetes,2025,Under control,Yes
+MH00386,P0423,Hypothyroidism,2023,Under control,Yes
+MH00387,P0307,Type 2 Diabetes,2021,Active,Yes
+MH00388,P0972,Type 2 Diabetes,2022,Active,Yes
+MH00389,P0416,Hypothyroidism,2021,Resolved,Yes
+MH00390,P0032,Arthritis,2022,Active,Yes
+MH00391,P0242,GERD,2023,Resolved,No
+MH00392,P0416,Hypothyroidism,2021,Resolved,No
+MH00393,P0626,Asthma,2022,Active,Yes
+MH00394,P0608,Hypothyroidism,2020,Active,No
+MH00395,P0085,Hypertension,2021,Under control,Yes
+MH00396,P0505,Type 2 Diabetes,2025,Under control,No
+MH00397,P0053,Hypertension,2023,Active,No
+MH00398,P0137,Migraine,2022,Under control,Yes
+MH00399,P0683,Type 2 Diabetes,2020,Active,Yes
+MH00400,P0339,Type 2 Diabetes,2020,Under control,No
+MH00401,P0041,Hypertension,2021,Active,Yes
+MH00402,P0844,GERD,2020,Resolved,Yes
+MH00403,P0631,Seasonal illness,2020,Under control,Yes
+MH00404,P0142,Type 2 Diabetes,2023,Under control,Yes
+MH00405,P0162,Seasonal illness,2020,Resolved,No
+MH00406,P0706,Migraine,2020,Resolved,Yes
+MH00407,P0681,Asthma,2025,Resolved,Yes
+MH00408,P0368,Seasonal illness,2022,Resolved,Yes
+MH00409,P0429,High Cholesterol,2022,Under control,Yes
+MH00410,P0216,High Cholesterol,2023,Active,No
+MH00411,P0038,Type 2 Diabetes,2020,Under control,No
+MH00412,P0152,Type 2 Diabetes,2023,Active,No
+MH00413,P0741,Type 2 Diabetes,2022,Resolved,Yes
+MH00414,P0594,High Cholesterol,2025,Resolved,Yes
+MH00415,P0420,Type 2 Diabetes,2025,Under control,Yes
+MH00416,P0960,High Cholesterol,2023,Under control,No
+MH00417,P0373,Asthma,2023,Active,Yes
+MH00418,P0068,Hypertension,2020,Resolved,Yes
+MH00419,P0192,GERD,2023,Under control,Yes
+MH00420,P0803,Arthritis,2023,Active,Yes
+MH00421,P0764,Hypothyroidism,2025,Resolved,No
+MH00422,P0008,Asthma,2022,Resolved,No
+MH00423,P0499,Arthritis,2021,Active,No
+MH00424,P0246,Seasonal illness,2024,Resolved,Yes
+MH00425,P0930,High Cholesterol,2025,Active,Yes
+MH00426,P0040,Hypertension,2025,Resolved,Yes
+MH00427,P0820,Arthritis,2022,Active,No
+MH00428,P0495,Seasonal illness,2021,Active,No
+MH00429,P0341,Seasonal illness,2022,Under control,Yes
+MH00430,P0911,Seasonal illness,2024,Under control,No
+MH00431,P0446,Hypertension,2023,Under control,Yes
+MH00432,P0552,GERD,2020,Resolved,Yes
+MH00433,P0019,Hypothyroidism,2024,Under control,No
+MH00434,P0486,Hypothyroidism,2023,Under control,No
+MH00435,P0946,Arthritis,2024,Active,Yes
+MH00436,P0272,Migraine,2025,Active,No
+MH00437,P0685,Migraine,2023,Resolved,No
+MH00438,P0544,High Cholesterol,2020,Active,Yes
+MH00439,P0245,Hypothyroidism,2020,Resolved,No
+MH00440,P0982,Type 2 Diabetes,2022,Under control,Yes
+MH00441,P0017,Seasonal illness,2025,Under control,Yes
+MH00442,P0788,Hypertension,2023,Under control,No
+MH00443,P0547,Seasonal illness,2022,Active,No
+MH00444,P0948,Hypothyroidism,2024,Under control,Yes
+MH00445,P0182,Seasonal illness,2025,Active,No
+MH00446,P0702,Hypothyroidism,2020,Resolved,No
+MH00447,P0970,GERD,2020,Active,No
+MH00448,P0954,Migraine,2021,Under control,Yes
+MH00449,P0688,Migraine,2023,Active,Yes
+MH00450,P0209,Asthma,2022,Active,Yes
+MH00451,P0317,Seasonal illness,2025,Under control,No
+MH00452,P0079,Asthma,2020,Active,No
+MH00453,P0068,Migraine,2021,Active,Yes
+MH00454,P0346,Type 2 Diabetes,2024,Under control,Yes
+MH00455,P0524,Type 2 Diabetes,2023,Under control,Yes
+MH00456,P0805,Type 2 Diabetes,2022,Active,Yes
+MH00457,P0181,Hypothyroidism,2021,Under control,Yes
+MH00458,P0743,Hypertension,2024,Active,No
+MH00459,P0167,Asthma,2022,Active,No
+MH00460,P0491,Arthritis,2020,Resolved,Yes
+MH00461,P0812,Hypothyroidism,2020,Under control,Yes
+MH00462,P0218,Asthma,2021,Under control,Yes
+MH00463,P0793,Type 2 Diabetes,2025,Active,Yes
+MH00464,P0571,GERD,2023,Resolved,Yes
+MH00465,P0204,Hypertension,2020,Resolved,No
+MH00466,P0004,Arthritis,2020,Under control,Yes
+MH00467,P0665,Arthritis,2023,Under control,No
+MH00468,P0993,Arthritis,2023,Active,No
+MH00469,P0864,Type 2 Diabetes,2024,Under control,No
+MH00470,P0608,Asthma,2023,Resolved,Yes
+MH00471,P0123,Hypertension,2025,Resolved,No
+MH00472,P0320,Seasonal illness,2023,Resolved,No
+MH00473,P0880,Type 2 Diabetes,2020,Resolved,No
+MH00474,P0713,Migraine,2023,Active,Yes
+MH00475,P0349,Hypothyroidism,2020,Under control,Yes
+MH00476,P0077,GERD,2022,Under control,Yes
+MH00477,P0417,Hypertension,2020,Resolved,Yes
+MH00478,P0190,Type 2 Diabetes,2021,Under control,No
+MH00479,P0372,Type 2 Diabetes,2020,Resolved,Yes
+MH00480,P0326,Type 2 Diabetes,2021,Under control,No
+MH00481,P0597,Type 2 Diabetes,2021,Active,Yes
+MH00482,P0319,Seasonal illness,2024,Active,Yes
+MH00483,P0929,Seasonal illness,2025,Resolved,No
+MH00484,P0917,Hypothyroidism,2020,Resolved,Yes
+MH00485,P0096,Arthritis,2022,Under control,No
+MH00486,P0141,Type 2 Diabetes,2020,Under control,No
+MH00487,P0110,GERD,2020,Resolved,Yes
+MH00488,P0416,Seasonal illness,2020,Resolved,No
+MH00489,P0606,Seasonal illness,2021,Active,Yes
+MH00490,P0173,Asthma,2025,Under control,No
+MH00491,P0646,Hypertension,2023,Active,No
+MH00492,P0174,Seasonal illness,2021,Resolved,No
+MH00493,P0698,Seasonal illness,2022,Under control,No
+MH00494,P0505,Seasonal illness,2021,Active,Yes
+MH00495,P0217,Hypothyroidism,2021,Under control,Yes
+MH00496,P0353,Asthma,2023,Under control,Yes
+MH00497,P0933,Migraine,2022,Active,No
+MH00498,P0724,Hypothyroidism,2022,Under control,Yes
+MH00499,P0002,Type 2 Diabetes,2023,Under control,No
+MH00500,P0765,Migraine,2025,Active,No
+MH00501,P0834,Type 2 Diabetes,2025,Active,No
+MH00502,P0729,Hypertension,2021,Active,No
+MH00503,P0749,Type 2 Diabetes,2025,Resolved,No
+MH00504,P0989,High Cholesterol,2022,Active,No
+MH00505,P0668,High Cholesterol,2025,Active,No
+MH00506,P0424,Type 2 Diabetes,2022,Active,Yes
+MH00507,P0148,Asthma,2025,Under control,No
+MH00508,P0890,Arthritis,2022,Resolved,Yes
+MH00509,P0676,Seasonal illness,2025,Resolved,Yes
+MH00510,P0680,High Cholesterol,2025,Active,No
+MH00511,P0399,Arthritis,2021,Under control,No
+MH00512,P0502,GERD,2022,Resolved,No
+MH00513,P0259,Hypertension,2023,Resolved,No
+MH00514,P0063,Hypertension,2025,Resolved,Yes
+MH00515,P0209,Hypothyroidism,2020,Resolved,No
+MH00516,P0291,Migraine,2021,Resolved,No
+MH00517,P0485,Seasonal illness,2020,Under control,Yes
+MH00518,P0357,Migraine,2025,Active,Yes
+MH00519,P0206,Migraine,2023,Resolved,Yes
+MH00520,P0165,GERD,2021,Resolved,No
+MH00521,P0018,High Cholesterol,2025,Resolved,Yes
+MH00522,P0225,Seasonal illness,2024,Under control,No
+MH00523,P0113,Migraine,2025,Resolved,Yes
+MH00524,P0707,Type 2 Diabetes,2022,Under control,Yes
+MH00525,P0765,Hypothyroidism,2020,Active,No
+MH00526,P0248,Migraine,2022,Active,No
+MH00527,P0643,GERD,2024,Active,No
+MH00528,P0982,Hypertension,2022,Under control,Yes
+MH00529,P0582,Arthritis,2020,Resolved,No
+MH00530,P0192,Type 2 Diabetes,2025,Resolved,Yes
+MH00531,P0258,Migraine,2024,Active,Yes
+MH00532,P0686,Arthritis,2020,Resolved,Yes
+MH00533,P0640,High Cholesterol,2021,Resolved,No
+MH00534,P0879,Arthritis,2022,Resolved,No
+MH00535,P0546,Arthritis,2023,Active,Yes
+MH00536,P0981,Seasonal illness,2020,Under control,No
+MH00537,P0106,Asthma,2021,Resolved,No
+MH00538,P0210,GERD,2023,Under control,No
+MH00539,P0106,Seasonal illness,2023,Under control,No
+MH00540,P0227,High Cholesterol,2021,Resolved,No
+MH00541,P0038,Migraine,2020,Under control,Yes
+MH00542,P0124,Migraine,2025,Under control,Yes
+MH00543,P0915,High Cholesterol,2020,Resolved,No
+MH00544,P0627,Type 2 Diabetes,2020,Resolved,No
+MH00545,P0046,GERD,2025,Resolved,No
+MH00546,P0674,Hypertension,2023,Active,Yes
+MH00547,P0909,Arthritis,2020,Active,No
+MH00548,P0948,Migraine,2020,Resolved,Yes
+MH00549,P0958,Arthritis,2023,Under control,No
+MH00550,P0028,Type 2 Diabetes,2025,Under control,No
+MH00551,P0684,Migraine,2021,Active,No
+MH00552,P0240,Hypertension,2025,Active,No
+MH00553,P0848,High Cholesterol,2021,Active,Yes
+MH00554,P0472,Hypertension,2025,Resolved,No
+MH00555,P0634,Asthma,2020,Active,No
+MH00556,P0376,Migraine,2025,Resolved,No
+MH00557,P0705,Type 2 Diabetes,2021,Resolved,Yes
+MH00558,P0008,Asthma,2022,Active,No
+MH00559,P0701,Hypothyroidism,2020,Active,No
+MH00560,P0217,Type 2 Diabetes,2021,Resolved,No
+MH00561,P0446,High Cholesterol,2025,Active,Yes
+MH00562,P0731,Seasonal illness,2025,Under control,Yes
+MH00563,P0908,GERD,2021,Under control,No
+MH00564,P0977,GERD,2023,Active,Yes
+MH00565,P0286,Arthritis,2022,Under control,No
+MH00566,P0949,Hypertension,2021,Resolved,Yes
+MH00567,P0385,Seasonal illness,2023,Active,No
+MH00568,P0816,Asthma,2020,Active,No
+MH00569,P0574,GERD,2023,Under control,No
+MH00570,P0055,Seasonal illness,2021,Under control,No
+MH00571,P0819,Asthma,2021,Active,No
+MH00572,P0248,Seasonal illness,2024,Active,Yes
+MH00573,P0538,Seasonal illness,2020,Resolved,Yes
+MH00574,P0341,Seasonal illness,2021,Active,No
+MH00575,P0438,GERD,2021,Active,No
+MH00576,P0716,Type 2 Diabetes,2024,Active,Yes
+MH00577,P0074,Hypothyroidism,2025,Under control,No
+MH00578,P0756,Arthritis,2023,Active,Yes
+MH00579,P0868,Arthritis,2020,Active,No
+MH00580,P0799,Hypertension,2025,Under control,No
+MH00581,P0884,Hypertension,2020,Resolved,No
+MH00582,P0776,Type 2 Diabetes,2020,Under control,No
+MH00583,P0493,Type 2 Diabetes,2023,Under control,Yes
+MH00584,P0059,Hypertension,2025,Active,Yes
+MH00585,P0321,Hypothyroidism,2025,Active,Yes
+MH00586,P0771,Migraine,2022,Active,No
+MH00587,P0559,Asthma,2024,Under control,Yes
+MH00588,P0295,GERD,2024,Active,No
+MH00589,P0180,Migraine,2024,Under control,No
+MH00590,P0322,Hypothyroidism,2023,Active,Yes
+MH00591,P0479,Hypertension,2020,Under control,No
+MH00592,P0003,Migraine,2021,Resolved,Yes
+MH00593,P0652,Arthritis,2020,Resolved,Yes
+MH00594,P0543,Asthma,2023,Resolved,No
+MH00595,P0242,Hypothyroidism,2021,Resolved,No
+MH00596,P0330,Arthritis,2025,Active,Yes
+MH00597,P0318,Asthma,2024,Resolved,No
+MH00598,P0566,Hypertension,2025,Resolved,No
+MH00599,P0417,High Cholesterol,2021,Resolved,Yes
+MH00600,P0633,Arthritis,2020,Under control,No
+MH00601,P0129,Type 2 Diabetes,2020,Resolved,No
+MH00602,P0951,Type 2 Diabetes,2023,Resolved,No
+MH00603,P0912,Seasonal illness,2024,Under control,No
+MH00604,P0268,Migraine,2025,Active,Yes
+MH00605,P0511,High Cholesterol,2024,Active,Yes
+MH00606,P0736,High Cholesterol,2024,Under control,No
+MH00607,P0410,Migraine,2021,Active,No
+MH00608,P0145,Hypothyroidism,2024,Under control,Yes
+MH00609,P0744,Asthma,2024,Under control,Yes
+MH00610,P0418,Migraine,2021,Active,No
+MH00611,P0901,Hypothyroidism,2025,Active,Yes
+MH00612,P0740,Seasonal illness,2023,Active,No
+MH00613,P0318,Migraine,2020,Resolved,No
+MH00614,P0842,Hypothyroidism,2022,Under control,Yes
+MH00615,P0161,Arthritis,2022,Resolved,No
+MH00616,P0192,Hypothyroidism,2021,Under control,Yes
+MH00617,P0349,Seasonal illness,2025,Active,Yes
+MH00618,P0197,Hypertension,2025,Active,Yes
+MH00619,P0387,Migraine,2023,Resolved,Yes
+MH00620,P0526,Seasonal illness,2024,Active,No
+MH00621,P0749,Type 2 Diabetes,2022,Active,No
+MH00622,P0851,Migraine,2022,Under control,No
+MH00623,P0477,Hypertension,2025,Under control,Yes
+MH00624,P0039,Migraine,2025,Under control,No
+MH00625,P0874,Migraine,2021,Active,No
+MH00626,P0214,Arthritis,2021,Under control,Yes
+MH00627,P0602,Arthritis,2025,Active,Yes
+MH00628,P0746,High Cholesterol,2021,Active,No
+MH00629,P0097,GERD,2024,Resolved,No
+MH00630,P0558,Hypertension,2024,Active,No
+MH00631,P0608,Type 2 Diabetes,2025,Under control,No
+MH00632,P0505,High Cholesterol,2021,Resolved,Yes
+MH00633,P0232,Hypertension,2023,Active,No
+MH00634,P0980,Type 2 Diabetes,2024,Under control,Yes
+MH00635,P0777,Arthritis,2023,Active,Yes
+MH00636,P0984,Seasonal illness,2023,Under control,No
+MH00637,P0011,Asthma,2021,Active,No
+MH00638,P0601,Type 2 Diabetes,2022,Resolved,No
+MH00639,P0563,Asthma,2024,Under control,No
+MH00640,P0251,Hypothyroidism,2022,Resolved,Yes
+MH00641,P0271,Migraine,2024,Active,Yes
+MH00642,P0939,Hypertension,2024,Under control,No
+MH00643,P0402,Arthritis,2024,Resolved,No
+MH00644,P0908,Hypertension,2020,Resolved,No
+MH00645,P0828,Type 2 Diabetes,2024,Under control,Yes
+MH00646,P0112,Seasonal illness,2022,Active,No
+MH00647,P0407,Seasonal illness,2023,Resolved,No
+MH00648,P0601,Asthma,2023,Active,No
+MH00649,P0835,Asthma,2021,Under control,No
+MH00650,P0076,High Cholesterol,2023,Resolved,Yes
+MH00651,P0346,Hypothyroidism,2020,Active,Yes
+MH00652,P0957,Hypertension,2025,Under control,Yes
+MH00653,P0134,Seasonal illness,2024,Resolved,No
+MH00654,P0850,Arthritis,2025,Active,Yes
+MH00655,P0244,GERD,2023,Resolved,Yes
+MH00656,P0990,Hypertension,2024,Under control,No
+MH00657,P0120,Asthma,2023,Active,No
+MH00658,P0967,High Cholesterol,2020,Under control,No
+MH00659,P0370,Hypothyroidism,2023,Under control,No
+MH00660,P0838,Hypertension,2023,Active,Yes
+MH00661,P0075,Arthritis,2025,Active,No
+MH00662,P0976,Asthma,2021,Resolved,Yes
+MH00663,P0365,Hypertension,2023,Under control,No
+MH00664,P0447,Type 2 Diabetes,2023,Under control,Yes
+MH00665,P0435,Seasonal illness,2025,Active,No
+MH00666,P0538,Migraine,2022,Under control,No
+MH00667,P0119,High Cholesterol,2022,Under control,No
+MH00668,P0813,Seasonal illness,2023,Active,Yes
+MH00669,P0306,High Cholesterol,2023,Under control,No
+MH00670,P0418,Hypertension,2021,Active,Yes
+MH00671,P0630,Type 2 Diabetes,2020,Active,Yes
+MH00672,P0463,Hypertension,2024,Active,Yes
+MH00673,P0579,Type 2 Diabetes,2022,Resolved,No
+MH00674,P0958,Hypertension,2025,Resolved,Yes
+MH00675,P0597,Asthma,2023,Under control,Yes
+MH00676,P0786,Hypothyroidism,2025,Resolved,Yes
+MH00677,P0092,Seasonal illness,2022,Active,Yes
+MH00678,P0594,Hypothyroidism,2025,Under control,No
+MH00679,P0151,Arthritis,2024,Active,Yes
+MH00680,P0022,Seasonal illness,2022,Under control,No
+MH00681,P0977,Asthma,2021,Active,No
+MH00682,P0860,High Cholesterol,2022,Active,Yes
+MH00683,P0414,Seasonal illness,2020,Resolved,No
+MH00684,P0572,GERD,2021,Resolved,No
+MH00685,P0469,Hypothyroidism,2020,Under control,Yes
+MH00686,P0179,High Cholesterol,2022,Under control,No
+MH00687,P0533,High Cholesterol,2022,Under control,Yes
+MH00688,P0666,High Cholesterol,2024,Active,No
+MH00689,P0857,Migraine,2020,Resolved,Yes
+MH00690,P0909,Type 2 Diabetes,2021,Under control,Yes
+MH00691,P0350,Hypertension,2024,Active,Yes
+MH00692,P0605,Arthritis,2024,Under control,No
+MH00693,P0445,Migraine,2020,Under control,Yes
+MH00694,P0587,Hypothyroidism,2022,Resolved,No
+MH00695,P0946,High Cholesterol,2020,Under control,Yes
+MH00696,P0829,Hypothyroidism,2020,Under control,No
+MH00697,P0785,High Cholesterol,2024,Resolved,Yes
+MH00698,P0946,Type 2 Diabetes,2022,Active,Yes
+MH00699,P0409,Seasonal illness,2021,Active,Yes
+MH00700,P0871,Seasonal illness,2022,Under control,No
+MH00701,P0876,Hypertension,2021,Resolved,No
+MH00702,P0002,Hypertension,2025,Under control,Yes
+MH00703,P0615,Hypothyroidism,2023,Active,No
+MH00704,P0120,Hypothyroidism,2024,Active,No
+MH00705,P0084,High Cholesterol,2024,Resolved,No
+MH00706,P0050,Type 2 Diabetes,2023,Under control,No
+MH00707,P0627,Migraine,2020,Resolved,No
+MH00708,P0879,Arthritis,2020,Resolved,Yes
+MH00709,P0793,Asthma,2025,Under control,No
+MH00710,P0893,GERD,2025,Resolved,No
+MH00711,P0052,Arthritis,2021,Under control,Yes
+MH00712,P0277,Hypertension,2023,Resolved,Yes
+MH00713,P0614,Migraine,2023,Active,No
+MH00714,P0732,GERD,2021,Under control,Yes
+MH00715,P0782,Hypothyroidism,2025,Active,No
+MH00716,P0353,Hypertension,2024,Active,Yes
+MH00717,P0743,GERD,2023,Active,No
+MH00718,P0579,Type 2 Diabetes,2022,Active,Yes
+MH00719,P0960,Seasonal illness,2025,Under control,Yes
+MH00720,P0069,High Cholesterol,2021,Active,Yes
+MH00721,P0238,Type 2 Diabetes,2021,Resolved,Yes
+MH00722,P0733,Asthma,2021,Resolved,Yes
+MH00723,P0112,GERD,2024,Active,Yes
+MH00724,P0011,High Cholesterol,2021,Under control,No
+MH00725,P0081,Asthma,2020,Resolved,No
+MH00726,P0225,Hypothyroidism,2021,Under control,Yes
+MH00727,P0136,GERD,2023,Under control,Yes
+MH00728,P0386,Type 2 Diabetes,2021,Active,Yes
+MH00729,P0077,Seasonal illness,2022,Resolved,Yes
+MH00730,P0607,Hypertension,2025,Active,Yes
+MH00731,P0049,Asthma,2023,Resolved,No
+MH00732,P0997,Type 2 Diabetes,2023,Resolved,Yes
+MH00733,P0055,High Cholesterol,2023,Active,Yes
+MH00734,P0852,Type 2 Diabetes,2023,Resolved,No
+MH00735,P0950,Asthma,2023,Under control,Yes
+MH00736,P0684,Seasonal illness,2021,Active,No
+MH00737,P0015,Asthma,2025,Active,Yes
+MH00738,P0916,Seasonal illness,2021,Active,No
+MH00739,P0268,Seasonal illness,2023,Active,Yes
+MH00740,P0753,GERD,2025,Under control,Yes
+MH00741,P0240,Hypothyroidism,2021,Under control,No
+MH00742,P0898,Type 2 Diabetes,2024,Active,Yes
+MH00743,P0419,Hypertension,2022,Active,Yes
+MH00744,P0983,Hypertension,2023,Under control,Yes
+MH00745,P0413,Type 2 Diabetes,2023,Resolved,No
+MH00746,P0413,GERD,2021,Resolved,No
+MH00747,P0881,Hypertension,2022,Active,Yes
+MH00748,P0554,Asthma,2020,Under control,No
+MH00749,P0185,High Cholesterol,2025,Resolved,Yes
+MH00750,P0691,Asthma,2020,Resolved,Yes
+MH00751,P0016,Arthritis,2024,Resolved,No
+MH00752,P0704,Migraine,2023,Under control,No
+MH00753,P0751,Type 2 Diabetes,2024,Under control,No
+MH00754,P0075,Asthma,2022,Under control,Yes
+MH00755,P0993,GERD,2024,Active,Yes
+MH00756,P0241,Hypothyroidism,2024,Under control,Yes
+MH00757,P0803,Seasonal illness,2020,Active,No
+MH00758,P0914,Hypertension,2022,Active,No
+MH00759,P0679,Seasonal illness,2023,Under control,Yes
+MH00760,P0520,Migraine,2025,Active,Yes
+MH00761,P0904,Arthritis,2025,Under control,No
+MH00762,P0663,Type 2 Diabetes,2022,Resolved,Yes
+MH00763,P0642,Seasonal illness,2024,Resolved,No
+MH00764,P0712,GERD,2020,Resolved,No
+MH00765,P0241,Seasonal illness,2023,Resolved,Yes
+MH00766,P0490,High Cholesterol,2024,Under control,No
+MH00767,P0027,GERD,2022,Resolved,No
+MH00768,P0987,Type 2 Diabetes,2025,Under control,Yes
+MH00769,P0507,Seasonal illness,2023,Resolved,No
+MH00770,P0878,Hypothyroidism,2024,Resolved,No
+MH00771,P0858,Asthma,2022,Under control,No
+MH00772,P0506,Hypertension,2025,Under control,Yes
+MH00773,P0698,Seasonal illness,2020,Resolved,No
+MH00774,P0699,High Cholesterol,2022,Active,Yes
+MH00775,P0905,Hypertension,2025,Resolved,Yes
+MH00776,P0391,Arthritis,2025,Resolved,No
+MH00777,P0032,Type 2 Diabetes,2021,Resolved,No
+MH00778,P0798,Arthritis,2022,Resolved,Yes
+MH00779,P0187,Seasonal illness,2023,Resolved,Yes
+MH00780,P0201,Asthma,2022,Under control,Yes
+MH00781,P0191,High Cholesterol,2025,Active,Yes
+MH00782,P0809,Hypothyroidism,2021,Active,No
+MH00783,P0349,Hypothyroidism,2021,Resolved,No
+MH00784,P0701,Arthritis,2021,Under control,Yes
+MH00785,P0740,GERD,2021,Resolved,Yes
+MH00786,P0172,Asthma,2023,Under control,No
+MH00787,P0890,High Cholesterol,2022,Under control,Yes
+MH00788,P0105,High Cholesterol,2024,Active,Yes
+MH00789,P0379,Arthritis,2020,Under control,Yes
+MH00790,P0532,Migraine,2023,Under control,Yes
+MH00791,P0017,Arthritis,2023,Under control,Yes
+MH00792,P0845,Migraine,2021,Active,No
+MH00793,P0314,Type 2 Diabetes,2025,Under control,No
+MH00794,P0949,Type 2 Diabetes,2023,Under control,Yes
+MH00795,P0169,Hypertension,2021,Under control,Yes
+MH00796,P0596,High Cholesterol,2022,Active,No
+MH00797,P0859,Arthritis,2021,Resolved,Yes
+MH00798,P0091,Arthritis,2022,Resolved,No
+MH00799,P0335,Arthritis,2021,Active,No
+MH00800,P0747,Asthma,2022,Under control,No
+MH00801,P0838,Hypothyroidism,2023,Under control,No
+MH00802,P0244,Hypothyroidism,2023,Resolved,No
+MH00803,P0017,Migraine,2021,Under control,No
+MH00804,P0291,Type 2 Diabetes,2020,Resolved,No
+MH00805,P0468,Hypothyroidism,2024,Under control,No
+MH00806,P0713,Seasonal illness,2023,Under control,No
+MH00807,P0620,Asthma,2023,Active,Yes
+MH00808,P0370,Asthma,2021,Under control,Yes
+MH00809,P0412,Asthma,2021,Resolved,Yes
+MH00810,P0427,Hypertension,2022,Under control,Yes
+MH00811,P0812,GERD,2024,Resolved,Yes
+MH00812,P0306,Asthma,2021,Resolved,Yes
+MH00813,P0523,Arthritis,2025,Under control,Yes
+MH00814,P0555,Arthritis,2025,Under control,Yes
+MH00815,P0988,Arthritis,2022,Under control,Yes
+MH00816,P0183,Seasonal illness,2021,Resolved,No
+MH00817,P0991,Type 2 Diabetes,2025,Resolved,Yes
+MH00818,P0027,Asthma,2020,Active,No
+MH00819,P0160,Migraine,2022,Under control,No
+MH00820,P0601,High Cholesterol,2020,Active,No
+MH00821,P0659,Type 2 Diabetes,2022,Resolved,No
+MH00822,P0214,Hypertension,2022,Resolved,Yes
+MH00823,P0035,Seasonal illness,2021,Under control,Yes
+MH00824,P0569,Asthma,2025,Active,Yes
+MH00825,P0311,Migraine,2024,Under control,Yes
+MH00826,P0396,GERD,2021,Resolved,No
+MH00827,P0434,GERD,2025,Resolved,Yes
+MH00828,P0659,Hypothyroidism,2021,Under control,No
+MH00829,P0133,Arthritis,2024,Under control,No
+MH00830,P0942,Arthritis,2022,Active,No
+MH00831,P0539,High Cholesterol,2021,Under control,No
+MH00832,P0755,Asthma,2021,Active,No
+MH00833,P0205,Asthma,2025,Active,Yes
+MH00834,P0640,Type 2 Diabetes,2020,Resolved,No
+MH00835,P0907,Type 2 Diabetes,2024,Active,Yes
+MH00836,P0269,GERD,2021,Active,Yes
+MH00837,P0354,Hypertension,2024,Active,Yes
+MH00838,P0414,Seasonal illness,2025,Active,Yes
+MH00839,P0182,Asthma,2022,Resolved,Yes
+MH00840,P0329,Migraine,2025,Resolved,Yes
+MH00841,P0496,Asthma,2023,Active,No
+MH00842,P0334,Asthma,2024,Active,Yes
+MH00843,P0392,Seasonal illness,2021,Under control,No
+MH00844,P0402,Hypertension,2024,Active,Yes
+MH00845,P0984,Type 2 Diabetes,2025,Resolved,No
+MH00846,P0065,GERD,2025,Active,No
+MH00847,P0454,High Cholesterol,2024,Under control,No
+MH00848,P0980,Hypertension,2022,Active,No
+MH00849,P0159,High Cholesterol,2025,Resolved,No
+MH00850,P0979,Type 2 Diabetes,2025,Resolved,Yes
+MH00851,P0674,Type 2 Diabetes,2025,Resolved,No
+MH00852,P0567,Seasonal illness,2021,Active,No
+MH00853,P0333,Arthritis,2025,Active,No
+MH00854,P0328,Seasonal illness,2022,Resolved,Yes
+MH00855,P0126,GERD,2025,Under control,Yes
+MH00856,P0755,GERD,2021,Active,Yes
+MH00857,P0297,High Cholesterol,2020,Under control,Yes
+MH00858,P0268,Migraine,2024,Resolved,No
+MH00859,P0185,GERD,2024,Under control,Yes
+MH00860,P0003,Asthma,2024,Active,Yes
+MH00861,P0072,Asthma,2020,Resolved,No
+MH00862,P0683,GERD,2024,Resolved,No
+MH00863,P0220,GERD,2025,Resolved,No
+MH00864,P0594,Seasonal illness,2024,Active,No
+MH00865,P0153,Hypertension,2025,Active,No
+MH00866,P0813,Arthritis,2023,Under control,No
+MH00867,P0562,High Cholesterol,2021,Active,No
+MH00868,P0272,Seasonal illness,2023,Under control,Yes
+MH00869,P0532,Seasonal illness,2024,Under control,Yes
+MH00870,P0358,High Cholesterol,2025,Under control,Yes
+MH00871,P0684,Seasonal illness,2022,Active,No
+MH00872,P0653,Seasonal illness,2023,Active,No
+MH00873,P0207,Hypertension,2022,Resolved,No
+MH00874,P0945,Hypothyroidism,2025,Active,Yes
+MH00875,P0113,GERD,2020,Resolved,No
+MH00876,P0977,High Cholesterol,2025,Under control,No
+MH00877,P0024,Asthma,2025,Under control,No
+MH00878,P0798,Arthritis,2025,Active,No
+MH00879,P0311,High Cholesterol,2023,Resolved,No
+MH00880,P0059,High Cholesterol,2020,Under control,Yes
+MH00881,P0482,Type 2 Diabetes,2021,Under control,Yes
+MH00882,P0096,Type 2 Diabetes,2021,Resolved,No
+MH00883,P0649,Asthma,2025,Active,No
+MH00884,P0213,Asthma,2020,Under control,Yes
+MH00885,P0420,GERD,2025,Active,No
+MH00886,P0118,Type 2 Diabetes,2020,Active,Yes
+MH00887,P0413,Type 2 Diabetes,2021,Active,No
+MH00888,P0124,Hypertension,2023,Active,Yes
+MH00889,P0678,Seasonal illness,2023,Active,No
+MH00890,P0948,High Cholesterol,2020,Resolved,No
+MH00891,P0442,Hypothyroidism,2022,Active,No
+MH00892,P0677,Asthma,2023,Under control,Yes
+MH00893,P0796,Seasonal illness,2020,Active,Yes
+MH00894,P0181,Type 2 Diabetes,2020,Resolved,No
+MH00895,P0809,Seasonal illness,2025,Resolved,No
+MH00896,P0945,Arthritis,2020,Under control,Yes
+MH00897,P0138,Asthma,2024,Resolved,Yes
+MH00898,P0132,Hypertension,2024,Active,Yes
+MH00899,P0991,Arthritis,2025,Resolved,No
+MH00900,P0830,Hypertension,2021,Under control,Yes
+MH00901,P0132,GERD,2020,Active,No
+MH00902,P0993,GERD,2020,Active,Yes
+MH00903,P0196,Hypothyroidism,2022,Under control,Yes
+MH00904,P0553,Arthritis,2023,Resolved,No
+MH00905,P0218,Hypertension,2022,Active,No
+MH00906,P0027,Asthma,2023,Active,Yes
+MH00907,P0127,Arthritis,2024,Active,Yes
+MH00908,P0237,Seasonal illness,2023,Resolved,No
+MH00909,P0171,Hypertension,2023,Under control,No
+MH00910,P0442,Hypothyroidism,2024,Active,Yes
+MH00911,P0234,Asthma,2021,Resolved,No
+MH00912,P0351,Arthritis,2022,Active,No
+MH00913,P0228,Migraine,2020,Active,No
+MH00914,P0128,Hypertension,2024,Resolved,Yes
+MH00915,P0980,GERD,2024,Under control,Yes
+MH00916,P0378,Hypothyroidism,2022,Under control,No
+MH00917,P0380,GERD,2024,Under control,Yes
+MH00918,P0381,Migraine,2023,Active,No
+MH00919,P0258,GERD,2020,Active,Yes
+MH00920,P0473,Hypothyroidism,2020,Active,No
+MH00921,P0569,Hypertension,2020,Under control,No
+MH00922,P0040,High Cholesterol,2020,Under control,Yes
+MH00923,P0568,High Cholesterol,2020,Resolved,Yes
+MH00924,P0283,Type 2 Diabetes,2023,Active,Yes
+MH00925,P0529,Hypertension,2024,Active,No
+MH00926,P0832,Arthritis,2023,Active,No
+MH00927,P0607,Hypertension,2025,Active,Yes
+MH00928,P0722,Hypertension,2023,Active,No
+MH00929,P0521,Hypertension,2023,Resolved,No
+MH00930,P0253,Hypertension,2023,Under control,No
+MH00931,P0341,Type 2 Diabetes,2020,Resolved,Yes
+MH00932,P0994,Seasonal illness,2022,Resolved,Yes
+MH00933,P0205,Hypothyroidism,2021,Active,No
+MH00934,P0026,Hypertension,2024,Resolved,No
+MH00935,P0358,Seasonal illness,2024,Under control,Yes
+MH00936,P0458,Hypothyroidism,2025,Resolved,Yes
+MH00937,P0509,Hypertension,2021,Active,No
+MH00938,P0342,High Cholesterol,2025,Active,Yes
+MH00939,P0161,GERD,2022,Resolved,Yes
+MH00940,P0448,Asthma,2020,Resolved,No
+MH00941,P0538,High Cholesterol,2021,Under control,Yes
+MH00942,P0020,Hypertension,2020,Resolved,Yes
+MH00943,P0425,Hypothyroidism,2020,Resolved,Yes
+MH00944,P0642,Hypertension,2020,Active,No
+MH00945,P0458,GERD,2025,Resolved,No
+MH00946,P0936,Migraine,2020,Active,Yes
+MH00947,P0600,High Cholesterol,2024,Under control,No
+MH00948,P0841,Migraine,2024,Active,Yes
+MH00949,P0256,Type 2 Diabetes,2022,Active,No
+MH00950,P0262,Seasonal illness,2020,Under control,Yes
+MH00951,P0663,GERD,2023,Under control,Yes
+MH00952,P0655,High Cholesterol,2025,Active,No
+MH00953,P0475,GERD,2025,Active,Yes
+MH00954,P0392,Seasonal illness,2025,Resolved,No
+MH00955,P0421,Hypothyroidism,2020,Active,No
+MH00956,P0497,Migraine,2020,Resolved,Yes
+MH00957,P0585,Migraine,2021,Active,No
+MH00958,P0781,Arthritis,2023,Active,No
+MH00959,P0755,Seasonal illness,2025,Under control,Yes
+MH00960,P0597,Type 2 Diabetes,2024,Resolved,No
+MH00961,P0069,Migraine,2021,Resolved,No
+MH00962,P0027,High Cholesterol,2023,Active,Yes
+MH00963,P0840,Seasonal illness,2021,Active,No
+MH00964,P0421,Hypertension,2021,Under control,No
+MH00965,P0646,Migraine,2020,Under control,No
+MH00966,P0241,Arthritis,2025,Under control,Yes
+MH00967,P0923,Asthma,2020,Active,Yes
+MH00968,P0986,Hypertension,2025,Under control,Yes
+MH00969,P0951,Seasonal illness,2020,Active,Yes
+MH00970,P0916,Migraine,2022,Under control,No
+MH00971,P0165,Type 2 Diabetes,2023,Resolved,No
+MH00972,P0585,GERD,2024,Resolved,Yes
+MH00973,P0955,Hypertension,2024,Active,No
+MH00974,P0832,Hypertension,2022,Under control,No
+MH00975,P0429,GERD,2022,Resolved,No
+MH00976,P0849,Asthma,2021,Resolved,No
+MH00977,P0307,Hypothyroidism,2020,Under control,No
+MH00978,P0957,Asthma,2024,Resolved,Yes
+MH00979,P0811,Asthma,2024,Under control,Yes
+MH00980,P0574,Seasonal illness,2021,Resolved,Yes
+MH00981,P0593,GERD,2025,Under control,No
+MH00982,P0274,Hypertension,2024,Resolved,No
+MH00983,P0731,Type 2 Diabetes,2022,Active,Yes
+MH00984,P0116,Arthritis,2023,Active,Yes
+MH00985,P0922,Seasonal illness,2025,Active,No
+MH00986,P0500,Migraine,2025,Under control,No
+MH00987,P0342,Hypothyroidism,2022,Active,Yes
+MH00988,P0595,Hypothyroidism,2021,Resolved,No
+MH00989,P0907,Hypothyroidism,2025,Under control,Yes
+MH00990,P0856,Hypothyroidism,2023,Under control,No
+MH00991,P0738,Migraine,2024,Resolved,No
+MH00992,P0273,GERD,2024,Resolved,No
+MH00993,P0067,GERD,2020,Active,Yes
+MH00994,P0105,Hypothyroidism,2021,Active,Yes
+MH00995,P0594,High Cholesterol,2025,Resolved,Yes
+MH00996,P0556,Seasonal illness,2021,Active,No
+MH00997,P0273,Seasonal illness,2023,Under control,No
+MH00998,P0629,Hypertension,2023,Active,Yes
+MH00999,P0405,GERD,2021,Under control,Yes
+MH01000,P0617,Type 2 Diabetes,2023,Active,No
+MH01001,P0092,Migraine,2020,Active,No
+MH01002,P0601,High Cholesterol,2022,Under control,No
+MH01003,P0841,High Cholesterol,2025,Resolved,No
+MH01004,P0239,High Cholesterol,2023,Under control,Yes
+MH01005,P0916,Hypertension,2022,Active,No
+MH01006,P0045,Migraine,2022,Under control,No
+MH01007,P0411,Arthritis,2025,Active,No
+MH01008,P0369,Migraine,2022,Resolved,No
+MH01009,P0269,Type 2 Diabetes,2024,Active,Yes
+MH01010,P0326,Hypertension,2021,Under control,Yes
+MH01011,P0281,Hypertension,2024,Resolved,Yes
+MH01012,P0866,Type 2 Diabetes,2023,Under control,Yes
+MH01013,P0919,Type 2 Diabetes,2024,Active,Yes
+MH01014,P0609,Seasonal illness,2024,Under control,No
+MH01015,P0560,Seasonal illness,2025,Active,Yes
+MH01016,P0473,Seasonal illness,2021,Active,Yes
+MH01017,P0082,GERD,2022,Resolved,No
+MH01018,P0807,High Cholesterol,2022,Under control,No
+MH01019,P0942,Hypothyroidism,2025,Resolved,Yes
+MH01020,P0560,Hypothyroidism,2024,Under control,No
+MH01021,P0716,Hypothyroidism,2025,Under control,Yes
+MH01022,P0320,Seasonal illness,2023,Under control,Yes
+MH01023,P0706,Type 2 Diabetes,2022,Resolved,Yes
+MH01024,P0322,Hypertension,2020,Active,No
+MH01025,P0740,Asthma,2020,Under control,Yes
+MH01026,P0370,High Cholesterol,2025,Resolved,No
+MH01027,P0360,Type 2 Diabetes,2020,Resolved,No
+MH01028,P0433,Hypertension,2021,Under control,Yes
+MH01029,P0213,Hypothyroidism,2022,Active,Yes
+MH01030,P1000,Asthma,2020,Under control,Yes
+MH01031,P0336,Arthritis,2024,Active,Yes
+MH01032,P0498,Hypertension,2020,Active,Yes
+MH01033,P0827,Asthma,2022,Under control,Yes
+MH01034,P0184,Hypertension,2022,Resolved,Yes
+MH01035,P0699,Migraine,2025,Under control,Yes
+MH01036,P0442,GERD,2023,Active,Yes
+MH01037,P0809,Hypothyroidism,2022,Active,No
+MH01038,P0840,Migraine,2022,Resolved,Yes
+MH01039,P0502,GERD,2022,Under control,No
+MH01040,P0585,GERD,2022,Resolved,No
+MH01041,P0197,Seasonal illness,2024,Active,Yes
+MH01042,P0134,High Cholesterol,2022,Resolved,Yes
+MH01043,P0897,Hypothyroidism,2021,Under control,No
+MH01044,P0789,Hypothyroidism,2022,Under control,Yes
+MH01045,P0056,Type 2 Diabetes,2023,Under control,Yes
+MH01046,P0619,Arthritis,2021,Active,No
+MH01047,P0712,Hypothyroidism,2021,Active,No
+MH01048,P0180,Asthma,2022,Active,Yes
+MH01049,P0439,GERD,2025,Under control,Yes
+MH01050,P0319,Hypothyroidism,2021,Resolved,No
+MH01051,P0400,Hypertension,2020,Active,No
+MH01052,P0288,Type 2 Diabetes,2020,Resolved,Yes
+MH01053,P0547,Seasonal illness,2025,Resolved,No
+MH01054,P0007,Seasonal illness,2020,Active,Yes
+MH01055,P0603,Seasonal illness,2023,Resolved,Yes
+MH01056,P0573,Asthma,2021,Active,No
+MH01057,P0592,Arthritis,2023,Active,Yes
+MH01058,P0457,Asthma,2025,Resolved,Yes
+MH01059,P0874,Asthma,2025,Resolved,No
+MH01060,P0151,Type 2 Diabetes,2021,Active,No
+MH01061,P0542,Migraine,2021,Under control,Yes
+MH01062,P0351,High Cholesterol,2023,Resolved,Yes
+MH01063,P0888,Seasonal illness,2020,Resolved,Yes
+MH01064,P0998,Asthma,2022,Resolved,No
+MH01065,P0318,Asthma,2020,Under control,No
+MH01066,P0516,Arthritis,2022,Resolved,Yes
+MH01067,P0049,Hypertension,2025,Resolved,Yes
+MH01068,P0313,Arthritis,2022,Under control,Yes
+MH01069,P0347,Asthma,2021,Active,No
+MH01070,P0144,High Cholesterol,2021,Under control,Yes
+MH01071,P0293,Seasonal illness,2024,Under control,Yes
+MH01072,P0699,Type 2 Diabetes,2023,Resolved,Yes
+MH01073,P0783,High Cholesterol,2021,Under control,Yes
+MH01074,P0661,Asthma,2023,Active,No
+MH01075,P0197,Seasonal illness,2024,Resolved,No
+MH01076,P0840,Type 2 Diabetes,2023,Resolved,No
+MH01077,P0671,Seasonal illness,2020,Active,Yes
+MH01078,P0986,High Cholesterol,2020,Resolved,Yes
+MH01079,P0732,High Cholesterol,2020,Resolved,No
+MH01080,P0333,Seasonal illness,2024,Active,Yes
+MH01081,P0640,High Cholesterol,2022,Active,Yes
+MH01082,P0013,Hypertension,2025,Under control,No
+MH01083,P0528,Type 2 Diabetes,2025,Resolved,Yes
+MH01084,P0486,Seasonal illness,2022,Under control,No
+MH01085,P0863,Hypothyroidism,2022,Active,Yes
+MH01086,P0261,Migraine,2025,Resolved,Yes
+MH01087,P0269,Hypothyroidism,2020,Under control,No
+MH01088,P0840,Seasonal illness,2022,Under control,No
+MH01089,P0487,High Cholesterol,2023,Under control,No
+MH01090,P0016,Arthritis,2021,Under control,No
+MH01091,P0151,Seasonal illness,2023,Under control,Yes
+MH01092,P0896,Seasonal illness,2025,Resolved,Yes
+MH01093,P0601,Seasonal illness,2024,Active,No
+MH01094,P0314,Arthritis,2023,Under control,No
+MH01095,P0858,GERD,2020,Resolved,Yes
+MH01096,P0698,Asthma,2022,Resolved,No
+MH01097,P0038,Type 2 Diabetes,2025,Under control,Yes
+MH01098,P0728,Migraine,2021,Resolved,No
+MH01099,P0927,High Cholesterol,2024,Under control,No
+MH01100,P0607,GERD,2021,Under control,No
+MH01101,P0244,Type 2 Diabetes,2021,Active,Yes
+MH01102,P0031,Hypothyroidism,2021,Under control,No
+MH01103,P0177,Seasonal illness,2024,Active,No
+MH01104,P0172,Asthma,2020,Active,No
+MH01105,P0016,Asthma,2021,Active,No
+MH01106,P0017,Type 2 Diabetes,2025,Under control,Yes
+MH01107,P0473,Hypothyroidism,2023,Active,No
+MH01108,P0932,Hypertension,2024,Under control,Yes
+MH01109,P0733,Hypothyroidism,2020,Active,No
+MH01110,P0838,Migraine,2021,Resolved,Yes
+MH01111,P0816,Type 2 Diabetes,2022,Active,No
+MH01112,P0920,Seasonal illness,2022,Resolved,No
+MH01113,P0657,Type 2 Diabetes,2024,Under control,No
+MH01114,P0806,GERD,2022,Resolved,No
+MH01115,P0200,Arthritis,2022,Resolved,Yes
+MH01116,P0853,Type 2 Diabetes,2020,Active,No
+MH01117,P0751,Hypertension,2023,Resolved,No
+MH01118,P0004,Arthritis,2022,Resolved,Yes
+MH01119,P0449,Type 2 Diabetes,2022,Active,No
+MH01120,P0447,Hypothyroidism,2025,Resolved,Yes
+MH01121,P0276,Type 2 Diabetes,2020,Active,Yes
+MH01122,P0939,Arthritis,2022,Active,No
+MH01123,P0721,High Cholesterol,2022,Active,Yes
+MH01124,P0555,Arthritis,2020,Resolved,Yes
+MH01125,P0791,GERD,2020,Under control,No
+MH01126,P0377,Seasonal illness,2021,Resolved,Yes
+MH01127,P0562,High Cholesterol,2022,Under control,No
+MH01128,P0387,Seasonal illness,2025,Under control,Yes
+MH01129,P0164,Hypothyroidism,2024,Resolved,No
+MH01130,P0541,High Cholesterol,2024,Resolved,No
+MH01131,P0484,Seasonal illness,2025,Under control,Yes
+MH01132,P0801,Type 2 Diabetes,2022,Active,Yes
+MH01133,P0823,Hypothyroidism,2021,Resolved,Yes
+MH01134,P0865,Type 2 Diabetes,2024,Resolved,Yes
+MH01135,P0024,High Cholesterol,2021,Active,No
+MH01136,P0136,Hypothyroidism,2025,Resolved,Yes
+MH01137,P0870,Seasonal illness,2024,Under control,No
+MH01138,P0390,Hypertension,2022,Active,No
+MH01139,P0780,Arthritis,2021,Active,Yes
+MH01140,P0370,Arthritis,2024,Resolved,No
+MH01141,P0472,GERD,2023,Resolved,No
+MH01142,P0688,Asthma,2023,Resolved,Yes
+MH01143,P0617,Asthma,2020,Active,No
+MH01144,P0288,Type 2 Diabetes,2024,Under control,Yes
+MH01145,P0963,Asthma,2023,Resolved,No
+MH01146,P0167,Asthma,2024,Resolved,Yes
+MH01147,P0525,Type 2 Diabetes,2023,Active,Yes
+MH01148,P0739,Arthritis,2022,Active,No
+MH01149,P0844,Seasonal illness,2022,Under control,Yes
+MH01150,P0382,GERD,2020,Resolved,Yes
+MH01151,P0799,Seasonal illness,2021,Active,No
+MH01152,P0130,Arthritis,2023,Active,No
+MH01153,P0961,Hypertension,2020,Under control,Yes
+MH01154,P0225,Arthritis,2023,Resolved,No
+MH01155,P0471,Asthma,2021,Active,Yes
+MH01156,P0868,GERD,2021,Under control,No
+MH01157,P0942,Seasonal illness,2024,Resolved,Yes
+MH01158,P0006,Hypertension,2020,Resolved,No
+MH01159,P0165,Migraine,2025,Resolved,No
+MH01160,P0093,Asthma,2023,Active,Yes
+MH01161,P0965,Seasonal illness,2022,Active,Yes
+MH01162,P0068,Hypertension,2022,Under control,No
+MH01163,P0094,Type 2 Diabetes,2024,Resolved,No
+MH01164,P0626,Asthma,2023,Active,No
+MH01165,P0323,Asthma,2023,Active,No
+MH01166,P0762,Arthritis,2021,Resolved,No
+MH01167,P0841,Asthma,2021,Active,No
+MH01168,P0474,Type 2 Diabetes,2023,Under control,Yes
+MH01169,P0697,Hypertension,2020,Resolved,Yes
+MH01170,P0928,Type 2 Diabetes,2024,Under control,Yes
+MH01171,P0576,Arthritis,2025,Resolved,No
+MH01172,P0831,Asthma,2024,Under control,Yes
+MH01173,P0424,Seasonal illness,2024,Active,Yes
+MH01174,P0353,Asthma,2024,Resolved,Yes
+MH01175,P0980,GERD,2020,Resolved,No
+MH01176,P0983,Seasonal illness,2021,Resolved,No
+MH01177,P0825,Migraine,2024,Active,No
+MH01178,P0924,Type 2 Diabetes,2020,Resolved,Yes
+MH01179,P0047,Asthma,2022,Under control,Yes
+MH01180,P0228,Asthma,2020,Resolved,Yes
+MH01181,P0219,Arthritis,2023,Resolved,No
+MH01182,P0346,Asthma,2023,Under control,No
+MH01183,P0416,Migraine,2024,Resolved,No
+MH01184,P0764,Hypothyroidism,2023,Active,No
+MH01185,P0735,Migraine,2022,Under control,No
+MH01186,P0561,Migraine,2021,Resolved,No
+MH01187,P0392,Migraine,2023,Active,No
+MH01188,P0339,Arthritis,2020,Resolved,Yes
+MH01189,P0950,Migraine,2025,Active,Yes
+MH01190,P0369,GERD,2024,Resolved,Yes
+MH01191,P0082,Arthritis,2023,Active,No
+MH01192,P0579,Asthma,2025,Active,No
+MH01193,P0554,Arthritis,2022,Active,No
+MH01194,P0506,Migraine,2025,Active,No
+MH01195,P0911,High Cholesterol,2020,Active,No
+MH01196,P0474,Seasonal illness,2023,Active,No
+MH01197,P0146,Arthritis,2022,Under control,Yes
+MH01198,P0699,Hypothyroidism,2020,Under control,No
+MH01199,P0173,Hypertension,2023,Under control,Yes
+MH01200,P0942,High Cholesterol,2022,Resolved,No
